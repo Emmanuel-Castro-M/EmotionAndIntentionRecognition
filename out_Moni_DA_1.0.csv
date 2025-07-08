@@ -1,0 +1,9994 @@
+text,DeepSeek
+1,Statement-Non-Opinion
+2,Statement-Opinion
+3,Acknowledge
+4,Command
+5,Acknowledge
+6,Statement-Non-Opinion
+7,Acknowledge
+8,Statement-Non-Opinion
+9,Acknowledge
+10,Statement-Non-Opinion
+11,Disagreement
+12,Statement-Opinion
+13,Question
+14,Agreement
+1,Question
+2,Command
+3,Question
+4,Statement-Non-Opinion
+5,Acknowledge
+6,Backchannel
+7,Agreement
+1,- Greeting
+2,- Question
+3,- Agreement
+4,- Statement-Non-Opinion
+5,- Disagreement
+6,- Statement-Non-Opinion
+7,- Question
+8,- Acknowledge
+9,- Command
+10,- Question
+11,- Agreement
+12,- Question
+13,- Disagreement
+1,- Acknowledge
+2,- Question
+3,- Question
+4,- Statement-Non-Opinion
+5,- Statement-Non-Opinion
+6,- Statement-Non-Opinion
+7,- Statement-Opinion
+8,- Agreement
+9,- Acknowledge
+1,Greeting
+2,Greeting
+3,Question
+4,Statement-Non-Opinion
+5,Acknowledge
+6,Greeting
+7,Greeting
+8,Question
+9,Statement-Opinion
+10,Agreement
+11,Agreement
+12,Apology
+13,Acknowledge
+14,Backchannel
+15,Backchannel
+1,Statement-Non-Opinion
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Command
+1,Agreement
+2,Question
+3,Agreement
+4,Question
+5,Statement-Non-Opinion
+6,Command
+7,Statement-Opinion
+8,Question
+9,Statement-Opinion
+10,Statement-Non-Opinion
+11,Statement-Non-Opinion
+12,Statement-Non-Opinion
+13,Acknowledge
+14,Statement-Non-Opinion
+15,Command
+16,Apology
+17,Apology
+18,Command
+19,Statement-Non-Opinion
+20,Statement-Non-Opinion
+21,Command
+22,Command
+1,- Statement-Opinion
+2,- Disagreement
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Command
+4,Question
+5,Agreement
+6,Acknowledge
+7,Acknowledge
+1,Question
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Command
+5,Acknowledge
+6,Statement-Non-Opinion
+7,Question
+8,Agreement
+9,Agreement
+10,Statement-Opinion
+11,Disagreement
+12,Statement-Opinion
+13,Statement-Opinion
+14,Statement-Opinion
+1,- Answer
+2,- Statement-Non-Opinion
+3,- Statement-Opinion
+4,- Command
+5,- Question
+6,- Answer
+1,Statement-Non-Opinion
+2,Command
+3,Statement-Opinion
+4,Statement-Non-Opinion
+5,Acknowledge
+6,Acknowledge
+7,Command
+8,Greeting
+9,Statement-Opinion
+10,Question
+1,- Greeting
+2,- Statement-Non-Opinion
+3,- Question
+4,- Question
+5,- Question
+6,- Statement-Non-Opinion
+7,- Statement-Non-Opinion
+8,- Statement-Opinion
+9,- Command
+10,- Disagreement
+11,- Statement-Non-Opinion
+12,- Statement-Opinion
+1,Statement-Opinion
+2,Answer
+3,Acknowledge
+4,Agreement
+1,Statement-Opinion
+2,Acknowledge
+3,Statement-Non-Opinion
+4,Question
+5,Answer
+6,Question
+1,- Command
+2,- Question
+3,- Answer
+4,- Statement-Non-Opinion
+5,- Question
+6,- Statement-Opinion
+7,- Statement-Opinion
+8,- Statement-Opinion
+9,- Question
+10,- Acknowledge
+11,- Statement-Non-Opinion
+12,- Statement-Non-Opinion
+13,- Statement-Non-Opinion
+14,- Statement-Opinion
+15,- Command
+16,- Command
+17,- Command
+18,- Command
+19,- Question
+20,- Statement-Opinion
+21,- Statement-Opinion
+22,- Statement-Opinion
+23,- Command
+1,Command
+2,Statement-Opinion
+3,Acknowledge
+4,Question
+5,Statement-Non-Opinion
+6,Statement-Opinion
+1,Command
+2,Statement-Non-Opinion
+3,Question
+4,Question
+5,Statement-Opinion
+6,Statement-Non-Opinion
+7,Statement-Opinion
+8,Statement-Non-Opinion
+9,Agreement
+10,Greeting
+11,Greeting
+1,- Question
+2,- Statement-Non-Opinion
+3,- Backchannel
+4,- Statement-Opinion
+5,- Backchannel
+6,- Agreement
+7,- Acknowledge
+8,- Question
+9,- Statement-Non-Opinion
+10,- Statement-Opinion
+11,- Command
+1,- Greeting
+2,- Greeting
+1,Question
+2,Statement-Opinion
+3,Question
+4,Answer
+5,Answer
+6,Answer
+7,Agreement
+8,Statement-Opinion
+9,Backchannel
+10,Statement-Opinion
+11,Question
+12,Statement-Opinion
+13,Backchannel
+14,Statement-Opinion
+15,Statement-Opinion
+16,Statement-Opinion
+17,Agreement
+1,Question
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Greeting
+5,Acknowledge
+6,Question
+7,Statement-Non-Opinion
+8,Question
+9,Statement-Non-Opinion
+10,Statement-Non-Opinion
+11,Statement-Non-Opinion
+12,Statement-Opinion
+13,Offer
+14,Acknowledge
+1,- Joey - Ew! What is that? Something exploded! - **Question**
+2,"Calm down, will you? - **Answer**, **Command**"
+3,"Water breaking, what do you mean? What's that, water breaking? - **Question**"
+4,- **Command**
+1,Disagreement
+2,Statement-Opinion
+3,Question
+4,Statement-Opinion
+5,Question
+6,Question
+7,Statement-Non-Opinion
+8,Disagreement
+9,Statement-Opinion
+1,Statement-Opinion
+2,Statement-Opinion
+3,Statement-Opinion
+4,Agreement
+5,Question
+6,Statement-Non-Opinion
+7,Statement-Opinion
+8,Agreement
+9,Question
+1,Agreement
+2,Agreement
+3,Acknowledge
+4,Acknowledge
+5,Backchannel
+6,Question
+7,Statement-Opinion
+8,Acknowledge
+9,Backchannel
+10,Command
+11,Question
+12,Question
+13,Statement-Non-Opinion
+14,Disagreement
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Question
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Statement-Opinion
+7,Statement-Opinion
+8,Acknowledge
+9,Statement-Non-Opinion
+10,Statement-Non-Opinion
+11,Statement-Non-Opinion
+12,Statement-Opinion
+13,Agreement
+14,Statement-Opinion
+1,- Monica - Command
+2,- Chandler - Agreement
+1,Command
+2,Question
+3,Statement-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+6,Acknowledge
+7,Apology
+8,Disagreement
+1,Statement-Opinion
+2,Answer
+3,Acknowledge
+4,Statement-Non-Opinion
+5,Question
+6,Statement-Opinion
+7,Command
+8,Statement-Opinion
+9,Backchannel
+10,Statement-Opinion
+11,Statement-Opinion
+12,Backchannel
+13,Disagreement
+1,Statement-Non-Opinion
+2,Greeting
+3,Statement-Opinion
+4,Acknowledge
+5,Question
+6,Question
+7,Question
+8,Disagreement
+9,Others
+10,Acknowledge
+11,Acknowledge
+12,Statement-Opinion
+13,Acknowledge
+14,Question
+15,Command
+16,Acknowledge
+1,Statement-Non-Opinion
+2,Statement-Non-Opinion
+3,Agreement
+4,Question
+1,- Backchannel
+2,- Statement-Opinion
+3,- Question
+4,- Statement-Opinion
+5,- Question
+6,- Statement-Non-Opinion
+7,- Acknowledge
+8,- Statement-Non-Opinion
+9,- Acknowledge
+10,- Question
+11,- Command
+12,- Command
+13,- Statement-Opinion
+14,- Question
+15,- Question
+16,- Agreement
+17,- Statement-Opinion
+18,- Statement-Opinion
+19,- Acknowledge
+1,Question
+2,Statement-Non-Opinion
+3,Question
+4,Answer
+5,Acknowledge
+6,Command
+7,Command
+8,Greeting
+9,Statement-Opinion
+10,Acknowledge
+11,Statement-Non-Opinion
+1,- Greeting
+2,- Statement-Non-Opinion
+3,- Statement-Non-Opinion
+4,- Agreement
+5,- Apology
+6,- Statement-Opinion
+7,- Disagreement
+8,- Statement-Opinion
+9,- Agreement
+10,- Disagreement
+11,- Disagreement
+12,- Question
+13,- Acknowledge
+14,- Command
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Acknowledge
+6,Acknowledge
+1,- Command
+2,- Statement-Opinion
+3,- Acknowledge
+4,- Statement-Non-Opinion
+5,- Statement-Opinion
+6,- Statement-Opinion
+1,Statement-Non-Opinion
+2,Statement-Opinion
+3,Statement-Non-Opinion
+4,Question
+1,- Monica - You kissed another woman! - **Disagreement**
+2,Call it even?! - **Question**
+3,Okay! - **Agreement**
+4,- **Statement-Non-Opinion**
+5,Wait you stole those from these people's wedding? - **Question**
+6,- **Answer**
+7,- **Statement-Opinion**
+8,Hey! - **Greeting**
+9,My sweater! - **Statement-Non-Opinion**
+10,I've been looking for this for like a month! - **Statement-Opinion**
+11,Oh my God!! - **Acknowledge**
+12,Oh my God! - **Acknowledge**
+1,Disagreement
+2,Question
+3,Backchannel
+4,Statement-Opinion
+5,Statement-Non-Opinion
+6,Statement-Non-Opinion
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Question
+10,Backchannel
+11,Question
+12,Answer
+13,Agreement
+14,Statement-Opinion
+15,Statement-Opinion
+16,Statement-Non-Opinion
+17,Statement-Opinion
+18,Disagreement
+19,Disagreement
+1,- Disagreement
+2,- Agreement
+3,- Question
+4,- Answer
+5,- Question
+6,- Agreement
+7,- Command
+8,- Greeting
+9,- Command
+10,- Apology
+11,- Statement-Non-Opinion
+12,- Greeting
+13,- Command
+14,- Statement-Opinion
+15,- Disagreement
+1,- Acknowledge
+2,- Question
+3,- Statement-Non-Opinion
+4,- Backchannel
+5,- Question
+6,- Question
+7,- Answer
+8,- Statement-Opinion
+9,- Greeting
+10,- Question
+11,- Answer
+12,- Statement-Opinion
+13,- Disagreement
+14,- Statement-Opinion
+15,- Question
+16,- Statement-Opinion
+1,- Statement-Opinion
+2,- Greeting
+1,Greeting
+2,Statement-Opinion
+3,Statement-Non-Opinion
+4,Acknowledge
+5,Statement-Opinion
+6,Question
+7,Statement-Non-Opinion
+1,Statement-Non-Opinion
+2,Question
+3,Acknowledge
+1,Apology
+2,Agreement
+3,Disagreement
+4,Disagreement
+5,Question
+1,- Monica - Because we won our apartment back! - **Statement-Non-Opinion**
+2,"What? Ace is high! Jack, queen, king, ace! - **Disagreement**"
+3,"No! Ace is low! Ace, two, three, four! - **Disagreement**"
+4,Ooh! Ooh! Look it! Ah-ha! - **Acknowledge**
+5,- **Command**
+6,- **Agreement**
+7,Come on apartment! Come on apartment! Oh! I know queen is high! - **Statement-Opinion**
+8,It worked! King! - **Disagreement**
+9,Yeah baby! - **Agreement**
+10,"But, we pick again! We pick again! - **Command**"
+11,Why?! - **Question**
+12,I don't know! - **Answer**
+13,Tickets please! That's courtside baby! - **Statement-Non-Opinion**
+14,What are they so mad about? They get the apartment back! - **Statement-Opinion**
+15,No they didn't! - **Disagreement**
+1,Statement-Opinion
+2,Statement-Opinion
+3,Statement-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+6,Command
+7,Statement-Opinion
+8,Command
+9,Command
+10,Statement-Non-Opinion
+11,Question
+12,Greeting
+13,Statement-Opinion
+14,Question
+15,Statement-Opinion
+16,Statement-Opinion
+17,Statement-Opinion
+1,Disagreement
+2,Statement-Opinion
+3,Statement-Opinion
+4,Command
+5,Question
+6,Statement-Opinion
+7,Question
+8,Question
+9,Command
+10,Statement-Opinion
+11,Greeting
+12,Question
+13,Statement-Non-Opinion
+14,Question
+15,Statement-Non-Opinion
+16,Question
+17,Question
+18,Statement-Non-Opinion
+19,Statement-Non-Opinion
+20,Statement-Non-Opinion
+21,Statement-Opinion
+22,Statement-Opinion
+1,Greeting
+2,Command
+3,Acknowledge
+4,Acknowledge
+5,Statement-Opinion
+6,Statement-Opinion
+7,Statement-Opinion
+8,Command
+9,Statement-Opinion
+10,Others
+11,Question
+12,Statement-Non-Opinion
+13,Question
+14,Statement-Opinion
+15,Statement-Opinion
+16,Others
+17,Greeting
+1,- Greeting
+2,- Greeting
+3,- Acknowledge
+4,- Statement-Opinion
+5,- Ross - For what? For letting you throw me out of your office? - Question
+6,- Rachel - You had no - Statement-Non-Opinion
+7,- Statement-Opinion
+8,"- Rachel - But I told you, I didn't have the time! - Statement-Opinion"
+9,- Statement-Opinion
+10,"- Rachel - Wh, Ross what do you want from me? - Question"
+11,"- Rachel - You want me, you want me to quit my job so you can feel like you have a girlfriend? - Question"
+12,- Greeting
+1,- Acknowledge
+2,- Statement-Non-Opinion
+3,What? - Question
+4,- Statement-Non-Opinion
+5,- Statement-Opinion
+6,- Statement-Opinion
+7,Does it have to do with Ross and Rachel? - Question
+8,- Answer
+9,Does it have to do with Joey? - Question
+10,- Answer
+11,Does it have to do with-with Chandler and that sock that he keeps by his bed? - Question
+12,"No, but let's come back to that later! - Statement-Opinion"
+1,Greeting
+2,Greeting
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+6,Question
+7,Statement-Opinion
+8,Acknowledge
+9,Statement-Non-Opinion
+1,Command
+2,Question
+3,Statement-Opinion
+4,Statement-Non-Opinion
+5,Statement-Opinion
+6,Statement-Non-Opinion
+7,Statement-Opinion
+8,Question
+9,Statement-Opinion
+10,Statement-Non-Opinion
+11,Statement-Opinion
+12,Statement-Non-Opinion
+13,Statement-Non-Opinion
+14,Statement-Opinion
+15,Statement-Opinion
+16,Statement-Non-Opinion
+17,Question
+18,Statement-Opinion
+19,Statement-Opinion
+20,Statement-Opinion
+21,Statement-Opinion
+22,Command
+23,Command
+24,Question
+1,Statement-Opinion
+2,Agreement
+3,Statement-Non-Opinion
+4,Question
+5,Statement-Non-Opinion
+6,Greeting
+7,Statement-Opinion
+8,Statement-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Statement-Opinion
+12,Statement-Opinion
+13,Statement-Opinion
+14,Statement-Opinion
+15,Statement-Opinion
+16,Statement-Opinion
+17,Acknowledge
+1,Statement-Opinion
+2,Greeting
+3,Statement-Opinion
+4,Answer
+5,Acknowledge
+6,Answer
+7,Statement-Opinion
+8,Question
+9,Disagreement
+10,Disagreement
+1,Question
+2,Backchannel
+3,Statement-Opinion
+4,Greeting
+5,Statement-Non-Opinion
+6,Question
+7,Statement-Non-Opinion
+8,Command
+9,Question
+10,Statement-Non-Opinion
+1,Statement-Opinion
+2,Acknowledge
+3,Statement-Non-Opinion
+4,Greeting
+5,Acknowledge
+6,Greeting
+7,Acknowledge
+8,Greeting
+9,Statement-Opinion
+10,Greeting
+1,Apology
+2,Acknowledge
+3,Statement-Non-Opinion
+4,Question
+5,Question
+6,Disagreement
+7,Statement-Opinion
+8,Agreement
+9,Command
+1,- Greeting
+2,- Question
+3,- Statement-Non-Opinion
+4,- Command
+5,- Acknowledge
+6,- Statement-Opinion
+7,- Statement-Non-Opinion
+8,- Question
+9,- Statement-Opinion
+10,- Disagreement
+11,- Statement-Opinion
+1,- Greeting
+2,- Statement-Opinion
+3,- Statement-Non-Opinion
+4,- Question
+5,- Statement-Non-Opinion
+6,- Disagreement
+7,- Question
+8,- Statement-Opinion
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Agreement
+4,Question
+5,Statement-Non-Opinion
+6,Statement-Opinion
+7,Statement-Non-Opinion
+8,Statement-Non-Opinion
+9,Command
+10,Disagreement
+11,Statement-Opinion
+12,Question
+13,Statement-Opinion
+1,Statement-Opinion
+2,Question
+3,Answer
+4,Statement-Opinion
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Statement-Non-Opinion
+5,Question
+6,Statement-Opinion
+7,Command
+8,Apology
+9,Agreement
+10,Acknowledge
+11,Statement-Non-Opinion
+12,Disagreement
+1,Question
+2,Backchannel
+3,Agreement
+4,Statement-Opinion
+5,Statement-Opinion
+6,Statement-Non-Opinion
+7,Statement-Opinion
+8,Statement-Opinion
+9,Acknowledge
+10,Statement-Opinion
+11,Question
+12,Disagreement
+13,Disagreement
+14,Statement-Non-Opinion
+15,Statement-Non-Opinion
+1,- Command
+2,- Acknowledge
+3,- Command
+4,- Question
+1,Agreement
+2,Question
+3,Answer
+4,Question
+5,Statement-Opinion
+6,Statement-Opinion
+7,Disagreement
+1,- Statement-Opinion
+2,- Question
+3,- Statement-Non-Opinion
+4,- Question
+5,- Disagreement
+6,- Command
+7,- Command
+8,- Disagreement
+9,- Acknowledge
+1,Greeting
+2,Acknowledge
+1,- Command
+2,- Question
+3,- Disagreement
+4,- Apology
+5,- Question
+6,- Question
+7,- Statement-Non-Opinion
+8,- Statement-Opinion
+1,- Agreement
+2,- Statement-Non-Opinion
+3,- Statement-Non-Opinion
+4,- Greeting
+5,- Greeting
+6,- Question
+7,- Question
+8,- Question
+9,- Statement-Opinion
+10,- Statement-Non-Opinion
+11,- Question
+12,- Question
+1,- Command
+2,- Statement-Opinion
+3,- Statement-Opinion
+4,- Agreement
+5,- Statement-Opinion
+6,- Disagreement
+7,- Acknowledge
+1,Greeting
+2,Question
+3,Backchannel
+4,Statement-Opinion
+5,Statement-Opinion
+6,Statement-Opinion
+7,Statement-Opinion
+8,Agreement
+9,Question
+1,Question
+2,Answer
+3,Statement-Non-Opinion
+4,Disagreement
+5,Greeting
+1,Statement-Non-Opinion
+2,Statement-Opinion
+3,Disagreement
+4,Question
+5,Statement-Non-Opinion
+6,Question
+1,- Apology
+2,- Statement-Non-Opinion
+3,- Agreement
+4,- Question
+5,- Statement-Non-Opinion
+6,- Statement-Opinion
+7,- Acknowledge
+8,- Command
+1,Question
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Acknowledge
+5,Statement-Opinion
+6,Statement-Non-Opinion
+1,Command
+2,Question
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Command
+6,Question
+7,Statement-Non-Opinion
+8,Question
+9,Statement-Opinion
+10,Statement-Opinion
+11,Statement-Opinion
+12,Statement-Opinion
+13,Disagreement
+14,Disagreement
+15,Statement-Non-Opinion
+16,Statement-Non-Opinion
+17,Statement-Opinion
+1,Statement-Non-Opinion
+2,Answer
+3,Statement-Opinion
+4,Statement-Opinion
+5,Question
+6,Statement-Opinion
+7,Statement-Opinion
+8,Statement-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Statement-Opinion
+1,Greeting
+2,Greeting
+3,Question
+4,Statement-Opinion
+1,- Command
+2,- Agreement
+3,- Statement-Non-Opinion
+4,- Statement-Opinion
+5,- Acknowledge
+6,- Statement-Non-Opinion
+7,- Acknowledge
+1,Apology
+2,Acknowledge
+3,Question
+4,Statement-Non-Opinion
+5,Question
+1,Question
+2,Question
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+6,Statement-Opinion
+7,Statement-Non-Opinion
+8,Statement-Non-Opinion
+9,Agreement
+10,Statement-Non-Opinion
+11,Agreement
+1,Question
+2,Answer
+3,Question
+4,Answer
+5,Statement-Opinion
+6,Greeting
+7,Question
+8,Answer
+9,Statement-Non-Opinion
+10,Statement-Opinion
+1,Agreement
+2,Acknowledge
+3,Backchannel
+4,Statement-Non-Opinion
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Greeting
+4,Agreement
+5,Question
+6,Question
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Statement-Opinion
+10,Question
+11,Command
+12,Statement-Opinion
+13,Statement-Opinion
+14,Statement-Opinion
+1,Question
+2,Question
+3,Statement-Opinion
+4,Question
+1,Question
+2,Backchannel
+3,Statement-Non-Opinion
+4,Command
+5,Agreement
+6,Acknowledge
+7,Acknowledge
+8,Question
+1,Question
+2,Statement-Non-Opinion
+3,Question
+4,Statement-Non-Opinion
+5,Statement-Opinion
+6,Command
+7,Statement-Opinion
+8,Statement-Non-Opinion
+9,Statement-Non-Opinion
+10,Statement-Non-Opinion
+11,Command
+12,Statement-Non-Opinion
+13,Statement-Non-Opinion
+14,Acknowledge
+15,Statement-Non-Opinion
+16,Command
+1,Statement-Opinion
+2,Backchannel
+3,Statement-Non-Opinion
+4,Disagreement
+5,Question
+6,Disagreement
+7,Question
+8,Question
+9,Statement-Opinion
+10,Statement-Opinion
+11,Command
+12,Question
+13,Question
+14,Statement-Opinion
+15,Statement-Non-Opinion
+16,Agreement
+17,Question
+18,Answer
+1,Greeting
+2,Question
+3,Acknowledge
+4,Agreement
+5,Acknowledge
+1,- **Command**
+2,- **Command**
+3,- **Acknowledge**
+4,- **Statement-Non-Opinion**
+5,- **Statement-Opinion**
+1,Greeting
+2,Greeting
+3,Statement-Opinion
+4,Agreement
+5,Statement-Non-Opinion
+6,Backchannel
+7,Question
+8,Disagreement
+9,Statement-Opinion
+10,Statement-Non-Opinion
+11,Command
+12,Disagreement
+13,Statement-Non-Opinion
+14,Greeting
+15,Greeting
+16,Question
+17,Acknowledge
+18,Command
+19,Acknowledge
+1,Statement-Non-Opinion
+2,Statement-Non-Opinion
+3,Command
+4,Command
+5,Command
+6,Statement-Non-Opinion
+7,Statement-Opinion
+8,Question
+9,Statement-Non-Opinion
+10,Question
+11,Command
+12,Statement-Non-Opinion
+13,Command
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Question
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Statement-Non-Opinion
+7,Statement-Opinion
+8,Statement-Non-Opinion
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Question
+5,Statement-Non-Opinion
+6,Question
+7,Statement-Opinion
+8,Command
+9,Command
+10,Statement-Non-Opinion
+1,- Command
+2,- Disagreement
+3,- Question
+4,- Question
+5,- Statement-Non-Opinion
+6,- Greeting
+7,- Statement-Non-Opinion
+8,- Apology
+9,- Statement-Non-Opinion
+10,- Apology
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Acknowledge
+4,Question
+5,Statement-Opinion
+6,Question
+7,Statement-Opinion
+1,Command
+2,Disagreement
+3,Statement-Non-Opinion
+4,Acknowledge
+5,Statement-Opinion
+6,Statement-Non-Opinion
+7,Statement-Opinion
+8,Statement-Opinion
+9,Command
+10,Command
+11,Command
+12,Command
+13,Statement-Opinion
+14,Agreement
+15,Disagreement
+16,Statement-Non-Opinion
+17,Statement-Non-Opinion
+18,Statement-Non-Opinion
+19,Agreement
+20,Acknowledge
+21,Statement-Opinion
+1,Statement-Opinion
+2,Question
+3,Statement-Opinion
+4,Statement-Opinion
+5,Greeting
+6,Question
+1,Acknowledge
+2,Question
+3,Agreement
+4,Question
+5,Answer
+6,Statement-Non-Opinion
+7,Statement-Non-Opinion
+8,Acknowledge
+9,Question
+10,Answer
+11,Question
+12,Answer
+13,Greeting
+14,Command
+15,Statement-Non-Opinion
+16,Statement-Opinion
+17,Question
+18,Command
+1,Question
+2,Question
+3,Statement-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+1,Question
+2,Question
+3,Statement-Non-Opinion
+4,Backchannel
+5,Statement-Non-Opinion
+6,Statement-Opinion
+7,Statement-Non-Opinion
+8,Offer
+9,Agreement
+10,Command
+11,Disagreement
+1,Command
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Disagreement
+5,Statement-Opinion
+1,- Greeting
+2,- Statement-Non-Opinion
+3,- Statement-Opinion
+4,- Command
+5,- Disagreement
+6,- Statement-Opinion
+7,- Command
+8,- Acknowledge
+1,- Question
+2,- Statement-Non-Opinion
+3,- Statement-Opinion
+4,- Question
+5,- Answer
+6,- Statement-Opinion
+7,- Statement-Opinion
+8,- Statement-Opinion
+1,Disagreement
+2,Statement-Opinion
+3,Disagreement
+4,Disagreement
+1,Statement-Non-Opinion
+2,Statement-Opinion
+3,Agreement
+4,Question
+5,Statement-Non-Opinion
+6,Apology
+1,Answer
+2,Statement-Non-Opinion
+3,Acknowledge
+4,Statement-Opinion
+5,Statement-Opinion
+6,Question
+7,Statement-Opinion
+8,Statement-Non-Opinion
+9,Disagreement
+10,Statement-Non-Opinion
+11,Statement-Non-Opinion
+12,Statement-Non-Opinion
+13,Acknowledge
+1,Statement-Opinion
+2,Statement-Opinion
+3,Question
+4,Statement-Non-Opinion
+5,Agreement
+6,Command
+7,Acknowledge
+8,Acknowledge
+9,Command
+10,Answer
+11,Acknowledge
+12,Answer
+13,Statement-Non-Opinion
+14,Answer
+1,Command
+2,Agreement
+3,Disagreement
+4,Statement-Opinion
+5,Command
+6,Acknowledge
+7,Apology
+1,Statement-Non-Opinion
+2,Command
+3,Statement-Opinion
+4,Question
+5,Statement-Opinion
+6,Question
+7,Command
+8,Statement-Opinion
+9,Disagreement
+10,Statement-Non-Opinion
+11,Question
+12,Question
+13,Statement-Opinion
+14,Statement-Opinion
+15,Command
+16,Acknowledge
+1,Statement-Opinion
+2,Disagreement
+3,Acknowledge
+4,Statement-Non-Opinion
+5,Statement-Opinion
+6,Disagreement
+7,Statement-Opinion
+8,Statement-Opinion
+9,Statement-Opinion
+10,Statement-Non-Opinion
+11,Disagreement
+1,- Acknowledge
+2,- Question
+3,- Statement-Non-Opinion
+4,- Statement-Opinion
+5,- Statement-Opinion
+6,- Statement-Opinion
+7,- Statement-Opinion
+8,- Question
+9,- Statement-Opinion
+10,- Others
+11,- Question
+12,- Command
+1,Question
+2,Statement-Opinion
+3,Statement-Non-Opinion
+4,Statement-Non-Opinion
+5,Question
+6,Question
+7,Statement-Opinion
+8,Command
+9,Statement-Non-Opinion
+1,- Greeting
+2,- Question
+3,- Statement-Opinion
+4,- Others
+5,- Agreement
+6,- Disagreement
+7,- Statement-Non-Opinion
+8,- Statement-Opinion
+9,- Others
+10,- Apology
+11,- Acknowledge
+12,- Others
+13,- Command
+1,Command
+2,Disagreement
+3,Disagreement
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+1,Question
+2,Answer
+3,Command
+4,Statement-Opinion
+5,Statement-Opinion
+6,Acknowledge
+7,Command
+8,Acknowledge
+9,Backchannel
+10,Acknowledge
+1,Command
+2,Statement-Opinion
+3,Statement-Non-Opinion
+4,Acknowledge
+5,Statement-Opinion
+6,Statement-Non-Opinion
+7,Question
+8,Statement-Non-Opinion
+9,Backchannel
+10,Command
+11,Statement-Opinion
+12,Question
+13,Question
+14,Answer
+15,Question
+1,Greeting
+2,Answer
+3,Answer
+4,Question
+5,Disagreement
+6,Acknowledge
+7,Question
+8,Answer
+9,Statement-Opinion
+10,Disagreement
+11,Statement-Non-Opinion
+12,Statement-Opinion
+13,Statement-Opinion
+14,Command
+15,Statement-Opinion
+16,Agreement
+17,Backchannel
+18,Agreement
+1,Commercial - Statement-Non-Opinion
+2,Monica - Apology
+3,Joey - Question
+1,"- Disagreement, Apology, Greeting"
+2,"- Greeting, Statement-Non-Opinion, Question"
+3,"- Acknowledge, Backchannel"
+4,- Question
+5,- Answer
+6,"- Question, Offer"
+7,"- Disagreement, Acknowledge"
+8,- Command
+9,- Statement-Non-Opinion
+10,- Statement-Non-Opinion
+11,"- Acknowledge, Agreement, Closing"
+1,Command
+2,Greeting
+3,Question
+4,Greeting
+5,Question
+6,Greeting
+7,Statement-Non-Opinion
+8,Statement-Non-Opinion
+9,Statement-Non-Opinion
+10,Statement-Non-Opinion
+1,- Greeting
+2,- Apology
+3,- Backchannel
+4,- Statement-Non-Opinion
+5,- Statement-Non-Opinion
+1,Greeting
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Apology
+5,Statement-Opinion
+6,Statement-Opinion
+7,Statement-Opinion
+8,Statement-Opinion
+1,Statement-Non-Opinion
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Command
+5,Question
+6,Statement-Non-Opinion
+7,Question
+8,Statement-Non-Opinion
+9,Statement-Non-Opinion
+10,Others
+11,Statement-Opinion
+12,Statement-Non-Opinion
+13,Statement-Non-Opinion
+14,Question
+15,Statement-Non-Opinion
+16,Question
+17,Question
+1,- Acknowledge
+2,- Question
+3,- Answer
+4,- Statement-Opinion
+5,- Question
+6,- Statement-Opinion
+1,Question
+2,Answer
+3,Acknowledge
+1,Acknowledge
+2,Statement-Opinion
+3,Statement-Non-Opinion
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Command
+7,Agreement
+8,Question
+1,- Command
+2,"Hi, Julie! - Greeting"
+1,Question
+2,Answer
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+1,- Greeting
+2,- Question
+3,- Statement-Non-Opinion
+4,- Statement-Opinion
+5,- Question
+6,- Statement-Opinion
+1,- Statement-Non-Opinion
+2,- Acknowledge
+3,- Statement-Non-Opinion
+4,- Question
+5,- Backchannel
+6,- Statement-Opinion
+7,- Statement-Opinion
+8,- Statement-Non-Opinion
+9,- Command
+10,- Statement-Non-Opinion
+11,- Statement-Opinion
+12,- Statement-Non-Opinion
+13,- Statement-Opinion
+14,- Statement-Opinion
+15,- Question
+16,- Disagreement
+17,- Question
+18,- Statement-Non-Opinion
+19,- Question
+1,Statement-Opinion
+2,Statement-Opinion
+3,Command
+4,Statement-Opinion
+5,Question
+6,Agreement
+7,Statement-Opinion
+8,Statement-Opinion
+9,Question
+10,Statement-Non-Opinion
+11,Statement-Non-Opinion
+12,Statement-Opinion
+13,Statement-Opinion
+1,Statement-Non-Opinion
+2,Question
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Disagreement
+6,Disagreement
+7,Question
+8,Statement-Opinion
+9,Question
+10,Answer
+11,Command
+12,Question
+1,Question
+2,Statement-Non-Opinion
+3,Disagreement
+4,Question
+5,Statement-Opinion
+6,Question
+7,Statement-Opinion
+8,Agreement
+9,Question
+10,Agreement
+11,Question
+12,Question
+13,Statement-Opinion
+14,Question
+15,Statement-Non-Opinion
+16,Question
+17,Acknowledge
+18,Acknowledge
+19,Statement-Non-Opinion
+20,Question
+21,Command
+1,- Statement-Non-Opinion
+2,- Command
+3,- Disagreement
+4,- Agreement
+1,Apology
+2,Acknowledge
+3,Statement-Opinion
+4,Statement-Non-Opinion
+1,- Agreement
+2,- Agreement
+3,- Statement-Opinion
+4,- Statement-Opinion
+5,- Question
+6,- Question
+7,- Question
+8,- Statement-Non-Opinion
+9,- Incomplete (Others)
+10,- Apology
+11,- Agreement
+12,- Others
+13,- Command
+14,- Statement-Opinion
+15,- Statement-Opinion
+1,- Greeting
+2,- Apology
+3,- Question
+4,- Statement-Opinion
+5,- Others
+6,- Statement-Opinion
+7,- Question
+8,- Apology
+9,- Apology
+10,- Apology
+1,- Acknowledge
+2,- Agreement
+3,- Acknowledge
+4,- Question
+5,- Statement-Non-Opinion
+6,- Greeting
+7,- Question
+8,- Statement-Non-Opinion
+9,- Command
+10,- Disagreement
+11,- Statement-Opinion
+12,- Disagreement
+13,- Statement-Opinion
+1,Statement-Opinion
+2,Statement-Opinion
+3,Command
+4,Question
+5,Statement-Non-Opinion
+6,Acknowledge
+7,Statement-Non-Opinion
+8,Question
+9,Greeting
+1,Greeting
+2,Backchannel
+3,Statement-Non-Opinion
+4,Greeting
+5,Greeting
+6,Question
+7,Statement-Opinion
+8,Question
+9,Agreement
+10,Acknowledge
+11,Statement-Opinion
+12,Command
+13,Acknowledge
+1,Apology
+2,Command
+3,Question
+4,Statement-Opinion
+5,Statement-Non-Opinion
+6,Question
+7,Question
+8,Agreement
+9,Question
+10,Acknowledge
+11,Apology
+12,Greeting
+1,- Greeting
+2,- Statement-Opinion
+3,- Statement-Opinion
+1,Disagreement
+2,Question
+3,Disagreement
+4,Command
+5,Question
+6,Statement-Non-Opinion
+7,Greeting
+1,Statement-Opinion
+2,Question
+3,Statement-Opinion
+4,Statement-Non-Opinion
+5,Question
+6,Statement-Opinion
+7,Acknowledge
+8,Statement-Opinion
+9,Question
+10,Command
+1,Greeting
+2,Greeting
+3,Greeting
+4,Greeting
+5,Backchannel
+6,Statement-Non-Opinion
+7,Question
+8,Statement-Non-Opinion
+9,Question
+10,Statement-Opinion
+11,Statement-Non-Opinion
+12,Statement-Opinion
+13,Acknowledge
+14,Acknowledge
+15,Statement-Opinion
+16,Agreement
+17,Statement-Non-Opinion
+18,Agreement
+1,Question
+2,Statement-Non-Opinion
+3,Command
+4,Statement-Non-Opinion
+5,Command
+6,Question
+1,Statement-Opinion
+2,Acknowledge
+1,Disagreement
+2,Statement-Opinion
+3,Question
+4,Answer
+5,Question
+6,Answer
+7,Command
+8,Statement-Non-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Acknowledge
+1,Statement-Non-Opinion
+2,Acknowledge
+3,Statement-Opinion
+4,Acknowledge
+5,Acknowledge
+6,Question
+7,Question
+8,Question
+9,Agreement
+10,Acknowledge
+1,Statement-Opinion
+2,Agreement
+3,Disagreement
+4,Statement-Opinion
+5,Statement-Opinion
+6,Agreement
+7,Disagreement
+8,Agreement
+9,Statement-Opinion
+10,Question
+11,Disagreement
+12,Statement-Opinion
+13,Disagreement
+14,Statement-Opinion
+15,Disagreement
+16,Command
+17,Statement-Opinion
+18,Question
+19,Question
+20,Statement-Opinion
+1,Question
+2,Question
+3,Statement-Non-Opinion
+1,Statement-Non-Opinion
+2,Acknowledge
+3,Statement-Opinion
+4,Statement-Opinion
+5,Question
+6,Statement-Opinion
+7,Statement-Opinion
+8,Agreement
+9,Command
+10,Statement-Opinion
+11,Statement-Non-Opinion
+12,Apology
+13,Statement-Opinion
+1,Greeting
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Statement-Non-Opinion
+5,Acknowledge
+6,Disagreement
+7,Question
+8,Statement-Non-Opinion
+9,Command
+10,Disagreement
+11,Statement-Opinion
+12,Statement-Non-Opinion
+13,Statement-Opinion
+14,Statement-Opinion
+15,Acknowledge
+1,- Command
+2,- Question
+3,- Statement-Non-Opinion
+1,- Question
+2,- Statement-Non-Opinion
+3,- Question
+4,- Question
+5,- Command
+6,- Acknowledge
+7,- Statement-Opinion
+8,- Agreement
+9,- Statement-Non-Opinion
+10,- Apology
+11,- Apology
+12,- Acknowledge
+1,Statement-Opinion
+2,Question
+3,Acknowledge
+4,Statement-Non-Opinion
+5,Backchannel
+6,Agreement
+7,Statement-Non-Opinion
+8,Question
+1,Statement-Non-Opinion
+2,Apology
+3,Statement-Opinion
+4,Greeting
+5,Statement-Non-Opinion
+6,Acknowledge
+7,Others
+8,Agreement
+9,Statement-Non-Opinion
+1,Command
+2,Question
+3,Statement-Opinion
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Agreement
+7,Command
+8,Disagreement
+9,Command
+10,Greeting
+1,Statement-Opinion
+2,Acknowledge
+3,Statement-Opinion
+4,Acknowledge
+5,Statement-Opinion
+6,Acknowledge
+7,Statement-Opinion
+8,Question
+1,- Joey - We did? - **Question**
+2,- **Command**
+3,Thank you so much! - **Acknowledge**
+4,- **Statement-Non-Opinion**
+5,"Wait, wait, Chandler, this is what you're havin' for Thanksgiving dinner? - **Question**"
+6,"What, what, what is it with you and this holiday? - **Question**"
+7,- **Statement-Non-Opinion**
+8,- **Statement-Opinion**
+9,- **Statement-Non-Opinion**
+10,- **Statement-Non-Opinion**
+11,- **Acknowledge**
+12,- **Statement-Opinion**
+1,"- Rachel - Hey, who's this little naked guy? - **Question**"
+2,- **Answer**
+3,- **Statement-Opinion**
+4,- Chandler - Who are those people? - **Question**
+5,- **Answer**
+6,- **Statement-Non-Opinion**
+7,How old was she there? - **Question**
+8,"yeah, 24, 25? - **Answer**"
+9,- **Statement-Opinion**
+10,"- Joey - Ooh, look-look-look-look-look! I got Monica naked! - **Statement-Opinion**"
+1,Question
+2,Statement-Non-Opinion
+3,Disagreement
+4,Apology
+5,Question
+6,Statement-Opinion
+7,Statement-Opinion
+8,Statement-Opinion
+9,Disagreement
+10,Disagreement
+11,Acknowledge
+1,- Acknowledge
+2,- Statement-Non-Opinion
+3,- Statement-Opinion
+1,- Backchannel
+2,"You're an Aquarius, huh? - Question"
+3,- Statement-Opinion
+4,- Disagreement
+5,Taurus? - Question
+6,- Disagreement
+7,Virgo? - Question
+8,- Disagreement
+9,Sagittarius? - Question
+10,- Agreement
+11,- Statement-Opinion
+12,You're not gonna speed anymore right? - Question
+13,- Answer
+14,And you promise you'll get this taken care of right away? - Question
+15,- Answer
+16,"Does he have a license? - Command, Question"
+17,Yeah! - Answer
+18,Can he handle the stick? - Question
+19,Oh well - Acknowledge
+20,I can handle the stick!! - Statement-Opinion
+1,Greeting
+2,Question
+3,Answer
+4,Statement-Non-Opinion
+5,Greeting
+6,Acknowledge
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Question
+10,Statement-Non-Opinion
+11,Question
+12,Statement-Opinion
+13,Question
+1,"- Joey - Man, I'm starving! What the hell was I thinking at dinner?! ""Do you want soup or salad?"" Both! Always order both! - **Statement-Opinion**"
+2,- **Statement-Opinion**
+3,- **Command**
+4,Yeah? Really? No one's home? - **Question**
+5,Hello? When you get in there - **Statement-Opinion**
+1,Greeting
+2,Statement-Non-Opinion
+3,Apology
+4,Disagreement
+5,Disagreement
+6,Statement-Opinion
+7,Command
+8,Question
+9,Statement-Opinion
+10,Statement-Opinion
+11,Command
+12,Statement-Opinion
+13,Agreement
+14,Statement-Non-Opinion
+15,Statement-Non-Opinion
+16,Statement-Non-Opinion
+1,- Greeting
+2,- Greeting
+3,- Statement-Non-Opinion
+4,- Greeting
+5,- Greeting
+6,- Statement-Opinion
+7,- Answer
+8,- Acknowledge
+9,- Statement-Non-Opinion
+10,- Statement-Opinion
+11,- Statement-Non-Opinion
+12,- Statement-Non-Opinion
+13,- Statement-Non-Opinion
+14,- Statement-Opinion
+15,- Statement-Non-Opinion
+16,- Acknowledge
+17,- Command
+18,- Acknowledge
+19,- Question
+20,- Statement-Non-Opinion
+1,Greeting
+2,Question
+3,Acknowledge
+4,Greeting
+5,Greeting
+6,Question
+7,Statement-Opinion
+8,Statement-Opinion
+9,Backchannel
+10,Greeting
+11,Statement-Opinion
+12,Question
+13,Statement-Non-Opinion
+14,Question
+15,Statement-Non-Opinion
+16,Question
+17,Statement-Opinion
+18,Question
+19,Agreement
+20,Question
+21,Agreement
+22,Question
+1,Question
+2,Answer
+3,Acknowledge
+4,Question
+5,Statement-Non-Opinion
+6,Statement-Non-Opinion
+7,Acknowledge
+8,Statement-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Statement-Opinion
+12,Question
+13,Others
+14,Acknowledge
+1,Statement-Opinion
+2,Agreement
+3,Agreement
+4,Statement-Non-Opinion
+5,Command
+6,Acknowledge
+1,Statement-Opinion
+2,Backchannel
+3,Greeting
+4,Question
+5,Offer
+6,Apology
+7,Statement-Non-Opinion
+8,Agreement
+9,Statement-Opinion
+10,Acknowledge
+1,Agreement
+2,Agreement
+3,Disagreement
+4,Disagreement
+5,Disagreement
+6,Statement-Non-Opinion
+1,Statement-Opinion
+2,Command
+3,Statement-Non-Opinion
+4,Acknowledge
+5,Greeting
+6,Statement-Non-Opinion
+7,Question
+8,Statement-Non-Opinion
+9,Disagreement
+10,Question
+11,Answer
+12,Statement-Opinion
+13,Disagreement
+14,Command
+15,Greeting
+1,Agreement
+2,Others
+3,Agreement
+4,Acknowledge
+5,Statement-Opinion
+6,Statement-Non-Opinion
+7,Statement-Non-Opinion
+8,Statement-Non-Opinion
+1,- Command
+2,- Greeting
+3,- Greeting
+4,- Statement-Opinion
+5,- Statement-Non-Opinion
+6,- Statement-Non-Opinion
+7,- Question
+1,Statement-Non-Opinion
+2,Question
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Agreement
+6,Disagreement
+7,Question
+8,Others
+1,- Statement-Opinion
+2,- Acknowledge
+3,- Backchannel
+4,- Statement-Opinion
+5,- Disagreement
+6,- Question
+7,- Statement-Opinion
+8,- Command
+1,- Apology
+2,- Statement-Non-Opinion
+1,Acknowledge
+2,Question
+3,Acknowledge
+4,Statement-Opinion
+5,Acknowledge
+6,Command
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Statement-Opinion
+10,Question
+11,Agreement
+12,Disagreement
+13,Question
+14,Statement-Non-Opinion
+15,Statement-Opinion
+16,Statement-Opinion
+17,Command
+18,Acknowledge
+19,Question
+20,Statement-Opinion
+1,- **Command**
+2,- **Question**
+3,A-ha!!! - **Backchannel**
+1,- Agreement
+2,- Question
+3,- Statement-Non-Opinion
+4,- Question
+5,- Statement-Non-Opinion
+6,- Acknowledge
+7,- Agreement
+8,- Acknowledge
+1,- Agreement
+2,- Command
+3,- Acknowledge
+4,- Acknowledge
+5,- Statement-Non-Opinion
+6,- Statement-Opinion
+7,- Agreement
+1,Apology
+2,Acknowledge
+3,Statement-Opinion
+4,Statement-Non-Opinion
+5,Question
+6,Statement-Non-Opinion
+7,Greeting
+8,Greeting
+9,Command
+10,Statement-Non-Opinion
+11,Statement-Non-Opinion
+12,Statement-Opinion
+1,"- Greeting, Question"
+2,"- Answer, Disagreement"
+3,- Question
+4,- Acknowledge
+5,"- Statement-Opinion, Question"
+6,- Statement-Opinion
+7,- Statement-Opinion
+8,- Statement-Opinion
+9,- Agreement
+10,- Agreement
+1,Question
+2,Answer
+3,Acknowledge
+4,Statement-Opinion
+5,Apology
+6,Statement-Non-Opinion
+7,Statement-Opinion
+8,Disagreement
+9,Statement-Opinion
+10,Command
+1,Greeting
+2,Question
+3,Statement-Non-Opinion
+4,Backchannel
+5,Question
+6,Acknowledge
+7,Statement-Non-Opinion
+8,Question
+9,Statement-Opinion
+10,Statement-Opinion
+11,Statement-Opinion
+12,Agreement
+13,Statement-Opinion
+14,Question
+15,Command
+1,- Greeting
+2,- Question
+3,- Statement-Non-Opinion
+4,- Question
+5,- Statement-Non-Opinion
+6,- Statement-Non-Opinion
+1,Command
+2,Statement-Opinion
+3,Statement-Non-Opinion
+4,Acknowledge
+5,Question
+6,Disagreement
+7,Statement-Opinion
+8,Statement-Opinion
+9,Question
+10,Disagreement
+11,Backchannel
+12,Backchannel
+13,Statement-Non-Opinion
+14,Statement-Non-Opinion
+1,- Command
+2,- Question
+3,- Statement-Non-Opinion
+4,- Acknowledge
+5,- Statement-Opinion
+6,- Statement-Opinion
+7,- Acknowledge
+1,Statement-Non-Opinion
+2,Disagreement
+3,Statement-Opinion
+4,Question
+5,Statement-Non-Opinion
+6,Acknowledge
+7,Acknowledge
+8,Statement-Opinion
+9,Disagreement
+10,Command
+11,Question
+12,Statement-Opinion
+13,Disagreement
+14,Statement-Opinion
+15,Command
+16,Statement-Opinion
+17,Statement-Opinion
+18,Acknowledge
+19,Command
+1,Statement-Opinion
+2,Answer
+3,Statement-Opinion
+4,Greeting
+5,Command
+6,Disagreement
+7,Statement-Non-Opinion
+8,Answer
+9,Acknowledge
+10,Statement-Non-Opinion
+11,Command
+12,Answer
+13,Question
+14,Statement-Opinion
+15,Backchannel
+16,Question
+17,Answer
+18,Statement-Opinion
+19,Question
+20,Agreement
+1,Statement-Opinion
+2,Acknowledge
+3,Question
+4,Statement-Non-Opinion
+5,Disagreement
+6,Statement-Opinion
+7,Statement-Non-Opinion
+8,Command
+9,Command
+10,Statement-Opinion
+11,Acknowledge
+12,Greeting
+13,Statement-Opinion
+14,Apology
+15,Statement-Opinion
+16,Statement-Non-Opinion
+1,Command
+2,Statement-Non-Opinion
+3,Question
+4,Statement-Non-Opinion
+5,Question
+6,Question
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Question
+10,Agreement
+11,Statement-Non-Opinion
+12,Acknowledge
+1,Question
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Statement-Non-Opinion
+6,Disagreement
+7,Statement-Opinion
+8,Statement-Opinion
+9,Question
+10,Statement-Non-Opinion
+11,Question
+12,Command
+13,Question
+14,Statement-Non-Opinion
+1,Statement-Non-Opinion
+2,Acknowledge
+3,Command
+4,Acknowledge
+5,Question
+6,Disagreement
+7,Statement-Opinion
+8,Statement-Opinion
+9,Statement-Opinion
+10,Acknowledge
+1,- **Statement-Non-Opinion**
+2,"One, two, three, four! - **Statement-Non-Opinion**"
+3,You know the song! Sing along! - **Command**
+4,So? - **Question**
+5,No! - **Disagreement**
+1,- Statement-Opinion
+2,- Question
+3,- Statement-Non-Opinion
+4,- Statement-Opinion
+5,- Statement-Opinion
+6,- Question
+7,- Question
+8,- Statement-Non-Opinion
+9,- Statement-Opinion
+10,- Statement-Non-Opinion
+11,- Acknowledge
+1,Statement-Opinion
+2,Apology
+3,Agreement
+4,Statement-Non-Opinion
+1,Disagreement
+2,Command
+3,Question
+4,Question
+5,Statement-Non-Opinion
+6,Statement-Opinion
+7,Statement-Opinion
+8,Acknowledge
+9,Backchannel
+10,Statement-Opinion
+11,Agreement
+12,Statement-Non-Opinion
+13,Statement-Non-Opinion
+1,Disagreement
+2,Disagreement
+3,Question
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Agreement
+7,Statement-Opinion
+8,Question
+9,Statement-Opinion
+10,Statement-Opinion
+11,Statement-Opinion
+12,Statement-Opinion
+13,Statement-Opinion
+1,Greeting
+2,Greeting
+3,Greeting
+4,Apology
+5,Disagreement
+6,Acknowledge
+7,Acknowledge
+1,Question
+2,Answer
+3,Backchannel
+4,Statement-Non-Opinion
+5,Agreement
+6,Statement-Non-Opinion
+1,Greeting
+2,Statement-Non-Opinion
+3,Acknowledge
+4,Statement-Non-Opinion
+5,Apology
+6,Statement-Opinion
+7,Statement-Opinion
+8,Statement-Opinion
+9,Statement-Non-Opinion
+10,Question
+11,Statement-Non-Opinion
+12,Statement-Opinion
+13,Acknowledge
+14,Statement-Opinion
+15,Statement-Opinion
+16,Question
+17,Answer
+18,Statement-Non-Opinion
+19,Acknowledge
+1,Statement-Opinion
+2,Question
+3,Greeting
+4,Greeting
+5,Command
+6,Statement-Non-Opinion
+7,Statement-Non-Opinion
+8,Statement-Non-Opinion
+9,Statement-Non-Opinion
+10,Question
+11,Statement-Opinion
+12,Disagreement
+13,Question
+14,Question
+15,Question
+1,- Question
+2,- Answer
+3,- Question
+4,- Agreement
+5,- Question
+6,- Agreement
+1,- Greeting
+2,- Apology
+3,- Disagreement
+4,- Agreement
+5,- Statement-Non-Opinion
+6,- Statement-Opinion
+7,- Acknowledge
+8,- Statement-Non-Opinion
+9,- Agreement
+10,- Statement-Opinion
+11,- Backchannel
+12,- Statement-Non-Opinion
+1,Greeting
+2,Statement-Opinion
+3,Statement-Non-Opinion
+4,Command
+5,Acknowledge
+6,Question
+7,Statement-Opinion
+8,Statement-Non-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Question
+12,Acknowledge
+13,Question
+14,Statement-Opinion
+15,Statement-Non-Opinion
+16,Statement-Opinion
+17,Statement-Opinion
+18,Statement-Opinion
+19,Acknowledge
+1,Greeting
+2,Disagreement
+3,Apology
+4,Statement-Non-Opinion
+5,Question
+6,Backchannel
+7,Acknowledge
+8,Question
+9,Disagreement
+1,- Statement-Non-Opinion
+2,- Acknowledge
+3,- Greeting
+4,- Statement-Non-Opinion
+5,- Question
+1,Statement-Non-Opinion
+2,Statement-Opinion
+1,- Acknowledge
+2,- Apology
+3,- Question
+4,- Apology
+5,- Statement-Opinion
+6,- Disagreement
+7,- Question
+8,- Disagreement
+9,- Question
+10,- Disagreement
+11,- Disagreement
+12,- Command
+13,- Acknowledge
+14,- Command
+15,- Statement-Non-Opinion
+1,Question
+2,Statement-Non-Opinion
+3,Question
+4,Question
+5,Apology
+6,Question
+7,Disagreement
+8,Question
+9,Backchannel
+10,Question
+11,Statement-Non-Opinion
+12,Greeting
+13,Greeting
+14,Question
+15,Statement-Opinion
+16,Answer
+17,Question
+18,Question
+19,Answer
+20,Acknowledge
+1,Statement-Non-Opinion
+2,Question
+1,- Command
+2,- Acknowledge
+3,- Acknowledge
+4,- Statement-Opinion
+5,- Question
+6,- Command
+7,- Statement-Non-Opinion
+8,- Agreement
+9,- Question
+10,- Disagreement
+1,Statement-Non-Opinion
+2,Question
+3,Acknowledge
+4,Statement-Opinion
+5,Disagreement
+6,Statement-Opinion
+7,Command
+8,Others
+9,Statement-Non-Opinion
+10,Statement-Non-Opinion
+1,Greeting
+2,Question
+3,Question
+4,Statement-Opinion
+5,Statement-Opinion
+6,Command
+7,Question
+8,Statement-Opinion
+9,Question
+10,Statement-Non-Opinion
+11,Command
+12,Disagreement
+13,Agreement
+14,Acknowledge
+15,Statement-Opinion
+1,Statement-Opinion
+2,Question
+3,Statement-Opinion
+4,Statement-Opinion
+5,Backchannel
+6,Statement-Opinion
+7,Statement-Non-Opinion
+8,Question
+9,Statement-Opinion
+10,Apology
+11,Statement-Opinion
+12,Acknowledge
+1,- Command
+2,- Statement-Non-Opinion
+3,- Statement-Non-Opinion
+4,- Command
+5,- Question
+6,- Statement-Non-Opinion
+7,- Command
+1,Statement-Non-Opinion
+2,Statement-Opinion
+3,Statement-Opinion
+4,Question
+5,Statement-Opinion
+6,Acknowledge
+7,Backchannel
+1,Question
+2,Answer
+3,Acknowledge
+4,Disagreement
+5,Statement-Non-Opinion
+6,Statement-Non-Opinion
+7,Question
+1,Statement-Non-Opinion
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+6,Statement-Opinion
+7,Agreement
+8,Statement-Opinion
+9,Acknowledge
+10,Command
+11,Agreement
+12,Statement-Opinion
+13,Disagreement
+14,Question
+1,Greeting
+2,Greeting
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Apology
+6,Question
+7,Statement-Opinion
+1,Greeting
+2,Apology
+3,Greeting
+4,Acknowledge
+5,Statement-Non-Opinion
+6,Question
+7,Statement-Opinion
+8,Statement-Opinion
+1,- Acknowledge
+2,- Statement-Non-Opinion
+3,- Command
+4,- Statement-Opinion
+5,- Question
+6,- Statement-Opinion
+7,- Acknowledge
+8,- Statement-Opinion
+9,- Statement-Opinion
+10,- Statement-Opinion
+11,- Statement-Opinion
+12,- Statement-Opinion
+13,- Acknowledge
+14,- Statement-Opinion
+15,- Statement-Opinion
+16,- Statement-Opinion
+17,- Statement-Opinion
+1,- Acknowledge
+2,- Statement-Opinion
+3,- Command
+4,- Apology
+5,- Question
+6,- Command
+7,- Statement-Non-Opinion
+1,- Command
+2,- Statement-Non-Opinion
+3,- Statement-Opinion
+1,Disagreement
+2,Disagreement
+3,Statement-Opinion
+4,Statement-Opinion
+5,Command
+6,Apology
+7,Statement-Non-Opinion
+1,Question
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Disagreement
+5,Statement-Opinion
+6,Statement-Opinion
+7,Agreement
+8,Statement-Opinion
+9,Question
+10,Answer
+11,Statement-Opinion
+12,Statement-Opinion
+13,Statement-Opinion
+1,- Statement-Opinion
+2,Look at this! - Command
+3,Oh! You have a window! - Statement-Opinion
+4,- Agreement
+5,Oh look! That guy's peeing! - Statement-Non-Opinion
+6,- Greeting
+7,- Greeting
+1,Question
+2,Command
+3,Question
+4,Acknowledge
+5,Acknowledge
+6,Command
+7,Acknowledge
+1,Question
+2,Statement-Non-Opinion
+3,Question
+4,Answer
+5,Question
+6,Answer
+7,Question
+8,Question
+9,Question
+10,Answer
+11,Question
+12,Statement-Opinion
+13,Statement-Non-Opinion
+14,Statement-Non-Opinion
+15,Statement-Non-Opinion
+16,Statement-Non-Opinion
+17,Statement-Opinion
+18,Statement-Opinion
+1,Statement-Non-Opinion
+2,Statement-Opinion
+3,Greeting
+4,Question
+5,Statement-Non-Opinion
+6,Statement-Opinion
+7,Question
+8,Question
+9,Answer
+10,Disagreement
+11,Answer
+12,Statement-Opinion
+1,Question
+2,Command
+3,Disagreement
+4,Command
+5,Disagreement
+6,Statement-Non-Opinion
+7,Acknowledge
+8,Command
+9,Backchannel
+10,Statement-Opinion
+1,Apology
+2,Statement-Non-Opinion
+3,Question
+4,Statement-Non-Opinion
+5,Statement-Opinion
+6,Statement-Non-Opinion
+7,Command
+8,Statement-Non-Opinion
+9,Question
+10,Apology
+11,Command
+12,Statement-Opinion
+13,Acknowledge
+14,Statement-Opinion
+15,Statement-Non-Opinion
+16,Question
+1,Command
+2,Statement-Opinion
+3,Disagreement
+4,Statement-Opinion
+5,Statement-Opinion
+6,Statement-Non-Opinion
+7,Statement-Opinion
+8,Statement-Opinion
+9,Acknowledge
+10,Agreement
+11,Command
+12,Command
+13,Command
+14,Command
+15,Command
+16,Agreement
+1,- Acknowledge
+2,- Question
+3,- Statement-Non-Opinion
+4,- Backchannel
+5,- Question
+6,- Question
+7,- Answer
+1,Greeting
+2,Statement-Non-Opinion
+3,Question
+4,Statement-Opinion
+5,Statement-Opinion
+6,Statement-Opinion
+7,Disagreement
+1,Statement-Non-Opinion
+2,Disagreement
+3,Disagreement
+4,Disagreement
+1,Question
+2,Statement-Non-Opinion
+3,Acknowledge
+4,Statement-Non-Opinion
+5,Statement-Opinion
+6,Statement-Opinion
+7,Acknowledge
+8,Disagreement
+9,Question
+10,Statement-Opinion
+11,Statement-Opinion
+12,Question
+1,Agreement
+2,Acknowledge
+3,Question
+4,Statement-Opinion
+5,Statement-Opinion
+6,Agreement
+7,Question
+8,Agreement
+9,Command
+1,- Statement-Opinion
+2,- Statement-Non-Opinion
+3,- Statement-Non-Opinion
+4,- Greeting
+5,- Command
+1,Statement-Opinion
+2,Statement-Opinion
+3,Command
+4,Statement-Non-Opinion
+5,Command
+6,Statement-Opinion
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Acknowledge
+1,Greeting
+2,Acknowledge
+3,Question
+4,Statement-Opinion
+5,Question
+6,Question
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Statement-Non-Opinion
+10,Backchannel
+11,Statement-Opinion
+12,Statement-Non-Opinion
+13,Statement-Non-Opinion
+14,Agreement
+15,Disagreement
+16,Statement-Opinion
+17,Statement-Non-Opinion
+18,Question
+19,Statement-Non-Opinion
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Disagreement
+4,Question
+5,Command
+1,Statement-Non-Opinion
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Statement-Opinion
+1,
+2,you two think of me as family?!
+3,"- Janice - Oh, I have to ask you something now and be honest; do you want me to sing"
+1,- Command
+2,- Greeting
+3,- Question
+4,- Statement-Non-Opinion
+1,Disagreement
+2,Statement-Opinion
+3,Statement-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+6,Statement-Non-Opinion
+7,Backchannel
+8,Command
+9,Backchannel
+10,Command
+11,Disagreement
+1,- Question
+2,- Question
+3,- Command
+4,- Answer
+5,- Question
+6,- Answer
+7,- Acknowledge
+8,- Agreement
+9,- Command
+1,Question
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Question
+5,Statement-Non-Opinion
+6,Question
+7,Statement-Non-Opinion
+8,Statement-Non-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Agreement
+12,Greeting
+13,Greeting
+14,Question
+15,Agreement
+16,Statement-Non-Opinion
+17,Statement-Non-Opinion
+18,Statement-Opinion
+19,Apology
+1,Command
+2,Question
+3,Statement-Non-Opinion
+4,Backchannel
+5,Acknowledge
+6,Statement-Non-Opinion
+7,Statement-Opinion
+8,Disagreement
+9,Question
+10,Statement-Non-Opinion
+11,Statement-Non-Opinion
+12,Question
+13,Statement-Opinion
+1,Disagreement
+2,Statement-Opinion
+3,Question
+4,Question
+5,Statement-Non-Opinion
+6,Statement-Opinion
+7,Statement-Opinion
+8,Acknowledge
+9,Question
+10,Statement-Opinion
+11,Disagreement
+12,Agreement
+13,Statement-Opinion
+14,Question
+15,Command
+16,Statement-Opinion
+17,Disagreement
+1,- Rachel - Oh! Yay! Look! There's a piece that doesn't have floor on it! - Statement-Non-Opinion
+2,"Hey, come on now! - Command"
+3,"All right, what are we havin'? - Question"
+1,Statement-Opinion
+2,Command
+3,Question
+4,Statement-Non-Opinion
+5,Statement-Opinion
+6,Question
+7,Statement-Non-Opinion
+1,- Acknowledge
+2,- Statement-Opinion
+3,- Statement-Opinion
+4,- Statement-Opinion
+5,- Statement-Opinion
+6,- Acknowledge
+7,- Command
+8,- Statement-Non-Opinion
+9,- Statement-Opinion
+1,Question
+2,Answer
+3,Statement-Opinion
+4,Command
+5,Disagreement
+6,Statement-Opinion
+7,Question
+8,Statement-Non-Opinion
+9,Question
+10,Statement-Opinion
+11,Question
+12,Statement-Opinion
+13,Question
+14,Disagreement
+15,Question
+16,Statement-Opinion
+1,Statement-Opinion
+2,Agreement
+3,Question
+1,Greeting
+2,Greeting
+3,Question
+4,Acknowledge
+5,Statement-Non-Opinion
+6,Statement-Non-Opinion
+7,Disagreement
+8,Statement-Opinion
+9,Disagreement
+10,Statement-Non-Opinion
+11,Statement-Opinion
+12,Statement-Opinion
+13,Statement-Opinion
+14,Statement-Opinion
+15,Statement-Opinion
+16,Disagreement
+17,Statement-Opinion
+18,Statement-Opinion
+19,Statement-Opinion
+20,Others
+21,Backchannel
+1,Statement-Non-Opinion
+2,Question
+3,Statement-Non-Opinion
+1,- Question
+2,- Statement-Opinion
+3,- Statement-Non-Opinion
+4,- Greeting
+5,- Question
+6,- Question
+7,- Statement-Non-Opinion
+8,- Backchannel
+9,- Command
+10,- Backchannel
+11,- Apology
+12,- Acknowledge
+13,- Question
+14,- Statement-Opinion
+15,- Question
+16,- Statement-Non-Opinion
+1,Question
+2,Answer
+3,Question
+4,Statement-Non-Opinion
+1,Statement-Non-Opinion
+2,Acknowledge
+3,Command
+4,Statement-Non-Opinion
+5,Statement-Opinion
+6,Statement-Opinion
+7,Statement-Opinion
+8,Statement-Opinion
+9,Thanks
+10,Statement-Non-Opinion
+11,Command
+12,Statement-Non-Opinion
+13,Agreement
+1,Greeting
+2,Command
+3,Disagreement
+4,Statement-Non-Opinion
+5,Incomplete (Others)
+6,Command
+7,Acknowledge
+8,Greeting
+9,Greeting
+10,Question
+11,Acknowledge
+12,Backchannel
+13,Backchannel
+14,Statement-Opinion
+15,Question
+16,Statement-Opinion
+17,Disagreement
+18,Statement-Opinion
+19,Statement-Opinion
+20,Statement-Opinion
+21,Agreement
+22,Command
+23,Statement-Opinion
+24,Question
+25,Statement-Opinion
+26,Question
+1,- Apology
+2,- Statement-Opinion
+3,- Question
+4,- Statement-Non-Opinion
+5,- Statement-Opinion
+6,- Command
+7,- Greeting
+8,- Statement-Opinion
+9,- Statement-Non-Opinion
+1,Statement-Non-Opinion
+2,Statement-Non-Opinion
+3,Question
+4,Statement-Opinion
+5,Acknowledge
+6,Command
+7,Agreement
+8,Statement-Non-Opinion
+9,Statement-Non-Opinion
+10,Question
+11,Statement-Opinion
+12,Disagreement
+13,Backchannel
+1,- Paul - Why are you yelling? - **Question**
+2,"Whoa, that - **Backchannel**"
+1,Question
+2,Statement-Non-Opinion
+3,Acknowledge
+4,Disagreement
+5,Command
+6,Statement-Opinion
+7,Statement-Opinion
+8,Statement-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Disagreement
+12,Statement-Opinion
+13,Question
+14,Statement-Non-Opinion
+15,Acknowledge
+16,Statement-Non-Opinion
+17,Statement-Opinion
+18,Acknowledge
+19,Acknowledge
+20,Acknowledge
+21,Acknowledge
+22,Question
+1,Apology
+2,Greeting
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Greeting
+6,Greeting
+7,Statement-Non-Opinion
+8,Statement-Non-Opinion
+9,Statement-Non-Opinion
+10,Question
+11,Statement-Opinion
+12,Acknowledge
+13,Acknowledge
+14,Others
+15,Statement-Non-Opinion
+16,Question
+17,Command
+18,Question
+19,Statement-Non-Opinion
+20,Question
+21,Question
+1,- Statement-Opinion
+2,- Acknowledge
+3,- Command
+4,- Question
+5,- Agreement
+6,- Command
+7,- Command
+8,- Question
+9,- Answer
+10,- Acknowledge
+1,- Command
+2,- Disagreement
+3,- Question
+4,- Statement-Opinion
+5,- Statement-Non-Opinion
+6,- Command
+7,- Command
+1,Question
+2,Backchannel
+3,Statement-Opinion
+4,Disagreement
+1,Command
+2,Question
+3,Answer
+4,Statement-Opinion
+5,Greeting
+6,Statement-Opinion
+7,Question
+8,Answer
+9,Statement-Opinion
+10,Disagreement
+11,Command
+12,Statement-Non-Opinion
+13,Apology
+14,Acknowledge
+15,Acknowledge
+1,- **Apology**
+2,- **Statement-Non-Opinion**
+3,- **Acknowledge**
+4,- **Statement-Non-Opinion**
+5,"Look, please, please don't go anywhere, okay? - **Command**"
+6,- **Backchannel**
+7,"Okay, we'll be here! - **Agreement**"
+8,Hating you! - **Statement-Opinion**
+9,Did you see how he was sweating when he walked out of there? - **Question**
+10,"Listen honey, if I'm hogging the ball too much you just jump right in there and take a couple punches because I'm telling you, this feels - **Statement-Opinion**"
+11,- **Statement-Opinion**
+12,"What are you talking about?! Mindy, the guy is the devil! He's Satan in a smock! - **Disagreement**"
+13,- **Statement-Opinion**
+14,- **Acknowledge**
+15,? - **Statement-Opinion**
+16,- **Statement-Opinion**
+1,Command
+2,Acknowledge
+3,Statement-Opinion
+4,Statement-Opinion
+5,Agreement
+6,Greeting
+7,Greeting
+8,Question
+9,Statement-Non-Opinion
+10,Question
+11,Command
+1,- Statement-Non-Opinion
+2,- Disagreement
+1,Disagreement
+2,Question
+3,Question
+4,Apology
+5,Command
+6,Question
+7,Statement-Non-Opinion
+8,Command
+9,Command
+10,Disagreement
+11,Command
+1,Command
+2,Question
+3,Acknowledge
+4,Statement-Non-Opinion
+5,Command
+6,Statement-Opinion
+7,Greeting
+8,Backchannel
+9,Question
+10,Question
+11,Question
+12,Statement-Non-Opinion
+13,Agreement
+14,Acknowledge
+15,Acknowledge
+1,- Statement-Opinion
+2,- Statement-Opinion
+3,- Statement-Non-Opinion
+4,- Apology
+5,- Question
+6,- Agreement
+7,- Agreement
+8,- Statement-Non-Opinion
+1,Question
+2,Statement-Opinion
+3,Question
+4,Acknowledge
+5,Question
+6,Statement-Non-Opinion
+7,Question
+8,Statement-Non-Opinion
+9,Statement-Opinion
+10,Question
+11,Backchannel
+12,Statement-Opinion
+13,Statement-Opinion
+1,Command
+2,Agreement
+3,Command
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Statement-Non-Opinion
+1,Greeting
+2,Question
+3,Statement-Non-Opinion
+4,Greeting
+5,Acknowledge
+1,Question
+2,Answer
+3,Statement-Opinion
+4,Command
+5,Statement-Non-Opinion
+6,Question
+7,Answer
+1,- Acknowledge
+2,- Command
+3,- Statement-Non-Opinion
+4,- Command
+5,- Question
+6,- Statement-Non-Opinion
+7,- Statement-Opinion
+8,- Statement-Non-Opinion
+9,- Question
+10,- Statement-Non-Opinion
+11,- Backchannel
+12,- Statement-Non-Opinion
+13,- Statement-Opinion
+1,Disagreement
+2,Statement-Opinion
+3,Statement-Opinion
+4,Acknowledge
+5,Question
+6,Disagreement
+7,Statement-Opinion
+8,Statement-Opinion
+9,Question
+10,Disagreement
+11,Statement-Opinion
+12,Statement-Opinion
+13,Statement-Opinion
+14,Question
+15,Statement-Opinion
+16,Question
+17,Statement-Opinion
+18,Disagreement
+19,Statement-Non-Opinion
+20,Statement-Non-Opinion
+21,Greeting
+22,Question
+1,Question
+2,Statement-Non-Opinion
+3,Command
+4,Statement-Non-Opinion
+1,Statement-Opinion
+2,Acknowledge
+3,Statement-Opinion
+4,Disagreement
+5,Statement-Opinion
+6,Agreement
+7,Disagreement
+8,Statement-Opinion
+9,Agreement
+10,Agreement
+11,Question
+12,Answer
+1,Question
+2,Acknowledge
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Question
+6,Statement-Non-Opinion
+7,Backchannel
+8,Agreement
+9,Acknowledge
+10,Question
+1,Greeting
+2,Greeting
+3,Apology
+4,Greeting
+5,Apology
+6,Command
+7,Statement-Non-Opinion
+8,Acknowledge
+9,Statement-Opinion
+1,Question
+2,Answer
+3,Statement-Opinion
+4,Question
+5,Statement-Non-Opinion
+6,Statement-Opinion
+7,Greeting
+8,Statement-Non-Opinion
+9,Question
+10,Disagreement
+11,Statement-Opinion
+12,Agreement
+13,Disagreement
+14,Statement-Opinion
+15,Statement-Opinion
+16,Statement-Opinion
+1,Question
+2,Answer
+3,Question
+4,Answer
+5,Statement-Opinion
+1,Statement-Non-Opinion
+2,Acknowledge
+3,Statement-Non-Opinion
+4,Acknowledge
+5,Statement-Opinion
+6,Backchannel
+7,Statement-Opinion
+8,Acknowledge
+9,Statement-Non-Opinion
+10,Question
+11,Statement-Opinion
+12,Acknowledge
+13,Statement-Opinion
+14,Question
+15,Statement-Opinion
+16,Question
+17,Statement-Non-Opinion
+18,Statement-Opinion
+19,Acknowledge
+20,Command
+21,Statement-Opinion
+22,Question
+23,Statement-Opinion
+1,Question
+2,Command
+3,Statement-Opinion
+4,Question
+5,Statement-Non-Opinion
+6,Question
+7,Statement-Opinion
+8,Question
+9,Statement-Opinion
+10,Statement-Opinion
+11,Statement-Opinion
+12,Statement-Opinion
+13,Acknowledge
+14,Statement-Opinion
+15,Question
+16,Statement-Non-Opinion
+17,Question
+18,Statement-Non-Opinion
+1,Greeting
+2,Greeting
+3,Question
+4,Statement-Non-Opinion
+5,Question
+6,Statement-Non-Opinion
+7,Question
+8,Statement-Non-Opinion
+9,Statement-Non-Opinion
+10,Statement-Non-Opinion
+11,Disagreement
+12,Disagreement
+1,Question
+2,Statement-Opinion
+3,Statement-Opinion
+1,Statement-Non-Opinion
+2,Question
+3,Statement-Opinion
+4,Greeting
+5,Statement-Opinion
+6,Statement-Non-Opinion
+7,Statement-Opinion
+8,Command
+1,Statement-Non-Opinion
+2,Acknowledge
+3,Acknowledge
+4,Statement-Opinion
+5,Statement-Opinion
+6,Question
+7,Statement-Non-Opinion
+8,Question
+9,Statement-Non-Opinion
+1,- Statement-Non-Opinion
+2,- Question
+3,- Statement-Non-Opinion
+4,- Acknowledge
+5,- Disagreement
+6,- Question
+7,- Statement-Non-Opinion
+8,- Acknowledge
+1,Statement-Non-Opinion
+2,Statement-Opinion
+3,Statement-Opinion
+4,Acknowledge
+5,Statement-Opinion
+6,Greeting
+7,Greeting
+8,Greeting
+9,Statement-Opinion
+1,Question
+2,Statement-Opinion
+3,Greeting
+4,Statement-Non-Opinion
+5,Disagreement
+6,Question
+7,Acknowledge
+8,Statement-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Command
+1,- Acknowledge
+2,- Statement-Non-Opinion
+3,- Statement-Opinion
+4,- Backchannel
+1,- Greeting
+2,- Statement-Opinion
+3,- Apology
+4,- Statement-Non-Opinion
+5,- Statement-Opinion
+6,- Apology
+7,- Question
+8,- Statement-Non-Opinion
+9,- Agreement
+10,- Command
+1,Statement-Non-Opinion
+2,Command
+3,Command
+4,Statement-Non-Opinion
+5,Acknowledge
+6,Statement-Opinion
+7,Backchannel
+8,Statement-Opinion
+9,Statement-Opinion
+10,Question
+11,Backchannel
+12,Command
+13,Disagreement
+14,Statement-Opinion
+15,Statement-Non-Opinion
+16,Question
+1,- Command
+2,- Question
+3,- Statement-Opinion
+4,- Statement-Non-Opinion
+5,- Statement-Non-Opinion
+1,Statement-Non-Opinion
+2,Acknowledge
+3,Command
+4,Acknowledge
+5,Greeting
+6,Apology
+7,Disagreement
+8,Statement-Non-Opinion
+9,Statement-Non-Opinion
+10,Agreement
+11,Statement-Non-Opinion
+12,Backchannel
+13,Disagreement
+1,Statement-Opinion
+2,Statement-Opinion
+3,Statement-Opinion
+4,Question
+1,Question
+2,Statement-Non-Opinion
+3,Command
+4,Statement-Non-Opinion
+5,Question
+6,Disagreement
+7,Command
+8,Statement-Opinion
+9,Command
+10,Statement-Non-Opinion
+11,Acknowledge
+12,Question
+13,Statement-Non-Opinion
+14,Question
+15,Statement-Non-Opinion
+16,Statement-Non-Opinion
+17,Statement-Non-Opinion
+18,Statement-Non-Opinion
+19,Command
+20,Question
+21,Statement-Non-Opinion
+1,Greeting
+2,Question
+3,Answer
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Command
+7,Question
+8,Statement-Non-Opinion
+9,Disagreement
+10,Agreement
+11,Acknowledge
+12,Statement-Non-Opinion
+13,Statement-Non-Opinion
+14,Acknowledge
+15,Question
+16,Apology
+17,Statement-Opinion
+18,Statement-Opinion
+19,Acknowledge
+20,Statement-Non-Opinion
+21,Question
+1,- Statement-Non-Opinion
+2,- Greeting
+3,- Statement-Non-Opinion
+4,- Question
+5,- Disagreement
+6,- Statement-Opinion
+7,- Statement-Opinion
+8,- Question
+9,- Agreement
+10,- Acknowledge
+11,- Question
+12,- Statement-Non-Opinion
+13,- Command
+14,- Statement-Opinion
+15,- Command
+16,- Agreement
+17,- Command
+1,Statement-Opinion
+2,Acknowledge
+3,Command
+4,Command
+1,Command
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Statement-Non-Opinion
+5,Disagreement
+6,Statement-Opinion
+7,Command
+8,Statement-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Statement-Opinion
+12,Command
+13,Statement-Opinion
+14,Command
+15,Statement-Opinion
+16,Command
+17,Statement-Non-Opinion
+18,Statement-Non-Opinion
+19,Acknowledge
+20,Statement-Opinion
+21,Statement-Opinion
+22,Statement-Opinion
+1,- Joey - Very funny Ross! - **Agreement**
+2,- **Statement-Opinion**
+3,- **Acknowledge**
+4,- **Statement-Non-Opinion**
+5,"Whoa, maybe I was! - **Statement-Opinion**"
+6,"Get in there man! Flirt back, mix it up! - **Command**"
+7,- **Agreement**
+8,- **Acknowledge**
+9,How you a-doin'? - **Greeting**
+10,It worked! - **Statement-Non-Opinion**
+11,- **Statement-Non-Opinion**
+12,- **Acknowledge**
+13,"Let's see, she's on the third floor - **Statement-Non-Opinion**"
+14,"Wow! She is pretty, huh? - **Statement-Opinion**"
+15,"Tell me about it, huh? Oh no-no-no, I'm not with her, she's just Monica! Ewwuck! - **Disagreement**"
+1,Greeting
+2,Greeting
+3,Apology
+4,Statement-Opinion
+5,"Statement-Opinion, Command, Apology"
+1,Statement-Opinion
+2,Question
+3,Question
+4,Statement-Non-Opinion
+5,Agreement
+6,Question
+7,Acknowledge
+1,Statement-Non-Opinion
+2,Answer
+3,Question
+4,Disagreement
+5,Statement-Non-Opinion
+6,Statement-Non-Opinion
+7,Question
+8,Statement-Opinion
+9,Command
+10,Statement-Opinion
+11,Greeting
+12,Acknowledge
+1,- Command
+2,- Agreement
+3,- Question
+4,- Statement-Non-Opinion
+1,Greeting
+2,Greeting
+3,Greeting
+4,Greeting
+5,Question
+6,Agreement
+7,Agreement
+8,Others
+9,Statement-Non-Opinion
+10,Question
+11,Statement-Non-Opinion
+12,Command
+13,Disagreement
+1,Statement-Opinion
+2,Agreement
+3,Question
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Statement-Opinion
+7,Agreement
+8,Acknowledge
+1,Command
+2,Question
+3,Question
+4,Statement-Non-Opinion
+5,Statement-Opinion
+6,Question
+7,Statement-Opinion
+8,Question
+9,Statement-Opinion
+10,Question
+11,Statement-Non-Opinion
+12,Others
+13,Statement-Opinion
+14,Question
+15,Question
+16,Apology
+1,Acknowledge
+2,Statement-Opinion
+3,Question
+4,Statement-Opinion
+5,Question
+6,Agreement
+7,Backchannel
+1,- Joey - Bijan for men? Bijan for men? Bijan for men? - Question
+2,"So did you hear about the new guy? - Greeting, Question"
+1,Statement-Non-Opinion
+2,Agreement
+3,Statement-Non-Opinion
+4,Acknowledge
+5,Statement-Opinion
+6,Agreement
+7,Statement-Opinion
+8,Statement-Non-Opinion
+9,Command
+10,Command
+11,Statement-Non-Opinion
+12,Greeting
+13,Question
+14,Statement-Non-Opinion
+15,Statement-Opinion
+16,Statement-Opinion
+17,Agreement
+18,Agreement
+1,Apology
+2,Question
+3,Answer
+4,Statement-Non-Opinion
+5,Statement-Opinion
+1,Statement-Non-Opinion
+2,Question
+3,Statement-Non-Opinion
+4,Statement-Non-Opinion
+5,Greeting
+6,Greeting
+7,Question
+8,Statement-Non-Opinion
+9,Question
+10,Statement-Non-Opinion
+11,Apology
+12,Question
+13,Statement-Non-Opinion
+14,Statement-Opinion
+15,Statement-Non-Opinion
+16,Statement-Non-Opinion
+17,Statement-Opinion
+18,Statement-Non-Opinion
+19,Question
+20,Statement-Non-Opinion
+21,Command
+22,Statement-Non-Opinion
+23,Statement-Non-Opinion
+24,Question
+25,Statement-Opinion
+26,Statement-Non-Opinion
+1,Statement-Non-Opinion
+2,Agreement
+3,Disagreement
+4,Statement-Non-Opinion
+5,Agreement
+6,Question
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Question
+10,Statement-Non-Opinion
+11,Statement-Opinion
+12,Question
+13,Statement-Non-Opinion
+14,Question
+15,Statement-Non-Opinion
+16,Statement-Opinion
+17,Disagreement
+18,Statement-Opinion
+19,Statement-Opinion
+1,Greeting
+2,Acknowledge
+3,Apology
+4,Acknowledge
+5,Statement-Non-Opinion
+6,Question
+1,Statement-Opinion
+2,Acknowledge
+3,Command
+4,Statement-Opinion
+5,Agreement
+6,Statement-Opinion
+1,Statement-Non-Opinion
+2,Question
+3,Answer
+4,Statement-Opinion
+5,Statement-Opinion
+6,Question
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Statement-Non-Opinion
+10,Statement-Opinion
+11,Statement-Non-Opinion
+12,Statement-Opinion
+13,Question
+14,Statement-Opinion
+15,Statement-Opinion
+1,Statement-Opinion
+2,Question
+3,Statement-Opinion
+4,Statement-Opinion
+5,Acknowledge
+6,Command
+7,Statement-Non-Opinion
+8,Question
+9,Statement-Non-Opinion
+10,Statement-Opinion
+1,Question
+2,Statement-Opinion
+3,Acknowledge
+1,Greeting
+2,Question
+3,Answer
+4,Apology
+5,Disagreement
+6,Statement-Non-Opinion
+7,Command
+8,Question
+9,Acknowledge
+10,Answer
+11,Command
+12,Question
+13,Statement-Non-Opinion
+14,Disagreement
+15,Statement-Non-Opinion
+1,Statement-Non-Opinion
+2,Statement-Opinion
+3,Statement-Opinion
+4,Statement-Opinion
+5,Acknowledge
+6,Apology
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Question
+10,Answer
+11,Command
+12,Statement-Non-Opinion
+13,Acknowledge
+14,Statement-Non-Opinion
+15,Command
+16,Question
+17,Statement-Opinion
+18,Statement-Opinion
+19,Agreement
+1,Agreement
+2,Question
+3,Statement-Opinion
+4,Statement-Non-Opinion
+5,Question
+6,Answer
+7,Question
+8,Agreement
+9,Command
+10,Question
+11,Statement-Non-Opinion
+12,Question
+13,Statement-Opinion
+14,Statement-Non-Opinion
+15,Statement-Non-Opinion
+16,Statement-Opinion
+1,Apology
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+1,- Disagreement
+2,- Command
+3,- Statement-Non-Opinion
+4,- Acknowledge
+1,Greeting
+2,Greeting
+3,Question
+4,Answer
+5,Question
+6,Answer
+7,Statement-Opinion
+8,Statement-Non-Opinion
+9,Statement-Opinion
+10,Statement-Non-Opinion
+11,Backchannel
+12,Question
+1,- Question
+2,- Statement-Non-Opinion
+3,- Command
+4,- Statement-Non-Opinion
+5,- Statement-Non-Opinion
+6,- Statement-Opinion
+7,- Statement-Opinion
+8,- Acknowledge
+9,- Statement-Opinion
+10,- Statement-Opinion
+11,- Statement-Opinion
+12,- Question
+13,- Statement-Opinion
+1,- Acknowledge
+2,- Disagreement
+3,- Statement-Opinion
+1,Statement-Opinion
+2,Statement-Opinion
+3,Question
+4,Statement-Non-Opinion
+5,Disagreement
+6,Question
+7,Statement-Opinion
+8,Statement-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Statement-Opinion
+12,Statement-Opinion
+13,Statement-Opinion
+14,Statement-Opinion
+15,Statement-Opinion
+16,Statement-Opinion
+1,Acknowledge
+2,Question
+3,Apology
+4,Apology
+5,Apology
+1,Greeting
+2,Greeting
+3,Statement-Opinion
+4,Statement-Opinion
+1,Statement-Non-Opinion
+2,Statement-Non-Opinion
+3,Question
+4,Answer
+5,Statement-Opinion
+6,Disagreement
+7,Command
+1,Greeting
+2,Answer
+3,Question
+1,Disagreement
+2,Statement-Opinion
+3,Acknowledge
+4,Statement-Opinion
+5,Statement-Opinion
+6,Apology
+7,Others
+8,Disagreement
+9,Backchannel
+10,Agreement
+11,Question
+1,Command
+2,Statement-Non-Opinion
+3,Apology
+4,Acknowledge
+5,Question
+6,Statement-Opinion
+1,Statement-Opinion
+2,Disagreement
+3,Statement-Non-Opinion
+1,- Statement-Non-Opinion
+2,- Statement-Non-Opinion
+3,- Statement-Opinion
+4,- Statement-Opinion
+5,- Statement-Opinion
+6,- Statement-Non-Opinion
+7,- Question
+8,- Agreement
+9,- Statement-Opinion
+10,- Command
+11,- Statement-Non-Opinion
+12,- Statement-Non-Opinion
+1,Greeting
+2,Greeting
+3,Acknowledge
+4,Statement-Non-Opinion
+5,Acknowledge
+1,Statement-Opinion
+2,Command
+3,Question
+4,Statement-Non-Opinion
+5,Statement-Opinion
+6,Statement-Non-Opinion
+7,Question
+1,Agreement
+2,Question
+3,Statement-Non-Opinion
+4,Backchannel
+5,Statement-Non-Opinion
+1,- Greeting
+2,- Statement-Non-Opinion
+3,- Statement-Non-Opinion
+4,- Question
+5,- Statement-Opinion
+6,- Disagreement
+7,- Statement-Non-Opinion
+8,- Statement-Opinion
+9,- Command
+10,- Statement-Opinion
+11,- Backchannel
+12,- Statement-Non-Opinion
+13,- Statement-Non-Opinion
+14,- Command
+15,- Statement-Opinion
+16,- Acknowledge
+17,- Statement-Opinion
+1,Greeting
+2,Greeting
+3,Greeting
+4,Statement-Non-Opinion
+5,Acknowledge
+6,Question
+7,Statement-Opinion
+8,Statement-Opinion
+9,Question
+10,Acknowledge
+11,Statement-Opinion
+12,Agreement
+13,Statement-Non-Opinion
+1,Disagreement
+2,Agreement
+3,Question
+1,Greeting
+2,Greeting
+3,Greeting
+4,Greeting
+5,Backchannel
+6,Backchannel
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Statement-Non-Opinion
+10,Acknowledge
+11,Statement-Opinion
+12,Question
+13,Answer
+14,Statement-Opinion
+1,- Disagreement
+2,- Statement-Non-Opinion
+3,- Command
+4,- Acknowledge
+5,- Greeting
+6,- Command
+7,- Command
+8,- Acknowledge
+1,Disagreement
+2,Apology
+1,Command
+2,Disagreement
+3,Question
+4,Agreement
+5,Backchannel
+6,Statement-Opinion
+7,Statement-Opinion
+8,Incomplete (Others)
+9,Question
+10,Statement-Opinion
+11,Question
+12,Question
+13,Statement-Non-Opinion
+1,Question
+2,Command
+3,Answer
+4,Disagreement
+5,Statement-Opinion
+6,Statement-Opinion
+7,Apology
+8,Question
+9,Statement-Opinion
+10,Agreement
+11,Statement-Opinion
+12,Backchannel
+13,Statement-Opinion
+14,Backchannel
+15,Statement-Opinion
+16,Agreement
+17,Statement-Opinion
+18,Statement-Opinion
+19,Acknowledge
+20,Statement-Non-Opinion
+21,Acknowledge
+22,Question
+23,Agreement
+24,Statement-Opinion
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Greeting
+5,Command
+6,Question
+7,Answer
+8,Greeting
+9,Question
+10,Disagreement
+11,Acknowledge
+12,Answer
+13,Acknowledge
+1,Command
+2,Agreement
+3,Disagreement
+4,Statement-Opinion
+5,Question
+6,Statement-Non-Opinion
+7,Question
+8,Answer
+9,Command
+10,Disagreement
+11,Command
+12,Statement-Non-Opinion
+13,Statement-Opinion
+14,Acknowledge
+15,Agreement
+16,Statement-Opinion
+17,Question
+18,Statement-Opinion
+19,Statement-Non-Opinion
+20,Agreement
+21,Question
+22,Answer
+1,- Statement-Opinion
+2,- Statement-Opinion
+3,- Agreement
+4,- Command
+5,- Question
+6,- Question
+7,- Statement-Opinion
+1,Greeting
+2,Greeting
+3,Greeting
+4,Greeting
+1,Question
+2,Statement-Opinion
+3,Statement-Non-Opinion
+4,Acknowledge
+5,Command
+6,Question
+7,Disagreement
+8,Command
+9,Statement-Non-Opinion
+10,Command
+11,Greeting
+1,- Backchannel
+2,- Backchannel
+3,- Statement-Non-Opinion
+4,- Statement-Opinion
+5,- Agreement
+1,Question
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Greeting
+5,Greeting
+6,Question
+7,Statement-Non-Opinion
+8,Question
+9,Statement-Opinion
+10,Acknowledge
+11,Statement-Opinion
+1,Statement-Opinion
+2,Disagreement
+3,Command
+4,Statement-Opinion
+5,Question
+6,Statement-Opinion
+7,Question
+8,Statement-Opinion
+9,Command
+10,Command
+11,Statement-Opinion
+12,Disagreement
+13,Statement-Opinion
+14,Statement-Opinion
+15,Statement-Opinion
+16,Statement-Opinion
+17,Acknowledge
+18,Statement-Opinion
+19,Acknowledge
+1,"- Greeting, Statement-Non-Opinion, Acknowledge, Backchannel"
+2,"- Question, Question, Question, Question"
+3,"- Command, Statement-Non-Opinion"
+4,- Acknowledge
+5,- Statement-Non-Opinion
+1,- Statement-Opinion
+2,- Question
+3,- Statement-Opinion
+4,- Statement-Non-Opinion
+5,- Question
+6,- Agreement
+7,- Statement-Opinion
+8,- Question
+9,- Statement-Opinion
+10,- Question
+11,- Disagreement
+12,- Statement-Opinion
+13,- Statement-Opinion
+14,- Command
+15,- Disagreement
+16,- Disagreement
+17,- Question
+1,Acknowledge
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Question
+5,Answer
+1,Greeting
+2,Greeting
+3,Greeting
+4,Question
+5,"Statement-Non-Opinion, Question"
+6,"Disagreement, Statement-Non-Opinion, Question"
+7,"Agreement, Statement-Opinion"
+8,Statement-Opinion
+9,Acknowledge
+10,Statement-Non-Opinion
+11,Acknowledge
+1,Question
+2,Answer
+3,Statement-Opinion
+4,Command
+5,Question
+6,Acknowledge
+7,Question
+8,Answer
+9,Question
+10,Disagreement
+11,Apology
+1,Statement-Opinion
+2,Agreement
+3,Disagreement
+4,Question
+5,Statement-Non-Opinion
+1,Greeting
+2,Question
+3,Answer
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Statement-Opinion
+7,Answer
+8,Question
+9,Answer
+10,Question
+11,Question
+12,Statement-Opinion
+13,Answer
+14,Question
+15,Answer
+16,Question
+17,Question
+18,Answer
+19,Statement-Non-Opinion
+20,Apology
+21,Acknowledge
+22,Question
+23,Answer
+1,Greeting
+2,Agreement
+3,Acknowledge
+4,Disagreement
+5,Statement-Opinion
+6,Answer
+7,Question
+8,Question
+1,Acknowledge
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Command
+5,Command
+6,Command
+7,Question
+8,Statement-Non-Opinion
+9,Question
+1,Statement-Opinion
+2,Acknowledge
+3,Statement-Non-Opinion
+4,Command
+5,Acknowledge
+6,Backchannel
+7,Question
+8,Agreement
+1,Statement-Non-Opinion
+2,Agreement
+3,Statement-Non-Opinion
+4,Statement-Non-Opinion
+5,Command
+6,Question
+7,Command
+8,Statement-Opinion
+9,Question
+10,Statement-Non-Opinion
+11,Acknowledge
+1,Statement-Non-Opinion
+2,Question
+3,Statement-Non-Opinion
+4,Statement-Non-Opinion
+5,Statement-Opinion
+6,Statement-Opinion
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Question
+10,Statement-Opinion
+11,Statement-Non-Opinion
+12,Statement-Opinion
+13,Statement-Opinion
+14,Greeting
+15,Question
+16,Acknowledge
+1,- **Statement-Non-Opinion**
+2,""" - **Statement-Opinion**"
+3,- **Statement-Opinion**
+4,Oh my God! - **Acknowledge**
+5,What? - **Question**
+6,- **Statement-Non-Opinion**
+1,Greeting
+2,Apology
+3,Statement-Opinion
+4,Statement-Non-Opinion
+5,Question
+6,Statement-Opinion
+7,Statement-Non-Opinion
+8,Apology
+1,- Statement-Opinion
+2,- Statement-Opinion
+1,- Command
+2,- Statement-Opinion
+3,- Agreement
+4,- Question
+5,- Command
+6,- Greeting
+7,- Disagreement
+8,- Statement-Non-Opinion
+9,- Apology
+1,Question
+2,Disagreement
+3,Command
+4,Statement-Non-Opinion
+5,Greeting
+6,Question
+7,Statement-Non-Opinion
+8,Statement-Non-Opinion
+9,Command
+10,Question
+11,Acknowledge
+12,Statement-Non-Opinion
+1,Statement-Non-Opinion
+2,Statement-Opinion
+3,Command
+4,Greeting
+5,Question
+6,Apology
+7,Statement-Non-Opinion
+8,Command
+9,Disagreement
+1,Greeting
+2,Question
+3,Acknowledge
+4,Statement-Non-Opinion
+5,Acknowledge
+6,Statement-Opinion
+7,Statement-Opinion
+8,Statement-Non-Opinion
+9,Statement-Non-Opinion
+10,Disagreement
+11,Disagreement
+12,Statement-Non-Opinion
+13,Question
+14,Statement-Opinion
+15,Statement-Opinion
+16,Command
+17,Statement-Opinion
+18,Statement-Opinion
+19,Statement-Opinion
+20,Statement-Opinion
+1,Question
+2,Answer
+3,Acknowledge
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Acknowledge
+5,Statement-Opinion
+6,Command
+7,Statement-Non-Opinion
+8,Statement-Non-Opinion
+9,Acknowledge
+10,Question
+11,Statement-Non-Opinion
+12,Statement-Opinion
+13,Statement-Non-Opinion
+14,Acknowledge
+15,Acknowledge
+1,- Greeting
+2,- Greeting
+3,- Statement-Opinion
+4,- Question
+5,- Question
+6,- Agreement
+7,- Statement-Opinion
+8,- Acknowledge
+9,- Statement-Opinion
+10,- Question
+1,Command
+2,Statement-Opinion
+3,Command
+4,Question
+5,Backchannel
+6,Question
+1,- Greeting
+2,- Statement-Opinion
+3,- Disagreement
+1,- Monica - Ow! - **Others**
+2,- **Statement-Non-Opinion**
+3,- **Command**
+4,Oh my God! Oh my God! - **Others**
+5,- **Statement-Non-Opinion**
+6,- **Statement-Non-Opinion**
+7,- **Statement-Non-Opinion**
+8,- **Statement-Non-Opinion**
+9,Ha-ha - **Others**
+10,- **Statement-Non-Opinion**
+11,- **Apology**
+12,"So um, who was she? - **Question**"
+13,- **Answer**
+14,- **Question**
+15,- **Statement-Opinion**
+1,Disagreement
+2,Disagreement
+3,Agreement
+4,Statement-Opinion
+5,Greeting
+6,Question
+7,Question
+1,Command
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Disagreement
+5,Question
+6,Backchannel
+7,Statement-Non-Opinion
+8,Statement-Non-Opinion
+9,Statement-Non-Opinion
+10,Disagreement
+11,Disagreement
+12,Acknowledge
+13,Statement-Non-Opinion
+14,Question
+1,Question
+2,Apology
+3,Acknowledge
+4,Statement-Non-Opinion
+5,Command
+6,Statement-Opinion
+7,Statement-Non-Opinion
+8,Disagreement
+9,Statement-Non-Opinion
+10,Statement-Opinion
+1,"- Joey - Oh, it's perfect! - **Statement-Opinion**"
+2,How about you? - **Question**
+3,- **Statement-Non-Opinion**
+4,- **Agreement**
+5,- **Statement-Opinion**
+6,"He knew! You think we could get a bathtub in our kitchen? - **Disagreement** (first part), **Question** (second part)"
+"(Note: For sentence 6, since it contains two distinct dialogue acts, you may choose the dominant one or split it",)
+1,Command
+2,Agreement
+3,Statement-Opinion
+4,Question
+5,Statement-Non-Opinion
+6,Disagreement
+7,Acknowledge
+8,Apology
+1,Question
+2,Answer
+3,Statement-Non-Opinion
+4,Apology
+5,Statement-Non-Opinion
+6,Statement-Opinion
+7,Disagreement
+1,Apology
+2,Statement-Opinion
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Statement-Non-Opinion
+6,Backchannel
+7,Statement-Non-Opinion
+8,Backchannel
+9,Question
+10,Statement-Non-Opinion
+11,Apology
+12,Disagreement
+13,Command
+14,Disagreement
+15,Question
+16,Disagreement
+17,Question
+18,Question
+19,Statement-Opinion
+20,Question
+21,Answer
+1,Question
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Question
+5,Statement-Opinion
+6,Statement-Opinion
+7,Statement-Non-Opinion
+8,Question
+9,Statement-Non-Opinion
+10,Acknowledge
+11,Statement-Non-Opinion
+12,Question
+13,Agreement
+14,Command
+15,Statement-Non-Opinion
+16,Question
+17,Question
+18,Statement-Opinion
+19,Question
+20,Answer
+1,- Command
+2,- Question
+3,- Disagreement
+1,- Statement-Opinion
+2,- Question
+3,- Statement-Non-Opinion
+4,- Statement-Non-Opinion
+5,- Statement-Opinion
+6,- Statement-Non-Opinion
+7,- Statement-Non-Opinion
+8,- Acknowledge
+9,- Statement-Opinion
+10,- Statement-Opinion
+11,- Statement-Opinion
+12,- Agreement
+1,Statement-Non-Opinion
+2,Greeting
+3,Apology
+4,Apology
+5,Statement-Non-Opinion
+6,Acknowledge
+7,Question
+8,Statement-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Statement-Opinion
+12,Agreement
+13,Command
+14,Disagreement
+1,Statement-Opinion
+2,Disagreement
+3,Statement-Non-Opinion
+4,Command
+5,Greeting + Apology
+6,Question
+7,Statement-Opinion + Apology
+8,Agreement + Suggestion (Statement-Opinion)
+9,Statement-Opinion
+10,Statement-Opinion
+11,Question
+12,Statement-Opinion
+13,Acknowledge
+14,Statement-Non-Opinion
+15,Question
+16,Question
+17,Statement-Non-Opinion
+18,Statement-Non-Opinion
+19,Statement-Non-Opinion
+20,Acknowledge
+21,Statement-Opinion
+22,Question
+23,Statement-Opinion
+24,Statement-Opinion
+1,**Statement-Non-Opinion**
+2,**Command**
+3,**Statement-Opinion**
+4,**Statement-Non-Opinion**
+5,**Statement-Opinion**
+6,**Statement-Opinion**
+7,**Statement-Opinion**
+8,**Statement-Opinion**
+1,- **Acknowledge**
+2,- **Statement-Non-Opinion**
+3,- **Agreement**
+4,Really?! How come we didn't cross paths? - **Question**
+5,- **Statement-Non-Opinion**
+1,Statement-Opinion
+2,Statement-Non-Opinion
+1,- Agreement
+2,- Disagreement
+3,- Command
+1,- Greeting
+2,- Greeting
+3,- Statement-Opinion
+4,- Statement-Non-Opinion
+5,- Question
+6,- Statement-Opinion
+7,- Question
+8,- Question
+9,- Statement-Opinion
+10,- Statement-Opinion
+11,- Acknowledge
+12,- Statement-Opinion
+13,- Question
+14,- Agreement
+15,- Statement-Opinion
+16,- Acknowledge
+17,- Greeting
+18,- Statement-Opinion
+1,Statement-Non-Opinion
+2,Disagreement
+3,Statement-Non-Opinion
+4,Question
+5,Apology
+6,Question
+7,Statement-Non-Opinion
+8,Command
+9,Apology
+10,Statement-Opinion
+11,Statement-Opinion
+12,Disagreement
+1,- Question
+2,- Statement-Opinion
+3,- Disagreement
+4,- Statement-Non-Opinion
+5,- Command
+6,- Statement-Opinion
+7,- Statement-Opinion
+8,- Statement-Opinion
+9,- Statement-Opinion
+10,- Statement-Non-Opinion
+11,- Greeting
+12,- Statement-Non-Opinion
+13,- Question
+14,- Statement-Opinion
+1,- Rachel - Oh my God! What does - **Question**
+2,- **Statement-Non-Opinion**
+3,"All right, I'm outta here! - **Statement-Opinion**"
+4,I'm kidding! I'm kidding! - **Statement-Opinion**
+5,So were done then! - **Statement-Opinion**
+6,- **Statement-Non-Opinion**
+7,- **Statement-Non-Opinion**
+8,- **Backchannel**
+9,- **Command**
+10,- **Acknowledge**
+11,- **Command**
+12,What?! - **Question**
+13,"A small puff of air, now come on! - **Command**"
+1,- **Statement-Opinion**
+2,- **Command**
+3,"- Joey - Yeah, but I don't wanna die! - **Disagreement**"
+4,"- Phoebe - No-no, it'll be fun! We can come back and we can haunt these guys! - **Statement-Opinion**"
+1,- **Greeting**
+2,- **Greeting**
+3,- **Greeting**
+4,- **Statement-Non-Opinion**
+1,- Greeting
+2,- Greeting
+3,- Statement-Non-Opinion
+4,- Statement-Non-Opinion
+5,- Question
+6,- Statement-Non-Opinion
+7,- Statement-Opinion
+8,- Statement-Non-Opinion
+9,- Statement-Non-Opinion
+1,Greeting
+2,Statement-Non-Opinion
+3,Command
+4,Statement-Opinion
+5,Question
+6,Statement-Opinion
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Command
+12,Agreement
+13,Agreement
+14,Statement-Opinion
+1,Statement-Non-Opinion
+2,Acknowledge
+3,Statement-Opinion
+4,Acknowledge
+5,Command
+6,Agreement
+7,Command
+8,Acknowledge
+9,Question
+10,Statement-Non-Opinion
+11,Acknowledge
+12,Greeting
+13,Statement-Opinion
+14,Statement-Non-Opinion
+15,Agreement
+16,Disagreement
+17,Agreement
+18,Statement-Non-Opinion
+19,Statement-Non-Opinion
+20,Statement-Opinion
+21,Statement-Non-Opinion
+1,- Greeting
+2,- Statement-Non-Opinion
+3,- Question
+4,- Apology
+5,- Greeting
+6,- Greeting
+1,Question
+2,Statement-Opinion
+3,Question
+4,Disagreement
+5,Greeting
+6,Statement-Opinion
+7,Statement-Opinion
+8,Question
+9,Answer
+10,Statement-Non-Opinion
+11,Command
+12,Disagreement
+13,Command
+14,Command
+15,Command
+16,Acknowledge
+1,Statement-Non-Opinion
+2,Question
+3,Statement-Non-Opinion
+1,Statement-Opinion
+2,Disagreement
+3,Statement-Opinion
+4,Greeting
+5,Statement-Opinion
+6,Apology
+7,Command
+8,Statement-Non-Opinion
+9,Statement-Opinion
+10,Question
+1,- **Acknowledge**
+2,- **Statement-Non-Opinion**
+3,Have you felt Rachel's cervix Ross? - **Question**
+4,- **Disagreement**
+5,- **Disagreement**
+6,- **Statement-Opinion**
+7,Am I interrupting? - **Question**
+8,- **Answer**
+9,- **Disagreement**
+10,- **Command**
+11,- **Apology**
+12,No Ross! Ross! Ross! My child has no father! - **Disagreement**
+1,- Command
+2,- Statement-Non-Opinion
+3,- Statement-Opinion
+4,- Statement-Opinion
+5,- Greeting
+1,Greeting
+2,Apology
+3,Question
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Question
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Statement-Opinion
+10,Backchannel
+11,Disagreement
+12,Agreement
+13,Statement-Opinion
+14,Question
+15,Statement-Opinion
+16,Statement-Opinion
+17,Acknowledge
+18,Acknowledge
+19,Acknowledge
+1,Statement-Opinion
+2,Statement-Opinion
+3,Acknowledge
+4,Statement-Opinion
+5,Question
+6,Statement-Non-Opinion
+7,Command
+8,Disagreement
+9,Question
+10,Statement-Opinion
+11,Disagreement
+12,Backchannel
+13,Question
+14,Backchannel
+15,Question
+16,Backchannel
+17,Statement-Non-Opinion
+1,Apology
+2,Acknowledge
+3,Backchannel
+4,Greeting
+5,Statement-Non-Opinion
+6,Question
+7,Statement-Opinion
+8,Question
+9,Statement-Non-Opinion
+10,Question
+11,Command
+12,Acknowledge
+1,- Greeting
+2,- Answer
+3,- Question
+4,- Answer
+5,- Question
+6,- Statement-Opinion
+7,- Disagreement
+8,- Statement-Opinion
+9,- Statement-Opinion
+10,- Statement-Opinion
+11,- Acknowledge
+12,- Question
+13,- Answer
+14,- Statement-Non-Opinion
+15,- Question
+16,- Answer
+17,- Statement-Non-Opinion
+18,- Statement-Opinion
+19,- Statement-Non-Opinion
+1,- Question
+2,- Statement-Opinion
+3,- Greeting
+4,- Greeting
+5,- Question
+6,- Statement-Non-Opinion
+7,- Statement-Opinion
+8,- Acknowledge
+9,- Statement-Opinion
+10,- Question
+11,- Statement-Opinion
+12,- Backchannel
+13,- Acknowledge
+14,- Statement-Non-Opinion
+1,Statement-Opinion
+2,Question
+3,Statement-Non-Opinion
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Question
+7,Statement-Opinion
+8,Statement-Opinion
+9,Statement-Opinion
+10,Agreement
+11,Agreement
+12,Question
+1,Greeting
+2,Answer
+3,Statement-Opinion
+4,Acknowledge
+5,Question
+6,Statement-Opinion
+7,Question
+8,Command
+9,Acknowledge
+10,Statement-Opinion
+1,- Question
+2,- Agreement
+3,- Statement-Opinion
+4,- Statement-Opinion
+5,- Question
+6,- Answer
+7,- Question
+8,- Answer
+9,- Question
+10,- Answer
+11,- Question
+12,- Question
+13,- Statement-Opinion
+14,- Agreement
+15,- Question
+1,Question
+2,Greeting
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+6,Question
+7,Statement-Non-Opinion
+8,Question
+9,Command
+10,Question
+11,Answer
+12,Question
+13,Acknowledge
+14,Question
+15,Question
+16,Acknowledge
+17,Acknowledge
+18,Acknowledge
+1,Statement-Non-Opinion
+2,Command
+3,Acknowledge
+4,Question
+5,Question
+6,Statement-Non-Opinion
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Question
+10,Others
+11,Question
+12,Statement-Non-Opinion
+13,Answer
+14,Statement-Non-Opinion
+15,Answer
+16,Statement-Non-Opinion
+1,Command
+2,Question
+3,Statement-Non-Opinion
+1,Greeting
+2,"Greeting, Question"
+3,Answer
+4,"Statement-Non-Opinion, Command"
+5,Statement-Non-Opinion
+6,Statement-Opinion
+7,Statement-Non-Opinion
+8,Command
+9,Acknowledge
+10,Statement-Opinion
+11,Statement-Opinion
+12,Statement-Opinion
+13,Statement-Opinion
+14,"Statement-Opinion, Question"
+15,"Apology, Statement-Opinion"
+16,Statement-Non-Opinion
+17,Command
+18,Command
+1,Statement-Opinion
+2,Agreement
+3,Statement-Non-Opinion
+4,Question
+5,Answer
+6,Acknowledge
+7,Backchannel
+1,Greeting
+2,Statement-Opinion
+3,Agreement
+4,Greeting
+5,Backchannel
+6,Question
+1,Backchannel
+2,Question
+3,Statement-Non-Opinion
+4,Acknowledge
+1,Statement-Opinion
+2,Question
+3,Acknowledge
+4,Command
+1,Acknowledge
+2,Question
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Question
+6,Statement-Non-Opinion
+7,Statement-Opinion
+8,Acknowledge
+9,Statement-Opinion
+10,Agreement
+11,Statement-Non-Opinion
+12,Statement-Non-Opinion
+13,Disagreement
+1,Acknowledge
+2,Question
+3,Statement-Non-Opinion
+4,Question
+1,- Agreement
+2,- Statement-Non-Opinion
+3,- Apology
+4,- Command
+5,- Acknowledge
+6,- Disagreement
+7,- Statement-Opinion
+8,- Question
+9,- Question
+10,- Statement-Opinion
+11,- Disagreement
+12,- Others
+13,- Disagreement
+14,- Acknowledge
+15,- Question
+1,Statement-Opinion
+2,Disagreement
+3,Apology
+1,- **Acknowledge**
+2,- **Command**
+3,- **Statement-Non-Opinion**
+4,Chandler! - **Greeting**
+5,What is the matter with your face?! - **Question**
+6,"I mean this picture is supposed to say ""Geller and Bing to be married,"" not ""Local woman saves drowning moron!"" - **Statement-Opinion**"
+7,Hey! - **Greeting**
+8,Don't laugh at him! - **Command**
+9,He's - **Others** (incomplete sentence)
+1,Statement-Opinion
+2,Agreement
+3,Statement-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+6,Question
+7,Statement-Non-Opinion
+8,Statement-Non-Opinion
+9,Agreement
+10,Acknowledge
+11,Question
+12,Backchannel
+13,Question
+14,Backchannel
+15,Question
+16,Statement-Non-Opinion
+17,Statement-Non-Opinion
+18,Statement-Non-Opinion
+19,Question
+20,Statement-Non-Opinion
+1,- Apology
+2,- Agreement
+1,- Greeting
+2,- Question
+3,- Answer
+4,- Acknowledge
+5,- Statement-Non-Opinion
+6,- Question
+7,- Answer
+8,- Acknowledge
+9,- Statement-Non-Opinion
+10,- Statement-Opinion
+11,- Answer
+12,- Backchannel
+13,- Greeting
+1,Statement-Opinion
+2,Acknowledge
+3,Question
+1,Question
+2,Statement-Non-Opinion
+3,Question
+4,Statement-Opinion
+5,Statement-Opinion
+6,Statement-Non-Opinion
+7,Question
+8,Agreement
+9,Command
+10,Statement-Non-Opinion
+11,Statement-Non-Opinion
+12,Command
+13,Statement-Non-Opinion
+14,Statement-Opinion
+15,Statement-Non-Opinion
+16,Agreement
+1,Statement-Non-Opinion
+2,Statement-Opinion
+3,Statement-Opinion
+4,Question
+5,Command
+6,Statement-Non-Opinion
+7,Question
+8,Question
+9,Command
+10,Command
+11,Command
+12,Question
+13,Question
+14,Command
+1,Question
+2,Statement-Non-Opinion
+3,Acknowledge
+4,Agreement
+5,Command
+6,Question
+7,Question
+8,Statement-Non-Opinion
+9,Statement-Opinion
+10,Command
+11,Agreement
+12,Answer
+13,Statement-Non-Opinion
+14,Statement-Non-Opinion
+15,Statement-Non-Opinion
+16,Apology
+1,Command
+2,Statement-Opinion
+3,Statement-Opinion
+4,Statement-Opinion
+5,Disagreement
+6,Statement-Opinion
+7,Statement-Opinion
+8,Statement-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Disagreement
+12,Question
+1,Statement-Non-Opinion
+2,Statement-Non-Opinion
+3,Question
+4,Answer
+5,Question
+6,Answer
+7,Statement-Opinion
+8,Statement-Opinion
+9,Statement-Opinion
+10,Question
+11,Question
+12,Answer
+13,Statement-Opinion
+14,Statement-Opinion
+15,Statement-Opinion
+16,Question
+17,Answer
+1,Greeting
+2,Command
+3,Greeting
+4,Command
+5,Acknowledge
+6,Question
+7,Statement-Non-Opinion
+8,Agreement
+9,Agreement
+10,Statement-Non-Opinion
+11,Disagreement
+12,Question
+13,Statement-Non-Opinion
+14,Acknowledge
+15,Command
+16,Statement-Non-Opinion
+17,Command
+18,Agreement
+19,Statement-Non-Opinion
+20,Command
+21,Statement-Opinion
+22,Disagreement
+1,Command
+2,Acknowledge
+3,Command
+4,Statement-Opinion
+5,Disagreement
+6,Statement-Opinion
+7,Acknowledge
+8,Question
+9,Statement-Non-Opinion
+10,Others
+11,Statement-Opinion
+12,Disagreement
+13,Acknowledge
+14,Question
+15,Others
+16,Question
+17,Agreement
+1,Statement-Opinion
+2,Question
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+6,Question
+1,Statement-Opinion
+2,Command
+3,Apology
+4,Question
+5,Statement-Non-Opinion
+6,Acknowledge
+7,Statement-Non-Opinion
+1,Greeting
+2,Greeting
+3,Question
+4,Answer
+5,Statement-Non-Opinion
+6,Acknowledge
+7,Statement-Non-Opinion
+8,Acknowledge
+9,Question
+10,Disagreement
+11,Statement-Non-Opinion
+12,Disagreement
+13,Question
+14,Answer
+15,Acknowledge
+1,- Statement-Non-Opinion
+2,- Command
+3,- Question
+4,- Statement-Opinion
+5,- Acknowledge
+1,Greeting
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Command
+5,Statement-Opinion
+6,Statement-Non-Opinion
+7,Statement-Opinion
+8,Statement-Non-Opinion
+1,- Greeting
+2,- Question
+3,- Statement-Opinion
+4,- Statement-Opinion
+5,- Command
+6,- Question
+7,- Answer
+1,- Statement-Non-Opinion
+2,- Command
+3,- Apology
+4,- Question
+5,- Statement-Opinion
+6,- Apology
+1,- Command
+2,- Acknowledge
+3,- Statement-Opinion
+4,- Acknowledge
+5,- Command
+6,- Question
+7,- Command
+1,Disagreement
+2,Question
+3,Backchannel
+4,Statement-Opinion
+5,Statement-Non-Opinion
+6,Statement-Non-Opinion
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Acknowledge
+1,- Question
+2,- Question
+3,- Answer
+4,- Disagreement
+5,- Disagreement
+1,- Statement-Non-Opinion
+2,- Greeting
+3,- Question
+4,- Statement-Non-Opinion
+5,- Statement-Non-Opinion
+6,- Question
+7,- Statement-Opinion
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Statement-Non-Opinion
+5,Statement-Opinion
+6,Apology
+7,Acknowledge
+1,- Greeting
+2,- Statement-Non-Opinion
+3,- Statement-Opinion
+4,- Command
+5,- Acknowledge
+6,- Command
+7,- Command
+1,Disagreement
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Question
+5,Statement-Non-Opinion
+6,Question
+7,Statement-Opinion
+8,Apology
+9,Statement-Opinion
+10,Greeting
+11,Greeting
+12,Greeting
+13,Acknowledge
+14,Question
+15,Apology
+16,Acknowledge
+17,Command
+18,Acknowledge
+19,Question
+20,Statement-Non-Opinion
+21,Statement-Opinion
+22,Statement-Non-Opinion
+23,Statement-Opinion
+24,Command
+1,- Greeting
+2,- Question
+3,- Apology
+4,- Acknowledge
+5,- Statement-Opinion
+6,- Statement-Non-Opinion
+7,- Backchannel
+8,- Agreement
+9,- Acknowledge
+10,- Statement-Opinion
+11,- Statement-Non-Opinion
+12,- Disagreement
+13,- Statement-Opinion
+14,- Question
+15,- Statement-Non-Opinion
+16,- Disagreement
+17,- Greeting
+1,Question
+2,Answer
+3,Statement-Opinion
+4,Statement-Opinion
+5,Command
+6,Question
+7,Statement-Opinion
+8,Backchannel
+9,Statement-Opinion
+1,Greeting
+2,Question
+3,Answer
+4,Statement-Opinion
+5,Statement-Opinion
+6,Acknowledge
+7,Command
+8,Statement-Opinion
+9,Question
+10,Answer
+11,Question
+12,Answer
+13,Command
+14,Acknowledge
+15,Statement-Non-Opinion
+16,Statement-Opinion
+17,Statement-Non-Opinion
+18,Statement-Opinion
+19,Statement-Opinion
+20,Statement-Opinion
+21,Statement-Opinion
+1,- Command
+2,- Greeting
+3,- Acknowledge
+4,- Statement-Opinion
+5,- Statement-Opinion
+6,- Command
+7,- Statement-Non-Opinion
+8,- Command
+1,- Greeting
+2,- Question
+3,- Answer
+4,- Statement-Opinion
+5,- Question
+6,- Statement-Opinion
+1,Statement-Opinion
+2,Question
+3,Statement-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+6,Greeting
+7,Acknowledge
+8,Statement-Non-Opinion
+9,Statement-Non-Opinion
+10,Backchannel
+1,Apology
+2,Question
+3,Answer
+4,Question
+5,Backchannel
+6,Statement-Non-Opinion
+7,Statement-Opinion
+8,Statement-Non-Opinion
+9,Statement-Opinion
+10,Backchannel
+11,Command
+12,Statement-Opinion
+13,Command
+14,Statement-Non-Opinion
+15,Question
+16,Statement-Non-Opinion
+17,Apology
+18,Acknowledge
+19,Agreement
+20,Statement-Opinion
+21,Backchannel
+22,Statement-Non-Opinion
+23,Question
+24,Statement-Non-Opinion
+1,Question
+2,Question
+3,Question
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Statement-Non-Opinion
+7,Apology
+8,Command
+9,Question
+10,Statement-Non-Opinion
+11,Statement-Opinion
+12,Statement-Opinion
+13,Statement-Opinion
+14,Command
+15,Question
+16,Greeting
+1,Question
+2,Answer
+3,Question
+4,Statement-Opinion
+5,Question
+6,Statement-Opinion
+7,Statement-Opinion
+8,Question
+9,Statement-Opinion
+10,Statement-Opinion
+11,Statement-Opinion
+12,Question
+13,Answer
+14,Statement-Opinion
+15,Question
+16,Statement-Opinion
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Statement-Opinion
+5,Acknowledge
+6,Command
+7,Greeting
+8,Answer
+9,Command
+10,Question
+1,Question
+2,Answer
+3,Acknowledge
+4,Question
+1,Statement-Non-Opinion
+2,Statement-Non-Opinion
+3,Question
+4,Answer
+1,Question
+2,Statement-Non-Opinion
+3,Disagreement
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Question
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Statement-Opinion
+12,Statement-Non-Opinion
+13,Agreement
+14,Question
+15,Statement-Opinion
+16,Acknowledge
+1,Greeting
+2,Acknowledge
+3,Statement-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+1,Command
+2,Acknowledge
+3,Statement-Opinion
+4,Statement-Opinion
+5,Command
+6,Backchannel
+7,Question
+8,Backchannel
+9,Statement-Non-Opinion
+10,Disagreement
+1,- Question
+2,- Question
+3,- Question
+4,- Statement-Opinion
+5,- Acknowledge
+6,- Question
+7,- Statement-Opinion
+1,- **Statement-Opinion**
+2,What? - **Question**
+3,Eww! - **Statement-Opinion**
+4,- **Statement-Opinion**
+5,Will you help me? Please? - **Question**
+1,Statement-Opinion
+2,Agreement
+3,Statement-Opinion
+4,Question
+5,Statement-Opinion
+6,Greeting
+7,Command
+8,Command
+9,Acknowledge
+10,Acknowledge
+11,Acknowledge
+12,Statement-Opinion
+13,Question
+14,Question
+15,Statement-Opinion
+16,Statement-Opinion
+17,Disagreement
+18,Statement-Opinion
+19,Statement-Opinion
+20,Agreement
+1,Question
+2,Statement-Opinion
+3,Statement-Opinion
+4,Question
+5,Acknowledge
+6,Statement-Non-Opinion
+7,Question
+8,Question
+9,Backchannel
+1,- Rachel - Sit! - Command
+2,- Greeting
+3,"Oh my gosh, Joshua! - Acknowledge"
+1,Statement-Non-Opinion
+2,Question
+3,Answer
+4,Acknowledge
+5,Statement-Non-Opinion
+6,Statement-Opinion
+7,Question
+8,Agreement
+9,Acknowledge
+1,- Command
+2,- Apology
+3,- Question
+4,- Statement-Opinion
+5,- Acknowledge
+6,- Apology
+7,- Statement-Non-Opinion
+8,- Question
+9,- Statement-Non-Opinion
+10,- Statement-Non-Opinion
+11,- Question
+12,- Statement-Opinion
+13,- Question
+14,- Acknowledge
+1,Question
+2,Answer
+3,Question
+4,Question
+5,Statement-Non-Opinion
+6,Statement-Opinion
+7,Question
+8,Statement-Opinion
+9,Question
+10,Command
+11,Statement-Opinion
+12,Command
+13,Statement-Opinion
+14,Statement-Opinion
+15,Question
+16,Statement-Opinion
+17,Command
+18,Statement-Non-Opinion
+19,Statement-Opinion
+1,Question
+2,Agreement
+3,Statement-Opinion
+1,Statement-Opinion
+2,Acknowledge
+3,Command
+4,Statement-Opinion
+5,Statement-Non-Opinion
+6,Question
+7,Command
+8,Statement-Non-Opinion
+9,Statement-Non-Opinion
+1,Greeting
+2,Statement-Non-Opinion
+3,Disagreement
+4,Statement-Non-Opinion
+5,Acknowledge
+6,Statement-Non-Opinion
+7,Statement-Opinion
+8,Apology
+9,Question
+10,Statement-Non-Opinion
+1,Greeting
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Acknowledge
+5,Command
+6,Acknowledge
+7,Command
+8,Acknowledge
+9,Acknowledge
+10,Question
+11,Question
+1,Statement-Opinion
+2,Acknowledge
+3,Statement-Non-Opinion
+4,Agreement
+5,Disagreement
+1,Statement-Non-Opinion
+2,Backchannel
+3,Question
+4,Statement-Opinion
+5,Statement-Non-Opinion
+6,Backchannel
+7,Question
+8,Statement-Opinion
+9,Agreement
+10,Statement-Opinion
+11,Question
+12,Statement-Opinion
+13,Question
+14,Command
+15,Command
+16,Backchannel
+17,Command
+18,Disagreement
+19,Command
+20,Disagreement
+21,Question
+1,- Question
+2,- Question
+3,- Apology
+4,- Question
+5,- Statement-Non-Opinion
+6,- Statement-Non-Opinion
+7,- Statement-Non-Opinion
+8,- Question
+9,- Statement-Opinion
+10,- Statement-Opinion
+11,- Statement-Non-Opinion
+12,- Statement-Non-Opinion
+13,- Statement-Opinion
+1,- Command
+2,- Greeting
+3,- Statement-Opinion
+4,- Question
+5,- Statement-Non-Opinion
+1,- Greeting
+2,- Greeting
+3,- Apology
+4,- Disagreement
+5,- Question
+6,- Disagreement
+7,- Question
+1,Statement-Non-Opinion
+2,Statement-Opinion
+3,Statement-Opinion
+4,Backchannel
+5,Statement-Non-Opinion
+6,Agreement
+7,Acknowledge
+8,Disagreement
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Question
+5,Question
+6,Answer
+7,Disagreement
+8,Statement-Opinion
+1,Statement-Non-Opinion
+2,Acknowledge
+3,Statement-Non-Opinion
+4,Question
+5,Agreement
+6,Disagreement
+7,Disagreement
+8,Statement-Non-Opinion
+1,- Command
+2,- Question
+3,- Answer
+4,- Statement-Opinion
+5,- Statement-Non-Opinion
+6,- Acknowledge
+7,- Command
+8,- Backchannel
+1,Statement-Non-Opinion
+2,Statement-Opinion
+3,Command
+4,Acknowledge
+5,Question
+6,Statement-Opinion
+7,Agreement
+8,Disagreement
+9,Statement-Opinion
+10,Statement-Opinion
+11,Statement-Opinion
+12,Question
+13,Statement-Opinion
+14,Acknowledge
+15,Acknowledge
+16,Statement-Non-Opinion
+17,Command
+18,Question
+19,Statement-Opinion
+1,Greeting
+2,Agreement
+3,Acknowledge
+4,Others
+5,Question
+6,Acknowledge
+7,Disagreement
+8,Statement-Opinion
+9,Question
+10,Greeting
+11,Greeting
+12,Acknowledge
+1,Question
+2,Answer
+3,Question
+4,Agreement
+5,Question
+6,Answer
+7,Statement-Non-Opinion
+8,Agreement
+9,Acknowledge
+1,Statement-Opinion
+2,Question
+3,Statement-Non-Opinion
+4,Acknowledge
+5,Question
+6,Answer
+7,Question
+8,Statement-Opinion
+9,Statement-Non-Opinion
+10,Statement-Non-Opinion
+11,Statement-Opinion
+1,But Chandler is in - **Acknowledge**
+2,- **Agreement**
+3,- **Command**
+4,- **Statement-Non-Opinion**
+5,"Oh! Okay! You, Mister Right Place at the Right Time, call me! - **Command**"
+1,- Ross - Oh man! - **Acknowledge**
+2,- Ross - I want that place so much!! - **Statement-Opinion**
+3,- Ross - I was so sure that was gonna work! - **Statement-Opinion**
+1,Statement-Opinion
+2,Command
+3,Greeting
+4,Greeting
+5,Greeting
+6,Statement-Opinion
+7,Acknowledge
+8,Question
+9,Statement-Opinion
+10,Question
+11,Statement-Opinion
+12,Statement-Opinion
+1,Statement-Opinion
+2,Command
+3,Disagreement
+4,Acknowledge
+1,Question
+2,Agreement
+3,Command
+4,Acknowledge
+1,Statement-Opinion
+2,Command
+3,Statement-Opinion
+4,Command
+5,Command
+6,Command
+7,Command
+8,Command
+9,Command
+10,Command
+11,Acknowledge
+12,Statement-Opinion
+13,Command
+14,Statement-Non-Opinion
+15,Statement-Non-Opinion
+16,Statement-Opinion
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Acknowledge
+4,Statement-Non-Opinion
+5,Question
+6,Answer
+7,Command
+8,Answer
+9,Statement-Opinion
+10,Acknowledge
+11,Statement-Opinion
+12,Disagreement
+13,Question
+14,Command
+15,Greeting
+16,Question
+17,Statement-Non-Opinion
+18,Command
+19,Command
+1,- Question
+2,- Answer
+3,- Question
+4,- Agreement
+5,- Question
+6,- Statement-Opinion
+7,- Command
+8,- Command
+9,- Disagreement
+10,- Command
+11,- Statement-Opinion
+1,Question
+2,Answer
+3,Backchannel
+4,Command
+5,Backchannel
+6,Backchannel
+7,Acknowledge
+8,Question
+9,Statement-Opinion
+10,Question
+11,Statement-Non-Opinion
+12,Backchannel
+13,Statement-Opinion
+14,Disagreement
+15,Command
+16,Apology
+17,Acknowledge
+18,Agreement
+19,Disagreement
+20,Statement-Opinion
+1,Statement-Non-Opinion
+2,Question
+3,Disagreement
+4,Question
+1,Question
+2,Statement-Opinion
+3,Question
+4,Question
+5,Command
+6,Statement-Non-Opinion
+7,Statement-Non-Opinion
+8,Acknowledge
+9,Statement-Opinion
+10,Statement-Opinion
+11,Question
+1,- Statement-Non-Opinion
+2,- Statement-Non-Opinion
+3,- Statement-Non-Opinion
+4,- Statement-Non-Opinion
+5,- Statement-Non-Opinion
+6,- Command
+7,- Greeting
+8,- Greeting
+1,Command
+2,Question
+3,Greeting
+4,Statement-Non-Opinion
+5,Disagreement
+6,Statement-Opinion
+7,Statement-Non-Opinion
+8,Statement-Non-Opinion
+9,Statement-Opinion
+10,Statement-Non-Opinion
+1,Greeting
+2,Greeting
+3,Statement-Opinion
+4,Disagreement
+5,Question
+6,Statement-Non-Opinion
+7,Command
+8,Statement-Opinion
+9,Statement-Opinion
+10,Statement-Non-Opinion
+11,Question
+12,Statement-Non-Opinion
+13,Command
+14,Question
+15,Statement-Opinion
+16,(Incomplete - cannot classify)
+"(Note: Sentence 16 is cut off, so it cannot be properly classified",)
+1,Greeting
+2,Statement-Non-Opinion
+3,Acknowledge
+4,Statement-Non-Opinion
+5,Question
+6,Statement-Non-Opinion
+7,Question
+8,Statement-Non-Opinion
+9,Disagreement
+10,Command
+1,Statement-Opinion
+2,Statement-Opinion
+3,Acknowledge
+4,Statement-Opinion
+5,Acknowledge
+6,Statement-Opinion
+7,Acknowledge
+8,Command
+9,Acknowledge
+10,Command
+11,Statement-Non-Opinion
+12,Question
+13,Statement-Non-Opinion
+1,- Greeting
+2,- Greeting
+3,- Statement-Non-Opinion
+4,- Acknowledge
+5,- Answer
+6,- Acknowledge
+7,- Acknowledge
+1,- Apology
+2,- Command
+3,- Statement-Non-Opinion
+4,- Statement-Non-Opinion
+5,- Question
+6,- Statement-Opinion
+7,- Others
+1,- Statement-Non-Opinion
+2,- Acknowledge
+3,- Question
+4,- Statement-Opinion
+5,- Backchannel
+6,- Statement-Opinion
+7,- Question
+8,- Statement-Opinion
+9,- Statement-Opinion
+10,- Statement-Opinion
+11,- Statement-Opinion
+1,Statement-Opinion
+2,Command
+3,Question
+4,Question
+5,Statement-Opinion
+6,Acknowledge
+7,Acknowledge
+8,Statement-Non-Opinion
+9,Statement-Opinion
+10,Statement-Non-Opinion
+11,Agreement
+12,Statement-Opinion
+13,Command
+14,Backchannel
+15,Question
+16,Disagreement
+17,Statement-Non-Opinion
+18,Agreement
+1,- Question
+2,- Answer
+3,- Statement-Non-Opinion
+4,- Statement-Non-Opinion
+1,Acknowledge
+2,Statement-Opinion
+3,Acknowledge
+4,Question
+5,Command
+6,Command
+7,Command
+8,Statement-Non-Opinion
+9,Statement-Non-Opinion
+10,Statement-Opinion
+11,Statement-Opinion
+12,Question
+13,Command
+14,Apology
+1,- Question
+2,- Agreement
+3,- Statement-Opinion
+4,- Acknowledge
+5,- Statement-Non-Opinion
+6,- Question
+7,- Question
+8,- Question
+9,- Question
+10,- Acknowledge
+11,- Command
+1,- Command
+2,- Greeting
+3,- Command
+4,- Statement-Non-Opinion
+5,- Question
+6,- Statement-Opinion
+7,- Command
+8,- Statement-Opinion
+9,- Disagreement
+10,- Greeting
+11,- Statement-Opinion
+1,Statement-Non-Opinion
+2,Statement-Opinion
+3,Statement-Non-Opinion
+4,Disagreement
+5,Acknowledge
+6,Command
+7,Question
+1,Statement-Opinion
+2,Agreement
+3,Disagreement
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Command
+7,Statement-Non-Opinion
+8,Command
+9,Disagreement
+10,Statement-Opinion
+11,Disagreement
+12,Statement-Non-Opinion
+13,Statement-Opinion
+14,Statement-Opinion
+15,Statement-Opinion
+16,Command
+17,Statement-Opinion
+18,Statement-Non-Opinion
+19,Greeting
+20,Disagreement
+21,Statement-Non-Opinion
+22,Disagreement
+1,Greeting
+2,Greeting
+3,Statement-Non-Opinion
+4,Question
+5,Answer
+6,Statement-Opinion
+7,Statement-Opinion
+8,Statement-Opinion
+9,Command
+10,Statement-Opinion
+11,Statement-Opinion
+12,Acknowledge
+1,Agreement
+2,Question
+3,Question
+4,Apology
+5,Statement-Non-Opinion
+1,Statement-Opinion
+2,Backchannel
+3,Command
+4,Acknowledge
+5,Question
+6,Answer
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Statement-Non-Opinion
+10,Statement-Opinion
+11,Statement-Opinion
+12,Agreement
+13,Statement-Opinion
+14,Statement-Opinion
+15,Acknowledge
+16,Question
+17,Acknowledge
+18,Backchannel
+1,Greeting
+2,Statement-Non-Opinion
+1,Statement-Non-Opinion
+2,Question
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Command
+6,Agreement
+1,Statement-Opinion
+2,Agreement
+3,Statement-Opinion
+4,Statement-Opinion
+5,Statement-Non-Opinion
+6,Acknowledge
+1,Statement-Non-Opinion
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Acknowledge
+5,Question
+6,Statement-Opinion
+7,Statement-Opinion
+8,Greeting
+9,Backchannel
+10,Statement-Opinion
+11,Command
+12,Backchannel
+13,Backchannel
+14,Acknowledge
+1,Good luck! - **Agreement**
+2,I'm quitting!! Woo-hoo! I'm okay!! I'm all right!! - **Statement-Opinion**
+3,- **Statement-Opinion**
+4,What? - **Question**
+5,No? - **Statement-Opinion**
+6,Why would you say that? - **Question**
+7,- **Answer**
+8,- **Statement-Opinion**
+9,You're good! - **Acknowledge**
+10,- **Statement-Opinion**
+11,"Listen, can you promise me that you won't tell her though? - **Command**"
+12,Tell her what? - **Agreement**
+13,- **Acknowledge**
+14,- **Statement-Opinion**
+1,Apology
+2,Disagreement
+3,Acknowledge
+4,Acknowledge
+5,Statement-Opinion
+6,Question
+7,Question
+8,Statement-Opinion
+9,Agreement
+1,Question
+2,Greeting
+3,Statement-Non-Opinion
+4,Disagreement
+5,Statement-Opinion
+6,Question
+7,Statement-Non-Opinion
+8,Statement-Non-Opinion
+9,Statement-Non-Opinion
+10,Question
+11,Command
+12,Question
+1,- Question
+2,- Question
+3,- Statement-Opinion
+4,- Statement-Opinion
+5,- Statement-Non-Opinion
+6,- Question
+7,- Question
+8,- Greeting
+9,- Acknowledge
+10,- Answer
+11,- Answer
+12,- Acknowledge
+13,- Acknowledge
+14,- Statement-Opinion
+15,- Statement-Opinion
+16,- Agreement
+1,- Greeting
+2,- Statement-Non-Opinion
+3,- Others
+4,- Acknowledge
+5,- Acknowledge
+6,- Statement-Opinion
+7,- Others
+8,- Command
+9,- Acknowledge
+10,- Statement-Opinion
+1,- Statement-Opinion
+2,- Statement-Opinion
+3,- Question
+4,- Acknowledge
+5,- Agreement
+6,- Statement-Opinion
+7,- Command
+8,- Apology
+1,- **Command**
+2,Could've played - **Statement-Non-Opinion**
+3,- **Acknowledge**
+4,- **Command**
+5,"Hello? Oh, uh, Rachel, it's the - **Greeting**"
+6,Will you take my place? - **Question**
+7,- **Statement-Non-Opinion**
+8,Nooo! - **Disagreement**
+9,Hello? - **Greeting**
+10,- **Statement-Non-Opinion**
+11,- **Statement-Opinion**
+12,- **Command**
+13,- **Statement-Non-Opinion**
+14,"To the left, to the left- aww! - **Statement-Non-Opinion**"
+15,- **Statement-Opinion**
+1,- Greeting
+2,- Command
+3,- Question
+4,- Statement-Non-Opinion
+5,- Statement-Opinion
+6,- Statement-Non-Opinion
+7,- Statement-Non-Opinion
+8,- Statement-Non-Opinion
+9,- Statement-Non-Opinion
+10,- Statement-Non-Opinion
+1,- Statement-Opinion
+2,- Disagreement
+3,"Well, I mean what about friends of your grandmother's? Wouldn't they have the recipe? - Question"
+4,- Statement-Non-Opinion
+5,What was her name? - Question
+6,- Answer
+7,NestlÃ© Toll House? - Question
+8,- Statement-Opinion
+9,- Acknowledge
+10,I cannot believe that I just spent the last two days trying to figure out the recipe and it was in my cupboard the whole time! - Statement-Opinion
+11,I know! You see it is stuff like this which is why you're burning in hell!! - Agreement
+1,Question
+2,Agreement
+3,Agreement
+4,Question
+5,Statement-Opinion
+6,Statement-Opinion
+7,Statement-Opinion
+8,Acknowledge
+9,Command
+10,Statement-Opinion
+11,Disagreement
+12,Statement-Opinion
+13,Statement-Opinion
+14,Agreement
+15,Statement-Opinion
+16,Statement-Opinion
+17,Statement-Opinion
+18,Agreement
+19,Command
+20,Statement-Non-Opinion
+21,Acknowledge
+1,Statement-Opinion
+2,Question
+3,Disagreement
+4,Command
+5,Statement-Opinion
+6,Statement-Opinion
+7,Question
+8,Statement-Non-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Statement-Opinion
+12,Statement-Opinion
+13,Question
+14,Statement-Opinion
+15,Question
+16,Statement-Opinion
+17,Question
+18,Statement-Opinion
+19,Question
+20,Statement-Opinion
+21,Statement-Opinion
+22,Statement-Opinion
+23,Statement-Opinion
+1,- Statement-Opinion
+2,- Statement-Non-Opinion
+3,- Question
+4,- Greeting
+5,- Greeting
+1,Question
+2,Statement-Opinion
+3,Question
+4,Statement-Opinion
+5,Statement-Opinion
+6,Backchannel
+7,Statement-Opinion
+8,Apology
+9,Command
+10,Others
+11,Question
+1,Greeting
+2,Statement-Opinion
+1,How are you feeling?
+2,
+3,
+4,
+5,But what happens when he meets somebody else and gets married?
+6,"- Rachel - Well then he gets a divorce, it's Ross!"
+7,
+8,
+9,
+1,"Hey how uh, how serious are you about keeping Ben in your life?"
+2,
+1,"Greeting, Question"
+2,Statement-Non-Opinion
+3,Question
+4,Statement-Non-Opinion
+5,Statement-Opinion
+6,Statement-Non-Opinion
+7,Statement-Non-Opinion
+8,"Acknowledge, Apology, Question"
+1,Greeting
+2,Acknowledge
+3,Statement-Opinion
+4,Statement-Opinion
+5,Question
+6,Statement-Opinion
+7,Statement-Opinion
+8,Question
+9,Answer
+10,Statement-Non-Opinion
+11,Question
+12,Agreement
+13,Statement-Opinion
+14,Statement-Opinion
+15,Acknowledge
+1,- Others
+2,- Statement-Opinion
+3,- Statement-Non-Opinion
+4,- Statement-Opinion
+5,- Greeting
+6,- Greeting
+7,- Greeting
+8,- Statement-Opinion
+9,- Statement-Non-Opinion
+10,- Statement-Non-Opinion
+11,- Acknowledge
+12,- Statement-Non-Opinion
+13,- Statement-Opinion
+14,- Agreement
+15,- Statement-Opinion
+16,- Statement-Non-Opinion
+17,- Question
+18,- Statement-Opinion
+19,- Question
+1,Acknowledge
+2,Statement-Opinion
+3,Agreement
+4,Statement-Opinion
+5,Backchannel
+6,Statement-Opinion
+7,Disagreement
+8,Statement-Non-Opinion
+9,Command
+10,Disagreement
+11,Agreement
+12,Statement-Non-Opinion
+13,Disagreement
+14,Command
+15,Statement-Non-Opinion
+16,Apology
+17,Statement-Opinion
+18,Command
+19,Statement-Non-Opinion
+20,Statement-Opinion
+21,Question
+1,Greeting
+2,Greeting
+3,Greeting
+4,Acknowledge
+5,Statement-Opinion
+6,Question
+7,Answer
+8,Question
+9,Answer
+10,Statement-Non-Opinion
+11,Statement-Opinion
+12,Question
+13,Answer
+14,Question
+1,- Acknowledge
+2,- Statement-Non-Opinion
+3,- Statement-Opinion
+4,- Question
+5,- Statement-Opinion
+6,- Question
+7,- Command
+8,- Question
+9,- Question
+10,- Statement-Non-Opinion
+11,- Statement-Opinion
+12,- Statement-Non-Opinion
+13,- Statement-Opinion
+14,- Agreement
+1,Statement-Non-Opinion
+2,Statement-Opinion
+3,Statement-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+6,Statement-Opinion
+7,Statement-Opinion
+8,Statement-Non-Opinion
+9,Statement-Opinion
+10,Greeting
+11,Greeting
+12,Backchannel
+13,Backchannel
+14,Agreement
+15,Acknowledge
+16,Greeting
+17,Question
+18,Answer
+1,- Statement-Opinion
+2,- Acknowledge
+3,- Question
+4,- Answer
+5,- Statement-Opinion
+6,- Command
+7,- Acknowledge
+8,- Acknowledge
+9,- Statement-Non-Opinion
+10,- Greeting
+11,- Statement-Non-Opinion
+12,- Statement-Non-Opinion
+13,- Statement-Opinion
+14,- Others
+15,- Statement-Non-Opinion
+1,Statement-Non-Opinion
+2,Question
+3,Statement-Non-Opinion
+4,Question
+5,Question
+6,Statement-Non-Opinion
+7,Statement-Opinion
+8,Statement-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Acknowledge
+12,Command
+13,Statement-Opinion
+14,Question
+15,Statement-Opinion
+16,Question
+17,Statement-Opinion
+18,Question
+19,Statement-Opinion
+1,Question
+2,Statement-Non-Opinion
+3,Acknowledge
+4,Statement-Opinion
+5,Statement-Opinion
+6,Statement-Opinion
+7,Greeting
+8,Question
+9,Answer
+10,Acknowledge
+1,- Command
+2,- Acknowledge
+3,- Statement-Opinion
+4,- Statement-Opinion
+5,- Disagreement
+6,- Statement-Opinion
+7,- Statement-Opinion
+8,- Others
+9,- Acknowledge
+1,- Question
+2,- Answer
+3,- Statement-Opinion
+4,- Command
+5,- Statement-Non-Opinion
+6,- Backchannel
+7,- Question
+8,- Answer
+9,- Apology
+10,- Answer
+1,- Acknowledge
+2,- Question
+3,- Statement-Opinion
+4,- Statement-Opinion
+5,- Statement-Opinion
+6,- Statement-Opinion
+7,- Statement-Opinion
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Disagreement
+4,Question
+5,Statement-Non-Opinion
+6,Statement-Opinion
+7,Statement-Opinion
+8,Statement-Opinion
+9,Disagreement
+10,Acknowledge
+11,Acknowledge
+12,Answer
+1,- Question
+2,- Answer
+3,- Greeting
+4,- Statement-Non-Opinion
+5,- Statement-Opinion
+6,- Statement-Opinion
+7,- Command
+8,- Apology
+9,- Acknowledge
+10,- Statement-Non-Opinion
+11,- Others
+12,- Disagreement
+13,- Statement-Opinion
+1,- Acknowledge
+2,- Greeting
+3,- Question
+4,- Command
+5,- Command
+6,- Command
+7,- Acknowledge
+8,- Question
+9,- Answer
+10,- Statement-Non-Opinion
+11,- Statement-Non-Opinion
+1,Statement-Opinion
+2,Acknowledge
+3,Question
+4,Backchannel
+5,Question
+6,Statement-Opinion
+7,Statement-Opinion
+8,Statement-Non-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Statement-Opinion
+12,Statement-Opinion
+13,Statement-Non-Opinion
+14,Acknowledge
+15,Statement-Opinion
+16,Statement-Opinion
+17,Statement-Opinion
+1,Question
+2,Question
+1,Statement-Opinion
+2,Question
+3,Statement-Opinion
+4,Acknowledge
+5,Statement-Opinion
+1,- Question
+2,- Answer
+3,- Command
+4,- Question
+5,- Question
+6,- Statement-Opinion
+7,- Statement-Non-Opinion
+1,- Question
+2,- Statement-Non-Opinion
+3,- Question
+4,- Statement-Non-Opinion
+5,- Statement-Non-Opinion
+6,- Statement-Opinion
+7,- Statement-Opinion
+8,- Statement-Opinion
+9,- Statement-Non-Opinion
+10,- Statement-Opinion
+11,- Statement-Non-Opinion
+1,Question
+2,Agreement
+3,Statement-Opinion
+4,Statement-Non-Opinion
+5,Question
+6,Statement-Non-Opinion
+7,Question
+8,Statement-Opinion
+9,Question
+10,Statement-Non-Opinion
+11,Acknowledge
+12,Statement-Opinion
+13,Others
+14,Greeting
+15,Question
+16,Statement-Non-Opinion
+17,Disagreement
+1,Statement-Non-Opinion
+2,Statement-Opinion
+3,Statement-Opinion
+4,Agreement
+5,Statement-Opinion
+6,Question
+7,Statement-Opinion
+8,Statement-Non-Opinion
+9,Acknowledge
+10,Backchannel
+11,Backchannel
+12,Statement-Non-Opinion
+13,Statement-Non-Opinion
+14,Agreement
+15,Question
+16,Statement-Non-Opinion
+17,Question
+18,Statement-Opinion
+19,Backchannel
+20,Statement-Non-Opinion
+21,Acknowledge
+22,Statement-Opinion
+1,Statement-Non-Opinion
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Agreement
+6,Question
+7,Statement-Opinion
+1,Question
+2,Answer
+3,Acknowledge
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Statement-Non-Opinion
+7,Statement-Non-Opinion
+8,Acknowledge
+9,Statement-Opinion
+10,Statement-Opinion
+11,Statement-Opinion
+12,Statement-Opinion
+13,Statement-Opinion
+14,Backchannel
+15,Statement-Non-Opinion
+16,Statement-Non-Opinion
+17,Answer
+18,Statement-Opinion
+19,Statement-Opinion
+20,Question
+21,Backchannel
+22,Statement-Opinion
+23,Statement-Opinion
+24,Disagreement
+1,Question
+2,Agreement
+3,Backchannel
+4,Question
+5,Statement-Opinion
+6,Disagreement
+7,Disagreement
+8,Acknowledge
+9,Statement-Non-Opinion
+1,Disagreement
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Greeting
+6,Greeting
+7,Question
+8,Question
+9,Question
+10,Answer
+11,Question
+12,Statement-Non-Opinion
+13,Question
+1,Statement-Opinion
+2,Question
+3,Command
+4,Statement-Non-Opinion
+5,Disagreement
+6,Statement-Opinion
+7,Acknowledge
+8,Statement-Opinion
+9,Command
+10,Question
+11,Statement-Opinion
+12,Question
+13,Statement-Opinion
+14,Statement-Opinion
+15,Agreement
+16,Question
+1,- Command
+2,- Acknowledge
+3,- Statement-Opinion
+4,- Acknowledge
+5,- Apology
+1,Apology
+2,Backchannel
+3,Statement-Non-Opinion
+4,Agreement
+5,Command
+6,Acknowledge
+7,Acknowledge
+8,Question
+9,Statement-Non-Opinion
+1,- Wow! - Acknowledge
+2,- Statement-Non-Opinion
+3,- Statement-Opinion
+4,- Statement-Opinion
+5,- Statement-Opinion
+6,- Statement-Opinion
+7,- Wow! - Acknowledge
+8,- What? - Question
+9,- Statement-Opinion
+10,- Really? - Question
+11,- Backchannel
+12,- Statement-Opinion
+13,- Stop it! - Command
+14,- Statement-Opinion
+15,- Shut the book! - Command
+16,- Let's also get a hot plate! - Command
+1,Statement-Opinion
+2,Question
+3,Statement-Non-Opinion
+4,Agreement
+5,Statement-Non-Opinion
+6,Statement-Non-Opinion
+7,Question
+8,Statement-Non-Opinion
+9,Acknowledge
+10,Question
+11,Statement-Non-Opinion
+12,Question
+13,Acknowledge
+14,Question
+15,Statement-Non-Opinion
+16,Statement-Opinion
+17,Question
+18,Acknowledge
+19,Command
+20,Statement-Opinion
+21,Question
+1,Statement-Opinion
+2,Statement-Opinion
+3,Statement-Opinion
+4,Question
+5,Question
+6,Disagreement
+7,Statement-Non-Opinion
+8,Question
+9,Question
+10,Agreement
+11,Statement-Opinion
+12,Command
+13,Statement-Non-Opinion
+14,Question
+15,Statement-Non-Opinion
+16,Question
+17,Statement-Non-Opinion
+18,Command
+19,Question
+20,Statement-Non-Opinion
+21,Question
+1,Question
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Apology
+5,Statement-Opinion
+6,Question
+7,Statement-Non-Opinion
+8,Agreement
+9,Question
+10,Statement-Non-Opinion
+11,Command
+12,Statement-Non-Opinion
+13,Question
+14,Command
+15,Command
+16,Command
+17,Statement-Non-Opinion
+18,Statement-Non-Opinion
+19,Statement-Non-Opinion
+20,Statement-Opinion
+1,[Acknowledge]
+2,[Statement-Non-Opinion]
+3,Hm-mm [Backchannel]
+4,[Statement-Non-Opinion]
+5,[Statement-Non-Opinion]
+6,[Statement-Opinion]
+7,[Statement-Opinion]
+8,That's-that's great! [Statement-Opinion]
+9,See? [Question]
+10,I already feel like I know you a little better! [Statement-Opinion]
+11,[Acknowledge]
+12,[Command]
+13,[Statement-Non-Opinion]
+14,[Command]
+15,[Statement-Opinion]
+16,Oh! [Acknowledge]
+1,Command
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Question
+5,Statement-Opinion
+6,Command
+7,Statement-Opinion
+8,Statement-Opinion
+9,Agreement
+10,Disagreement
+1,Question
+2,Question
+3,Statement-Opinion
+4,Statement-Non-Opinion
+5,Command
+6,Acknowledge
+7,Statement-Opinion
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+6,Statement-Opinion
+7,Statement-Opinion
+8,Others
+9,Greeting
+10,Question
+1,Question
+2,Statement-Opinion
+3,Command
+4,Statement-Opinion
+5,Command
+6,Statement-Non-Opinion
+7,Statement-Opinion
+8,Question
+9,Statement-Non-Opinion
+1,Statement-Non-Opinion
+2,Acknowledge
+3,Command
+4,Statement-Non-Opinion
+5,Question
+6,Answer
+7,Statement-Opinion
+8,Statement-Non-Opinion
+9,Disagreement
+10,Question
+11,Statement-Opinion
+12,Statement-Opinion
+13,Statement-Non-Opinion
+14,Statement-Non-Opinion
+15,Statement-Non-Opinion
+16,Acknowledge
+17,Apology
+18,Disagreement
+19,Statement-Opinion
+1,- Greeting
+2,- Greeting
+3,- Question
+4,- Statement-Non-Opinion
+5,- Statement-Opinion
+6,- Statement-Opinion
+7,- Backchannel
+8,- Statement-Non-Opinion
+9,- Command
+10,- Question
+11,- Question
+12,- Statement-Opinion
+13,- Question
+14,- Statement-Non-Opinion
+15,- Statement-Non-Opinion
+16,- Acknowledge
+17,- Statement-Opinion
+1,- Statement-Opinion
+2,- Command
+3,- Disagreement
+4,- Statement-Non-Opinion
+5,- Agreement
+6,- Disagreement
+7,- Statement-Non-Opinion
+8,- Command
+9,- Statement-Opinion
+10,- Disagreement
+1,- Backchannel
+2,- Command
+3,- Question
+4,"If you wanna give Joey a Christmas present that disrupts the entire building, why not get him something a little bit more subtle, like a wrecking ball, or a phial of small pox to release in the hallway? - Statement-Opinion"
+1,"What have you been up to? - Apology, Question"
+2,"- Answer, Statement-Non-Opinion"
+3,"- Acknowledge, Agreement"
+4,Why are- why are you so tanned? - Question
+5,"- Answer, Statement-Non-Opinion"
+1,Disagreement
+2,Acknowledge
+3,Statement-Opinion
+4,Acknowledge
+5,Statement-Opinion
+6,Question
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Disagreement
+10,Statement-Opinion
+11,Statement-Opinion
+12,Statement-Opinion
+13,Statement-Non-Opinion
+14,Acknowledge
+15,Question
+16,Statement-Non-Opinion
+1,Statement-Non-Opinion
+2,Question
+3,Statement-Opinion
+4,Command
+5,Others
+6,Statement-Non-Opinion
+7,Question
+8,Statement-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Others
+12,Answer
+13,Statement-Opinion
+14,Command
+15,Statement-Non-Opinion
+16,Disagreement
+17,Others
+18,Disagreement
+1,- Acknowledge
+2,- Question
+3,- Statement-Non-Opinion
+4,- Question
+5,- Statement-Opinion
+6,- Statement-Opinion
+7,- Statement-Opinion
+8,- Question
+9,- Apology
+10,- Question
+11,- Statement-Opinion
+12,- Disagreement
+13,- Statement-Opinion
+14,- Disagreement
+15,- Question
+16,- Agreement
+1,Statement-Non-Opinion
+2,Answer
+3,Statement-Non-Opinion
+4,Answer
+5,Statement-Opinion
+6,Command
+7,Answer
+8,Question
+9,Answer
+10,Acknowledge
+11,Statement-Opinion
+12,Question
+13,Answer
+14,Statement-Non-Opinion
+15,Acknowledge
+16,Statement-Non-Opinion
+17,Agreement
+18,Statement-Non-Opinion
+19,Backchannel
+20,Question
+21,Statement-Opinion
+1,Statement-Non-Opinion
+2,Agreement
+3,Statement-Opinion
+4,Question
+5,Statement-Opinion
+6,Agreement
+7,Statement-Opinion
+8,Statement-Opinion
+9,Statement-Non-Opinion
+1,Question
+2,Agreement
+3,Statement-Non-Opinion
+4,Disagreement
+5,Acknowledge
+6,Acknowledge
+1,Statement-Non-Opinion
+2,Disagreement
+3,Disagreement
+4,Question
+5,Acknowledge
+6,Question
+7,Statement-Opinion
+8,Statement-Opinion
+9,Acknowledge
+10,Statement-Opinion
+11,Disagreement
+12,Question
+13,Statement-Non-Opinion
+14,Statement-Non-Opinion
+15,Statement-Opinion
+1,Statement-Opinion
+2,Question
+3,Statement-Opinion
+4,Statement-Non-Opinion
+1,- Greeting
+2,- Greeting
+3,- Greeting
+4,- Greeting
+5,Hey-hey! - Greeting
+6,- Greeting
+7,- Statement-Non-Opinion
+8,Whoa! - Acknowledge
+9,- Statement-Non-Opinion
+10,Hi! - Greeting
+11,Whoa!! - Acknowledge
+12,- Statement-Non-Opinion
+13,"Hey, how do you guys get anything done? - Question"
+14,- Answer
+15,"Well, so, now, do you guys have a lot of big plans? - Question"
+16,- Statement-Opinion
+17,- Statement-Opinion
+18,- Statement-Non-Opinion
+19,- Statement-Opinion
+1,Acknowledge
+2,Acknowledge
+3,Statement-Non-Opinion
+4,Acknowledge
+5,Statement-Non-Opinion
+6,Statement-Non-Opinion
+7,Greeting
+8,Greeting
+9,Statement-Opinion
+10,Question
+11,Statement-Opinion
+12,Agreement
+13,Statement-Opinion
+14,Statement-Non-Opinion
+15,Statement-Non-Opinion
+16,Statement-Opinion
+17,Statement-Opinion
+1,Apology
+2,Statement-Opinion
+3,Agreement
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Statement-Opinion
+7,Disagreement
+8,Statement-Opinion
+9,Acknowledge
+10,Greeting
+11,Statement-Non-Opinion
+12,Command
+13,Statement-Non-Opinion
+14,Statement-Opinion
+15,Acknowledge
+1,Statement-Non-Opinion
+2,Apology
+3,Statement-Opinion
+4,Question
+5,Statement-Opinion
+6,Acknowledge
+1,Statement-Non-Opinion
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Statement-Opinion
+7,Acknowledge
+8,Statement-Non-Opinion
+9,Statement-Non-Opinion
+10,Question
+11,Answer
+12,Question
+13,Agreement
+14,Statement-Non-Opinion
+15,Statement-Non-Opinion
+1,- **Encouragement** (Others)
+2,- **Acknowledge**
+3,"- Rachel - What? Wait a minute, I didn't pay, I thought you paid! - **Disagreement**"
+4,Do you see what I see? - **Statement-Opinion**
+1,- Question
+2,- Statement-Non-Opinion
+1,Question
+2,Answer
+3,Question
+4,Answer
+5,Statement-Non-Opinion
+6,Statement-Opinion
+7,Apology
+8,Statement-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Apology
+12,Question
+1,"Greeting, Question"
+2,Answer
+3,Acknowledge
+4,Statement-Non-Opinion
+5,Command
+6,Command
+7,Question
+8,Statement-Opinion
+1,Greeting
+2,Acknowledge
+3,Question
+4,Command
+5,Statement-Non-Opinion
+6,Statement-Non-Opinion
+7,Question
+8,Statement-Opinion
+9,Statement-Opinion
+10,Acknowledge
+11,Statement-Non-Opinion
+12,Statement-Non-Opinion
+13,Question
+14,Statement-Opinion
+15,Statement-Non-Opinion
+1,- Statement-Non-Opinion
+2,- Statement-Opinion
+3,- Acknowledge
+4,- Statement-Opinion
+5,- Acknowledge
+6,- Question
+7,- Disagreement
+8,- Statement-Non-Opinion
+9,- Question
+10,- Acknowledge
+1,Statement-Opinion
+2,Question
+1,- Apology
+2,- Acknowledge
+1,- Joey - I have actually - **Acknowledge**
+2,- **Statement-Non-Opinion**
+3,- **Statement-Opinion**
+4,- **Statement-Non-Opinion**
+5,- **Command**
+6,Why don't you tell me something I don't know! - **Disagreement**
+1,- Statement-Non-Opinion
+2,- Statement-Opinion
+3,- Question
+4,- Statement-Opinion
+1,- Ben - Oh damnit! - **Acknowledge**
+2,No! Don't say that! Don't say that! - **Command**
+3,Damn it! - **Acknowledge**
+4,No don't! Go back to repeating! - **Command**
+5,Damn it! - **Acknowledge**
+6,Oh crap! - **Acknowledge**
+7,Oh crap! - **Acknowledge**
+1,"- Greeting, Question"
+2,"- Answer, Question"
+3,- Statement-Non-Opinion
+4,- Question
+5,- Statement-Non-Opinion
+6,- Statement-Opinion
+7,- Statement-Opinion
+8,"- Statement-Opinion, Command"
+1,- Statement-Opinion
+2,Really? - Question
+3,"Shall we say, around seven? - Agreement, Question"
+4,- Agreement
+5,- Statement-Opinion
+6,"Hey-hey, check it out! Check it out! Ugly Naked Guy has a naked friend! - Statement-Non-Opinion"
+7,Oh yeah! Oh my God! That is - Acknowledge
+8,"Yeah, it is! Naked Ross!! - Agreement"
+1,- Statement-Opinion
+2,- Acknowledge
+3,- Question
+4,- Disagreement
+5,- Question
+6,- Statement-Opinion
+7,- Question
+8,- Statement-Opinion
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Command
+4,Statement-Non-Opinion
+5,Question
+6,Statement-Non-Opinion
+7,Question
+8,Statement-Non-Opinion
+9,Statement-Non-Opinion
+10,Question
+11,Question
+12,Command
+13,Disagreement
+14,Statement-Non-Opinion
+15,Acknowledge
+1,Greeting
+2,Greeting
+3,Statement-Opinion
+4,Disagreement
+5,Command
+6,Disagreement
+7,Statement-Opinion
+8,Disagreement
+9,Disagreement
+10,Question
+11,Statement-Opinion
+12,Agreement
+13,Question
+1,"- Greeting, Question"
+2,- Statement-Non-Opinion
+1,- Agreement
+2,- Question
+3,- Question
+1,"Statement-Opinion, Question"
+2,Answer
+3,Answer
+4,Question
+5,Acknowledge
+6,Question
+7,Statement-Non-Opinion
+1,Statement-Non-Opinion
+2,Command
+3,Disagreement
+4,Command
+5,Apology
+1,Greeting
+2,Question
+3,Statement-Opinion
+4,Statement-Non-Opinion
+5,Backchannel
+6,Statement-Opinion
+7,Statement-Opinion
+8,Statement-Opinion
+9,Statement-Non-Opinion
+1,- Statement-Non-Opinion
+2,- Statement-Opinion
+3,- Question
+4,- Statement-Non-Opinion
+5,- Statement-Opinion
+6,- Command
+7,- Acknowledge
+8,- Question
+9,- Statement-Opinion
+10,- Statement-Opinion
+11,- Acknowledge
+1,Acknowledge
+2,Command
+3,Statement-Non-Opinion
+4,Statement-Non-Opinion
+5,Question
+6,Statement-Opinion
+7,Question
+8,Statement-Non-Opinion
+9,Command
+10,Acknowledge
+11,Command
+12,Command
+13,Command
+14,Greeting
+15,Command
+16,Statement-Non-Opinion
+1,Greeting
+2,Statement-Non-Opinion
+3,Acknowledge
+4,Agreement
+1,Statement-Opinion
+2,Agreement
+3,Statement-Non-Opinion
+4,Question
+5,Acknowledge
+6,Agreement
+7,Statement-Opinion
+8,Command
+9,Question
+10,Question
+11,Agreement
+12,Disagreement
+1,- Command
+2,"Oh honey, I think I'm having one too! - Statement-Opinion"
+3,Look at this! There we go! - Statement-Non-Opinion
+1,Question
+2,Acknowledge
+3,Disagreement
+4,Question
+5,Question
+6,Statement-Opinion
+7,Acknowledge
+8,Statement-Non-Opinion
+9,Disagreement
+10,Acknowledge
+11,Acknowledge
+12,Statement-Opinion
+13,Command
+1,- Question
+2,- Statement-Non-Opinion
+3,- Statement-Non-Opinion
+4,- Acknowledge
+5,- Statement-Opinion
+6,- Statement-Opinion
+7,- Command
+8,- Disagreement
+9,- Statement-Opinion
+10,- Statement-Opinion
+11,- Statement-Non-Opinion
+12,- Disagreement
+13,- Statement-Opinion
+1,Statement-Opinion
+2,Question
+3,Statement-Non-Opinion
+4,Question
+5,Statement-Opinion
+6,"Acknowledge, Question"
+7,Statement-Opinion
+1,- Statement-Opinion
+2,- Statement-Non-Opinion
+3,- Statement-Opinion
+4,- Statement-Non-Opinion
+5,- Statement-Opinion
+6,- Question
+7,- Agreement
+8,- Statement-Non-Opinion
+1,Command
+2,Apology
+3,Others
+4,Greeting
+5,Question
+6,Agreement
+7,Command
+8,Statement-Non-Opinion
+9,Others
+10,Disagreement
+11,Statement-Non-Opinion
+12,Statement-Opinion
+13,Statement-Opinion
+14,Agreement
+15,Agreement
+16,Disagreement
+17,Acknowledge
+18,Greeting
+19,Statement-Non-Opinion
+1,Disagreement
+2,Statement-Opinion
+3,Backchannel
+4,Statement-Opinion
+5,Question
+6,Statement-Opinion
+7,Statement-Non-Opinion
+8,Agreement
+9,Question
+10,Statement-Non-Opinion
+11,Acknowledge
+12,Command
+13,Question
+14,Agreement
+15,Backchannel
+16,Question
+17,Statement-Non-Opinion
+18,Disagreement
+1,- Command
+2,- Statement-Opinion
+3,- Greeting
+4,- Greeting
+5,- Statement-Non-Opinion
+6,- Statement-Non-Opinion
+7,- Question
+8,- Answer
+1,- Statement-Non-Opinion
+2,- Statement-Non-Opinion
+3,- Question
+4,- Disagreement
+5,- Statement-Opinion
+6,- Disagreement
+7,- Statement-Opinion
+1,Greeting
+2,Greeting
+3,Statement-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+6,Backchannel
+7,Statement-Opinion
+1,Apology
+2,Acknowledge
+3,Statement-Opinion
+4,Backchannel
+5,Statement-Opinion
+6,Agreement
+7,Statement-Opinion
+8,Disagreement
+1,- Greeting
+2,- Statement-Non-Opinion
+3,- Question
+4,- Statement-Non-Opinion
+5,- Question
+6,- Statement-Opinion
+7,- Disagreement
+8,- Question
+9,- Answer
+10,- Question
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+6,Statement-Opinion
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Statement-Non-Opinion
+10,Statement-Non-Opinion
+11,Question
+12,Acknowledge
+1,- Question
+2,- Answer
+1,Acknowledge
+2,Statement-Opinion
+3,Statement-Opinion
+4,Agreement
+5,Statement-Non-Opinion
+6,Statement-Non-Opinion
+7,Question
+8,Statement-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Statement-Non-Opinion
+12,Command
+13,Acknowledge
+14,Command
+15,Statement-Non-Opinion
+16,Statement-Non-Opinion
+17,Command
+1,Greeting
+2,Question
+3,Answer
+4,Statement-Opinion
+5,Agreement
+6,Question
+7,Answer
+8,Statement-Non-Opinion
+9,Question
+10,Agreement
+11,Statement-Non-Opinion
+12,Acknowledge
+13,Command
+1,"- Greeting, Question"
+2,- Statement-Non-Opinion
+3,"- Statement-Opinion, Command"
+1,Question
+2,Statement-Opinion
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+6,Statement-Non-Opinion
+7,Statement-Opinion
+8,Statement-Opinion
+9,Command
+10,Agreement
+11,Disagreement
+12,Disagreement
+13,Disagreement
+14,Disagreement
+15,Disagreement
+16,Agreement
+17,Acknowledge
+18,Disagreement
+19,Command
+20,Statement-Opinion
+1,Greeting
+2,Question
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Statement-Non-Opinion
+6,Agreement
+7,Statement-Non-Opinion
+8,Command
+9,Statement-Non-Opinion
+10,Statement-Non-Opinion
+11,Acknowledge
+12,Statement-Opinion
+13,Acknowledge
+14,Statement-Non-Opinion
+1,Greeting
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Answer
+5,Apology
+6,Acknowledge
+7,Question
+8,Statement-Opinion
+9,Statement-Non-Opinion
+1,- Greeting
+2,- Backchannel
+3,- Command
+4,- Statement-Non-Opinion
+5,- Statement-Opinion
+6,- Question
+7,- Statement-Opinion
+8,- Statement-Opinion
+9,- Statement-Opinion
+1,Question
+2,Statement-Opinion
+3,Statement-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+6,Statement-Non-Opinion
+7,Acknowledge
+8,Acknowledge
+9,Statement-Opinion
+10,Statement-Opinion
+11,Question
+12,Statement-Non-Opinion
+13,Others
+14,Acknowledge
+15,Disagreement
+1,Statement-Opinion
+2,Disagreement
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Question
+6,Question
+7,Statement-Opinion
+8,Command
+9,Question
+10,Statement-Non-Opinion
+11,Statement-Opinion
+12,Command
+13,Question
+14,Statement-Non-Opinion
+1,Statement-Opinion
+2,Question
+3,Statement-Non-Opinion
+4,Question
+5,Statement-Non-Opinion
+1,- Statement-Non-Opinion
+2,- Statement-Opinion
+3,- Statement-Non-Opinion
+4,- Statement-Opinion
+5,- Statement-Opinion
+6,- Statement-Opinion
+1,Statement-Non-Opinion
+2,Question
+3,Statement-Opinion
+4,Question
+5,Agreement
+6,Statement-Non-Opinion
+7,Question
+8,Statement-Non-Opinion
+9,Acknowledge
+10,Acknowledge
+11,Statement-Opinion
+12,Acknowledge
+1,Statement-Opinion
+2,Command
+3,Statement-Non-Opinion
+4,Greeting
+5,Greeting
+6,Greeting + Question
+7,Statement-Non-Opinion
+8,Statement-Non-Opinion
+9,Statement-Opinion
+10,Question
+11,Answer
+12,Acknowledge
+1,Question
+2,Question
+3,Statement-Non-Opinion
+4,Backchannel
+5,Question
+6,Statement-Opinion
+7,Agreement
+8,Question
+9,Agreement
+10,Statement-Non-Opinion
+11,Statement-Non-Opinion
+12,Question
+13,Question
+14,Statement-Opinion
+15,Statement-Opinion
+16,Statement-Opinion
+17,Statement-Opinion
+18,Statement-Opinion
+19,Statement-Opinion
+1,Acknowledge
+2,Statement-Opinion
+3,Statement-Non-Opinion
+1,Statement-Opinion
+2,Statement-Opinion
+3,Statement-Opinion
+4,Statement-Non-Opinion
+5,Command
+6,Statement-Non-Opinion
+7,Acknowledge
+8,Statement-Opinion
+1,Acknowledge
+2,Command
+3,Statement-Non-Opinion
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+1,- Question
+2,- Statement-Non-Opinion
+3,- Statement-Opinion
+4,- Acknowledge
+5,- Acknowledge
+6,- Greeting
+7,- Greeting
+8,- Thanking
+9,- Statement-Opinion
+10,- Introduction
+11,- Greeting
+12,- Thanking
+13,- Statement-Opinion
+1,I'm - Statement-Opinion
+2,Joe - Answer
+3,oil interests overseas! - Statement-Opinion
+1,Statement-Opinion
+2,Disagreement
+3,Statement-Opinion
+4,Statement-Non-Opinion
+5,Question
+1,"Greeting, Question"
+2,"Disagreement, Statement-Opinion"
+3,"Acknowledge, Statement-Opinion"
+4,Statement-Opinion
+5,Question
+6,"Command, Statement-Opinion"
+7,"Disagreement, Statement-Opinion"
+8,"Command, Statement-Non-Opinion, Acknowledge"
+9,Disagreement
+10,"Acknowledge, Statement-Opinion"
+1,Question
+2,Acknowledge
+3,Backchannel
+4,Statement-Non-Opinion
+5,Agreement
+6,Statement-Opinion
+7,Statement-Opinion
+8,Agreement
+9,Question
+10,Command
+1,Question
+2,Statement-Opinion
+3,Statement-Opinion
+4,Statement-Opinion
+5,Statement-Non-Opinion
+6,Statement-Opinion
+7,Acknowledge
+8,Command
+9,Question
+10,Command
+11,Acknowledge
+1,"- Frank - Ow!-Ow!-Ow! Ow! Ow! Ow! Ow! Ow! Ow! Y'know, ow! - **Acknowledge**"
+2,- Phoebe - Hey!-Hey! What's going on? - **Question**
+3,- **Statement-Non-Opinion**
+4,- **Statement-Non-Opinion**
+5,"- Frank - No, she touched mine first! - **Disagreement**"
+6,- Girl - That's my job! - **Statement-Opinion**
+1,Question
+2,Answer
+3,Question
+4,Answer
+5,Question
+6,Apology
+7,Question
+8,Answer
+9,Question
+10,Answer
+11,Question
+12,Answer
+13,Statement-Opinion
+14,Statement-Opinion
+15,Question
+16,Question
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Command
+4,Disagreement
+5,Disagreement
+1,Question
+2,Statement-Non-Opinion
+3,Command
+4,Statement-Opinion
+5,Statement-Opinion
+6,Acknowledge
+7,Command
+8,Agreement
+9,Agreement
+10,Statement-Opinion
+1,- Command
+2,- Acknowledge
+3,- Statement-Non-Opinion
+4,- Statement-Non-Opinion
+5,- Statement-Opinion
+1,Greeting
+2,Greeting
+3,Apology
+4,Statement-Opinion
+5,Statement-Non-Opinion
+6,Command
+7,Question
+8,Agreement
+9,Acknowledge
+10,Statement-Opinion
+11,Agreement
+12,Agreement
+13,Statement-Non-Opinion
+14,Acknowledge
+1,- Agreement
+2,- Acknowledge
+3,- Disagreement
+4,- Disagreement
+5,- Question
+6,- Statement-Non-Opinion
+7,- Statement-Opinion
+1,Statement-Opinion
+2,Agreement
+3,Statement-Non-Opinion
+4,Apology
+5,Statement-Non-Opinion
+6,Question
+7,Statement-Non-Opinion
+8,Statement-Non-Opinion
+9,Statement-Non-Opinion
+10,Statement-Non-Opinion
+11,Question
+12,Statement-Non-Opinion
+1,Question
+2,Statement-Non-Opinion
+3,Disagreement
+4,Statement-Opinion
+5,Question
+6,Statement-Opinion
+7,Statement-Opinion
+8,Command
+9,Statement-Non-Opinion
+1,Statement-Opinion
+2,Statement-Opinion
+3,Question
+1,Acknowledge
+2,Statement-Opinion
+3,Statement-Opinion
+4,Acknowledge
+5,Statement-Non-Opinion
+6,Command
+7,Acknowledge
+8,Statement-Opinion
+9,Question
+10,Apology
+11,Statement-Opinion
+12,Question
+13,Statement-Opinion
+14,Command
+15,Question
+16,Statement-Opinion
+17,Question
+18,Statement-Non-Opinion
+1,Statement-Opinion
+2,Agreement
+3,Statement-Non-Opinion
+4,Acknowledge
+5,Question
+6,Disagreement
+7,Statement-Non-Opinion
+8,Disagreement
+9,Question
+10,Answer
+11,Acknowledge
+12,Acknowledge
+13,Question
+14,Statement-Opinion
+15,Question
+16,Greeting
+17,Acknowledge
+18,Question
+1,Greeting
+2,Disagreement
+3,Acknowledge
+4,Statement-Opinion
+5,Acknowledge
+6,Greeting
+7,Greeting
+8,Statement-Opinion
+9,Acknowledge
+10,Backchannel
+11,Statement-Non-Opinion
+12,Backchannel
+13,Greeting
+14,Statement-Non-Opinion
+15,Statement-Non-Opinion
+16,Agreement
+1,- Statement-Non-Opinion
+2,- Statement-Opinion
+3,- Statement-Non-Opinion
+1,Command
+2,Statement-Opinion
+3,Command
+4,Statement-Non-Opinion
+5,Greeting
+6,Question
+7,Question
+8,Answer
+9,Statement-Non-Opinion
+10,Question
+11,Question
+1,- Greeting
+2,- Statement-Non-Opinion
+3,- Acknowledge
+4,- Statement-Non-Opinion
+5,- Statement-Non-Opinion
+6,- Question
+7,- Question
+8,- Statement-Non-Opinion
+9,- Greeting
+10,- Statement-Non-Opinion
+11,- Acknowledge
+12,- Statement-Non-Opinion
+13,- Statement-Non-Opinion
+14,- Greeting
+1,- Greeting
+2,- Greeting
+3,- Question
+4,- Answer
+5,- Statement-Non-Opinion
+6,- Statement-Opinion
+7,- Answer
+8,- Acknowledge
+1,- Statement-Non-Opinion
+2,- Agreement
+3,- Statement-Opinion
+4,- Command
+5,- Statement-Opinion
+6,- Statement-Opinion
+7,- Question
+8,- Statement-Non-Opinion
+9,- Command
+10,- Statement-Opinion
+11,- Disagreement
+12,- Acknowledge
+13,- Acknowledge
+14,- Agreement
+1,Statement-Opinion
+2,Acknowledge
+3,Question
+4,Acknowledge
+5,Backchannel
+6,Agreement
+7,Question
+8,Statement-Non-Opinion
+9,Backchannel
+10,Question
+11,Disagreement
+1,- **Backchannel**
+2,- **Disagreement**
+3,- **Statement-Non-Opinion**
+4,- **Agreement**
+5,Why have you been following me? - **Question**
+6,- **Statement-Opinion**
+7,- **Statement-Opinion**
+8,What? - **Question**
+9,"One more chance Ursula, please? - **Command**"
+10,- **Acknowledge**
+1,Statement-Non-Opinion
+2,Acknowledge
+1,- **Statement-Non-Opinion**
+2,- **Acknowledge**
+3,Hi! - **Greeting**
+4,"Hi! All right, let's go shoppin'!! - **Command**"
+5,- **Statement-Non-Opinion**
+6,- **Acknowledge**
+7,- **Statement-Opinion**
+8,- **Statement-Non-Opinion**
+9,- **Statement-Opinion**
+10,- **Statement-Non-Opinion**
+11,- **Backchannel**
+12,- **Statement-Non-Opinion**
+1,Greeting
+2,Greeting
+3,Statement-Non-Opinion
+4,Statement-Non-Opinion
+5,Statement-Opinion
+6,Statement-Opinion
+7,Statement-Non-Opinion
+8,Question
+9,Acknowledge
+1,
+2,"so leathery and wrinkled, I'm so"
+1,Disagreement
+2,Statement-Opinion
+1,Command
+2,Disagreement
+3,Statement-Opinion
+4,Statement-Opinion
+1,Greeting
+2,Disagreement
+3,Question
+4,Statement-Non-Opinion
+5,Question
+6,Command
+7,Statement-Opinion
+8,Statement-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Acknowledge
+1,Disagreement
+2,Statement-Opinion
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Statement-Non-Opinion
+1,Statement-Opinion
+2,Statement-Opinion
+3,Statement-Opinion
+4,Statement-Non-Opinion
+5,Question
+6,Statement-Non-Opinion
+7,Statement-Non-Opinion
+8,Question
+9,Statement-Non-Opinion
+10,Question
+1,Apology
+2,Statement-Non-Opinion
+3,Disagreement
+4,Greeting
+5,Acknowledge
+6,Question
+7,Statement-Opinion
+8,Agreement
+9,Statement-Opinion
+10,Statement-Opinion
+11,Statement-Opinion
+12,Statement-Opinion
+13,Statement-Opinion
+14,Statement-Opinion
+15,Greeting
+16,Question
+17,Command
+18,Disagreement
+19,Agreement
+20,Statement-Opinion
+21,Agreement
+22,Statement-Opinion
+23,Acknowledge
+1,Greeting
+2,Greeting
+3,Statement-Opinion
+4,Statement-Opinion
+5,Command
+6,Statement-Non-Opinion
+7,Statement-Non-Opinion
+8,Statement-Non-Opinion
+9,Statement-Opinion
+10,Command
+11,Statement-Non-Opinion
+12,Statement-Opinion
+13,Statement-Non-Opinion
+14,Question
+15,Statement-Non-Opinion
+16,Question
+17,Statement-Opinion
+18,Statement-Opinion
+19,Statement-Opinion
+20,Command
+21,Question
+1,Question
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Statement-Non-Opinion
+5,Statement-Opinion
+6,Statement-Opinion
+7,Statement-Opinion
+8,Agreement
+9,Statement-Opinion
+10,Statement-Opinion
+11,Agreement
+1,- Command
+2,- Command
+3,- Statement-Opinion
+4,- Statement-Opinion
+5,- Statement-Opinion
+6,- Statement-Opinion
+7,- Statement-Opinion
+8,- Command
+9,- Agreement
+10,- Command
+11,- Statement-Non-Opinion
+1,- Question
+2,- Answer
+3,- Statement-Non-Opinion
+4,- Acknowledge
+5,- Statement-Opinion
+6,- Acknowledge
+7,- Command
+8,- Disagreement
+9,- Command
+1,
+2,What?
+3,
+4,
+5,You fell asleep?
+6,"But only because I was up all night worried about this meeting, ain't that funny?"
+7,Irony?
+8,
+9,
+10,
+11,"See, me, I love Tulsa!"
+12,Tulsa is heaven!
+13,Tulsa is ItalyÃ¢â¬Å¡ÃâÃÂ®Please don't make me go there!
+14,
+15,No no no!
+16,"Look, Carol, can I call you Carol?"
+17,Wh-why would I when your name is Elaine?
+18,"Oh what a great picture of your son, strapping!"
+19,
+20,
+21,
+"(Note: Some sentences contain multiple dialogue acts, so they are labeled accordingly",)
+1,Greeting
+2,Greeting
+3,Question
+4,Answer
+5,Statement-Non-Opinion
+6,Statement-Opinion
+7,Statement-Non-Opinion
+8,Acknowledge
+9,Statement-Opinion
+10,Statement-Opinion
+11,Statement-Opinion
+12,Question
+13,Question
+14,"Question (incomplete, but likely a continuation of the questioning pattern)"
+1,- Disagreement
+2,- Question
+3,- Question
+4,- Acknowledge
+5,- Apology
+6,- Apology
+7,- Acknowledge
+1,Statement-Opinion
+2,Statement-Opinion
+3,Question
+4,Question
+5,Statement-Non-Opinion
+6,Statement-Non-Opinion
+7,Question
+8,Acknowledge
+9,Command
+10,Statement-Non-Opinion
+11,Command
+12,Question
+13,Agreement
+14,Backchannel
+15,Agreement
+16,Command
+17,Command
+18,Command
+1,Statement-Opinion
+2,Acknowledge
+3,Others
+4,Question
+5,Statement-Non-Opinion
+1,Statement-Opinion
+2,Command
+3,Statement-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+6,Statement-Opinion
+7,Disagreement
+1,Greeting
+2,Question
+3,Apology
+4,Disagreement
+5,Apology
+6,Disagreement
+7,Statement-Opinion
+8,Statement-Opinion
+9,Command
+10,Apology
+1,Greeting
+2,Question
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+6,Apology
+7,Statement-Opinion
+8,Acknowledge
+1,- Monica - I don't know how any of these got opened?! - **Statement-Non-Opinion**
+2,- Joey - You opened them all? - **Question**
+3,"- Monica - I know! I know! I am a terrible person! I mean, Chandler is never going to trust me with anything ever again! - **Apology**"
+4,- Joey - Oh hey! You got my parent's gift! - **Statement-Non-Opinion**
+5,What is that? - **Question**
+6,- **Statement-Opinion**
+7,- Monica - Hey! How'd it go? - **Question**
+8,What-what did Tag say? - **Question**
+9,- Rachel - Tag is not the father! And Joey knows now? - **Statement-Non-Opinion**
+10,- **Agreement**
+11,"- Rachel - Oh wow, you didn't even try to unhook my bra! - **Statement-Non-Opinion**"
+12,- Monica - So are you ever gonna tell whoever it is? - **Question**
+13,- **Statement-Opinion**
+14,- **Statement-Opinion**
+15,- Rachel - I'm not? - **Question**
+16,- **Statement-Opinion**
+17,- **Statement-Opinion**
+18,"- Joey - So, Rachel Green will you marry me? - **Question**"
+1,- Acknowledge
+2,- Statement-Opinion
+1,Statement-Opinion
+2,Command
+3,Statement-Non-Opinion
+4,Question
+5,Statement-Non-Opinion
+6,Command
+7,Statement-Opinion
+8,Statement-Opinion
+1,- Joey - Yes! - **Acknowledge**
+2,I win again! - **Statement-Non-Opinion**
+3,Ha-ha! - **Backchannel**
+4,That's like 500 bucks you owe me! - **Statement-Non-Opinion**
+5,Whoo-ho-hoo! - **Backchannel**
+6,$500 that is a loooot of electricity! - **Statement-Opinion**
+7,Whoo-ho-ho! - **Backchannel**
+8,- **Statement-Non-Opinion**
+9,- **Command**
+10,You serious? - **Question**
+11,Oh yes! - **Agreement**
+12,"Okay, get ready to owe me! - **Statement-Opinion**"
+13,- **Acknowledge**
+14,Ready? - **Question**
+15,- **Disagreement**
+16,- **Statement-Opinion**
+1,Question
+2,Statement-Opinion
+3,Statement-Opinion
+4,Statement-Opinion
+5,Disagreement
+6,Question
+7,Greeting
+8,"Greeting, Question"
+9,Statement-Opinion
+10,Disagreement
+11,Statement-Non-Opinion
+12,Question
+13,Apology
+14,Apology
+15,"Statement-Non-Opinion, Question"
+16,Acknowledge
+17,Statement-Opinion
+18,Acknowledge
+1,Command
+2,Statement-Non-Opinion
+3,Question
+4,Statement-Non-Opinion
+5,Question
+6,Statement-Opinion
+7,Agreement
+8,Statement-Non-Opinion
+9,Acknowledge
+10,Command
+11,Question
+1,Question
+2,Agreement
+3,Disagreement
+4,Disagreement
+5,Greeting
+6,Greeting
+7,Statement-Opinion
+8,Statement-Opinion
+9,Command
+10,Acknowledge
+11,Statement-Opinion
+12,Agreement
+13,Acknowledge
+14,Backchannel
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Acknowledge
+4,Disagreement
+5,Statement-Non-Opinion
+6,Question
+7,Answer
+8,Command
+9,Statement-Non-Opinion
+10,Greeting
+11,Greeting
+1,- Command
+2,- Disagreement
+3,- Command
+4,- Acknowledge
+5,- Command
+1,Command
+2,Answer
+3,Agreement
+4,Answer
+1,Statement-Opinion
+2,Acknowledge
+3,Apology
+4,Statement-Opinion
+5,Command
+1,Statement-Non-Opinion
+2,Acknowledge
+3,Disagreement
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Statement-Opinion
+7,Statement-Opinion
+8,Command
+9,Question
+10,Statement-Non-Opinion
+11,Statement-Non-Opinion
+12,Question
+13,Statement-Opinion
+14,Acknowledge
+15,Statement-Opinion
+1,Question
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Command
+5,Statement-Opinion
+6,Statement-Opinion
+7,Statement-Opinion
+8,Statement-Opinion
+1,- Acknowledge
+2,- Statement-Non-Opinion
+3,- Greeting
+4,- Question
+5,- Statement-Non-Opinion
+6,- Statement-Opinion
+7,- Disagreement
+8,- Statement-Opinion
+9,- Question
+10,- Disagreement
+11,- Statement-Non-Opinion
+12,- Agreement
+13,- Agreement
+14,- Statement-Non-Opinion
+15,- Question
+16,- Statement-Non-Opinion
+17,- Statement-Non-Opinion
+18,- Disagreement
+19,- Statement-Opinion
+1,Greeting
+2,Question
+3,Question
+4,Statement-Non-Opinion
+5,Question
+6,Answer
+7,Question
+8,Statement-Non-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Question
+12,Answer
+13,Statement-Non-Opinion
+14,Greeting
+15,Statement-Non-Opinion
+16,Acknowledge
+17,Statement-Opinion
+18,Question
+19,Statement-Non-Opinion
+20,Acknowledge
+21,Statement-Opinion
+22,Statement-Opinion
+1,Disagreement
+2,Answer
+3,Question
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Question
+7,Answer
+8,Disagreement
+9,Answer
+10,Acknowledge
+11,Statement-Opinion
+12,Statement-Opinion
+13,Statement-Opinion
+14,Greeting
+15,Greeting
+1,- Statement-Non-Opinion
+2,- Command
+3,- Statement-Non-Opinion
+4,- Question
+5,- Statement-Non-Opinion
+6,- Question
+7,- Statement-Non-Opinion
+8,- Acknowledge
+9,- Apology
+1,- Greeting
+2,- Question
+3,- Statement-Opinion
+4,- Question
+5,- Statement-Opinion
+6,- Statement-Opinion
+7,- Statement-Non-Opinion
+8,- Question
+9,- Question
+10,- Statement-Opinion
+11,- Question
+12,- Statement-Opinion
+13,- Acknowledge
+14,- Statement-Opinion
+15,- Statement-Opinion
+1,- Command
+2,- Acknowledge
+1,- Question
+2,- Answer
+3,- Greeting
+1,Acknowledge
+2,Acknowledge
+3,Question
+4,Statement-Opinion
+5,Statement-Non-Opinion
+1,Statement-Opinion
+2,Question
+3,Statement-Non-Opinion
+4,Acknowledge
+5,Question
+6,Apology
+7,Backchannel
+8,Statement-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Agreement
+12,Question
+13,Statement-Opinion
+14,Statement-Opinion
+1,- Command
+2,- Apology
+3,- Disagreement
+4,- Statement-Non-Opinion
+5,- Statement-Opinion
+6,- Question
+7,- Statement-Opinion
+8,- Question
+9,- Statement-Opinion
+10,- Question
+11,- Statement-Non-Opinion
+12,- Question
+13,- Statement-Opinion
+14,- Command
+15,- Statement-Non-Opinion
+16,- Disagreement
+1,Statement-Opinion
+2,Statement-Opinion
+3,Question
+1,- Statement-Non-Opinion
+2,- Greeting
+3,- Command
+4,- Statement-Non-Opinion
+5,- Greeting
+6,- Statement-Non-Opinion
+7,- Statement-Opinion
+8,- Statement-Opinion
+1,Statement-Opinion
+2,Statement-Opinion
+3,Others
+4,Statement-Non-Opinion
+5,Agreement
+6,Disagreement
+7,Statement-Non-Opinion
+8,Disagreement
+1,Greeting
+2,Apology
+3,Statement-Non-Opinion
+4,Acknowledge
+5,Question
+6,Statement-Opinion
+7,Question
+8,Question
+9,Command
+10,Statement-Non-Opinion
+11,Statement-Opinion
+12,Question
+13,Statement-Non-Opinion
+14,Statement-Opinion
+15,Disagreement
+16,Statement-Opinion
+1,Disagreement
+2,Question
+3,Statement-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+6,Statement-Opinion
+7,Statement-Opinion
+1,Statement-Opinion
+2,Question
+3,Backchannel
+4,Statement-Non-Opinion
+5,Statement-Opinion
+6,Statement-Opinion
+7,Backchannel
+8,Statement-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Question
+12,Disagreement
+13,Disagreement
+14,Answer
+15,Acknowledge
+16,Disagreement
+1,Apology
+2,Statement-Opinion
+3,Question
+4,Statement-Non-Opinion
+5,Acknowledge
+6,Command
+7,Acknowledge
+8,Statement-Opinion
+9,Command
+10,Question
+11,Command
+12,Statement-Opinion
+1,- Question
+2,- Answer
+3,- Statement-Non-Opinion
+4,- Statement-Non-Opinion
+5,- Question
+6,- Others
+7,- Statement-Opinion
+8,- Question
+9,- Answer
+10,- Statement-Opinion
+11,- Statement-Opinion
+12,- Greeting
+13,- Greeting
+1,Question
+2,Answer
+3,Greeting
+4,Statement-Opinion
+5,Disagreement
+6,Statement-Opinion
+7,Others
+8,Question
+9,Statement-Opinion
+10,Statement-Opinion
+11,Question
+12,Statement-Non-Opinion
+13,Disagreement
+14,Command
+15,Statement-Opinion
+16,Statement-Opinion
+17,Statement-Opinion
+18,Statement-Opinion
+1,Greeting
+2,Greeting
+3,Question
+4,Answer
+5,Question
+6,Answer
+7,Backchannel
+8,Acknowledge
+9,Statement-Non-Opinion
+10,Statement-Opinion
+11,Acknowledge
+12,Statement-Opinion
+13,Agreement
+14,Statement-Opinion
+15,Agreement
+16,Statement-Non-Opinion
+1,Apology
+2,Disagreement
+3,Question
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Question
+7,Acknowledge
+8,Apology
+9,Acknowledge
+10,Statement-Non-Opinion
+11,Apology
+12,Acknowledge
+13,Question
+14,Statement-Opinion
+15,Agreement
+16,Acknowledge
+17,Statement-Non-Opinion
+18,Question
+19,Agreement
+20,Question
+21,Statement-Non-Opinion
+22,Statement-Opinion
+23,Acknowledge
+1,Statement-Opinion
+2,Question
+3,Statement-Non-Opinion
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Disagreement
+7,Apology
+8,Statement-Non-Opinion
+9,Statement-Opinion
+10,Question
+11,Statement-Opinion
+1,- Question
+2,- Statement-Non-Opinion
+3,- Statement-Non-Opinion
+4,- Statement-Non-Opinion
+5,- Question
+6,- Statement-Non-Opinion
+7,- Question
+8,- Statement-Opinion
+9,- Agreement
+10,- Disagreement
+11,- Acknowledge
+12,- Agreement
+13,- Statement-Opinion
+14,- Backchannel
+15,- Statement-Opinion
+1,Command
+2,Answer
+3,Statement-Non-Opinion
+4,Agreement
+5,Statement-Opinion
+6,Statement-Opinion
+7,Statement-Opinion
+8,Command
+9,Statement-Non-Opinion
+10,Statement-Non-Opinion
+11,Statement-Non-Opinion
+12,Statement-Non-Opinion
+13,Acknowledge
+14,Backchannel
+15,Statement-Non-Opinion
+16,Acknowledge
+17,Statement-Non-Opinion
+18,Acknowledge
+19,Statement-Non-Opinion
+20,Acknowledge
+21,Statement-Non-Opinion
+1,- Acknowledge
+2,- Statement-Opinion
+3,- Statement-Opinion
+4,- Command
+5,- Statement-Non-Opinion
+6,- Disagreement
+7,- Question
+8,- Apology
+9,- Acknowledge
+10,- Statement-Opinion
+11,- Statement-Opinion
+12,- Acknowledge
+1,- Disagreement
+2,- Question
+3,- Answer
+4,- Statement-Opinion
+5,- Statement-Opinion
+1,- Statement-Opinion
+2,- Command
+3,- Command
+4,- Statement-Non-Opinion
+5,- Statement-Non-Opinion
+6,- Command
+1,Greeting
+2,Statement-Non-Opinion
+3,Acknowledge
+4,Acknowledge
+5,Command
+6,Question
+7,Acknowledge
+8,Question
+9,Acknowledge
+10,Question
+11,Statement-Opinion
+12,Statement-Non-Opinion
+1,Statement-Non-Opinion
+2,Acknowledge
+3,Statement-Non-Opinion
+4,Others
+5,Statement-Non-Opinion
+6,Statement-Opinion
+7,Statement-Opinion
+8,Command
+9,Question
+10,Disagreement
+11,Disagreement
+12,Statement-Opinion
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Statement-Non-Opinion
+5,Question
+6,Question
+7,Agreement
+1,Statement-Opinion
+2,Question
+3,Answer
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Question
+7,Answer
+8,Backchannel
+9,Question
+10,Answer
+11,Answer
+12,Answer
+13,Command
+14,Command
+15,Acknowledge
+16,Question
+17,Answer
+18,Question
+19,Agreement
+20,Command
+21,Agreement
+1,Greeting
+2,Backchannel
+3,Apology
+4,Statement-Opinion
+5,Statement-Opinion
+6,Statement-Opinion
+7,Question
+8,Statement-Opinion
+9,Statement-Opinion
+1,Statement-Non-Opinion
+2,Greeting
+3,Apology
+4,Statement-Opinion
+5,Acknowledge
+6,Statement-Non-Opinion
+7,Acknowledge
+8,Question
+9,Backchannel
+10,Command
+11,Question
+12,Statement-Opinion
+13,Agreement
+14,Statement-Opinion
+15,Command
+1,Question
+2,Answer
+3,Disagreement
+4,Disagreement
+5,Statement-Non-Opinion
+6,Acknowledge
+1,Statement-Opinion
+2,Question
+3,Answer
+4,Command
+5,Statement-Non-Opinion
+6,Disagreement
+7,Question
+8,Statement-Opinion
+1,Greeting
+2,Question
+3,Answer
+4,Disagreement
+5,Statement-Opinion
+1,Disagreement
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Statement-Non-Opinion
+7,Question
+8,Statement-Non-Opinion
+9,Statement-Non-Opinion
+10,Acknowledge
+11,Agreement
+12,Acknowledge
+1,Greeting
+2,Disagreement
+3,Acknowledge
+4,Question
+5,Agreement
+6,Statement-Opinion
+7,Statement-Opinion
+8,Question
+9,Statement-Opinion
+10,Statement-Opinion
+11,Question
+12,Question
+13,Answer
+14,Disagreement
+1,- Greeting
+2,- Statement-Non-Opinion
+3,- Question
+4,- Statement-Non-Opinion
+1,Statement-Opinion
+2,Acknowledge
+3,Statement-Opinion
+4,Statement-Opinion
+5,Question
+6,Command
+7,Acknowledge
+8,Acknowledge
+9,Statement-Non-Opinion
+10,Question
+11,Statement-Non-Opinion
+12,Acknowledge
+13,Statement-Non-Opinion
+14,Question
+15,Statement-Non-Opinion
+16,Acknowledge
+1,Question
+2,Statement-Non-Opinion
+3,Question
+4,Statement-Opinion
+5,Question
+6,Question
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Statement-Opinion
+10,Command
+11,Statement-Non-Opinion
+12,Acknowledge
+13,Statement-Non-Opinion
+14,Backchannel
+15,Statement-Opinion
+16,Statement-Opinion
+17,Statement-Non-Opinion
+18,Statement-Non-Opinion
+19,Statement-Non-Opinion
+1,Statement-Opinion
+2,Disagreement
+3,Question
+4,Statement-Non-Opinion
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Statement-Opinion
+5,Agreement
+6,Greeting
+7,Statement-Non-Opinion
+8,Acknowledge
+1,Statement-Non-Opinion
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Acknowledge
+5,Disagreement
+1,Acknowledge
+2,Statement-Opinion
+3,Question
+4,Statement-Non-Opinion
+5,Command
+6,Question
+7,Acknowledge
+1,Question
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Statement-Opinion
+5,Command
+6,Statement-Opinion
+7,Agreement
+8,Statement-Opinion
+9,Statement-Non-Opinion
+10,Statement-Opinion
+11,Statement-Opinion
+1,- **Answer**
+2,- **Statement-Opinion**
+3,- **Acknowledge**
+4,- **Statement-Non-Opinion**
+5,Oh yeah? Did he pull the old - **Question**
+6,That's right! That's right! - **Agreement**
+7,- **Acknowledge**
+8,Yeah that! You know I hate practical jokes! They're mean and they're stupid and-and I don't want my son learning them! - **Disagreement**
+1,Statement-Opinion
+2,Acknowledge
+3,Question
+4,Acknowledge
+1,Statement-Opinion
+2,Question
+3,Statement-Non-Opinion
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Question
+7,Statement-Opinion
+8,Command
+9,Statement-Opinion
+10,Command
+11,Statement-Opinion
+12,Statement-Non-Opinion
+13,Statement-Non-Opinion
+14,Statement-Non-Opinion
+15,Statement-Non-Opinion
+16,Statement-Non-Opinion
+17,Statement-Opinion
+18,Statement-Opinion
+1,Command
+2,Backchannel
+3,Statement-Non-Opinion
+4,Agreement
+5,Statement-Opinion
+6,Agreement
+7,Statement-Non-Opinion
+8,Question
+1,Statement-Opinion
+2,Disagreement
+3,Statement-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+6,Statement-Opinion
+7,Statement-Opinion
+8,Question
+9,Statement-Opinion
+10,Statement-Opinion
+11,Statement-Opinion
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Question
+5,Statement-Non-Opinion
+6,Disagreement
+7,Command
+8,Agreement
+9,Statement-Non-Opinion
+10,Statement-Non-Opinion
+1,Statement-Non-Opinion
+2,Greeting
+3,Greeting
+4,Others
+5,Question
+6,Statement-Opinion
+1,Question
+2,Statement-Non-Opinion
+3,Acknowledge
+4,Statement-Opinion
+5,Command
+6,Disagreement
+7,Disagreement
+8,Question
+9,Statement-Opinion
+10,Apology
+11,Statement-Opinion
+12,Acknowledge
+13,Command
+14,Command
+15,Statement-Opinion
+16,Statement-Opinion
+1,Statement-Opinion
+2,Agreement
+3,Statement-Non-Opinion
+4,Disagreement
+5,Statement-Non-Opinion
+6,Question
+7,Statement-Non-Opinion
+8,Statement-Non-Opinion
+9,Question
+10,Backchannel
+11,Command
+1,- Disagreement
+2,- Backchannel
+3,- Question
+1,- Greeting
+2,- Greeting
+3,- Statement-Opinion
+4,- Statement-Opinion
+5,- Command
+1,Greeting
+2,Greeting
+3,Question
+4,Statement-Opinion
+1,Question
+2,Answer
+3,Statement-Non-Opinion
+4,Backchannel
+5,Question
+6,Question
+7,Statement-Opinion
+8,Question
+9,Statement-Non-Opinion
+10,Command
+11,Acknowledge
+12,Backchannel
+13,Others
+14,Backchannel
+15,Statement-Opinion
+16,Statement-Non-Opinion
+1,- **Statement-Non-Opinion**
+2,- **Agreement**
+3,Great! - **Agreement**
+4,Hey-Hey-Hey! Who was that? - **Question**
+5,- **Statement-Non-Opinion**
+6,- **Statement-Opinion**
+7,- **Statement-Non-Opinion**
+8,What? - **Question**
+9,And the craziest thing is that I just ate a whole pizza by myself! - **Statement-Non-Opinion**
+10,Wait! You're going out with Kathy! - **Statement-Non-Opinion**
+11,Why are you getting so upset? - **Question**
+12,- **Statement-Opinion**
+13,- **Question**
+14,- **Statement-Opinion**
+15,- **Statement-Opinion**
+16,You got all that from the back of her head? - **Question**
+17,- **Command**
+18,Who's Elaine? - **Question**
+1,- Question
+2,- Question
+3,- Statement-Opinion
+4,- Statement-Non-Opinion
+5,- Disagreement
+1,Greeting
+2,Greeting
+3,Question
+4,Statement-Opinion
+5,Statement-Non-Opinion
+6,Question
+7,Statement-Opinion
+8,Acknowledge
+9,Greeting
+10,Greeting
+11,Question
+12,Acknowledge
+13,Question
+14,Others
+15,Statement-Opinion
+16,Statement-Opinion
+17,Question
+18,Answer
+19,Statement-Opinion
+20,Statement-Opinion
+21,Question
+1,- Agreement
+2,- Question
+3,- Statement-Non-Opinion
+4,- Question
+5,- Statement-Opinion
+6,- Statement-Non-Opinion
+7,- Question
+8,- Disagreement
+9,- Disagreement
+10,- Statement-Non-Opinion
+11,- Statement-Non-Opinion
+12,- Statement-Non-Opinion
+13,- Question
+14,- Disagreement
+1,Disagreement
+2,Statement-Opinion
+3,Statement-Opinion
+4,Agreement
+5,Disagreement
+6,Statement-Opinion
+7,Acknowledge
+8,Statement-Non-Opinion
+9,Question
+10,Statement-Non-Opinion
+11,Acknowledge
+12,Statement-Non-Opinion
+13,Backchannel
+14,Statement-Non-Opinion
+15,Acknowledge
+16,Statement-Non-Opinion
+17,Statement-Opinion
+18,Command
+19,Statement-Opinion
+20,Acknowledge
+1,- Greeting
+2,- Backchannel
+3,- Question
+4,- Statement-Opinion
+5,- Disagreement
+6,- Acknowledge
+1,Greeting
+2,Question
+3,Answer
+4,Statement-Non-Opinion
+5,Statement-Opinion
+1,- Acknowledge
+2,- Statement-Non-Opinion
+3,- Acknowledge
+4,- Acknowledge
+5,- Statement-Opinion
+6,- Statement-Opinion
+7,- Greeting
+1,"- Agreement, Question"
+2,- Statement-Non-Opinion
+3,- Statement-Opinion
+4,- Statement-Opinion
+5,- Statement-Opinion
+6,- Statement-Non-Opinion
+7,- Question
+8,- Statement-Non-Opinion
+9,- Command
+10,- Question
+11,- Statement-Opinion
+12,- Question
+13,- Statement-Non-Opinion
+14,- Statement-Non-Opinion
+15,- Statement-Opinion
+16,- Statement-Non-Opinion
+17,- Statement-Opinion
+1,Question
+2,Answer
+3,Statement-Opinion
+4,Command
+5,Acknowledge
+6,Disagreement
+7,Statement-Non-Opinion
+8,Question
+9,Statement-Non-Opinion
+10,Statement-Non-Opinion
+11,Statement-Opinion
+12,Agreement
+13,Statement-Opinion
+14,Statement-Non-Opinion
+15,Statement-Opinion
+16,Statement-Opinion
+17,Statement-Opinion
+18,Question
+1,Statement-Opinion
+2,Agreement
+3,Question
+4,Question
+5,Statement-Non-Opinion
+6,Question
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Command
+10,Command
+11,Statement-Opinion
+1,Statement-Opinion
+2,Apology
+3,Statement-Opinion
+4,Statement-Non-Opinion
+5,Question
+6,Statement-Opinion
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Command
+5,Agreement
+6,Acknowledge
+7,Others
+8,Question
+9,Disagreement
+10,Question
+11,Agreement
+1,- Statement-Non-Opinion
+2,- Command
+3,- Statement-Opinion
+4,- Question
+5,- Disagreement
+1,- Backchannel
+2,- Statement-Non-Opinion
+3,Ah-ha! Too cocky! - Statement-Opinion
+1,Agreement
+2,Statement-Opinion
+3,Apology
+4,Command
+5,Acknowledge
+6,Statement-Non-Opinion
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Acknowledge
+10,Statement-Non-Opinion
+11,Command
+12,Disagreement
+13,Disagreement
+14,Statement-Non-Opinion
+15,Backchannel
+16,Greeting
+1,- Greeting
+2,- Statement-Opinion
+3,- Statement-Non-Opinion
+4,- Backchannel
+5,- Question
+6,- Disagreement
+7,- Acknowledge
+8,- Statement-Opinion
+9,- Statement-Opinion
+10,- Command
+11,- Disagreement
+12,- Question
+13,- Backchannel
+14,- Question
+15,- Statement-Non-Opinion
+16,- Question
+17,- Statement-Non-Opinion
+18,- Disagreement
+1,Statement-Opinion
+2,Statement-Opinion
+3,Command
+4,Question
+5,Others
+6,Disagreement
+7,Command
+8,Command
+9,Command
+10,Command
+11,Acknowledge
+12,Statement-Opinion
+13,Command
+14,Command
+15,Command
+16,Statement-Opinion
+17,Statement-Opinion
+1,Command
+2,Statement-Opinion
+3,Apology
+1,- **Acknowledge**
+2,- **Statement-Non-Opinion**
+3,- **Statement-Non-Opinion**
+4,- **Statement-Non-Opinion**
+5,- **Statement-Opinion**
+6,- **Acknowledge**
+7,- **Statement-Opinion**
+8,- **Statement-Opinion**
+1,Question
+2,Statement-Non-Opinion
+3,Acknowledge
+4,Disagreement
+5,Statement-Non-Opinion
+6,Statement-Non-Opinion
+7,Command
+8,Statement-Opinion
+9,Disagreement
+10,Command
+11,Agreement
+12,Statement-Opinion
+13,Statement-Opinion
+14,Statement-Opinion
+15,Statement-Opinion
+16,Statement-Opinion
+17,Statement-Opinion
+1,- Acknowledge
+2,- Command
+3,- Acknowledge
+4,- Backchannel
+5,- Question
+6,- Apology
+1,Greeting
+2,Disagreement
+3,Agreement
+4,Disagreement
+5,Statement-Opinion
+6,Command
+7,Question
+8,Statement-Opinion
+9,Question
+10,Command
+11,Acknowledge
+12,Command
+13,Apology
+14,Acknowledge
+1,Command
+2,Acknowledge
+3,Acknowledge
+4,Question
+5,Command
+6,Question
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Others
+10,Command
+11,Statement-Non-Opinion
+12,Question
+13,Answer
+14,Acknowledge
+15,Disagreement
+16,Statement-Opinion
+17,Disagreement
+1,Statement-Opinion
+2,Greeting
+3,Greeting
+4,Statement-Non-Opinion
+5,Backchannel
+6,Statement-Non-Opinion
+7,Question
+8,Command
+9,Acknowledge
+1,Greeting
+2,Backchannel
+3,Acknowledge
+4,Statement-Opinion
+5,Statement-Non-Opinion
+6,Statement-Opinion
+7,Statement-Opinion
+8,Statement-Opinion
+9,Statement-Opinion
+10,Question
+11,Question
+12,Statement-Opinion
+13,Disagreement
+14,Agreement
+15,Statement-Opinion
+1,Statement-Opinion
+2,Question
+3,Statement-Opinion
+4,Acknowledge
+5,Question
+6,Statement-Opinion
+1,- Ross - My God! - **Acknowledge**
+2,These pants are burning up! - **Statement-Non-Opinion**
+3,"Oh come on, she wants to snuggle now! - **Statement-Opinion**"
+4,What is she trying to kill me? - **Question**
+5,It's like a volcano in here! - **Statement-Non-Opinion**
+6,Are you hot? - **Question**
+7,- **Acknowledge**
+8,"Umm, hey, do you, do you mind if I use your bathroom? - **Question**"
+1,Disagreement
+2,Agreement
+3,Command
+4,Statement-Opinion
+5,Question
+6,Statement-Non-Opinion
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Statement-Opinion
+10,Acknowledge
+11,Statement-Non-Opinion
+12,Command
+13,Statement-Opinion
+14,Question
+15,Answer
+1,"- Greeting, Question, Statement-Non-Opinion"
+2,- Question
+3,- Statement-Non-Opinion
+1,Statement-Opinion
+2,Agreement
+3,Command
+4,Statement-Opinion
+5,Question
+6,Command
+7,Command
+8,Statement-Non-Opinion
+9,Apology
+10,Acknowledge
+1,Statement-Opinion
+2,Acknowledge
+3,Statement-Opinion
+4,Statement-Opinion
+5,Backchannel
+6,Statement-Opinion
+7,Question
+8,Question
+9,Others
+10,Statement-Opinion
+11,Statement-Opinion
+12,Statement-Opinion
+13,Apology
+14,Question
+1,- Chandler - Y'know what? - **Question**
+2,- **Statement-Non-Opinion**
+3,- **Statement-Opinion**
+4,No? - **Question**
+5,Really? - **Question**
+6,- **Statement-Opinion**
+"(Note: ""jalepino"" was corrected to ""jalapeno"" in sentence 3 for accuracy",)
+1,- Command
+2,- Question
+3,- Statement-Opinion
+4,- Statement-Non-Opinion
+5,- Question
+6,- Statement-Opinion
+7,- Statement-Opinion
+8,- Disagreement
+9,- Disagreement
+10,- Command
+11,- Statement-Opinion
+12,- Apology
+13,- Statement-Opinion
+1,- Statement-Opinion
+2,- Agreement
+1,Statement-Opinion
+2,Acknowledge
+3,Disagreement
+4,Acknowledge
+5,Question
+1,Question
+2,Answer
+3,Question
+4,Statement-Opinion
+5,Statement-Opinion
+6,Disagreement
+7,Statement-Opinion
+8,Statement-Opinion
+9,Statement-Non-Opinion
+10,Agreement
+11,Acknowledge
+1,- Greeting
+2,- Greeting
+3,- Question
+4,- Statement-Non-Opinion
+5,- Backchannel
+6,- Question
+7,- Statement-Non-Opinion
+8,- Backchannel
+9,- Command
+1,- Acknowledge
+2,- Statement-Non-Opinion
+3,- Statement-Opinion
+4,- Statement-Opinion
+5,- Disagreement
+6,- Statement-Non-Opinion
+7,- Question
+8,- Disagreement
+9,- Question
+10,- Command
+11,- Question
+12,- Answer
+13,- Statement-Opinion
+14,- Statement-Non-Opinion
+1,Statement-Non-Opinion
+2,Command
+3,Statement-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+6,Statement-Opinion
+7,Agreement
+1,- Greeting
+2,- Statement-Opinion
+3,- Command
+4,- Acknowledge
+5,- Statement-Non-Opinion
+6,- Backchannel
+7,- Statement-Non-Opinion
+8,- Backchannel
+9,- Statement-Non-Opinion
+1,Question
+2,Answer
+3,Statement-Non-Opinion
+4,Question
+5,Answer
+6,Statement-Non-Opinion
+7,Statement-Opinion
+8,Statement-Opinion
+9,Statement-Opinion
+10,Statement-Non-Opinion
+11,Question
+12,Answer
+13,Acknowledge
+14,Greeting
+15,Greeting
+16,Question
+17,Statement-Non-Opinion
+18,Statement-Opinion
+1,- Statement-Opinion
+2,- Disagreement
+3,- Question
+4,- Answer
+5,- Acknowledge
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Backchannel
+4,Statement-Non-Opinion
+5,Agreement
+6,Question
+1,- The Guys - Yes! Yes! Yes! Yes! Awww! - **Agreement**
+2,- **Statement-Opinion**
+3,- **Acknowledge**
+4,- **Command**
+5,"No Mon, - **Disagreement**"
+6,- **Statement-Non-Opinion**
+1,Greeting
+2,Statement-Non-Opinion
+3,"Agreement, Question"
+4,Question
+5,Statement-Non-Opinion
+6,Statement-Non-Opinion
+7,Statement-Non-Opinion
+8,Statement-Non-Opinion
+9,Question
+10,"Statement-Opinion, Acknowledge"
+11,Statement-Non-Opinion
+12,Statement-Non-Opinion
+13,Statement-Non-Opinion
+14,Statement-Opinion
+15,Statement-Opinion
+16,"Question, Statement-Non-Opinion"
+1,Statement-Opinion
+2,Statement-Opinion
+3,Disagreement
+1,Acknowledge
+2,Command
+3,Greeting
+4,Greeting
+5,Statement-Opinion
+6,Disagreement
+7,Question
+8,Statement-Opinion
+9,Greeting
+10,Question
+11,Statement-Opinion
+12,Agreement
+13,Statement-Opinion
+14,Statement-Non-Opinion
+15,Disagreement
+16,Question
+17,Statement-Opinion
+1,Greeting
+2,Statement-Opinion
+3,Question
+4,Answer
+5,Question
+6,Answer
+7,Answer
+8,Question
+9,Answer
+10,Acknowledge
+11,Question
+12,Statement-Non-Opinion
+13,Statement-Opinion
+14,Statement-Non-Opinion
+15,Command
+16,Disagreement
+17,Question
+18,Answer
+19,Greeting
+20,Acknowledge
+1,Statement-Non-Opinion
+2,Greeting
+3,Statement-Non-Opinion
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+1,Acknowledge
+2,Acknowledge
+3,Statement-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+6,Command
+7,Command
+8,Statement-Non-Opinion
+9,Command
+10,Agreement
+11,Backchannel
+12,Question
+13,Command
+14,Backchannel
+1,Question
+2,Answer
+3,Statement-Non-Opinion
+4,Question
+5,Statement-Non-Opinion
+6,Command
+7,Disagreement
+8,Acknowledge
+9,Statement-Opinion
+10,Statement-Opinion
+11,Disagreement
+12,Statement-Opinion
+13,Command
+14,Question
+15,Disagreement
+16,Statement-Opinion
+17,Statement-Opinion
+18,Statement-Opinion
+19,Statement-Opinion
+20,Apology
+21,Disagreement
+22,Statement-Opinion
+1,Question
+2,Statement-Non-Opinion
+3,Command
+4,Statement-Non-Opinion
+5,Acknowledge
+6,Acknowledge
+7,Statement-Non-Opinion
+1,Apology
+2,Apology
+3,Question
+4,Acknowledge
+5,Acknowledge
+6,Acknowledge
+7,Greeting
+8,Question
+9,Acknowledge
+10,Statement-Non-Opinion
+1,Greeting
+2,Greeting
+3,Question
+4,Statement-Non-Opinion
+5,Statement-Opinion
+6,Question
+7,Question
+8,Statement-Opinion
+9,Statement-Opinion
+10,Question
+11,Statement-Opinion
+12,Statement-Opinion
+13,Statement-Opinion
+14,Question
+15,Statement-Opinion
+16,Greeting
+17,Statement-Non-Opinion
+18,Statement-Non-Opinion
+19,Acknowledge
+20,Statement-Non-Opinion
+21,Statement-Opinion
+1,Statement-Opinion
+2,Question
+3,Statement-Non-Opinion
+4,Apology
+5,Disagreement
+6,Statement-Opinion
+7,Acknowledge
+8,Question
+9,Statement-Opinion
+1,Greeting
+2,Greeting
+3,Statement-Non-Opinion
+4,Statement-Non-Opinion
+5,Question
+6,Answer
+7,Question
+8,Statement-Opinion
+9,Statement-Opinion
+10,Statement-Non-Opinion
+11,Question
+12,Statement-Opinion
+13,Question
+14,Statement-Opinion
+15,Statement-Opinion
+1,Statement-Non-Opinion
+2,Question
+3,Statement-Opinion
+4,Question
+5,Question
+6,Question
+7,Answer
+8,Agreement
+9,Statement-Non-Opinion
+1,- Statement-Non-Opinion
+2,- Statement-Opinion
+3,- Statement-Non-Opinion
+4,- Agreement
+5,- Question
+6,- Statement-Non-Opinion
+1,- Question
+2,- Disagreement
+1,Statement-Opinion
+2,Acknowledge
+3,Statement-Opinion
+4,Statement-Non-Opinion
+5,Apology
+6,Statement-Opinion
+7,Question
+8,Apology
+9,Statement-Opinion
+10,Statement-Opinion
+11,Statement-Non-Opinion
+12,Statement-Non-Opinion
+13,Statement-Non-Opinion
+14,Question
+15,Statement-Non-Opinion
+16,Question
+1,Question
+2,Question
+3,Statement-Non-Opinion
+4,Acknowledge
+5,Command
+6,Statement-Opinion
+7,Statement-Opinion
+8,Command
+9,Command
+10,Disagreement
+11,Command
+12,Disagreement
+13,Command
+14,Disagreement
+15,Command
+16,Statement-Non-Opinion
+17,Statement-Opinion
+1,Greeting
+2,Question
+3,Statement-Opinion
+4,Disagreement
+5,Command
+6,Question
+7,Statement-Opinion
+8,Agreement
+9,Question
+10,Acknowledge
+11,Command
+12,Statement-Non-Opinion
+13,Question
+14,Answer
+15,Command
+16,Acknowledge
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Acknowledge
+5,Question
+6,Answer
+7,Agreement
+8,Backchannel
+9,Statement-Opinion
+10,Statement-Non-Opinion
+11,Command
+12,Backchannel
+13,Statement-Opinion
+14,Question
+15,Statement-Opinion
+16,Acknowledge
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Disagreement
+4,Acknowledge
+5,Apology
+6,Question
+7,Statement-Non-Opinion
+8,Statement-Non-Opinion
+9,Question
+10,Agreement
+11,Statement-Opinion
+12,Question
+13,Acknowledge
+1,- Greeting
+2,- Apology
+3,- Statement-Opinion
+4,- Statement-Opinion
+5,- Agreement
+6,- Command
+7,- Statement-Non-Opinion
+8,- Statement-Non-Opinion
+9,- Statement-Opinion
+10,- Agreement
+11,- Greeting
+12,- Statement-Opinion
+13,- Statement-Non-Opinion
+14,- Statement-Non-Opinion
+15,- Statement-Opinion
+16,- Statement-Opinion
+17,- Statement-Non-Opinion
+18,- Acknowledge
+1,Disagreement
+2,Acknowledge
+1,- Statement-Opinion
+2,- Agreement
+3,- Disagreement
+4,- Statement-Non-Opinion
+5,- Statement-Opinion
+6,- Disagreement
+7,- Greeting
+1,Greeting
+2,Greeting
+3,Question
+4,Statement-Non-Opinion
+5,Question
+6,Statement-Non-Opinion
+7,Disagreement
+8,Statement-Opinion
+9,Agreement
+10,Statement-Non-Opinion
+11,Question
+12,Statement-Non-Opinion
+13,Statement-Non-Opinion
+14,Statement-Non-Opinion
+15,Statement-Non-Opinion
+16,Statement-Non-Opinion
+17,Statement-Non-Opinion
+18,Statement-Opinion
+19,Statement-Opinion
+20,Disagreement
+21,Statement-Non-Opinion
+22,Statement-Opinion
+23,Statement-Non-Opinion
+1,"- Joey - Hmmm, soup! - Statement-Opinion"
+2,"Joey, Ross is gonna be here any second, would you mind watching Ben for me while I use the ladies' room? - Question"
+3,- Agreement
+4,- Acknowledge
+5,- Statement-Opinion
+6,Joey! - Greeting
+1,Question
+2,Disagreement
+3,Statement-Opinion
+4,Statement-Non-Opinion
+5,Incomplete
+6,Statement-Opinion
+7,Disagreement
+1,Greeting
+2,Statement-Opinion
+3,Question
+4,Statement-Non-Opinion
+5,Acknowledge
+6,Question
+7,Answer
+8,Question
+9,Answer
+10,Statement-Opinion
+11,Acknowledge
+12,Statement-Opinion
+13,Question
+14,Statement-Opinion
+15,Command
+16,Question
+17,Acknowledge
+1,Statement-Non-Opinion
+2,Question
+3,Statement-Opinion
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Statement-Non-Opinion
+7,Statement-Non-Opinion
+8,Acknowledge
+9,Statement-Non-Opinion
+10,Statement-Opinion
+11,Statement-Non-Opinion
+12,Command
+13,Acknowledge
+1,Statement-Non-Opinion
+2,Others
+3,Acknowledge
+4,Statement-Opinion
+5,Statement-Opinion
+6,Statement-Opinion
+7,Statement-Opinion
+8,Question
+9,Answer
+10,Command
+11,Question
+1,Question
+2,Backchannel
+3,Greeting
+4,Statement-Non-Opinion
+5,Disagreement
+6,Question
+7,Statement-Opinion
+8,Command
+9,Statement-Non-Opinion
+10,Question
+11,Statement-Opinion
+12,Question
+13,Acknowledge
+14,Command
+15,Statement-Non-Opinion
+1,Statement-Opinion
+2,Agreement
+3,Question
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Statement-Opinion
+1,- Command
+2,- Acknowledge
+3,- Acknowledge
+4,- Statement-Opinion
+5,- Statement-Opinion
+6,- Question
+7,- Statement-Non-Opinion
+8,- Disagreement
+9,- Statement-Non-Opinion
+10,- Statement-Opinion
+1,Greeting
+2,Acknowledge
+3,Statement-Non-Opinion
+4,Statement-Non-Opinion
+5,Greeting
+6,Question
+7,Statement-Non-Opinion
+8,Acknowledge
+9,Disagreement
+10,Acknowledge
+11,Statement-Non-Opinion
+12,Acknowledge
+13,Apology
+14,Apology
+15,Backchannel
+16,Apology
+17,Statement-Opinion
+18,Agreement
+1,- Statement-Non-Opinion
+2,- Greeting
+3,- Greeting
+4,- Statement-Opinion
+5,- Question
+6,- Statement-Non-Opinion
+7,- Question
+1,Statement-Opinion
+2,Question
+3,Statement-Non-Opinion
+4,Acknowledge
+5,Acknowledge
+6,Statement-Opinion
+7,Statement-Non-Opinion
+8,Acknowledge
+1,- Greeting
+2,- Statement-Opinion
+3,- Backchannel
+4,- Statement-Non-Opinion
+5,- Question
+6,- Answer
+7,- Acknowledge
+8,- Agreement
+9,- Command
+10,- Apology
+1,- Question
+2,- Greeting
+3,- Statement-Opinion
+4,- Question
+5,- Question
+6,- Statement-Non-Opinion
+7,- Disagreement
+8,- Statement-Opinion
+1,- Acknowledge
+2,- Statement-Opinion
+3,- Statement-Non-Opinion
+4,- Agreement
+5,- Command
+6,- Greeting
+7,- Command
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Question
+4,Statement-Non-Opinion
+1,Question
+2,Answer
+3,Statement-Opinion
+4,Statement-Non-Opinion
+5,Acknowledge
+6,Acknowledge
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Statement-Non-Opinion
+10,Statement-Opinion
+11,Disagreement
+12,Statement-Opinion
+1,- Command
+2,- Command
+3,- Command
+4,- Question
+5,- Statement-Non-Opinion
+6,- Command
+7,- Apology
+8,- Agreement
+9,- Command
+10,- Agreement
+11,- Statement-Non-Opinion
+12,- Question
+13,- Command
+14,- Statement-Opinion
+15,- Statement-Opinion
+16,- Acknowledge
+17,- Statement-Non-Opinion
+18,- Statement-Non-Opinion
+19,- Statement-Non-Opinion
+1,- Acknowledge
+2,- Acknowledge
+1,- Greeting
+2,- Greeting
+3,- Greeting
+4,- Command
+5,- Question
+6,- Question
+7,- Question
+1,Question
+2,Acknowledge
+3,Question
+4,Question
+5,Statement-Non-Opinion
+6,Statement-Non-Opinion
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Question
+10,Disagreement
+11,Disagreement
+12,Backchannel
+13,Acknowledge
+1,Disagreement
+2,Acknowledge
+3,Question
+4,Statement-Opinion
+5,Statement-Opinion
+6,Statement-Opinion
+7,Disagreement
+8,Statement-Opinion
+9,Others
+10,Agreement
+11,Others
+12,Question
+13,Backchannel
+14,Statement-Opinion
+15,Statement-Opinion
+1,Statement-Opinion
+2,Command
+3,Statement-Opinion
+4,Command
+5,Greeting
+6,Question
+7,Statement-Non-Opinion
+8,Apology
+9,Question
+10,Answer
+11,Acknowledge
+1,Statement-Opinion
+2,Greeting
+3,Statement-Opinion
+4,Acknowledge
+5,Statement-Non-Opinion
+6,Statement-Non-Opinion
+7,Command
+1,Greeting
+2,Greeting
+3,Question
+4,Statement-Opinion
+5,Question
+6,Question
+7,Statement-Non-Opinion
+8,Command
+9,Statement-Non-Opinion
+10,Command
+11,Question
+12,Question
+1,Greeting
+2,Agreement
+3,Acknowledge
+4,Statement-Non-Opinion
+5,Acknowledge
+1,- Acknowledge
+2,"I have two queens, what do you have? - Question"
+3,- Answer
+4,"Ho-ho, you win! 50 dollars! - Statement-Non-Opinion"
+5,Really?! - Question
+6,What do you got? - Question
+7,- Answer
+8,You're kidding right? - Question
+9,Why? - Answer
+10,Well that's a full cup! - Statement-Non-Opinion
+11,Damn! I am good at Cups! - Statement-Opinion
+1,- Rachel - What? Why? Where are you? - **Question**
+2,I'm still on the set! - **Statement-Non-Opinion**
+3,Joey! The wedding is in less than an hour! - **Statement-Non-Opinion**
+4,- **Apology**
+5,- **Statement-Opinion**
+6,- **Command**
+7,- **Statement-Non-Opinion**
+8,Hey! Don't you hang up on me! I'll marry you and me right now! I have the power! - **Command**
+1,Greeting
+2,Question
+3,Answer
+4,Question
+5,Statement-Non-Opinion
+6,Agreement
+1,Command
+2,Command
+3,Question
+4,Statement-Opinion
+5,Statement-Opinion
+1,- Phoebe - You mean whenever Monica and Chandler where like y'know doing laundry or going grocery shopping or--Oh! - **Statement-Non-Opinion**
+2,All that time Monica spent on the phone with sad Linda from camp! - **Statement-Non-Opinion**
+3,- **Backchannel**
+4,"Oh, I can't believe it! - **Statement-Opinion**"
+5,I mean I think it's great! - **Statement-Opinion**
+6,- **Statement-Opinion**
+7,- **Statement-Opinion**
+8,Hey guys! - **Greeting**
+9,Joey! Come here! Come here! - **Command**
+10,- **Statement-Non-Opinion**
+11,You mean how they're friends and nothing more? - **Question**
+12,"Joey, she - **Disagreement**"
+13,"Okay, so now they know that you know and they don't know that Rachel knows? - **Question**"
+14,"Yes, but y'know what? - **Acknowledge**"
+15,- **Statement-Opinion**
+16,"Now, enough of us know that we can just tell them that we know! - **Statement-Opinion**"
+17,Then all the lying and the secrets would finally be over! - **Statement-Opinion**
+1,- Statement-Opinion
+2,- Statement-Opinion
+3,- Question
+4,- Question
+5,- Statement-Opinion
+6,- Statement-Opinion
+7,- Statement-Non-Opinion
+8,- Statement-Opinion
+9,- Acknowledge
+1,Statement-Non-Opinion
+2,Statement-Opinion
+3,Statement-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+6,Agreement
+7,Statement-Opinion
+8,Statement-Opinion
+9,Statement-Opinion
+10,Question
+11,Statement-Non-Opinion
+12,Command
+1,Greeting
+2,Answer
+3,Statement-Opinion
+4,Statement-Opinion
+5,Question
+6,Statement-Opinion
+7,Statement-Opinion
+8,Statement-Non-Opinion
+9,Statement-Opinion
+10,Statement-Opinion
+11,Question
+12,Answer
+13,Acknowledge
+14,Statement-Non-Opinion
+15,Statement-Opinion
+16,Statement-Opinion
+17,Question
+18,Agreement
+19,Acknowledge
+20,Command
+1,Greeting
+2,Question
+3,Question
+4,Question
+5,Statement-Non-Opinion
+6,Command
+7,Acknowledge
+8,Statement-Opinion
+9,Apology
+10,Statement-Non-Opinion
+11,Statement-Non-Opinion
+12,Statement-Opinion
+13,Apology
+14,Statement-Non-Opinion
+15,Acknowledge
+1,Greeting
+2,Greeting
+3,Question
+4,Statement-Non-Opinion
+5,Question
+6,Statement-Non-Opinion
+7,Statement-Opinion
+8,Statement-Opinion
+9,Statement-Opinion
+10,Agreement
+11,Apology
+12,Acknowledge
+13,Acknowledge
+14,Question
+15,Disagreement
+16,Apology
+1,Greeting
+2,Greeting
+3,Question
+4,Statement-Non-Opinion
+1,Answer
+2,Statement-Opinion
+3,Agreement
+4,Statement-Opinion
+5,Command
+6,Statement-Non-Opinion
+7,Question
+1,Greeting
+2,Statement-Opinion
+1,Question
+2,Statement-Non-Opinion
+3,Question
+4,Question
+5,Question
+6,Statement-Opinion
+7,Statement-Opinion
+8,Question
+9,Command
+10,Statement-Opinion
+11,Question
+12,Statement-Opinion
+13,Statement-Opinion
+14,Question
+15,Statement-Opinion
+16,Question
+17,Statement-Opinion
+18,Statement-Opinion
+19,Statement-Opinion
+20,Statement-Opinion
+21,Acknowledge
+1,- Greeting
+2,- Statement-Non-Opinion
+3,- Statement-Opinion
+4,- Command
+5,- Greeting
+6,- Acknowledge
+7,- Statement-Non-Opinion
+8,- Statement-Opinion
+9,- Statement-Non-Opinion
+10,- Acknowledge
+1,- Joey - Ma! What're you doing here? - Question
+2,- Statement-Non-Opinion
+3,Oww! Big ring! - Statement-Opinion
+1,- **Answer**
+2,"Do you uh, do you talk about me? - **Question**"
+3,- **Answer**
+4,Really? - **Question**
+5,- **Statement-Non-Opinion**
+1,Statement-Opinion
+2,Question
+3,Statement-Opinion
+4,Command
+1,Question
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Statement-Non-Opinion
+5,Statement-Opinion
+6,Statement-Non-Opinion
+7,Statement-Non-Opinion
+8,Statement-Non-Opinion
+9,Statement-Opinion
+10,Agreement
+11,Acknowledge
+12,Question
+1,- Question
+2,- Statement-Opinion
+3,- Agreement
+4,- Question
+5,- Command
+6,- Statement-Non-Opinion
+1,- Command
+2,- Acknowledge
+3,- Statement-Non-Opinion
+4,- Statement-Non-Opinion
+5,- Statement-Opinion
+6,- Question
+7,- Agreement
+8,- Statement-Non-Opinion
+1,- Acknowledge
+2,- Statement-Opinion
+3,- Answer
+1,Greeting
+2,Agreement
+3,Question
+4,Disagreement
+5,Question
+6,Agreement
+7,Statement-Non-Opinion
+8,Statement-Opinion
+9,Statement-Non-Opinion
+10,Statement-Non-Opinion
+11,Command
+12,Question
+13,Statement-Non-Opinion
+14,Question
+15,Command
+16,Statement-Opinion
+17,Statement-Opinion
+18,Statement-Opinion
+19,Acknowledge
+20,Command
+21,Command
+22,Statement-Opinion
+1,Disagreement
+2,Statement-Opinion
+3,Apology
+4,Agreement
+5,Backchannel
+6,Statement-Opinion
+1,Command
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Statement-Non-Opinion
+5,Question
+6,Statement-Opinion
+7,Statement-Opinion
+8,Apology
+9,Statement-Opinion
+10,Suggestion
+11,Disagreement
+12,Statement-Non-Opinion
+13,Statement-Non-Opinion
+14,Statement-Opinion
+15,Statement-Non-Opinion
+16,Acknowledge
+1,Question
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Acknowledge
+5,Acknowledge
+6,Command
+7,Statement-Non-Opinion
+8,Statement-Non-Opinion
+9,Question
+10,Statement-Non-Opinion
+1,Apology
+2,Agreement
+3,Acknowledge
+4,Question
+5,Question
+6,Question
+7,Statement-Non-Opinion
+8,Disagreement
+9,Question
+10,Question
+11,Question
+12,Statement-Non-Opinion
+13,Acknowledge
+14,Statement-Opinion
+15,Question
+16,Statement-Non-Opinion
+17,Statement-Non-Opinion
+18,Command
+19,Question
+1,Question
+2,Question
+3,Statement-Opinion
+4,Disagreement
+5,Question
+6,Statement-Opinion
+7,Statement-Non-Opinion
+8,Acknowledge
+9,Question
+10,Disagreement
+11,Command
+12,Disagreement
+1,Statement-Opinion
+2,Question
+3,Greeting
+4,Greeting
+5,Statement-Non-Opinion
+6,Statement-Opinion
+7,Statement-Opinion
+8,Statement-Non-Opinion
+9,Question
+10,Statement-Non-Opinion
+11,Question
+12,Statement-Opinion
+13,Statement-Opinion
+1,Statement-Non-Opinion
+2,Greeting
+3,Answer
+4,Statement-Opinion
+5,Answer
+6,Command
+7,Command
+8,Statement-Opinion
+9,Question
+10,Command
+11,Command
+12,Statement-Opinion
+1,Statement-Non-Opinion
+2,Statement-Opinion
+3,Question
+4,Disagreement
+1,- Command
+2,- Question
+3,- Statement-Non-Opinion
+4,- Statement-Non-Opinion
+5,- Acknowledge
+1,Question
+2,Greeting
+3,Statement-Opinion
+4,Command
+5,Agreement
+6,Agreement
+7,Statement-Opinion
+8,Question
+9,Answer
+10,Acknowledge
+1,Question
+2,Question
+3,Statement-Opinion
+4,Statement-Opinion
+5,Statement-Opinion
+6,Question
+7,Statement-Non-Opinion
+8,Acknowledge
+9,Question
+10,Statement-Non-Opinion
+11,Command
+12,Statement-Non-Opinion
+13,Statement-Opinion
+14,Agreement
+15,Apology
+16,Command
+17,Disagreement
+18,Statement-Opinion
+19,Statement-Opinion
+20,Disagreement
+21,Apology
+22,Agreement
+1,Statement-Opinion
+2,Agreement
+3,Statement-Opinion
+4,Disagreement
+5,Statement-Opinion
+6,Statement-Opinion
+7,Statement-Non-Opinion
+8,Question
+9,Statement-Opinion
+10,Acknowledge
+11,Statement-Opinion
+12,Statement-Opinion
+13,Question
+14,Statement-Opinion
+1,Statement-Opinion
+2,Acknowledge
+3,Statement-Non-Opinion
+4,Apology
+5,Disagreement
+6,Agreement
+7,Command
+8,Agreement
+9,Acknowledge
+10,Acknowledge
+11,Acknowledge
+12,Question
+13,Question
+14,Command
+15,Statement-Opinion
+16,Disagreement
+17,Question
+1,Question
+2,Apology
+3,Statement-Opinion
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Statement-Non-Opinion
+7,Apology
+8,Question
+9,Command
+10,Disagreement
+11,Statement-Opinion
+12,Agreement
+13,Command
+14,Statement-Opinion
+15,Command
+16,Acknowledge
+17,Acknowledge
+1,Statement-Non-Opinion
+2,Acknowledge
+3,Question
+4,Statement-Non-Opinion
+5,Statement-Opinion
+6,Question
+7,Command
+1,Statement-Non-Opinion
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Statement-Opinion
+5,Question
+6,Disagreement
+7,Question
+1,Greeting
+2,Answer
+3,Disagreement
+4,Question
+5,Acknowledge
+6,Question
+7,Question
+8,Answer
+9,Question
+10,Agreement
+11,Question
+12,Apology
+13,Acknowledge
+14,Statement-Opinion
+15,Statement-Opinion
+16,Acknowledge
+1,Statement-Opinion
+2,Question
+3,Answer
+4,Question
+5,Statement-Non-Opinion
+6,Agreement
+7,Command
+8,Question
+1,Greeting
+2,Greeting
+3,Command
+4,Statement-Non-Opinion
+5,Agreement
+6,Statement-Non-Opinion
+7,Statement-Non-Opinion
+8,Command
+9,Agreement
+10,Command
+11,Answer
+12,Acknowledge
+13,Answer
+14,Command
+15,Answer
+16,Disagreement
+1,Command
+2,Statement-Opinion
+3,Command
+4,Command
+5,Question
+6,Statement-Non-Opinion
+7,Acknowledge
+8,Command
+9,Acknowledge
+10,Command
+11,Statement-Opinion
+12,Statement-Opinion
+13,Command
+14,Agreement
+15,Command
+16,Agreement
+17,Question
+18,Acknowledge
+1,Statement-Opinion
+2,Statement-Non-Opinion
+3,Statement-Opinion
+4,Statement-Opinion
+5,Question
+6,Statement-Non-Opinion
+7,Question
+8,Statement-Opinion
+9,Disagreement
+10,Others
+11,Apology
+12,Acknowledge
+13,Apology
+14,Disagreement
+15,Question
+16,Statement-Non-Opinion
+1,Greeting
+2,Question
+3,Statement-Non-Opinion
+4,Statement-Non-Opinion
+5,Disagreement
+6,Question
+7,Statement-Opinion
+1,Statement-Non-Opinion
+2,Statement-Non-Opinion
+3,Statement-Non-Opinion
+4,Acknowledge
+5,Statement-Non-Opinion
+6,Agreement
+1,Question
+2,Statement-Non-Opinion
+3,Agreement
+4,Question
+5,Statement-Opinion
+6,Question
+7,Acknowledge
+8,Statement-Non-Opinion
+9,Question
+10,Statement-Non-Opinion
+11,Backchannel
+12,Statement-Non-Opinion
+13,Statement-Non-Opinion
+14,Question
+15,Disagreement
+1,Greeting
+2,Question
+3,Question
+4,Apology
+5,Command
+6,Statement-Opinion
+1,Statement-Opinion
+2,Agreement
+3,Greeting
+4,Question
+1,Question
+2,Answer
+3,Answer
+4,Statement-Non-Opinion
+5,Statement-Non-Opinion
+6,Statement-Non-Opinion
+7,Question
+8,Statement-Non-Opinion
+9,Question
+10,Statement-Non-Opinion
+11,Question
+12,Answer
+1,Statement-Non-Opinion
+2,Question
+3,Statement-Opinion
+4,Question
+1,- Greeting
+2,- Greeting
+3,- Greeting
+1,- Disagreement
+2,- Statement-Opinion
+3,- Statement-Opinion
+4,- Question
+5,- Statement-Non-Opinion
+6,- Command
+7,- Agreement
+1,Greeting
+2,Statement-Non-Opinion
+3,Question
+4,Statement-Non-Opinion
+5,Question
+6,Answer
+7,Question
+8,Statement-Opinion
+9,Question
+10,Answer
+11,Statement-Non-Opinion
+12,Statement-Non-Opinion
+13,Statement-Opinion
+14,Statement-Opinion
+15,Question
+16,Answer
+17,Command
+18,Question
+19,Answer
+20,Statement-Non-Opinion
+21,Acknowledge
+1,Question
+2,Answer
+3,Statement-Non-Opinion
+1,Greeting
+2,Greeting
+3,Question
+4,Statement-Non-Opinion
+5,Question
+6,Statement-Opinion
+7,Disagreement
+8,Statement-Opinion
+9,Question
+10,Command
+11,Agreement
+12,Statement-Non-Opinion
+13,Statement-Opinion
+14,Question
+15,Statement-Non-Opinion
+16,Question
+17,Acknowledge
+18,Statement-Opinion

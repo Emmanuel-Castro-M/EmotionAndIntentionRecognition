@@ -1,0 +1,44 @@
+text,DeepSeek
+1,Statement Non Opinion
+2,Acknowledge
+3,Agreement
+4,Command
+5,Backchannel
+6,Statement Non Opinion
+7,Acknowledge
+8,Statement Non Opinion
+9,Acknowledge
+10,Statement Non Opinion
+11,Disagreement
+12,Statement Opinion
+13,Question
+14,Agreement
+1,Question
+2,Command
+3,Question
+4,Statement Non Opinion
+5,Acknowledge
+6,Backchannel
+7,Agreement
+1,- Greeting
+2,- Question
+3,- Agreement
+4,- Statement Non Opinion
+5,- Disagreement
+6,- Statement Non Opinion
+7,- Question
+8,- Acknowledge
+9,- Command
+10,- Question
+11,- Agreement
+12,- Question
+13,- Disagreement
+1,- Acknowledge
+2,- Question
+3,- Question
+4,- Statement Non Opinion
+5,- Statement Non Opinion
+6,- Statement Non Opinion
+7,- Statement Opinion
+8,- Agreement
+9,- Acknowledge
