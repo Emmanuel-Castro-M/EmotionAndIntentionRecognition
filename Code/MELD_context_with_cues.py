@@ -4,7 +4,7 @@ import  pandas as pd
 from openai import OpenAI
 
 df = pd.read_csv('MELD/DATA/context_with_emotion.csv', encoding='latin-1', quotechar='|')
-client = OpenAI(api_key="sk-2ae94313bb8e4dd8bbf4c38b540f7101", base_url="https://api.deepseek.com")
+client = OpenAI(api_key="sk-xxxxxxxxxxxxx", base_url="https://api.deepseek.com")
 pattern = re.escape('**') + "(.*?)" + re.escape('**')
 
 # use for emotions
