@@ -1,0 +1,959 @@
+text,DeepSeek
+1- **Fey - Next.** - **neutral**  ,Fey - Next.
+"2- **Joy - Yes, me. Okay, okay here we go.** - **neutral**  ","Joy - Yes, me. Okay, okay here we go."
+3- **Fey - My window is open.** - **neutral**  ,Fey - My window is open.
+"4- **Joy - Okay, so filled out all these forms --** - **neutral**  ","Joy - Okay, so filled out all these forms --"
+5- **Fey - This is... Your last- Your first name is Jones?** - **surprise**  ,Fey - This is... Your last- Your first name is Jones?
+6- **Joy - and I have This form of ID here so...** - **neutral**  ,Joy - and I have This form of ID here so...
+"7- **Joy - Yes, Jones.** - **neutral**  ","Joy - Yes, Jones."
+8- **Fey - That's just strange I figured you filled in wrong sections.** - **surprise**  ,Fey - That's just strange I figured you filled in wrong sections.
+9- **Joy - Well...** - **neutral**  ,Joy - Well...
+10- **Fey - What are you... what's...What are you applying for?** - **neutral**  ,Fey - What are you... what's...What are you applying for?
+11- **Joy - I'm just applying for another ID.** - **neutral**  ,Joy - I'm just applying for another ID.
+12- **Fey - Another ID?** - **surprise**  ,Fey - Another ID?
+"13- **Joy - Yes. I'm supposed to have three forms of ID for this. It's a long story, I'm supposed to have three forms of ID for this other job I really don't get into but I need another...** - **neutral**  ","Joy - Yes. I'm supposed to have three forms of ID for this. It's a long story, I'm supposed to have three forms of ID for this other job I really don't get into but I need another..."
+14- **Fey - Fine. So I need ID.** - **neutral**  ,Fey - Fine. So I need ID.
+"15- **Joy - I have it right here, yes.** - **neutral**  ","Joy - I have it right here, yes."
+"16- **Fey - No, I need your ID to give you a second ID.** - **neutral**  ","Fey - No, I need your ID to give you a second ID."
+17- **Fey - It's really simple if you have a problem with it... Maybe you should--** - **neutral**  ,Fey - It's really simple if you have a problem with it... Maybe you should--
+18- **Joy - But that's...** - **neutral**  ,Joy - But that's...
+"19- **Joy - That's why I'm here, that's why I was waiting in this line. I need to get another form of ID.** - **neutral**  ","Joy - That's why I'm here, that's why I was waiting in this line. I need to get another form of ID."
+"20- **Fey - Well, do you have your passport?** - **neutral**  ","Fey - Well, do you have your passport?"
+"21- **Joy - No, I don't have a passport.** - **neutral**  ","Joy - No, I don't have a passport."
+22- **Fey - You have a birth certificate?** - **neutral**  ,Fey - You have a birth certificate?
+"23- **Joy - I don't where it is though, I don't have with me. Can I get it from somewhere? I mean...** - **neutral**  ","Joy - I don't where it is though, I don't have with me. Can I get it from somewhere? I mean..."
+24- **Fey - What do you expect me to do?** - **neutral**  ,Fey - What do you expect me to do?
+25- **Joy - I probably have to go wait another line to get my birth certificate don't I?** - **neutral**  ,Joy - I probably have to go wait another line to get my birth certificate don't I?
+26- **Fey - Probably.** - **neutral**  ,Fey - Probably.
+27- **Joy - You're very helpful. What's your name?** - **sarcasm (neutral)**  ,Joy - You're very helpful. What's your name?
+28- **Fey - Joy.** - **neutral**  ,Fey - Joy.
+"29- **Joy - Hi, Joy.** - **neutral**  ","Joy - Hi, Joy."
+30- **Fey - Hi. You know...** - **neutral**  ,Fey - Hi. You know...
+31- **Joy - So can you help me or not?** - **neutral**  ,Joy - So can you help me or not?
+32- **Fey - I am..I don't..I don't understand what you want. A driver's license or a California ID.** - **neutral**  ,Fey - I am..I don't..I don't understand what you want. A driver's license or a California ID.
+33- **Joy - Okay. [BREATHING]** - **neutral**  ,Joy - Okay. [BREATHING]
+34- **Joy - I need California ID.** - **neutral**  ,Joy - I need California ID.
+35- **Fey - Okay.** - **neutral**  ,Fey - Okay.
+36- **Joy - On top of these other two forms of ID which I already have.** - **neutral**  ,Joy - On top of these other two forms of ID which I already have.
+"37- **Fey - What... well, do you have a driver's license?** - **neutral**  ","Fey - What... well, do you have a driver's license?"
+"38- **Joy - No, I don't have driver's license.** - **neutral**  ","Joy - No, I don't have driver's license."
+39- **Fey - Then how am I supposed to give you a California ID?** - **neutral**  ,Fey - Then how am I supposed to give you a California ID?
+40- **Joy - Did you even look at the form? I filled it out all these questions--** - **anger**  ,Joy - Did you even look at the form? I filled it out all these questions--
+41- **Fey - Don't raise your voice with me.** - **anger**  ,Fey - Don't raise your voice with me.
+42- **Joy - Did you even look at the form? I've already answered these question.** - **anger**  ,Joy - Did you even look at the form? I've already answered these question.
+43- **Fey - Don't talk to me like I'm a child.** - **anger**  ,Fey - Don't talk to me like I'm a child.
+44- **Joy - Okay.** - **neutral**  ,Joy - Okay.
+45- **Fey - Do you know how long I've been working here? How long have you lived in California?** - **anger**  ,Fey - Do you know how long I've been working here? How long have you lived in California?
+46- **Joy - If it makes you stop acting like a child.** - **anger**  ,Joy - If it makes you stop acting like a child.
+47- **Joy - I have been to California my whole--** - **neutral**  ,Joy - I have been to California my whole--
+"48- **Fey - Maybe you never been to the D.M.V. before, maybe you should get back in line. You know what? sit in line again and if you get my number ask for different one.** - **anger**  ","Fey - Maybe you never been to the D.M.V. before, maybe you should get back in line. You know what? sit in line again and if you get my number ask for different one."
+49- **Joy - I am not...I'm not getting to back that line.** - **anger**  ,Joy - I am not...I'm not getting to back that line.
+"50- **Joy - Okay, okay let's keep our voices down, okay? I didn't come here to get in yelling match.** - **neutral**  ","Joy - Okay, okay let's keep our voices down, okay? I didn't come here to get in yelling match."
+51- **Fey - I'm perfectly calm.** - **neutral**  ,Fey - I'm perfectly calm.
+"52- **Joy - I did not come in here to get in a yelling match with you, all right?** - **neutral**  ","Joy - I did not come in here to get in a yelling match with you, all right?"
+53- **Fey - Uh huh. I didn't come here get in yelling match either.** - **neutral**  ,Fey - Uh huh. I didn't come here get in yelling match either.
+54- **Joy - Just try and help me.** - **neutral**  ,Joy - Just try and help me.
+55- **Fey - They don't pay me enough to deal people like you.** - **anger**  ,Fey - They don't pay me enough to deal people like you.
+"56- **Joy - People like me, what is that supposed to mean? You know, this is ridiculous. Is there like a manager here, is there someone else that I can talk to?** - **anger**  ","Joy - People like me, what is that supposed to mean? You know, this is ridiculous. Is there like a manager here, is there someone else that I can talk to?"
+57- **Fey - Why?** - **neutral**  ,Fey - Why?
+58- **Joy - Why?** - **neutral**  ,Joy - Why?
+59- **Fey - Yeah.** - **neutral**  ,Fey - Yeah.
+"60- **Fey - So you're not going to send me a thank you card, is that a problem? Is your are not going...** - **sarcasm (neutral)**  ","Fey - So you're not going to send me a thank you card, is that a problem? Is your are not going..."
+"61- **Joy - Why, because I'm sick of talking to you.** - **anger**  ","Joy - Why, because I'm sick of talking to you."
+"62- **Joy - Cause you're obviously not talking to me, you're just yelling at me, berating me and telling me I can't fill out forms right.** - **anger**  ","Joy - Cause you're obviously not talking to me, you're just yelling at me, berating me and telling me I can't fill out forms right."
+"63- **Fey - Oh, dear. Oh, boo-foo-woo, foo-foo.** - **sarcasm (neutral)**  ","Fey - Oh, dear. Oh, boo-foo-woo, foo-foo."
+"64- **Joy - Oh, no honey. And you're going to miss the Christmas card too. It's a shame. It's going to be a good, nice picture.** - **sarcasm (neutral)**  ","Joy - Oh, no honey. And you're going to miss the Christmas card too. It's a shame. It's going to be a good, nice picture."
+65- **Fey - Sit back down.** - **neutral**  ,Fey - Sit back down.
+"1- Joy - Hey, Joy come in here. - **neutral**  ",neutral
+2- Fey - What's happening? - **neutral**  ,neutral
+3- Joy - I have to go back. - **sadness**  ,sadness
+4- Joy - I just got a letter I have to go back. - **sadness**  ,sadness
+5- Fey - When? - **surprise**  ,surprise
+6- Joy - First thing tomorrow morning. - **sadness**  ,sadness
+7- Fey - Are you kidding me? - **anger**  ,anger
+8- Fey - How... - **anger**  ,anger
+"9- Joy - I don't understand, I don't underst-- - **confusion/sadness**  ",confusion/sadness
+10- Fey - How can they do that? - **anger**  ,anger
+11- Joy - They can do it. - **neutral**  ,neutral
+12- Fey - They said you're home for at least four years. - **anger**  ,anger
+"13- Joy - I guess they can do it, - **neutral**  ",neutral
+"14- Joy - The National Guard is I guess really spread thin and then everyone has to go. We all have to go back, my whole companies going back. - **sadness**  ",sadness
+15- Fey - [BREATHING] - **sadness**  ,sadness
+16- Fey - That's not fair. - **anger**  ,anger
+17- Joy - I can't believe it. I just got back. - **sadness**  ,sadness
+"18- Joy - So yeah, we leave tomorrow... - **sadness**  ",sadness
+19- Fey - [BREATHING] - **sadness**  ,sadness
+20- Joy - ...we're all shipping out. - **sadness**  ,sadness
+21- Joy - I just got I feel like I'm in shock actually. - **surprise/sadness**  ,surprise/sadness
+22- Fey - I don't even know what to tell you. - **sadness**  ,sadness
+23- Joy - I don't know. - **sadness**  ,sadness
+24- Fey - What about the birthday party? - **sadness**  ,sadness
+25- Joy - I guess you're just going to have to have it without me. - **sadness**  ,sadness
+"26- Joy - Hey listen, it's going to be okay though, all right? - **neutral**  ",neutral
+27- Joy - You're going to be fine. - **neutral**  ,neutral
+28- Fey - Me? I'm not worried about me. - **neutral**  ,neutral
+"29- Joy - I'm going to be fine too, okay? - **neutral**  ",neutral
+30- Fey - How do you know? - **fear**  ,fear
+31- Joy - I know I have a good... I have a really good group of guys with me. - **neutral**  ,neutral
+32- Joy - We're going to be okay. - **neutral**  ,neutral
+33- Fey - You're going with the same ones? - **neutral**  ,neutral
+34- Joy - Do promise me you're going to take a lot of pictures. - **neutral**  ,neutral
+"35- Fey - Always, I always do. - **neutral**  ",neutral
+36- Joy - I know. - **neutral**  ,neutral
+37- Fey - It's not the same though. - **sadness**  ,sadness
+38- Joy - I just wish there was something I could do. - **sadness**  ,sadness
+39- Fey - We could hide away. - **neutral**  ,neutral
+40- Joy - Run away? - **neutral**  ,neutral
+41- Fey - Mm hmm. We'll build a bunker and never come out. - **neutral**  ,neutral
+"42- Joy - I really don't want to go, I don't want to go... - **sadness**  ",sadness
+43- Fey - [LAUGHTER] Mmm. - **neutral**  ,neutral
+44- Joy - I'm scared. - **fear**  ,fear
+45- Fey - Don't say that. - **neutral**  ,neutral
+46- Fey - I'll send you a letter every single day. - **neutral**  ,neutral
+47- Joy - I love you. - **happiness**  ,happiness
+48- Fey - I love you too. - **happiness**,happiness
+1- Joy - The craziest thing just happened to me. **surprise**  ,surprise
+2- Fey - What? **neutral**  ,neutral
+3- Joy - This girl; she just offered me fifty thousand dollars to marry her. **surprise**  ,surprise
+4- Fey - [BREATHING] **neutral**  ,neutral
+5- Joy - Yeah. **neutral**  ,neutral
+6- Fey - Why? **neutral**  ,neutral
+"7- Joy - Well, she's not a citizen so she wants to get a visa. **neutral**  ",neutral
+8- Fey - Is she on the run? **neutral**  ,neutral
+"9- Joy - No, no, no, no, no, no she just... she's not a citizen but she wants her visa, yeah. She's going to pay me fifty thousand dollars to marry her and stay married to her for two years. **neutral**  ",neutral
+"10- Fey - Oh, she just needs to marry you. **neutral**  ",neutral
+11- Fey - That's incredible. That's awesome. Where's she from? Maybe you can get a dual citizenship. **happiness**  ,happiness
+12- Joy - That's like twenty five thousand dollar a year for doing nothing. Isn't that awesome? **happiness**  ,happiness
+"13- Joy - She's actually from England, I think. Well she- she spoke English but she had an accent. I didn't even ask. **neutral**  ",neutral
+14- Fey - That's so cool. Uh huh. **happiness**  ,happiness
+15- Fey - [LAUGHTER] Why did she pick you? Where were you? **happiness**  ,happiness
+"16- Joy - Fifty thousand dollars. Fifty thousand dollars. I was just out... I just... she's - well, she's a friend of friend but like... **happiness**  ",happiness
+17- Fey - You were at a party? And she's like hey. You seem unattached she's like. **neutral**  ,neutral
+"18- Joy - Yeah. Can you believe that? Yeah, she's like hey, I'm like sure I'll do it, I don't care. Yeah. I'm like fifty thousand dollars, I'd totally do it for fifty thousand dollars. But the only thing is that's kind of like illegal. So like I could go to jail probably for a long if I get caught, but... **happiness**  ",happiness
+19- Fey - That's unbelievable... Yeah. **surprise**  ,surprise
+20- Fey - Well I've known people who have done this before. Yeah. You just- it's really fun actually 'cause you have like a fake engagement party and all your friends come over and like... **happiness**  ,happiness
+21- Joy - Have you? **neutral**  ,neutral
+22- Joy - It's like I'm really going to get married. We'll have like the whole thing. **happiness**  ,happiness
+"23- Joy - Oh, good. [LAUGHTER] **happiness**  ",happiness
+"24- Fey - Yeah. Yeah. And then yeah, and then you know like you could like you could do like like sock her for a lot of money **happiness**  ",happiness
+25- Joy - I know. What do you think I should- **neutral**  ,neutral
+"26- Fey - Like make her rent the apartment that you two have to live together in, you know. And you won't pay any rent or you pay like, a hundred bucks a month or something. **happiness**  ",happiness
+27- Joy - Oh good idea. **happiness**  ,happiness
+28- Joy - Yeah. Make her like open the bank account and stuff too. **happiness**  ,happiness
+29- Fey - Yeah. **neutral**  ,neutral
+30- Joy - It's a good idea. **happiness**  ,happiness
+"31- Fey - Dude, you lucked out. **happiness**  ",happiness
+32- Joy - I know. Also I get to like plan the wedding now too. That will be fun. **happiness**  ,happiness
+"33- Fey - Yeah. My colors are blush and beige what is it, do you know? **neutral**  ",neutral
+"34- Joy - Something blue, something new, something... no I don't know. [LAUGHTER] So yeah, wonder if she's going to pay me up front but do you think it's bad though, do you think they're going to like track the money or something? **neutral**  ",neutral
+35- Fey - Oh I don't know. [LAUGHTER] **neutral**  ,neutral
+36- Fey - I don't know get it in cash. **neutral**  ,neutral
+37- Joy - Just cash hardcore. **neutral**  ,neutral
+38- Fey - Yeah. **neutral**  ,neutral
+39- Joy - What should we do? Where should we get married? We should have party. **happiness**  ,happiness
+40- Fey - How exciting. You should have a wedding on the beach. **happiness**  ,happiness
+"41- Joy - Yeah, like a big like- A wedding on the beach, that would be nice. **happiness**  ",happiness
+"42- Fey - Yeah, at night. **neutral**  ",neutral
+43- Joy - And then we can honeymoon. I want to go tropical though like Bahamas- --or like Tahiti or something. I just want to like beach and like drink. **happiness**  ,happiness
+"44- Fey - Oh yeah, absolutely, absolutely. **happiness**  ",happiness
+45- Fey - How exciting. You should make her bring all your friends too. **happiness**  ,happiness
+46- Joy - I'll make her pay for that. I hear she's like totally wealthy. She's like royalty- --or something like and- --whatever like removed or something but yeah. **happiness**  ,happiness
+47- Fey - [GARBAGE] She's got to be loaded. fifty thousand dollars. That's incredible. **happiness**  ,happiness
+48- Fey - Incredible. **happiness**  ,happiness
+49- Joy - I'm going to marry a blue blood. [LAUGHTER] **happiness**  ,happiness
+"50- Fey - you're a lucky, lucky, lucky man. **happiness**  ",happiness
+51- Joy - Will you help me plan? **neutral**  ,neutral
+"52- Fey - Oh, totally. Yeah. **happiness**  ",happiness
+53- Joy - Good. **happiness**,happiness
+1- Fey - You seem kind of down. **neutral**  ,neutral
+2- Joy - I'm just mad. **anger**  ,anger
+3- Fey - How come? **neutral**  ,neutral
+4- Joy - It's--I've been trying to find this job I can't get any job. **sadness**  ,sadness
+5- Joy - It's not fair. **anger**  ,anger
+6- Fey - What do you mean? **neutral**  ,neutral
+"7- Joy - I mean I've been looking for a job for like three years and I can't get a job. I mean like, it's America, right? I should be able to get a job. **sadness**  ",sadness
+8- Fey - There's a lot of people looking for jobs. **neutral**  ,neutral
+"9- Joy - I guess. But three years? I mean, I like--I went to college even, I mean I didn't finish but I went for like a little bit. It's not fair, I don't know. **sadness**  ",sadness
+"10- Fey - I don't know, I mean, I just don't think... **neutral**  ",neutral
+"11- Joy - I mean I've been sending out my resumes and doing everything I can do but nothing is happening. You know, it's like I can't and I can't keep living on loans anymore like this. I'm going to--I mean eventually I'm going to have to pay it back. I'm just kind of freaking out, I don't know. **sadness**  ",sadness
+12- Fey - Did you ever think it might be your attitude that's... **neutral**  ,neutral
+"13- Joy - What's my--like what do you mean ""my attitude""? **anger**  ",anger
+"14- Fey - I don't know just sometimes you get kind of... No, I'm not saying that. I just-- **neutral**  ",neutral
+15- Joy - Do I have an attitude problem? **anger**  ,anger
+"16- Joy - No, well maybe it's because I'm like frustrated 'cause I can't get a job, you know. **sadness**  ",sadness
+17- Fey - ...has anyone ever just said anything like that to you before? **neutral**  ,neutral
+"18- Joy - Like it's really hard to like shake that off when you go into like audition a room or whatever, you know what I mean? **sadness**  ",sadness
+"19- Fey - Right, sure. **neutral**  ",neutral
+"20- Fey - But I mean you kind of got to, you got to fake it 'til you feel it, right? **neutral**  ",neutral
+"21- Joy - I guess I just getting really hard to fake, you know. **sadness**  ",sadness
+22- Fey - I'm just saying that if I was looking to hire somebody in the--or kind of... No. No. No. **neutral**  ,neutral
+"23- Joy - Are you hiring? Wait, do you know of a job? Seriously, do you know, like do you know of anything though? Like, oh please, do you know of anything? **surprise**  ",surprise
+24- Fey - No. I'm just saying though that if I was a person who was hiring somebody I-- --would not hire someone who was angry or upset. **neutral**  ,neutral
+25- Joy - Yeah. **neutral**  ,neutral
+26- Joy - I come across angry? **neutral**  ,neutral
+27- Fey - No. **neutral**  ,neutral
+28- Joy - What? **neutral**  ,neutral
+"29- Fey - Well, you know a little. If you were to listen to-- **neutral**  ",neutral
+"30- Joy - Okay. You're my friend you can tell me stuff. You can tell me honestly stuff, okay? Please. **neutral**  ",neutral
+31- Fey - I just don't want you to fly off the handle. **neutral**  ,neutral
+"32- Joy - Okay, I'm not flying off the handle I don't think I'm flying off the handle here at all. **neutral**  ",neutral
+33- Fey - You kind of have a short fuse. **neutral**  ,neutral
+34- Joy - I have a short fuse? **neutral**  ,neutral
+35- Fey - Yeah. **neutral**  ,neutral
+"36- Joy - Okay. Okay no, no, no, no okay no, I need to hear this more. Come on, bring it. **neutral**  ",neutral
+"37- Fey - Like this, right now we're trying have a conversation. **neutral**  ",neutral
+38- Fey - We're trying to have a conversation and you seem extremely hostile. You keep cutting me off. **neutral**  ,neutral
+"39- Joy - Well, it's 'cause I can't get a job, okay? **anger**  ",anger
+40- Joy - I'm not always right I'm just-- **neutral**  ,neutral
+41- Fey - I can't finish the sentence with you without you jumping in... **neutral**  ,neutral
+42- Fey - ...and you're always right. **neutral**  ,neutral
+43- Joy - fine okay. **neutral**  ,neutral
+44- Fey - You have an excuse for everything. **neutral**  ,neutral
+45- Joy - [BREATHING] **neutral**  ,neutral
+46- Fey - I'm just saying that maybe you should take in some information before you produce more of your own. **neutral**  ,neutral
+47- Joy - I'm like a sponge I'm like soaked up with all this information for like three years I'm just dying for a job to like put it in to. **sadness**  ,sadness
+48- Fey - [BREATHING] **neutral**  ,neutral
+49- Fey - That's -. **neutral**  ,neutral
+"50- Joy - You know, and like I don't think it's that much to ask. I know. **sadness**  ",sadness
+"51- Fey - Well, what kind of field are you looking to go into? **neutral**  ",neutral
+52- Joy - That's it. **neutral**,neutral
+1**Neutral**  ,Neutral
+2**Neutral**  ,Neutral
+3**Neutral**  ,Neutral
+4**Anger**  ,Anger
+5**Neutral**  ,Neutral
+6**Neutral**  ,Neutral
+7**Neutral**  ,Neutral
+8**Anger**  ,Anger
+9**Neutral**  ,Neutral
+10**Neutral**  ,Neutral
+11**Neutral**  ,Neutral
+12**Anger**  ,Anger
+13**Anger**  ,Anger
+14**Neutral**  ,Neutral
+15**Anger**  ,Anger
+16**Neutral**  ,Neutral
+17**Neutral**  ,Neutral
+18**Anger**  ,Anger
+19**Neutral**  ,Neutral
+20**Neutral**  ,Neutral
+21**Neutral**  ,Neutral
+22**Neutral**  ,Neutral
+23**Neutral**  ,Neutral
+24**Neutral**  ,Neutral
+25**Neutral**  ,Neutral
+26**Neutral**  ,Neutral
+27**Anger**  ,Anger
+28**Neutral**  ,Neutral
+29**Neutral**  ,Neutral
+30**Neutral**  ,Neutral
+31**Anger**  ,Anger
+32**Neutral**  ,Neutral
+33**Neutral**  ,Neutral
+34**Sadness**  ,Sadness
+35**Neutral**  ,Neutral
+36**Neutral**  ,Neutral
+37**Neutral**  ,Neutral
+38**Neutral**  ,Neutral
+39**Surprise**  ,Surprise
+40**Neutral**  ,Neutral
+41**Sadness**  ,Sadness
+42**Neutral**  ,Neutral
+43**Anger**  ,Anger
+44**Neutral**  ,Neutral
+45**Surprise**  ,Surprise
+46**Neutral**  ,Neutral
+47**Neutral**  ,Neutral
+48**Anger**  ,Anger
+49**Anger**  ,Anger
+50**Neutral**  ,Neutral
+51**Sadness**  ,Sadness
+52**Neutral**  ,Neutral
+53**Sadness**  ,Sadness
+54**Neutral**  ,Neutral
+55**Anger**  ,Anger
+56**Neutral**  ,Neutral
+57**Anger**  ,Anger
+58**Neutral**  ,Neutral
+59**Neutral**  ,Neutral
+60**Neutral**  ,Neutral
+61**Anger**  ,Anger
+62**Neutral**  ,Neutral
+63**Anger**  ,Anger
+64**Anger**  ,Anger
+65**Neutral**  ,Neutral
+66**Sadness**  ,Sadness
+67**Neutral**  ,Neutral
+68**Neutral**  ,Neutral
+69**Anger**  ,Anger
+70**Anger**,Anger
+1- Fey - You okay? - **neutral**  ,neutral
+"2- Joy - Yeah, I'm just-- yeah - **sadness**  ",sadness
+"3- Joy - Just kind of feel numb, you know. - **sadness**  ",sadness
+4- Fey - What's happened? - **neutral**  ,neutral
+5- Joy - You didn't even hear? - **surprise**  ,surprise
+6- Joy - [BREATHING] Umm. - **sadness**  ,sadness
+7- Joy - God I've told this story so many times. Umm. - **sadness**  ,sadness
+8- Fey - You don't have to if you don't want to. - **neutral**  ,neutral
+9- Joy - I just...I just basically lost someone that was really close to me. - **sadness**  ,sadness
+"10- Joy - And I've kind of been dealing with all of the...the stuff, you know the hospital and people work because... - **sadness**  ",sadness
+11- Fey - I'm sorry to hear that. - **sadness**  ,sadness
+"12- Joy - He kind of didn't have anyone to take care of that for him, so-- - **sadness**  ",sadness
+13- Fey - You've been taking care of it all? - **neutral**  ,neutral
+14- Fey - Oh Jesus. - **sadness**  ,sadness
+15- Joy - It's just really...really messed up. - **sadness**  ,sadness
+16- Fey - He sick for awhile? - **neutral**  ,neutral
+17- Joy - No. - **neutral**  ,neutral
+18- Joy - Just like it. - **neutral**  ,neutral
+19- Fey - Was it an accident? - **neutral**  ,neutral
+"20- Joy - No, I mean it just came on really quick, you know I mean it was a [GARBAGE] it was a sickness but it just -- - **sadness**  ",sadness
+21- Fey - how was sick? - **neutral**  ,neutral
+22- Joy - What? - **neutral**  ,neutral
+"23- Fey - Well, I'm confused. He was sick or it was an accident? - **neutral**  ",neutral
+"24- Joy - He was sick. He got sick. He got sick but it happened really, really fast, you know. - **sadness**  ",sadness
+25- Fey - Oh. Really fast? Oh. - **sadness**  ,sadness
+26- Joy - It was kind of like boom... done - **sadness**  ,sadness
+27- Fey - Yeah. - **neutral**  ,neutral
+28- Joy - It's just really weird because he was really young you know and it kind of like... - **sadness**  ,sadness
+29- Fey - Yeah. - **neutral**  ,neutral
+30- Joy - I just can't stop loving you. - **sadness**  ,sadness
+"31- Fey - Totally, yeah. - **neutral**  ",neutral
+32- Joy - So weird you know that like one days it's like you know sounds so stupid but like one day someone's here. And like next day you know they're not here and it just kind of makes you like think about like life and mortality and like that kind of stuff. You just like used to take for granted--you know. - **sadness**  ,sadness
+33- Fey - Mmhmm. - **neutral**  ,neutral
+34- Fey - Lock - **neutral**  ,neutral
+35- Fey - Mmhmm. - **neutral**  ,neutral
+36- Fey - The plans you make [GARBAGE]. - **neutral**  ,neutral
+"37- Joy - Exactly, you know, and like he had so many plans and he was going to do... - **sadness**  ",sadness
+38- Fey - It leaves a hole for you too. - **sadness**  ,sadness
+"39- Joy - so many things, you know? - **sadness**  ",sadness
+"40- Fey - It leaves a hole for you too, in your plans together. - **sadness**  ",sadness
+41- Joy - What? - **neutral**  ,neutral
+42- Joy - Yeah. - **neutral**  ,neutral
+43- Fey - It gets better. - **neutral**  ,neutral
+"44- Joy - He was a really, really good guy. - **sadness**  ",sadness
+45- Fey - Mmhmm. - **neutral**  ,neutral
+46- Joy - A lot of people loved him. - **sadness**  ,sadness
+47- Fey - MMhmm. - **neutral**  ,neutral
+"48- Joy - You know, it's like affecting a lot of people it's not just me, you know? - **sadness**  ",sadness
+49- Fey - Mmhmm. - **neutral**  ,neutral
+50- Fey - How long did you know each other? - **neutral**  ,neutral
+51- Joy - Umm... - **neutral**  ,neutral
+52- Joy - For like eight years. - **neutral**  ,neutral
+53- Fey - That's a long time. - **neutral**  ,neutral
+54- Joy - Yeah. - **neutral**  ,neutral
+55- Fey - It's good that you were there. - **neutral**  ,neutral
+"56- Joy - Yeah, I'm glad I was there. Glad I- glad I got to be there. - **neutral**  ",neutral
+"57- Joy - So weird, - **sadness**  ",sadness
+58- Fey - Yeah. - **neutral**  ,neutral
+"59- Joy - like I can't...it's like you know it's like pinch-me it's like I can't believe like I'm dealing with this, you know. - **sadness**  ",sadness
+60- Fey - Are there things you wish you'd done differently? - **neutral**,neutral
+1- Joy - Check this out. You know how I've told you I've been really into like softball recently? - **neutral**  ,neutral
+2- Fey - Yeah. - **neutral**  ,neutral
+"3- Joy - Well, this is totally random, I got this full ride scholarship to go to U.S.C next year to play softball. - **happiness**  ",happiness
+4- Fey - [LAUGHTER]. For softball? That's unbelievable. Is it slow pitch? - **surprise**  ,surprise
+5- Joy - For softball. They're going to pay me to go to school. Isn't that awesome? - **happiness**  ,happiness
+"6- Joy - Yeah. Well, I don't--well yeah I can pitch, I'm not like the pitcher though. I'm like the pinch hitter guy I mostly just hit. But I guess I'm going to have to... Yeah, and then I play shortstop too but... It's so ex- The good news is I get to stay here. - **happiness**  ",happiness
+7- Fey - Uh huh. - **neutral**  ,neutral
+8- Fey - Pinch hitting softball. - **neutral**  ,neutral
+9- Fey - That is incredible. - **surprise**  ,surprise
+10- Fey - That's amazing. They pay for everything? - **surprise**  ,surprise
+"11- Joy - I know. For softball, yeah. - **happiness**  ",happiness
+"12- Fey - Your housing, books, everything? That is incredible. - **surprise**  ",surprise
+"13- Joy - Yeah, everything. Every like- free ride and I get to, you know, like be on like a Trojans sports team too. And it's like cool. Isn't it awesome? - **happiness**  ",happiness
+14- Fey - That is incredible. Do you get like a per diem? - **surprise**  ,surprise
+"15- Joy - I don't know. I should ask. Yeah, I will. - **neutral**  ",neutral
+16- Fey - You should...You should look into that. - **neutral**  ,neutral
+"17- Fey - That is amazing, congratulations. Good for you. - **happiness**  ",happiness
+18- Joy - Thank you. - **happiness**  ,happiness
+19- Joy - But I don't know I want to live in the housing that they give me though 'cause I think I want to you know like get like a nicer place. - **neutral**  ,neutral
+20- Fey - Oh. - **neutral**  ,neutral
+"21- Fey - Yeah, that you probably. You should see one of these Victorian houses around by. - **neutral**  ",neutral
+22- Joy - Where should I move? - **neutral**  ,neutral
+"23- Joy - That's a really good idea. Or I could go to like Santa Monica. Go beach. Venice beach, yeah a little dirty though. I don't want to go to Venice beach. But - Malibu. All right. - **neutral**  ",neutral
+24- Fey - Oh. Venice beach. - **neutral**  ,neutral
+"25- Fey - Oh, you don't like that. You're west-sider? - **neutral**  ",neutral
+"26- Fey - Okay. That would be way too much of a commute you can't do that. Especially- I know especially from--I don't know, what I was going to say, I don't know. - **neutral**  ",neutral
+27- Joy - Professional softball player Malibu. [LAUGHTER] - **happiness**  ,happiness
+28- Joy - From where? Huh? Well I'm from San Francisco. - **neutral**  ,neutral
+29- Fey - I don't know. Commuting from what Malibu that would be ridiculous. - **neutral**  ,neutral
+"30- Joy - Oh yeah, that would be. Well, depends on what type of car you had, though too. I guess it would be worth it. helicopter. Yeah, helicopter. There is a helipad there, right? Yeah, exactly. - **happiness**  ",happiness
+31- Fey - Oh yeah. He'd drop you right off at practice? - **neutral**  ,neutral
+32- Fey - Do you--are you one of those like four a clock in the morning practices? Is it--that's more like swimming and- --ballet and things like that. - **neutral**  ,neutral
+33- Joy - Yeah. I think it's in the afternoon 'cause I mean can't be too early 'cause then you can't see the ball. - **neutral**  ,neutral
+34- Fey - They have those neon--softballs. They're like day-glow you can see them anywhere. - **neutral**  ,neutral
+"35- Joy - Yeah, but no. Well, they have a night games but you know there's more like night games they're not like morning games, you know. I guess it's kind of same thing. - **neutral**  ",neutral
+36- Fey - I'm surprised you don't know that. - **surprise**  ,surprise
+37- Fey - Oh. That is incredible. Is it-- - **surprise**  ,surprise
+"38- Fey - do they have a--is it a co-ed softball team? I mean... Really? You know, I didn't even know that they have that. - **surprise**  ",surprise
+39- Joy - No it's all boys. All boys' softball team. - **neutral**  ,neutral
+40- Joy - They do it's--believe me it's huge. - **neutral**  ,neutral
+41- Fey - Who do you play? Like do--are you like... nationally ranked? - **neutral**  ,neutral
+42- Joy - I just got into it. I just kind of fell into it. Literally I was walking around and... - **neutral**  ,neutral
+43- Fey - That is unbelievable. - **surprise**  ,surprise
+44- Joy - It's pretty wild. - **neutral**  ,neutral
+45- Fey - I would put that right up there with--ping-pong. - **neutral**  ,neutral
+"46- Joy - Yeah, well I doubt [GARBAGE] ping pong [GARBAGE] - **neutral**  ",neutral
+47- Fey - I mean not to denigrate what you are doing. I think that's great. - **neutral**  ,neutral
+48- Joy - Oh you mean it's not really sport that what you're saying? - **neutral**  ,neutral
+"49- Fey - No, no. I love softball. I played softball all the time. - **neutral**  ",neutral
+50- Joy - It's totally a sport. What are you talking about? - **neutral**  ,neutral
+"51- Joy - What, just 'cause I don't play regular baseball doesn't mean I'm like any less of like a sports guy. - **neutral**  ",neutral
+52- Fey - I am not saying you should be. I'm not no. I think it's great I think you should be incredibly proud yourself especially because you're going to U.S.C for free for doing it. For free. - **happiness**  ,happiness
+53- Joy - For free that's really what it's about. I mean who cares I mean if I have to play softball all the time? - **happiness**  ,happiness
+54- Joy - But they got to like drive around in a bus--that would suck. - **neutral**  ,neutral
+55- Fey - Oh really? With the whole team? - **neutral**  ,neutral
+56- Joy - Yeah we have like away games and stuff. - **neutral**  ,neutral
+57- Fey - What are your teammates like? I'm sure you don't know yet? What kind of people play softball? - **neutral**  ,neutral
+58- Joy - They're nice. - **neutral**  ,neutral
+"59- Joy - Like, you know like police officers, like--kind of heavyset guys. Mustaches, yeah. It's that kind of- - **neutral**  ",neutral
+60- Fey - Oh really? - **neutral**  ,neutral
+61- Fey - Cool. You don't seem like you'd fit in there. - **neutral**  ,neutral
+62- Joy - That kind of...They're okay. No I'm like- I'm kind of like the odd man out I'm like... - **neutral**  ,neutral
+"63- Fey - Oh, cool. - **neutral**  ",neutral
+64- Joy - But you know I'm like [GARBAGE]. - **neutral**  ,neutral
+65- Fey - You're like the rookie? The new kid. - **neutral**  ,neutral
+66- Joy - Yeah. - **neutral**  ,neutral
+67- Fey - Just watch in five years you'll be like on the force. You carry around donuts in your back pocket... [LAUGHTER] - **happiness**  ,happiness
+68- Joy - I'm going to have a mustache...On the force... - **happiness**  ,happiness
+69- Joy - Pull over.. - **happiness**,happiness
+1- Fey - What he's going to say? - **neutral**  ,neutral
+2- Joy - He saw it. - **neutral**  ,neutral
+3- Fey - When? - **neutral**  ,neutral
+4- Joy - He was out here at four this morning. - **neutral**  ,neutral
+5- Fey - How could he see it? I was the first one up and he was still in bed. - **surprise**  ,surprise
+6- Joy - I was out here at four this morning I heard a crack and I looked out the window and he was standing right over there. - **neutral**  ,neutral
+7- Fey - What was he doing here at four in the morning? - **confusion**  ,confusion
+8- Joy - I don't know. But he went back in the kitchen and he cried. - **sadness**  ,sadness
+9- Fey - Did you talk to him? - **neutral**  ,neutral
+10- Joy - No. I figured I'd just let it wait. - **neutral**  ,neutral
+11- Fey - Cried hard? - **concern**  ,concern
+"12- Joy - Yeah, I could hear him crying through the floorboards in my room. - **sadness**  ",sadness
+13- Fey - [BREATHING] - **neutral**  ,neutral
+14- Fey - What is he doing out here at that hour? - **confusion**  ,confusion
+15- Joy - I don't know. - **neutral**  ,neutral
+"16- Fey - He's dreaming about him again, walking the streets. - **sadness**  ",sadness
+17- Joy - I guess he is. - **neutral**  ,neutral
+18- Fey - It's getting to be just like after he died. What is the meaning of that? - **sadness**  ,sadness
+19- Joy - I don't know the meaning of it. But I know we've made terrible mistake with father. - **regret**  ,regret
+20- Fey - What? - **surprise**  ,surprise
+"21- Joy - I mean, these kinds of things, man they always come back at you. And this is definitely coming back to us. - **regret**  ",regret
+22- Fey - What do you mean a mistake? - **confusion**  ,confusion
+"23- Joy - I just--why shouldn't he walk the nights waiting for him, huh? Do we contradict him do we say we don't have any hope any more that he's not coming back? - **frustration**  ",frustration
+"24- Fey - What do you want to do, argue with him? - **neutral**  ",neutral
+"25- Joy - I don't want to argue with him, it's just for God's sake it's time he realized that no one believes with him any more. - **frustration**  ",frustration
+26- Fey - You can't say that to him. - **neutral**  ,neutral
+27- Joy - I got to. - **determination**  ,determination
+"28- Fey - What, can you prove it? What proof do you have? Can you prove it? - **neutral**  ",neutral
+"29- Joy - For God's sake, three years? Nobody comes back after three years. It's insane. - **frustration**  ",frustration
+"30- Fey - To you it is, to me it is. But to your father? You can talk yourself 'til you're blue in the face but there's was no grave and there is no body. So where are you? - **neutral**  ",neutral
+"31- Joy - Okay, all right. Mom, sit down. I want to talk to you. - **neutral**  ",neutral
+32- Fey - The trouble is those god damn news papers. Every month some boy comes back missing longer then Larry so-- - **frustration**  ,frustration
+"33- Joy - Yeah, okay all right, all right. Listen, um, you know why I asked Annie here, right? - **neutral**  ",neutral
+34- Fey - Why? - **neutral**  ,neutral
+35- Joy - You know. - **neutral**  ,neutral
+"36- Fey - Well, I've got an idea but what's the story? - **neutral**  ",neutral
+37- Joy - I'm going to ask her to marry me. - **happiness**  ,happiness
+"38- Fey - Well, that's only your business, Chris. - **neutral**  ",neutral
+39- Joy - You know it's not just my business. - **neutral**  ,neutral
+"40- Fey - Well, what do you want me to do? You're old enough known your own business. - **neutral**  ",neutral
+41- Joy - So it's okay then? I'm just going to go ahead with it? - **neutral**  ,neutral
+42- Fey - You want to make sure that your father's not going to... - **neutral**  ,neutral
+"43- Joy - See. Then it's not just my business. Sometimes you infuriate me, you know that? You know it's just your business too if I tell father and he throws a fit about it, huh? - **anger**  ",anger
+44- Fey - I'm just saying. - **neutral**  ,neutral
+45- Fey - I'm sorry. I ignore what I've got to ignore. That girl is Larry's girl. - **neutral**  ,neutral
+46- Joy - She is not Larry's girl. - **neutral**  ,neutral
+"47- Fey - From father's point of view he is not dead and you have no right to take his girl. I'm just saying that you can go on from there if you know where to go but I'm saying I don't know where to go. See, I don't know. - **neutral**  ",neutral
+48- Joy - I don't know why it is you know every time I reach out for something I have to pull back 'cause I'm afraid it's going to hurt somebody. All my life... - **frustration**  ,frustration
+49- Fey - You're a considerate fellow. There's nothing wrong in that. - **neutral**  ,neutral
+50- Joy - To hell with that. - **anger**  ,anger
+51- Fey - Did you ask Annie yet? - **neutral**  ,neutral
+"52- Joy - No, I wanted to get this all sorted out first. - **neutral**  ",neutral
+"53- Fey - Well, how do you know she's going to marry you? Maybe she feels same way your father does. - **neutral**  ",neutral
+"54- Joy - Well, if she does then that's the end of it. However from her letters I think she's pretty much forgotten him. - **neutral**  ",neutral
+"55- Fey - The trouble is you don't see enough women, you never did. - **neutral**  ",neutral
+56- Joy - So what? I'm just--I'm not fast with women. - **neutral**  ,neutral
+57- Fey - I don't see why it has to be Annie. - **neutral**  ,neutral
+58- Joy - Because it is. - **neutral**  ,neutral
+"59- Fey - That's a good answer but it doesn't answer anything. You haven't seen her since you went away to war, it's been five years. - **neutral**  ",neutral
+"60- Joy - I don't know, it I think of her, I grew up next to her. She is what I think of when I think of a wife. - **happiness**  ",happiness
+"61- Fey - He thinks he's coming back, Chris. You marry that girl you're pronouncing him dead. - **neutral**  ",neutral
+"62- Fey - Do you know what that'll do to you, to your father, do you know? I don't. - **neutral**  ",neutral
+63- Joy - All right then. - **neutral**  ,neutral
+64- Fey - Give it some more thought. - **neutral**  ,neutral
+65- Joy - I've given it lots of thought. And I keep coming back to the same thing. - **neutral**  ,neutral
+"66- Joy - When I think of a family, when I think of my future I see Annie in the center of that and you know and if that can't happen here then I'll go somewhere else. - **determination**  ",determination
+67- Fey - What the hell is this? - **anger**  ,anger
+68- Joy - I'll leave. I'll get married and move somewhere else maybe New York. - **determination**  ,determination
+69- Fey - Are you crazy? - **anger**  ,anger
+70- Joy - I'll do it. - **determination**  ,determination
+71- Fey - You have a business here. I said what the hell is this? - **anger**  ,anger
+72- Joy - Business? The business doesn't inspire me. - **neutral**  ,neutral
+"73- Fey - Oh, must you be inspired. - **neutral**  ",neutral
+"74- Joy - Yes, yes I like it for one hour a day. I don't care if I have to grub for money all day long when I come home I want it nice, I want a family, I want to kids and Annie is in the center of that. - **happiness**  ",happiness
+75- Joy - If that can't happen here... - **neutral**  ,neutral
+76- Fey - You mean to tell me you would leave the business for this. - **neutral**  ,neutral
+"77- Joy - Yes, on this I would. - **determination**  ",determination
+"78- Fey - Well, you don't want to think like that. - **neutral**  ",neutral
+79- Joy - Then help me stay here mom. - **neutral**  ,neutral
+"80- Fey - All right but you don't think like that because what the hell is this all for. This is all for you, what are we working for Chris? The whole shooting match is for you. - **neutral**  ",neutral
+"81- Joy - I know, I know. - **neutral**  ",neutral
+82- Joy - Then help me stay. - **neutral**  ,neutral
+"83- Fey - Well, you don't think like that. - **neutral**  ",neutral
+84- Joy - I am thinking like that. - **neutral**  ,neutral
+"85- Fey - I don't understand you, do I? - **neutral**  ",neutral
+"86- Joy - No, you don't. I'm a pretty tough guy. - **neutral**  ",neutral
+"87- Fey - Well, I can see that. - **neutral**",neutral
+1- Fey - Why did he invite her here? **anger**  ,anger
+"2- Joy - Well, maybe he wanted see her. **neutral**  ",neutral
+3- Fey - It's been three and a half years. Why all of a sudden? **anger**  ,anger
+"4- Joy - Well uh, He grew up next door to the girl, why wouldn't he want to see her? **neutral**  ",neutral
+5- Joy - Don't look at me like that. He didn't tell me anything he told you. **neutral**  ,neutral
+6- Fey - He's not going to marry her. **anger**  ,anger
+7- Joy - How do you know he's even thinking about it? **neutral**  ,neutral
+8- Fey - it's got that about it. **anger**  ,anger
+9- Joy - Oh so what? **neutral**  ,neutral
+"10- Fey - What is going on here, Joe? **anger**  ",anger
+"11- Joy - Okay, now listen, kids... **neutral**  ",neutral
+12- Fey - The girl is not Larry's. If the girl is Larry's girl she's not his she know she's not. **anger**  ,anger
+13- Joy - Listen. Line. You can't read her mind. **neutral**  ,neutral
+14- Fey - Then why is she still single? New York is full of men probably a hundred people told her she is crazy but she is waited. **anger**  ,anger
+15- Joy - And how do you know why she's waited. **neutral**  ,neutral
+16- Fey - Because she knows what I know that's why. She's faithful as a rock. in my darkest moments I think of her waiting and I know that I'm right. **sadness**  ,sadness
+"17- Joy - Okay, look it's a beautiful day. Why are we arguing? **neutral**  ",neutral
+"18- Fey - Nobody in this house dares take away her faith Joe. Her- strangers might but not her father, not her brother. **anger**  ",anger
+19- Joy - What do you want me to do? What do you want? **neutral**  ,neutral
+"20- Fey - I want you to---act like he is coming back. Don't think I haven't noticed you, both of you since Chris invited her here. I won't stand for any nonsense. **anger**  ",anger
+21- Joy - Kate... **neutral**  ,neutral
+22- Fey - Because if he's not coming back then I'll kill myself. **sadness**  ,sadness
+23- Joy - [BREATHING] **neutral**  ,neutral
+"24- Fey - Oh, laugh at me, laugh all you like but why does this happen to very night she comes back? She goes to sleep in his room and his memorial breaks in pieces. Look at it, Joe look. **anger**  ",anger
+"25- Joy - All right, calm yourself. **neutral**  ",neutral
+"26- Fey - Believe with me Joe, you got to believe. Only last week a boy came back missing longer then Larry you read it yourself. **sadness**  ",sadness
+"27- Joy - Okay, calm yourself. Alright. **neutral**  ",neutral
+28- Joy - calm yourself. **neutral**  ,neutral
+29- Fey - You above all have got to believe. Just don't stop believing. **sadness**  ,sadness
+30- Joy - What does that mean? Me above all? What does that mean? **neutral**  ,neutral
+31- Joy - Look at you. You're shaking. **neutral**  ,neutral
+32- Fey - I can't help it. **sadness**  ,sadness
+"33- Joy - What the hell do you want from me, Kate? **anger**",anger
+1- Fey - The only one I know still love his parents. - **neutral**  ,neutral
+"2- Joy - Yeah, that kind of went out of style didn't it? - **neutral**  ",neutral
+3- Fey - Oh it's not bad thing it's good thing. - **happiness**  ,happiness
+"4- Fey - You know it's nice here, the air is sweet. - **happiness**  ",happiness
+5- Joy - You're not sorry you came? - **neutral**  ,neutral
+"6- Fey - Not sorry, no.  I can't stay here. - **neutral**  ",neutral
+7- Joy - Why not? - **neutral**  ,neutral
+8- Fey - For one thing your mother as much as told me to go. - **neutral**  ,neutral
+9- Joy - Well. - **neutral**  ,neutral
+10- Fey - [BREATHING] And then you've been kind of... - **neutral**  ,neutral
+11- Joy - What? - **neutral**  ,neutral
+12- Fey - You've been kind of embarrassed ever since I got here. - **neutral**  ,neutral
+"13- Joy - I was kind of planning on sneaking up on you, you know over like a course of a week or so. They just take for granted that we're already set. - **neutral**  ",neutral
+"14- Fey - I knew they would, your mother anyway. - **neutral**  ",neutral
+15- Joy - You did? - **neutral**  ,neutral
+16- Fey - From her point of view why else would I come? - **neutral**  ,neutral
+17- Joy - Yeah-- - **neutral**  ,neutral
+"18- Joy - So then would you want to?  I mean I guess, you kind of have to know, maybe that's why I asked you to come. - **neutral**  ",neutral
+19- Fey - Well I guess that's why I came. - **neutral**  ,neutral
+"20- Joy - Ann, I love you.  I love you. - **happiness**  ",happiness
+21- Joy - I love you a great deal. - **happiness**  ,happiness
+22- Joy - I'm sorry I don't really have much of an imagination. - **neutral**  ,neutral
+"23- Fey - Chris, - **neutral**  ",neutral
+"24- Joy - I'm sorry I'm embarrassing you, aren't I?  See, I didn't want to do it here I didn't on this porch, with this ring--I didn't want to win you away from anything. - **neutral**  ",neutral
+"25- Fey - I've been ready a long, long time. - **happiness**  ",happiness
+26- Joy - So then he's gone.  You sure? - **neutral**  ,neutral
+27- Fey - I almost got married two years ago. - **neutral**  ,neutral
+28- Joy - Why didn't you? - **neutral**  ,neutral
+29- Fey - You started to write me. - **happiness**  ,happiness
+30- Joy - You felt something that far back? - **surprise**  ,surprise
+31- Fey - Everyday since. - **happiness**  ,happiness
+32- Joy - why didn't you let me know? - **neutral**  ,neutral
+"33- Fey - Because I was waiting for you, Chris.  Till then you never wrote me and then when you did, well, you sure can be ambiguous you know. - **neutral**  ",neutral
+"34- Joy - Oh Annie, why don't you go ahead and give me a kiss, come on just a... - **happiness**  ",happiness
+35- Joy - I kissed you.  I kissed Annie. - **happiness**  ,happiness
+36- Fey - I'll never forgive you for waiting so long.  All I did was sit around and wonder if I was crazy for thinking about you. - **neutral**  ,neutral
+37- Joy - I kissed you. - **happiness**  ,happiness
+"38- Fey - Like Larry's brother.  Do what like you, Chris. - **neutral**  ",neutral
+"39- Fey - Chris, what's the matter? - **neutral**  ",neutral
+40- Joy - Do you want to go somewhere?  Let's go. - **neutral**  ,neutral
+"41- Fey - No, what is it?  Is your mother? - **neutral**  ",neutral
+"42- Joy - No, no, it's nothing like that. - **neutral**  ",neutral
+"43- Fey - Well, then what?  You know, even in your letter you seem kind of ashamed. - **neutral**  ",neutral
+44- Joy - I don't know it's--it's complicated. But it's going from me now. - **neutral**  ,neutral
+45- Fey - You got to tell me. - **neutral**  ,neutral
+46- Joy - I don't know. - **neutral**  ,neutral
+47- Joy - It's kind of all mixed up with all these other things. - **neutral**  ,neutral
+48- Fey - Wouldn't work like this. - **neutral**  ,neutral
+49- Joy - you know over seas I was in command of the company? - **neutral**  ,neutral
+"50- Fey - Yeah, sure. - **neutral**  ",neutral
+51- Joy - Well I lost them. - **sadness**  ,sadness
+52- Fey - How many? - **neutral**  ,neutral
+53- Joy - Pretty much all. - **sadness**  ,sadness
+54- Fey - [BREATHING]. Geez. - **sadness**  ,sadness
+"55- Joy - Takes awhile to toss something like that off.  I mean they weren't just men, you know. - **sadness**  ",sadness
+"56- Joy - For instance, there was this one time when this kid--it had been raining for like several days and he gave me his last pair of dry socks. - **sadness**  ",sadness
+57- Joy - He just put it in my pocket that's the kind of guys I had. - **sadness**  ,sadness
+"58- Joy - They didn't die they killed themselves for each other and I mean that exactly, you know a little more selfish and they'll all be here today... - **sadness**  ",sadness
+"59- Joy - And I had this idea as I was watching them go down like everything was being destroyed, you know.  But I felt like this one new thing was being made, you know it's kind of like this.  This monument... - **sadness**  ",sadness
+"60- Joy - You know, that they were bringing something on to this earth, a kind of sacrifice you know. - **sadness**  ",sadness
+"61- Joy - I thought I would change everything you know, and I got back here and it was- it was like nothing had changed at all... - **sadness**  ",sadness
+62- Joy - You know.  I went to work with dad and I started that whole rat race again... - **sadness**  ,sadness
+63- Joy - And no one had changed it was just like sort of random bus accident to them. - **sadness**  ,sadness
+64- Joy - Driving my new car and I felt guilty you know opening my bank book seeing a new refrigerator. - **sadness**  ,sadness
+65- Joy - Cause you can take those things out of a war.  But you have to realize that those things came out of the love that a man can have for another man... - **sadness**  ,sadness
+66- Joy - And if you can't see that then it's just loot and there's blood all over it. - **sadness**  ,sadness
+67- Joy - I felt ashamed and I didn't want any part of it.  I guess I included you too. - **sadness**  ,sadness
+68- Fey - Do you still feel that way? - **neutral**  ,neutral
+69- Joy - I want you to know Annie. - **neutral**  ,neutral
+"70- Fey - Cause you mustn't feel that way.  Everything you have, you have a right to... - **neutral**  ",neutral
+71- Fey - Everything Chris do you understand that?  To me too... - **neutral**  ,neutral
+72- Fey - And your money there's nothing wrong in your money.  Your father put hundreds of planes into the air.  You should be proud of that a man should be paid for that. - **neutral**  ,neutral
+73- Joy - Annie... - **neutral**  ,neutral
+74- Joy - I'm going to make a fortune for you. - **happiness**  ,happiness
+75- Fey - What would I do with a fortune? - **neutral**,neutral
+"1- **Joy - What time is it?  God, this is great, isn't it?  I can't believe it.** - *happiness*  ","Joy - What time is it?  God, this is great, isn't it?  I can't believe it."
+"2- **Joy - Of course I did want to a little further up the coast you know get away from all the lights and people and everything.  Is it midnight, do they always start at midnight?  Is that what it is midnight?  How you doing, huh? You okay?  That's good.** - *happiness*  ","Joy - Of course I did want to a little further up the coast you know get away from all the lights and people and everything.  Is it midnight, do they always start at midnight?  Is that what it is midnight?  How you doing, huh? You okay?  That's good."
+3- **Fey - I'm fine.** - *neutral*  ,Fey - I'm fine.
+"4- **Joy - Look, there what's that, what's that?  Is it--** - *surprise*  ","Joy - Look, there what's that, what's that?  Is it--"
+"5- **Joy - No, I think that's just foam.** - *neutral*  ","Joy - No, I think that's just foam."
+6- **Fey - Ugh...** - *disgust*  ,Fey - Ugh...
+"7- **Joy - Oh, no I can't tell though.  Although probably if you can't tell it probably isn't them right, yeah.  Probably going to be like unmistakable, right?** - *neutral*  ","Joy - Oh, no I can't tell though.  Although probably if you can't tell it probably isn't them right, yeah.  Probably going to be like unmistakable, right?"
+"8- **Joy - Gosh, this is great, isn't it?  This is awesome.  Oh, no you know what I forgot?** - *happiness*  ","Joy - Gosh, this is great, isn't it?  This is awesome.  Oh, no you know what I forgot?"
+9- **Joy - My flashlight.  How could I forget my flashlight?  God--** - *sadness*  ,Joy - My flashlight.  How could I forget my flashlight?  God--
+10- **Fey - What flashlight?** - *neutral*  ,Fey - What flashlight?
+11- **Joy - Flashlight the silver one.  There's only one isn't there?** - *neutral*  ,Joy - Flashlight the silver one.  There's only one isn't there?
+12- **Fey - That's not your flashlight.** - *neutral*  ,Fey - That's not your flashlight.
+13- **Joy - Whose is it?** - *surprise*  ,Joy - Whose is it?
+"14- **Fey - It's ours; it's my flashlight, too.** - *neutral*  ","Fey - It's ours; it's my flashlight, too."
+"15- **Joy - Oh, well, yeah of course.** - *neutral*  ","Joy - Oh, well, yeah of course."
+"16- **Fey - You keep saying ""my flashlight"" like somehow it's just yours. How's that supposed to make me feel?** - *anger*  ","Fey - You keep saying ""my flashlight"" like somehow it's just yours. How's that supposed to make me feel?"
+"17- **Joy - Of course, our flashlight.  What's your is mine, mi flashlight es su flashlight.** - *happiness*  ","Joy - Of course, our flashlight.  What's your is mine, mi flashlight es su flashlight."
+"18- **Joy - Gosh, I should have brought it. I can't believe I forgot that.** - *sadness*  ","Joy - Gosh, I should have brought it. I can't believe I forgot that."
+"19- **Joy - It's a nice moon though, should stay full.  Do they always run during a full moon?  I can't remember was it full last year?** - *happiness*  ","Joy - It's a nice moon though, should stay full.  Do they always run during a full moon?  I can't remember was it full last year?"
+20- **Fey - Yeah.** - *neutral*  ,Fey - Yeah.
+21- **Joy - Are you all right?  Are you okay?  You cold?  Do you want to my jacket? My jacket? No?** - *neutral*  ,Joy - Are you all right?  Are you okay?  You cold?  Do you want to my jacket? My jacket? No?
+22- **Fey - No.** - *neutral*  ,Fey - No.
+"23- **Joy - You know what we should've brought a blanket too.  Man, our blanket, our blanket.  Wish I had six-pack too, a six-pack would be just the ticket right about now, huh, six-pack.** - *happiness*  ","Joy - You know what we should've brought a blanket too.  Man, our blanket, our blanket.  Wish I had six-pack too, a six-pack would be just the ticket right about now, huh, six-pack."
+24- **Joy - What's wrong?  Are you okay?  Huh?  You cold?** - *neutral*  ,Joy - What's wrong?  Are you okay?  Huh?  You cold?
+25- **Fey - I'm fine.** - *neutral*  ,Fey - I'm fine.
+"26- **Joy - Oh yeah, I'm so excited right now I'm like a kid.** - *happiness*  ","Joy - Oh yeah, I'm so excited right now I'm like a kid."
+27- **Joy - I can't believe I got out of the house without my fly zipped up even.** - *surprise*  ,Joy - I can't believe I got out of the house without my fly zipped up even.
+28- **Fey - I wonder if they can hear me talk** - *neutral*  ,Fey - I wonder if they can hear me talk
+"29- **Joy - I wonder if they can hear me talking, you know.** - *neutral*  ","Joy - I wonder if they can hear me talking, you know."
+30- **Joy - Like feel the vibrations in the sand when we move around.** - *neutral*  ,Joy - Like feel the vibrations in the sand when we move around.
+31- **Fey - I'm cold.** - *neutral*  ,Fey - I'm cold.
+32- **Joy - Do you want my jacket?** - *neutral*  ,Joy - Do you want my jacket?
+"33- **Fey - It's after eleven, let's go home.** - *neutral*  ","Fey - It's after eleven, let's go home."
+34- **Joy - What are you kidding?  We just got here.  We don't want to turn around and go home now.  What's the point coming all the way down here?** - *anger*  ,Joy - What are you kidding?  We just got here.  We don't want to turn around and go home now.  What's the point coming all the way down here?
+35- **Fey - There is no point.** - *neutral*  ,Fey - There is no point.
+36- **Joy - Right.** - *neutral*  ,Joy - Right.
+37- **Fey - That's my point.** - *neutral*  ,Fey - That's my point.
+38- **Joy - That's my point too.** - *neutral*  ,Joy - That's my point too.
+39- **Fey - Then let's go.** - *neutral*  ,Fey - Then let's go.
+"40- **Joy - No, wait no, no that's not my point.  My point is there is no point and coming all the way down here if we just turn around and go home.** - *anger*  ","Joy - No, wait no, no that's not my point.  My point is there is no point and coming all the way down here if we just turn around and go home."
+41- **Joy - Don't you want to see it?** - *neutral*  ,Joy - Don't you want to see it?
+42- **Fey - Not particularly.** - *neutral*  ,Fey - Not particularly.
+43- **Joy - Why not?** - *neutral*  ,Joy - Why not?
+"44- **Fey - I just don't, it's stupid.** - *neutral*  ","Fey - I just don't, it's stupid."
+45- **Joy - It's not stupid.  It's a natural phenomenon.** - *neutral*  ,Joy - It's not stupid.  It's a natural phenomenon.
+46- **Joy - People in Kansas would have to get plane tickets and make hotel reservations to see this.  It's only forty minutes away; it's just too good to pass up.** - *happiness*  ,Joy - People in Kansas would have to get plane tickets and make hotel reservations to see this.  It's only forty minutes away; it's just too good to pass up.
+"47- **Fey - Pass what up?  These little fish swim out of the ocean, they flop around on the sand then they swim back and then they die.** - *neutral*  ","Fey - Pass what up?  These little fish swim out of the ocean, they flop around on the sand then they swim back and then they die."
+48- **Joy - Yeah but that like flopping around is what to do it's like spawning or mating or something.  This is like the highlight of their little fish lives.  It's like life's last orgy.** - *happiness*  ,Joy - Yeah but that like flopping around is what to do it's like spawning or mating or something.  This is like the highlight of their little fish lives.  It's like life's last orgy.
+"49- **Fey - I don't know what you're so excited about.  This isn't a moon landing we're talking about, it's fish, it's a fish nobody even eats.** - *neutral*  ","Fey - I don't know what you're so excited about.  This isn't a moon landing we're talking about, it's fish, it's a fish nobody even eats."
+"50- **Joy - Yeah, they do.** - *neutral*  ","Joy - Yeah, they do."
+"51- **Fey - Oh, Augie.** - *neutral*  ","Fey - Oh, Augie."
+"52- **Joy - Well, okay whatever, okay but it's a fish who do something that like no other fish do, you know, it's like those swallows that return to Capistrano or those like those lemmings that jumped off the cliffs, you know.** - *happiness*  ","Joy - Well, okay whatever, okay but it's a fish who do something that like no other fish do, you know, it's like those swallows that return to Capistrano or those like those lemmings that jumped off the cliffs, you know."
+"53- **Joy - It's like a little bit of the unexplainable, a little magic, a little mystery.  I just don't see how you can not be interested in this.** - *happiness*  ","Joy - It's like a little bit of the unexplainable, a little magic, a little mystery.  I just don't see how you can not be interested in this."
+54- **Fey - I'm not.** - *neutral*  ,Fey - I'm not.
+55- **Joy - For real?** - *neutral*  ,Joy - For real?
+56- **Fey - Yes.** - *neutral*  ,Fey - Yes.
+57- **Joy - All right.** - *neutral*  ,Joy - All right.
+"58- **Joy - I don't get it though, I mean the first time we came here you said it was like the best night of your life...** - *neutral*  ","Joy - I don't get it though, I mean the first time we came here you said it was like the best night of your life..."
+59- **Joy - And last year I remember like distinctively you were so excited to get here that you didn't realize you stubbed your toe until we were in a car.** - *neutral*  ,Joy - And last year I remember like distinctively you were so excited to get here that you didn't realize you stubbed your toe until we were in a car.
+"60- **Fey - Last year, you'll also remember we got--our shoes got wet, I got sand in my panties, you got a sore throat, we got into a big fight and we did not see the grunions.** - *neutral*  ","Fey - Last year, you'll also remember we got--our shoes got wet, I got sand in my panties, you got a sore throat, we got into a big fight and we did not see the grunions."
+61- **Joy - We just weren't in a good spot though.** - *neutral*  ,Joy - We just weren't in a good spot though.
+62- **Fey - We didn't see them the year before either.** - *neutral*  ,Fey - We didn't see them the year before either.
+63- **Joy - We just weren't in a good spot I'm telling you this is a much better spot.** - *neutral*  ,Joy - We just weren't in a good spot I'm telling you this is a much better spot.
+"64- **Joy - Come on, trust me I got instincts for these things, okay?  So just--just think about it all right?  Okay, I know you're not interested, think about it...** - *neutral*  ","Joy - Come on, trust me I got instincts for these things, okay?  So just--just think about it all right?  Okay, I know you're not interested, think about it..."
+"65- **Joy - Out there, there's like this big mass of silver fish they're heading this way...** - *happiness*  ","Joy - Out there, there's like this big mass of silver fish they're heading this way..."
+"66- **Joy - They don't know why, we don't know why.  No one like sent them an invitation or gave them a map or direction...** - *happiness*  ","Joy - They don't know why, we don't know why.  No one like sent them an invitation or gave them a map or direction..."
+67- **Joy - They just all turned at once and they just form this line as long as the California coast.  And they just started swimming...** - *happiness*  ,Joy - They just all turned at once and they just form this line as long as the California coast.  And they just started swimming...
+68- **Joy - Like some little time release fire cracker went off inside their little tiny bodies.  And they all turned as one...** - *happiness*  ,Joy - Like some little time release fire cracker went off inside their little tiny bodies.  And they all turned as one...
+"69- **Joy - And form the line and started swimming, swimming that would bring them to this point here...** - *happiness*  ","Joy - And form the line and started swimming, swimming that would bring them to this point here..."
+70- **Joy - It's like urgency that's pure urge you know.  It's single-mindedness with no mind.** - *happiness*  ,Joy - It's like urgency that's pure urge you know.  It's single-mindedness with no mind.
+"71- **Joy - It's crazy.  Look at this, I'm giving myself goose bumps, the hairs are standing up on my arm.** - *happiness*  ","Joy - It's crazy.  Look at this, I'm giving myself goose bumps, the hairs are standing up on my arm."
+72- **Fey - That's the wind.** - *neutral*,Fey - That's the wind.
+1- Joy - They're out there swimming right now... **happiness**  ,happiness
+2- Joy - ...to this spot for this massive celebration of like sex and death... **excitement**  ,excitement
+"3- Joy - Look at this, my hairs are standing up my arm. I'm giving myself goose bumps. **excitement**  ",excitement
+4- Fey - That's the wind. **neutral**  ,neutral
+"5- Joy - Well, so? What do you think? **curiosity**  ",curiosity
+6- Fey - About what? **neutral**  ,neutral
+7- Joy - About what I was saying. **curiosity**  ,curiosity
+8- Fey - I think it's ridiculous. **disgust**  ,disgust
+9- Joy - It certainly is not. It's like slightly exaggerated scientific fact. **defensiveness**  ,defensiveness
+10- Fey - It's a PR. **disbelief**  ,disbelief
+11- Fey - Somebody sold you a bill of goods that something amazing is going to happen on the beach. **skepticism**  ,skepticism
+"12- Joy - It's not just me, okay? Look at like all the people. **frustration**  ",frustration
+13- Fey - They're all told the same thing. **neutral**  ,neutral
+"14- Fey - Everybody is believes that it keeps them excited, you know it keeps them coming back for more. **neutral**  ",neutral
+"15- Fey - Everybody keeps thinking that they can just find the right spot, you know they'll get it on the action. **neutral**  ",neutral
+16- Fey - Their life will start then. **neutral**  ,neutral
+17- Joy - Are we talking about the same thing? **confusion**  ,confusion
+18- Fey - I'm sorry it still just fish to me. **neutral**  ,neutral
+19- Joy - Can I ask you a question? Are you on your period? **frustration**  ,frustration
+"20- Fey - Why do you ask me that? God damn it, I told you not to ask me that I hate it when you ask me that. It's insulting. **anger**  ",anger
+"21- Joy - Okay, well then what's bugging you? **concern**  ",concern
+"22- Fey - I just, we just have different ideas of what this evening is supposed to look like. **neutral**  ",neutral
+"23- Joy - Is not supposed to like anything. We come down here, we look at the fish, they arrive, we go woo-ah fish. **neutral**  ",neutral
+"24- Fey - Oh. Grow up Augie, the fish are not going to come. **disappointment**  ",disappointment
+25- Joy - And then we go home and they go home. **neutral**  ,neutral
+26- Joy - Why not? **confusion**  ,confusion
+"27- Fey - Because they never do. Do they, have they ever? **frustration**  ",frustration
+28- Joy - We missed them twice. **neutral**  ,neutral
+29- Fey - Twice is every year we've tried that's ever. **frustration**  ,frustration
+"30- Joy - Okay we'll see them this year, this is a much better spot. Trust me. **optimism**  ",optimism
+31- Fey - No we won't. It's pointless it's like a waiting up to see Santa Claus. **disappointment**  ,disappointment
+"32- Fey - I feel like my whole life is going to be spent here on the beach with my eyes wide open and my hands clasped expectantly, waiting for fish to show up and the fish never show. **sadness**  ",sadness
+"33- Joy - Okay, I'm trying to work this backwards **neutral**  ",neutral
+34- Fey - You don't understand anything I'm saying. **frustration**  ,frustration
+35- Joy - and figure out where we took a turn to the worst thing. **neutral**  ,neutral
+36- Joy - Of course not. **neutral**  ,neutral
+"37- Fey - I did want to see it I still do, I always do. I keep thinking that this time will be the time but it just never is. **sadness**  ",sadness
+"38- Joy - Okay. I'm trying to work this backwards here and I'm trying to figure out the exact moment that you took a turn for the worst here, now. **neutral**  ",neutral
+"39- Joy - you were fine during the phone call from Marge, dinner was okay, doing the dishes was fine. **neutral**  ",neutral
+"40- Joy - Let's see, uh, I took a shower and, um, you were watching the news and you said the ""the Grunions are running tonight,"" and I said ""okay great, let's go."" **neutral**  ",neutral
+41- Joy - So I'm putting the animals out we're getting the car to the garage and-- **neutral**  ,neutral
+42- Fey - Do you remember the first year we came here? It's about four years ago right after we got married. **nostalgia**  ,nostalgia
+43- Fey - We thought I was pregnant we had this bottle of champagne but no glasses. You asked me to dance so we took off our shoes. **nostalgia**  ,nostalgia
+"44- Fey - While we were dancing you said the softest most intimate things to me, right into my ears so I could feel them much as hear them. **nostalgia**  ",nostalgia
+"45- Fey - And I remember thinking this is it. finally, finally I'm as happy as I'm supposed to be. **nostalgia**  ",nostalgia
+"46- Joy - Wait a minute, I've got it. **neutral**  ",neutral
+"47- Fey - Dancing on the beach barefoot, drinking champagne from the bottle. **nostalgia**  ",nostalgia
+"48- Joy - It was when we were driving passed that knickerbocker liquor locker and you would said, no you said ""let's get some champagne"" and I said ""no time to wasting"" or something like that. That's what it is, right? **neutral**  ",neutral
+"49- Joy - You want this to be like the other times, right? **neutral**  ",neutral
+50- Fey - I'd rather not remember some things. I'd rather not hope for some things. **sadness**  ,sadness
+"51- Joy - Oh right sure, of course. **neutral**  ",neutral
+52- Joy - Do you want to dance? **neutral**  ,neutral
+53- Fey - No. **neutral**  ,neutral
+54- Joy - You want me to go get some champagne? **neutral**  ,neutral
+55- Fey - No. **neutral**  ,neutral
+56- Joy - Do you want to take off our shoes? **neutral**  ,neutral
+57- Fey - No. **neutral**  ,neutral
+58- Joy - What? Huh? **confusion**  ,confusion
+59- Joy - You want to get married again? **neutral**  ,neutral
+60- Joy - What? What? You want to divorce? **confusion**  ,confusion
+61- Fey - No. **neutral**  ,neutral
+62- Joy - A vacation? **neutral**  ,neutral
+63- Fey - No. **neutral**  ,neutral
+"64- Joy - A new carpet, a poodle, a suicide pact, ice cream, a back rub, what? What? What the hell do you want? **frustration**  ",frustration
+65- Fey - I want something to turn out the way that it's supposed to. **sadness**  ,sadness
+"66- Joy - Well, welcome to the human race. **neutral**  ",neutral
+67- Joy - You think nothing turns out how it's supposed to. You think I had some grand idea going that four years down the line. We would come to this beach and argue over fish? No. **frustration**  ,frustration
+"68- Joy - You think there would be times when you'd look at me like I was used Kleenex and then I'd look at you and think ""Holy hell when is the next flight to Alaska."" **frustration**  ",frustration
+"69- Joy - No, no I'm just like you, I thought it was going to be all rosy cheeks and the bills would pay themselves and fish will always come and-- **frustration**  ",frustration
+70- Joy - No. You know what you get? You know what you get? You get this. **frustration**  ,frustration
+71- Fey - This what? What is this? This isn't even anything. **frustration**  ,frustration
+"72- Joy - Yeah, it is. **neutral**  ",neutral
+"73- Fey - Oh, sure this is standing on the beach, this is waiting, fighting. **frustration**  ",frustration
+74- Joy - Right. **neutral**  ,neutral
+75- Fey - This isn't anything like I thought anything would be. **sadness**  ,sadness
+76- Joy - I know me neither. **neutral**  ,neutral
+77- Fey - This is just this. I mean it includes a lot and everything but it's--do you understand what I'm saying? **neutral**  ,neutral
+78- Joy - I'm doing the best I can. **neutral**  ,neutral
+"79- Fey - I know that Augie, I really do. **neutral**  ",neutral
+"80- Fey - I just can't help wishing that I was somebody, somewhere else. **sadness**  ",sadness
+81- Joy - Maybe if you were with somebody else too? **neutral**  ,neutral
+82- Fey - I didn't say that. **neutral**  ,neutral
+"83- Joy - No, I know but--I know I don't make you happy. **sadness**  ",sadness
+84- Fey - Are you kidding me? For heaven sake Augie anything I'm doing I'd rather be doing it with you. **happiness**  ,happiness
+85- Joy - Yeah? **neutral**  ,neutral
+"86- Fey - Yes, don't be ridiculous. Don't you know that? **neutral**  ",neutral
+"87- Fey - You are the one who probably wishes he was with somebody else, someone who didn't take everything so seriously, someone who would enjoy yourself. **neutral**  ",neutral
+"88- Joy - Actually, you know what? Now you mentioned that--no I don't. **neutral**  ",neutral
+89- Fey - So maybe we're in the wrong spot. But we're with the right person. **neutral**  ,neutral
+"90- Joy - I don't know, just seemed like such a good spot to me. **neutral**  ",neutral
+91- Joy - We do have really good view of the moon from here though. **happiness**  ,happiness
+92- Fey - Oh I saw that. Pretty isn't it. Big ol' white moon. **happiness**  ,happiness
+93- Joy - Look what we got here. **neutral**  ,neutral
+"94- Fey - Augie, you brought refreshments. **neutral**  ",neutral
+95- Joy - It's not champagne. **neutral**  ,neutral
+96- Fey - I guess we don't need glasses. **neutral**  ,neutral
+"97- Joy - Are you cold, huh? Do you want to go home? **concern**  ",concern
+98- Fey - I'm beginning to think you might be right. I think this might be the spot after all. **neutral**  ,neutral
+"99- Fey - Augie, I'm sorry. **neutral**  ",neutral
+100- Joy - Shh... **neutral**  ,neutral
+"101- Joy - If we are really quiet, the fish might come. **optimism**  ",optimism
+102- Fey - Or not. **neutral**  ,neutral
+103- Joy - Or not. **neutral**,neutral
+1- Joy - Good God. **surprise**  ,surprise
+2- Fey - Do you think it's them? **neutral**  ,neutral
+3- Joy - I wonder. **neutral**  ,neutral
+4- Fey - Freda is the only one who knows we are here. She wouldn't ring up. **neutral**  ,neutral
+5- Joy - Must be them then. **neutral**  ,neutral
+6- Fey - What we're going to do? **neutral**  ,neutral
+"7- Joy - We're okay, right darling? Whatever happens, we're okay? **happiness**  ",happiness
+8- Fey - Now and always sweet. **happiness**  ,happiness
+9- Joy - I don't care then. **neutral**  ,neutral
+10- Fey - It had to happen sooner or later. **neutral**  ,neutral
+11- Joy - Yes... Hello? Hello? I'm sorry what's that? **neutral**  ,neutral
+"12- Joy - No, it's a wrong number. **neutral**  ",neutral
+"13- Fey - Oh, oh, that sent shivers on my spine. **fear**  ",fear
+14- Joy - [BREATHING] [LAUGHTER] **happiness**  ,happiness
+15- Fey - Oh... **neutral**  ,neutral
+16- Joy - [BREATHING] **neutral**  ,neutral
+17- Fey - [BREATHING] **neutral**  ,neutral
+18- Joy - What shall we do if they suddenly walk in on us? **fear**  ,fear
+19- Fey - Oh. Behave exquisitely... **neutral**  ,neutral
+20- Joy - With perfect poise... **neutral**  ,neutral
+21- Fey - [LAUGHTER] I think I shall do a court curtsey. **happiness**  ,happiness
+22- Joy - Ah... **neutral**  ,neutral
+23- Fey - [LAUGHTER] **happiness**  ,happiness
+24- Joy - Ah...Strange... **neutral**  ,neutral
+25- Fey - Mmm... **neutral**  ,neutral
+"26- Joy - Things that just ought to matter dreadfully, you know they just don't matter at all when one is happy, do they? **happiness**  ",happiness
+27- Fey - The pity is that one can't stay happy. **sadness**  ,sadness
+"28- Joy - Darling, don't say that. **sadness**  ",sadness
+29- Fey - It's true. I think the whole things a very poor joke. **sadness**  ,sadness
+"30- Joy - What, this sacred and beautiful thing, love? **neutral**  ",neutral
+"31- Fey - Oh, yes meaning just that. **neutral**  ",neutral
+"32- Joy - Oh, dear god what is that all mean, dear god? **sadness**  ",sadness
+33- Fey - [LAUGHTER] Don't laugh at me I'm being serious. **neutral**  ,neutral
+"34- Joy - You mustn't be so serious, darling, it just what they want. **neutral**  ",neutral
+35- Fey - Oh whose they? **neutral**  ,neutral
+"36- Joy - Oh you know all those superficial philosophers. We must laugh at them, be flippant. **neutral**  ",neutral
+37- Joy - Flippancy brings out the acid in their darn sweetness and light. **neutral**  ,neutral
+"38- Fey - Mmhmm If I must laugh at everything, I must laugh at us too. **neutral**  ",neutral
+39- Joy - Oh yes. **neutral**  ,neutral
+"40- Fey - How long will it last, this ludicrous, overbearing love of ours? **neutral**  ",neutral
+41- Joy - We are figures of fun all right **neutral**  ,neutral
+42- Joy - Ahh...who knows. **neutral**  ,neutral
+43- Fey - Shall we always want to bicker and fight? **neutral**  ,neutral
+"44- Joy - No, that will fade...Along with our passion... **sadness**  ",sadness
+"45- Fey - Oh, will we like that? **neutral**  ",neutral
+46- Joy - Well it depends on how well we've played. **neutral**  ,neutral
+47- Fey - If one of us dies... **sadness**  ,sadness
+48- Fey - does the one that's left still laugh? **neutral**  ,neutral
+"49- Joy - Yes, yes with the all his might. **happiness**  ",happiness
+"50- Fey - Well, that's serious enough isn't it? **neutral**  ",neutral
+"51- Joy - No, no, no, no death is very laughable it's a cunning little mystery, you know. It's all done with mirrors. **neutral**  ",neutral
+52- Fey - I think you're talking nonsense. **neutral**  ,neutral
+"53- Joy - Ah so is everyone in the long run, huh? **neutral**  ",neutral
+54- Fey - Hmm. **neutral**  ,neutral
+"55- Joy - Let's pity the poor philosophers, huh? Let's enjoy the party for as long as we can, okay? Let's blow trumpets and squeakers and sit like small idiotic school children. [LAUGHTER] **happiness**  ",happiness
+56- Fey - Ah. **neutral**  ,neutral
+"57- Joy - Come here darling, kiss me **happiness**  ",happiness
+"58- Fey - Oh, Elliot. Worms don't pop. **neutral**  ",neutral
+59- Joy - before your body rots and worms pop out of your eye sockets. **neutral**  ,neutral
+"60- Joy - See, you know I don't care what you do. You could paint yourself green and run naked to the Place Vendome. **happiness**  ",happiness
+"61- Fey - Oh, thank you darling. **happiness**  ",happiness
+62- Joy - You could run off with all the men in a world. I won't say a word. Just as long as you love me best. **happiness**  ,happiness
+"63- Fey - The same applies to you too, except you so much as look at another women I'll kill you. **neutral**  ",neutral
+64- Joy - Do you remember that row we did have in Venice? **neutral**  ,neutral
+65- Fey - Which particular one? **neutral**  ,neutral
+66- Joy - The one when you put that little wooden painted snake in my bed? **neutral**  ,neutral
+"67- Fey - Oh, Charles. That was his name Charles. He did wriggle so beautifully. **neutral**  ",neutral
+68- Joy - It was a horrible thing I hated it. **disgust**  ,disgust
+"69- Fey - Oh I know you threw it out the window and into the Grand Canal. Oh, I'll never forgive you for that. **neutral**  ",neutral
+70- Joy - Of course how long did that row last? **neutral**  ,neutral
+71- Fey - It went on intermittently for days. **neutral**  ,neutral
+72- Joy - But you know it wasn't as bad as the one we had in Cannes...mmhmm...where your curling irons burnt a hole in my dressing gown. **neutral**  ,neutral
+73- Fey - Cannes...mmhmm... **neutral**  ,neutral
+74- Fey - Oh it burnt my comb too and all those towels in the bathroom. **neutral**  ,neutral
+75- Joy - Oh that was a rouser wasn't it? **neutral**  ,neutral
+76- Fey - The manager came in he found us rolling about the floor. [LAUGHTER] **happiness**  ,happiness
+77- Joy - I will never forget the look on his face. **happiness**  ,happiness
+78- Fey - Scratching and biting like panthers. [LAUGHTER] Oh... **happiness**  ,happiness
+79- Joy - oh... **neutral**  ,neutral
+"80- Fey - Utterly, utterly ridiculous. **neutral**  ",neutral
+81- Fey - oh...[LAUGHTER] **happiness**  ,happiness
+82- Joy - We were very much younger then. **neutral**  ,neutral
+83- Fey - Very much sillier. **neutral**  ,neutral
+"84- Joy - However, I do believe the real cause of that row was Peter Burden. **neutral**  ",neutral
+85- Fey - Oh you knew there was nothing in that. **neutral**,neutral
+1- Joy - [LAUGHTER] - **happiness**  ,happiness
+"2- Fey - [LAUGHTER] Utterly, utterly ridiculous. - **happiness**  ",happiness
+3- Joy - We were very much younger then. - **neutral**  ,neutral
+4- Fey - Very much sillier. - **neutral**  ,neutral
+5- Joy - Mmhmm. - **neutral**  ,neutral
+"6- Joy - However, I do believe the real cause of that row was Peter Burden. - **neutral**  ",neutral
+7- Fey - Oh you knew there was nothing in that. - **neutral**  ,neutral
+8- Joy - I knew nothing of the sort. You took presents from him. - **anger**  ,anger
+9- Fey - Presents? It was a trivial little broach. - **neutral**  ,neutral
+10- Joy - It was bristling with diamonds in the worst possible taste. - **disgust**  ,disgust
+11- Fey - Not at all. It was very pretty. I still wear it often. - **neutral**  ,neutral
+12- Joy - You sent out of your way to torture me over Peter Burden. - **anger**  ,anger
+13- Fey - I did not you worked whole thing up in your jealous imagination. - **anger**  ,anger
+"14- Joy - Well, you let him kiss you.  You said you did. - **anger**  ",anger
+"15- Fey - Well, what of it? - **neutral**  ",neutral
+16- Joy - What of it? - **anger**  ,anger
+"17- Fey - It gave him a lot, a great deal of pleasure and it didn't hurt me. - **neutral**  ",neutral
+18- Joy - And what about me? - **anger**  ,anger
+19- Fey - If you hadn't been so suspicious and nosey you'd never known a thing about it. - **anger**  ,anger
+20- Joy - That's a nice point of view I must say. - **sarcasm/anger**  ,sarcasm/anger
+21- Fey - I'm bored with this conversation. - **neutral**  ,neutral
+22- Joy - So am I.  I'm bored stiff.  You want some brandy? - **neutral**  ,neutral
+"23- Fey - No, thank you. - **neutral**  ",neutral
+"24- Joy - I'll have a little, I think. - **neutral**  ",neutral
+25- Fey - I don't see why you want any you already had two glasses. - **neutral**  ,neutral
+"26- Joy - Oh, you know no particular reason besides they are very small glasses. - **neutral**  ",neutral
+27- Fey - I just think it's silly you know to go on and on and on about such a thing. - **neutral**  ,neutral
+28- Joy - You can hardly call three glasses of liquor in a whole evening going on and on and on. - **neutral**  ,neutral
+"29- Fey - I just, I just think it's becoming a habit with you. - **neutral**  ",neutral
+"30- Joy - Hmm.  Well, you needn't be so grand just because you don't happen to want any at the moment, okay? - **neutral**  ",neutral
+31- Fey - Do be quiet. - **anger**  ,anger
+"32- Joy - Really, Amanda. - **neutral**  ",neutral
+"33- Fey - Don't be stupid, what? - **anger**  ",anger
+34- Joy - Nothing. - **neutral**  ,neutral
+35- Joy - Are you going out somewhere dear? - **neutral**  ,neutral
+"36- Fey - No, darling I'm just making myself fascinating for you. - **neutral**  ",neutral
+37- Joy - That reply has broken my heart. - **sarcasm/sadness**  ,sarcasm/sadness
+38- Fey - Well it's a woman's duty to allure the man. Watch me a minute will you? - **neutral**  ,neutral
+39- Joy - As matter the fact that's perfectly true. - **neutral**  ,neutral
+"40- Fey - Oh no, it isn't. - **neutral**  ",neutral
+"41- Joy - Yes, it is. - **neutral**  ",neutral
+"42- Fey - Don't be stupid, shut up. - **anger**  ",anger
+"43- Joy - You know, it's a pity you didn't have any more brandy. It would have made you just a little less disagreeable. - **sarcasm/anger**  ",sarcasm/anger
+"44- Fey - Oh, well that's funny.  It doesn't seem to have worked such wonders with you. - **sarcasm/anger**  ",sarcasm/anger
+"45- Joy - You know what?  You snap, you snap, you snap you're like a little adder. - **anger**  ",anger
+"46- Fey - Adders don't snap, they sting. - **neutral**  ",neutral
+47- Joy - Nonsense.  They have a bag of venom behind of fangs and they snap. - **neutral**  ,neutral
+48- Fey - They sting. - **neutral**  ,neutral
+"49- Fey - I don't care.  I don't care, do you understand?  I don't mind if they bark and they roll about like hoops. - **neutral**  ",neutral
+50- Joy - Did you see much of Peter Burden after our divorce? - **neutral**  ,neutral
+"51- Fey - Yes, I did quite a lot. - **neutral**  ",neutral
+52- Joy - I suppose you let him just kiss you or good deal more than too. - **anger**  ,anger
+"53- Fey - Oh, mind you own business. - **anger**  ",anger
+"54- Joy - I suppose you two had a riotous time, huh?  No restrain at all, very enjoyable, he never had much any how. - **sarcasm/anger**  ",sarcasm/anger
+"55- Fey - You're quite insufferable, I expect it's because you're drunk. - **anger**  ",anger
+56- Joy - I am not in the least bit drunk. - **anger**  ,anger
+57- Fey - You always had a weak head. - **neutral**  ,neutral
+58- Joy - I think I told you once before that I had three minute liquor glasses the whole evening long.  A Child of two cannot get drunk on that. - **neutral**  ,neutral
+"59- Fey - On the contrary, a child two could get violently drunk on only one glass of brandy. - **neutral**  ",neutral
+"60- Joy - Oh very, very interesting Amanda.  How about the child of uh... four, six or maybe nine---you know, we could work up a splendid little debate about it, you know?  Intemperate tots. - **sarcasm/neutral**  ",sarcasm/neutral
+61- Fey - Shut up. - **anger**  ,anger
+62- Fey - Not very funny darling.  Why don't you have some more brandy? - **sarcasm/neutral**  ,sarcasm/neutral
+63- Joy - That's a very good idea I think I will. - **neutral**  ,neutral
+64- Joy - Would you uh...turn that off please? You're going to wake the people upstairs. - **neutral**  ,neutral
+65- Fey - Why? - **neutral**  ,neutral
+66- Fey - There are no people upstairs. It's a photographer's studio. - **neutral**  ,neutral
+67- Joy - Well then you'll wake the people downstairs. - **neutral**  ,neutral
+68- Fey - They are away in Tunis. - **neutral**  ,neutral
+69- Joy - This is no time a year for Tunis. - **neutral**  ,neutral
+"70- Fey - Turn it on again, please. - **neutral**  ",neutral
+71- Joy - I will do no such thing. - **neutral**  ,neutral
+72- Fey - Very well if you insist on being boorish and idiotic. - **anger**  ,anger
+73- Joy - Turn it off. It's driving me mad. - **anger**  ,anger
+74- Fey - I won't. - **anger**  ,anger
+75- Joy - Turn it off. - **anger**  ,anger
+76- Fey - Stop it. No. Go away. - **anger**  ,anger
+77- Joy - Amanda listen. Listen. - **neutral**  ,neutral
+"78- Fey - listen Oh I'm sick and tired of listening to you, you damn sadistic bully. - **anger**  ",anger
+79- Joy - That's very amusing indeed. - **sarcasm/anger**  ,sarcasm/anger
+"80- Fey - Oh you're cruel you're...you're...I hate you, I hate you. Go away. You're conceited. You're overbearing. You're utterly impossible. - **anger**  ",anger
+"81- Joy - You...You're an evil minded, self-centered little wench and I never want to see you again. - **anger**  ",anger
+82- Fey - This is the end do you hear me?  Finally and forever. - **anger**  ,anger
+83- Joy - You're not going like this. - **anger**  ,anger
+"84- Fey - Oh yes I am...Oh yes I am. Let go of me. You let go. You...urgh...You're a cruel friend. I loathe and I hate you. Marry you again...Ha...Never, never, never, never. I hope you die in torment. You beast. - **anger**  ",anger
+85- Joy - No you're not. - **anger**  ,anger
+86- Joy - Shut up. Shut up. I wouldn't marry you again if you came crawling back to me on a bended knee. You are an evil tempered little vampire and I never want to see you again as long as I live. - **anger**,anger
