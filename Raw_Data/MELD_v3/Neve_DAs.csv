@@ -1,0 +1,10083 @@
+text,DeepSeek
+1,neutral
+2,joy
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,joy
+9,neutral
+10,neutral
+11,fear
+12,joy
+13,surprise
+14,joy
+1,- Joey - But then who? The waitress I went out with last month? (Question) - **surprise**
+2,- Rachel - You know? Forget it! (Statement Opinion) - **anger**
+3,"- Joey - No-no-no-no, no! Who, who were you talking about? (Question) - **fear**"
+4,"- Rachel - No, I-I-I-I don't, I actually don't know (Answer) - **sadness**"
+5,- Joey - Ok! (Backchannel) - **neutral**
+6,(Others) - **neutral**
+7,"- Rachel - Yeah, sure! (Backchannel) - **neutral**"
+1,(Greeting) - neutral
+2,(Question) - sadness
+3,(Others) - neutral
+4,(Statement Non Opinion) - sadness
+5,- Chandler - No way! (Disagreement) - surprise
+6,(Statement Non Opinion) - sadness
+7,- Chandler - Just coffee! Where are we gonna hang out now? (Question) - anger
+8,(Others) - neutral
+9,(Question) - neutral
+10,"- Monica - Hey, did you pick a roommate? (Question) - neutral"
+11,- Chandler - You betcha! (Others) - joy
+12,- Monica - Is it the Italian guy? (Question) - neutral
+13,"- Chandler - Um-mm, yeah right! (Answer) - disgust"
+1,fear
+2,surprise
+3,surprise
+4,sadness
+5,sadness
+6,sadness
+7,anger
+8,sadness
+9,neutral
+1,joy
+2,joy
+3,surprise
+4,neutral
+5,neutral
+6,joy
+7,joy
+8,neutral
+9,joy
+10,joy
+11,joy
+12,sadness
+13,neutral
+14,neutral
+15,neutral
+1,(Others) - **neutral**
+2,(Others) - **neutral**
+3,Y'know it's a (Statement Non Opinion) - **neutral**
+4,Everybody!! (Others) - **joy**
+1,joy
+2,surprise
+3,joy
+4,neutral
+5,joy
+6,anger
+7,joy
+8,neutral
+9,surprise
+10,anger
+11,anger
+12,anger
+13,joy
+14,neutral
+15,fear
+16,sadness
+17,sadness
+18,neutral
+19,neutral
+20,neutral
+21,anger
+22,neutral
+1,(Statement Opinion) - **neutral**
+2,Truth-Day! (Question) - **anger**
+1,sadness
+2,fear
+3,anger
+4,neutral
+5,joy
+6,neutral
+7,joy
+1,neutral
+2,joy
+3,joy
+4,joy
+5,neutral
+6,neutral
+7,neutral
+8,joy
+9,joy
+10,joy
+11,neutral
+12,joy
+13,anger
+14,neutral
+1,- Phoebe - Nobody! (Others) - **anger**
+2,- Phoebe - Nobody respects the bucket! (Statement Opinion) - **anger**
+3,- Phoebe - You wouldn't believe what people put in here! (Statement Non Opinion) - **disgust**
+4,- Phoebe - Look! (Command) - **anger**
+5,"- Phoebe - Okay, does this look like a garbage can to you? (Question) - **anger**"
+6,(Answer) - **neutral**
+1,neutral
+2,anger
+3,sadness
+4,joy
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,joy
+10,joy
+1,- Chandler - Hey! (Greeting) - **neutral**
+2,(Statement Non Opinion) - **joy**
+3,"- Chandler - That's great, but shouldn't you be on the toilet right now? (Question) - **neutral** (or slight **disgust** depending on context)"
+4,- Joey - What?! (Question) - **surprise**
+5,- Chandler - What's wrong with you? (Question) - **neutral** (or slight **anger/concern**)
+6,- Joey - Nothing! (Answer) - **neutral**
+7,(Statement Non Opinion) - **sadness/fear**
+8,(Statement Opinion) - **neutral** (or slight **denial/fear**)
+9,You have to--you-you go to the doctor! (Statement Opinion) - **fear/concern**
+10,"- Joey - No way! 'Kay look, if I have to go to the doctor for anything it's gonna be for this thing sticking out of my stomach! (Disagreement) - **anger/fear**"
+11,(Statement Non Opinion) - **neutral**
+12,- Joey - Why did I have to start working out again? Damn you 15s! (Question) - **anger/regret**
+1,joy
+2,neutral
+3,surprise
+4,joy
+1,(Statement Non Opinion) - **joy**
+2,Okay (Agreement) - **neutral**
+3,(Statement Non Opinion) - **neutral**
+4,Really?! (Question) - **surprise**
+5,(Answer) - **neutral**
+6,(Statement Opinion) - **fear**
+1,anger
+2,neutral
+3,joy
+4,sadness
+5,surprise
+6,sadness
+7,anger
+8,sadness
+9,neutral
+10,sadness
+11,neutral
+12,neutral
+13,neutral
+14,neutral
+15,neutral
+16,joy
+17,neutral
+18,neutral
+19,neutral
+20,neutral
+21,neutral
+22,joy
+23,joy
+1,"- Ross - Go, go, go! (Command) - **anger**"
+2,"- Rachel - Oh yeah, now everybody wants to be under this hat! (Statement Opinion) - **disgust**"
+3,- Phoebe - Oy!! (Others) - **surprise**
+4,- Monica - What's with all this sand? (Question) - **neutral**
+5,(Statement Non Opinion) - **sadness**
+6,(Statement Opinion) - **joy**
+1,anger
+2,joy
+3,neutral
+4,surprise
+5,fear
+6,neutral
+7,fear
+8,joy
+9,joy
+10,joy
+11,joy
+1,joy
+2,neutral
+3,neutral
+4,joy
+5,neutral
+6,joy
+7,surprise
+8,surprise
+9,sadness
+10,joy
+11,anger
+1,(Greeting) - neutral
+2,- Phoebe - Hey! (Greeting) - joy
+1,neutral
+2,joy
+3,surprise
+4,neutral
+5,neutral
+6,neutral
+7,joy
+8,joy
+9,neutral
+10,sadness
+11,surprise
+12,joy
+13,neutral
+14,joy
+15,neutral
+16,joy
+17,neutral
+1,- Monica - How does she do that? (Question) - **surprise**
+2,(Statement Opinion) - **neutral**
+3,(Question) - **joy**
+4,(Greeting) - **surprise**
+5,(Statement Non Opinion) - **neutral**
+6,What's going on with you? (Question) - **neutral**
+7,I got no sleep last night! (Answer) - **sadness**
+8,Why? (Question) - **neutral**
+9,(Answer) - **disgust**
+10,(Others) - **neutral**
+11,(Statement Non Opinion) - **disgust**
+12,You have no idea how loud they are! (Statement Non Opinion) - **anger**
+13,(Statement Opinion) - **joy**
+14,(Greeting) - **joy**
+1,disgust
+2,neutral
+3,fear
+4,neutral
+1,(Statement Opinion) - **anger**
+2,Okay! You don't think I thought of that? (Statement Non Opinion) - **anger**
+3,How can you not know which one? (Question) - **surprise**
+4,(Statement Opinion) - **surprise**
+5,"I mean, was it Gina? (Question) - **neutral**"
+6,Which one is Gina? (Question) - **neutral**
+7,(Answer) - **neutral**
+8,(Statement Non Opinion) - **anger**
+9,"You see you can't tell which one is which either, dwha!! (Agreement) - **joy**"
+1,neutral
+2,joy
+3,sadness
+4,joy
+5,surprise
+6,neutral
+7,neutral
+8,joy
+9,fear
+1,joy
+2,joy
+3,neutral
+4,neutral
+5,neutral
+6,joy
+7,joy
+8,neutral
+9,neutral
+10,joy
+11,joy
+12,surprise
+13,joy
+14,neutral
+1,fear
+2,sadness
+3,surprise
+4,neutral
+5,neutral
+6,joy
+7,joy
+8,joy
+9,neutral
+10,neutral
+11,neutral
+12,sadness
+13,sadness
+14,neutral
+1,joy
+2,joy
+1,anger
+2,surprise
+3,joy
+4,joy
+5,neutral
+6,neutral
+7,sadness
+8,sadness
+1,joy
+2,joy
+3,joy
+4,neutral
+5,surprise
+6,anger
+7,anger
+8,anger
+9,neutral
+10,sadness
+11,sadness
+12,neutral
+13,neutral
+1,neutral
+2,joy
+3,anger
+4,neutral
+5,neutral
+6,surprise
+7,anger
+8,sadness
+9,neutral
+10,neutral
+11,neutral
+12,neutral
+13,neutral
+14,surprise
+15,neutral
+16,anger
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+1,- Joey and Chandler - Ooooohh! (Others) - **surprise**
+2,(Statement Opinion) - **disgust**
+3,? (Question) - **neutral**
+4,(Answer) - **disgust**
+5,"""Ooo,"" what? (Question) - **neutral**"
+6,(Answer) - **neutral**
+7,Oh! (Others) - **surprise**
+8,The actress! (Statement Non Opinion) - **neutral**
+9,(Greeting) - **joy**
+10,So what are you gonna do? (Question) - **neutral**
+11,You have to tell her! (Statement Opinion) - **anger**
+12,You have to tell her! (Statement Opinion) - **anger**
+13,"It's your moral obligation, as a friend, as a woman, I think it's a feminist issue! (Statement Opinion) - **anger**"
+14,Guys? (Others) - **neutral**
+15,Guys? (Others) - **neutral**
+16,(Agreement) - **neutral**
+17,That's where I went! (Statement Non Opinion) - **neutral**
+18,(Statement Opinion) - **sadness**
+19,(Others) - **neutral**
+1,joy
+2,joy
+3,neutral
+4,neutral
+5,surprise
+6,fear
+7,anger
+8,neutral
+9,joy
+10,surprise
+11,joy
+1,neutral
+2,neutral
+3,neutral
+4,joy
+5,sadness
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,surprise
+11,anger
+12,surprise
+13,neutral
+14,anger
+1,surprise
+2,joy
+3,joy
+4,joy
+5,joy
+6,neutral
+1,joy
+2,sadness
+3,joy
+4,neutral
+5,disgust
+6,anger
+1,(Statement Non Opinion) - **neutral**
+2,Wow! This looks great! (Acknowledge) - **joy**
+3,(Statement Non Opinion) - **neutral**
+4,And-and-and-and-and the toothpicks? (Statement Non Opinion) - **neutral**
+1,anger
+2,anger
+3,neutral
+4,neutral
+5,surprise
+6,neutral
+7,anger
+8,neutral
+9,joy
+10,joy
+11,surprise
+12,surprise
+1,anger
+2,anger
+3,neutral
+4,anger
+5,sadness
+6,sadness
+7,sadness
+8,joy
+9,neutral
+10,neutral
+11,neutral
+12,neutral
+13,neutral
+14,neutral
+15,neutral
+16,neutral
+17,anger
+18,anger
+19,anger
+1,- Phoebe - I can't (Disagreement) - **sadness**
+2,(Statement Opinion) - **anger**
+3,- Chandler - Y'know who has a great video camera? (Question) - **neutral**
+4,- Phoebe - Greg and Jenny? (Answer) - **neutral**
+5,(Question) - **joy**
+6,(Answer) - **joy**
+7,- Joey - Yeah! Ask them if they brought their friends any souvenirs! (Statement Non Opinion) - **joy**
+8,- Monica - Hello? Eighth street deli? (Greeting) - **neutral**
+9,(Statement Non Opinion) - **disgust**
+10,(Apology) - **sadness**
+11,(Statement Non Opinion) - **neutral**
+12,- Monica - Hello? It's the deli again! (Statement Non Opinion) - **surprise**
+13,- Joey - All right! I'll have a sandwich! (Statement Non Opinion) - **joy**
+14,- Monica - I don't think this number's right! (Statement Opinion) - **anger**
+15,- Rachel - Oh come on!! (Others) - **anger**
+1,joy
+2,surprise
+3,neutral
+4,neutral
+5,neutral
+6,surprise
+7,neutral
+8,sadness
+9,neutral
+10,neutral
+11,neutral
+12,neutral
+13,anger
+14,neutral
+15,fear
+16,anger
+1,"Okay, Dick? (Statement Opinion) - **joy**"
+2,(Statement Non Opinion) - **surprise**
+1,"- Monica - Hey, Rach, how was work? (Question) - **neutral**"
+2,(Answer) - **surprise**
+3,(Statement Non Opinion) - **neutral**
+4,(Statement Non Opinion) - **sadness**
+5,(Statement Non Opinion) - **neutral**
+6,- Monica - Something wrong? (Question) - **neutral**
+7,(Answer) - **sadness**
+1,neutral
+2,neutral
+3,neutral
+1,"- Joey - Dude, I am sorry about what I said! (Apology) - **sadness**"
+2,"- Chandler - No, no, you're right, it is a ridiculous name! (Agreement) - **anger**"
+3,(Statement Non Opinion) - **neutral**
+4,(Disagreement) - **anger**
+5,"- Joey - So, you're just Bing? (Question) - **surprise**"
+1,joy
+2,surprise
+3,anger
+4,surprise
+5,neutral
+6,neutral
+7,joy
+8,joy
+9,joy
+10,anger
+11,anger
+12,neutral
+13,joy
+14,confusion
+15,anger
+1,sarcasm (anger)
+2,joy
+3,neutral
+4,joy
+5,neutral
+6,joy
+7,joy
+8,neutral
+9,neutral
+10,anger
+11,surprise
+12,neutral
+13,joy
+14,neutral
+15,joy
+16,joy
+17,joy
+1,neutral
+2,neutral
+3,neutral
+4,anger
+5,sadness
+6,neutral
+7,neutral
+8,neutral
+9,joy
+10,joy
+11,neutral
+12,joy
+13,sadness
+14,surprise
+15,neutral
+16,surprise
+17,neutral
+18,neutral
+19,neutral
+20,neutral
+21,anger
+22,disgust
+1,joy
+2,anger
+3,neutral
+4,neutral
+5,neutral
+6,sadness
+7,sadness
+8,sadness
+9,joy
+10,surprise
+11,fear
+12,neutral
+13,neutral
+14,anger
+15,anger
+16,anger
+17,joy
+1,(Greeting) - **neutral**
+2,(Statement Non Opinion) - **neutral**
+3,(Statement Opinion) - **neutral**
+4,(Statement Non Opinion) - **anger**
+5,- Ross - For what? For letting you throw me out of your office? (Disagreement) - **anger**
+6,"- Rachel - You had no (Others) - **anger** (incomplete, but tone suggests frustration)"
+7,(Statement Non Opinion) - **sarcasm/anger**
+8,"- Rachel - But I told you, I didn't have the time! (Statement Non Opinion) - **frustration/anger**"
+9,(Statement Non Opinion) - **sadness/anger**
+10,"- Rachel - Wh, Ross what do you want from me? (Question) - **frustration**"
+11,"- Rachel - You want me, you want me to quit my job so you can feel like you have a girlfriend? (Statement Opinion) - **anger**"
+12,(Greeting) - **anger/sadness**
+1,neutral
+2,neutral
+3,neutral
+4,anger
+5,anger
+6,anger
+7,anger
+8,anger
+9,sadness
+10,frustration
+11,anger
+12,anger
+1,(Agreement) - neutral
+2,(Statement Non Opinion) - joy
+3,What? (Question) - surprise
+4,(Answer) - sadness
+5,(Statement Opinion) - neutral
+6,(Statement Non Opinion) - sadness
+7,Does it have to do with Ross and Rachel? (Question) - neutral
+8,(Answer) - neutral
+9,Does it have to do with Joey? (Question) - neutral
+10,(Answer) - neutral
+11,Does it have to do with-with Chandler and that sock that he keeps by his bed? (Question) - disgust
+12,"No, but let's come back to that later! (Answer) - joy"
+1,joy
+2,neutral
+3,neutral
+4,disgust
+5,anger
+6,neutral
+7,joy
+8,neutral
+9,joy
+1,(Statement Opinion) - **joy**
+2,- Rachel - So forcing her to marry Bobby is gonna make that happen? (Question) - **anger**
+3,"so-so uh, what kind of music does Numb Nuts--Oh forget it! I can't! (Answer) - **disgust**"
+4,(Statement Non Opinion) - **fear**
+5,(Statement Opinion) - **neutral**
+6,(Statement Non Opinion) - **neutral**
+7,(Statement Non Opinion) - **joy**
+8,Why can't you do that for me? (Question) - **sadness**
+9,'Cause you're my baby sister! (Answer) - **anger**
+10,- Dina - And you're my big brother! (Statement Non Opinion) - **joy**
+11,(Statement Opinion) - **joy**
+12,(Statement Non Opinion) - **neutral**
+13,(Statement Non Opinion) - **fear**
+14,(Statement Opinion) - **fear**
+15,(Statement Opinion) - **sadness**
+16,(Statement Non Opinion) - **neutral**
+17,- Dina - Is my baby gonna have his Uncle Joey? (Question) - **sadness**
+18,- Joey - Of course he's gonna have his Uncle Joey! (Answer) - **joy**
+19,(Statement Opinion) - **joy**
+20,- Joey - That's right! By his uncle too! (Agreement) - **joy**
+21,(Others) - **neutral**
+22,(Statement Non Opinion) - **neutral**
+23,- Joey - Come here! (Command) - **joy**
+24,- Rachel - No! Seriously! What's wrong with you?! (Question) - **anger**
+1,joy
+2,joy
+3,neutral
+4,surprise
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,anger
+10,anger
+11,anger
+12,anger
+13,anger
+14,anger
+15,anger
+16,anger
+17,neutral
+1,surprise
+2,neutral
+3,joy
+4,neutral
+5,neutral
+6,neutral
+7,anger
+8,neutral
+9,fear
+10,anger
+1,surprise
+2,neutral
+3,joy
+4,joy
+5,anger
+6,surprise
+7,neutral
+8,neutral
+9,anger
+10,neutral
+1,joy
+2,joy
+3,neutral
+4,neutral
+5,joy
+6,neutral
+7,joy
+8,joy
+9,joy
+10,neutral
+1,neutral
+2,neutral
+3,anger
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,joy
+9,anger
+1,- neutral
+2,- joy
+3,- neutral
+4,- neutral
+5,- joy
+6,- neutral
+7,- neutral
+8,- neutral
+9,- disgust
+10,- neutral
+11,- neutral
+1,joy
+2,disgust
+3,joy
+4,surprise
+5,joy
+6,anger
+7,neutral
+8,sadness
+1,disgust
+2,neutral
+3,joy
+4,neutral
+5,sadness
+6,joy
+7,neutral
+8,joy
+9,joy
+10,anger
+11,neutral
+12,anger
+13,joy
+1,neutral
+2,surprise
+3,neutral
+4,joy
+1,neutral
+2,sadness
+3,neutral
+4,neutral
+5,surprise
+6,frustration
+7,neutral
+8,sadness
+9,joy
+10,joy
+11,sadness
+12,neutral
+1,surprise
+2,neutral
+3,joy
+4,joy
+5,joy
+6,sadness
+7,joy
+8,joy
+9,neutral
+10,joy
+11,anger
+12,neutral
+13,neutral
+14,neutral
+15,sadness
+1,anger
+2,joy
+3,neutral
+4,surprise
+1,neutral
+2,neutral
+3,neutral
+4,surprise
+5,sadness
+6,joy
+7,anger
+1,joy
+2,surprise
+3,neutral
+4,neutral
+5,anger
+6,anger
+7,disgust
+8,anger
+9,joy
+1,- Rachel - Pheebs? (Question) - neutral
+2,Yeah? (Answer) - neutral
+1,neutral
+2,surprise
+3,"frustration (or anger, since ""Oh no-no-no"" suggests irritation)"
+4,"sadness (or neutral, as it's a polite apology)"
+5,neutral
+6,neutral
+7,neutral
+8,"joy (or neutral, as it's a playful statement)"
+"(Note: Some interpretations may vary based on tone, but these are reasonable choices based on the text",)
+1,neutral
+2,joy
+3,joy
+4,neutral
+5,neutral
+6,neutral
+7,surprise
+8,neutral
+9,neutral
+10,neutral
+11,surprise
+12,neutral
+1,(Statement Non Opinion) - **joy**
+2,(Statement Opinion) - **neutral**
+3,(Statement Non Opinion) - **neutral**
+4,(Agreement) - **neutral**
+5,(Statement Non Opinion) - **disgust**
+6,- Phoebe - Jason is not a sissy! (Disagreement) - **anger**
+7,(Statement Non Opinion) - **fear**
+1,neutral
+2,surprise
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,joy
+8,joy
+9,question (neutral)
+"(Note: Some statements are factual or conversational without strong emotional cues, hence labeled as neutral",)
+1,neutral
+2,sadness
+3,neutral
+4,anger
+5,joy
+1,"- Ross - Ah-ha, nowhere to run! (Statement Non Opinion) - **joy**"
+2,- Rachel - I don't like sitting up here! I'm just gonna over (Statement Opinion) - **fear**
+3,- Phoebe - No Rachel! They got here first! (Statement Non Opinion) - **anger**
+4,- Phoebe - Why is Ross doing that? (Question) - **surprise**
+5,- Ross - DANGER (Others) - **fear**
+6,- Rachel - Oh my God! Why is he jumping on those women! (Question) - **surprise**
+1,(Statement Opinion) - **neutral**
+2,- Rachel - Oh but look! That's gonna leave a stain! (Statement Non Opinion) - **anger**
+3,- Joey - Rach! Hey! It's fine! You're at Joey's! (Statement Opinion) - **joy**
+4,- Rachel - Really? (Question) - **surprise**
+5,- Joey - Yeah! Look! (Answer) - **joy**
+6,(Statement Non Opinion) - **sadness**
+7,(Agreement) - **neutral**
+8,(Statement Opinion) - **disgust**
+1,neutral
+2,joy
+3,surprise
+4,neutral
+5,joy
+6,neutral
+1,neutral
+2,neutral
+3,neutral
+4,joy
+5,neutral
+6,neutral
+7,joy
+8,surprise
+9,neutral
+10,sadness
+11,neutral
+12,sadness
+13,neutral
+14,neutral
+15,sadness
+16,sadness
+17,sadness
+1,neutral
+2,surprise
+3,anger
+4,sadness
+5,anger
+6,neutral
+7,neutral
+8,joy
+9,disgust
+10,anger
+11,joy
+1,- Charlton Heston - Hello! Who's in there? (Question) - **neutral**
+2,How ya doin'? (Question) - **joy**
+3,Who in the hell are you? (Question) - **anger**
+4,"I guess you wouldn't believe me if I said I was Kurt Douglas, huh? (Answer) - **joy**"
+1,fear
+2,joy
+3,anger
+4,disgust
+5,joy
+6,sadness
+7,sadness
+1,(Apology) - **sadness**
+2,(Acknowledge) - **neutral**
+3,"So Pheebs, what is the book about? (Question) - **neutral**"
+4,(Answer) - **surprise**
+5,"Well yeah, but then I remembered I started it and there was this pep rally and I was, I was on top of the pyramid but anyway--umm, what is this book about? (Statement Non Opinion) - **joy**"
+1,neutral
+2,surprise
+3,surprise
+4,neutral
+5,neutral
+6,joy
+7,neutral
+8,neutral
+9,joy
+10,neutral
+11,joy
+1,"- Rachel - Oh, are you sure you're ok? (Question) - **concern**"
+2,(Answer) - **neutral**
+3,Does it still hurt? (Question) - **concern**
+4,(Answer) - **sadness**
+5,(Statement Opinion) - **joy**
+6,(Greeting) - **neutral**
+7,"Hey, how'd it go? (Question) - **neutral**"
+8,(Answer) - **joy**
+9,(Statement Non Opinion) - **anger**
+10,(Statement Opinion) - **joy**
+"(Note: Since ""concern"" was not in the original list, I used the closest alternatives—**sadness** or **neutral**—where applicable",)
+1,**sadness**
+2,**neutral**
+3,**sadness**
+4,**sadness**
+5,**joy**
+6,**neutral**
+7,**neutral**
+8,**joy**
+9,**anger**
+10,**joy**
+1,joy
+2,joy
+3,neutral
+4,fear
+1,anger
+2,neutral
+3,joy
+4,joy
+5,surprise
+6,surprise
+7,neutral
+8,neutral
+9,joy
+10,surprise
+11,anger
+12,anger
+13,neutral
+14,joy
+1,anger
+2,anger
+3,sadness
+4,neutral
+1,joy
+2,disgust
+3,neutral
+4,joy
+5,joy
+6,anger
+7,sadness
+8,fear
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,anger
+6,fear
+7,anger
+8,sadness
+9,neutral
+10,joy
+11,joy
+12,joy
+13,neutral
+14,joy
+15,neutral
+16,joy
+1,joy
+2,surprise
+3,neutral
+4,disgust
+5,joy
+6,sadness
+7,surprise
+8,anger
+9,anger
+10,neutral
+11,anger
+12,neutral
+13,surprise
+14,sadness
+15,joy
+16,joy
+17,neutral
+18,joy
+1,neutral
+2,neutral
+3,surprise
+4,joy
+5,joy
+1,neutral
+2,fear
+3,neutral
+4,surprise
+5,disgust
+1,joy
+2,joy
+3,neutral
+4,joy
+5,neutral
+6,neutral
+7,joy
+8,anger
+9,joy
+10,neutral
+11,anger
+12,anger
+13,neutral
+14,joy
+15,joy
+16,neutral
+17,neutral
+18,neutral
+19,neutral
+1,neutral
+2,neutral
+3,neutral
+4,joy
+5,neutral
+6,neutral
+7,surprise
+8,surprise
+9,neutral
+10,anger
+11,neutral
+12,neutral
+13,neutral
+1,joy
+2,neutral
+3,surprise
+4,neutral
+5,neutral
+6,neutral
+7,joy
+8,joy
+1,joy
+2,sadness
+3,neutral
+4,surprise
+5,neutral
+6,anger
+7,neutral
+8,neutral
+9,neutral
+10,disgust
+1,anger
+2,sadness
+3,fear
+4,fear
+5,disgust
+6,joy
+7,neutral
+8,neutral
+9,neutral
+10,sadness
+1,joy
+2,neutral
+3,joy
+4,neutral
+5,joy
+6,neutral
+7,joy
+1,joy
+2,disgust
+3,joy
+4,joy
+5,joy
+6,sadness
+7,anger
+8,anger
+9,surprise
+10,neutral
+11,neutral
+12,neutral
+13,sadness
+14,neutral
+15,anger
+16,neutral
+17,sadness
+18,sadness
+19,surprise
+20,surprise
+21,joy
+1,neutral
+2,surprise
+3,anger
+4,disgust
+5,joy
+6,joy
+1,joy
+2,neutral
+3,joy
+4,neutral
+5,neutral
+6,sadness
+7,sadness
+8,neutral
+9,neutral
+10,neutral
+11,neutral
+12,neutral
+13,joy
+14,fear
+15,neutral
+16,anger
+17,anger
+18,anger
+1,- Ross - And they knew about it? (Statement Non Opinion) - **anger**
+2,"- Phoebe - Okay, well Ross, what is this really about? (Question) - **neutral**"
+3,"- Ross - Look, this is my home and I want to be able to come and go whenever I want! (Answer) - **anger**"
+4,I just don't know what the big deal is! (Question) - **sadness**
+5,(Answer) - **disgust**
+1,fear
+2,anger
+3,sadness
+4,neutral
+5,sadness
+6,sadness
+7,disgust
+8,joy
+9,joy
+10,fear
+11,neutral
+1,(Command) - **joy**
+2,- Chandler - It says here that there's a place you can go to rent videos of all the museums! (Statement Non Opinion) - **neutral**
+3,""" (Statement Opinion) - **joy**"
+4,- Joey - It's better! You can't go to a museum in your underwear! (Statement Non Opinion) - **joy**
+5,- Joey - Oh-ho! I bet the British version is gooooood! (Statement Opinion) - **joy**
+1,neutral
+2,neutral
+3,anger
+4,neutral
+5,anger
+6,neutral
+7,anger
+8,surprise
+1,joy
+2,neutral
+3,sadness
+4,surprise
+5,neutral
+6,neutral
+7,neutral
+8,anger
+1,fear
+2,neutral
+3,sadness
+4,anger
+1,(Statement Non Opinion) - **neutral**
+2,(Statement Non Opinion) - **neutral**
+3,(Agreement) - **neutral**
+4,"- Ross - Chandler, what kind of an idiot do you take me for? (Statement Opinion) - **anger**"
+5,- Chandler - It's not a real game! I made it up! (Statement Non Opinion) - **neutral**
+6,(Apology) - **sadness**
+1,neutral
+2,neutral
+3,joy
+4,neutral
+5,sadness
+6,neutral
+7,anger
+8,surprise
+9,anger
+10,neutral
+11,neutral
+12,neutral
+13,neutral
+1,(Statement Non Opinion) - **fear**
+2,(Statement Opinion) - **joy**
+3,Why? Do you have the answers written on there? (Question) - **surprise**
+4,(Answer) - **anger**
+5,(Statement Non Opinion) - **neutral**
+6,(Statement Non Opinion) - **neutral**
+7,(Agreement) - **neutral**
+8,(Agreement) - **neutral**
+9,What was Monica's nickname when she was a field hockey goalie? (Question) - **neutral**
+10,(Answer) - **joy**
+11,Rachel claims (Question) - **neutral**
+12,Dangerous Liaisons (Answer) - **neutral**
+13,(Question) - **neutral**
+14,Weekend at Bernie's (Answer) - **joy**
+1,joy
+2,joy
+3,neutral
+4,neutral
+5,anger
+6,neutral
+7,sadness
+1,neutral
+2,sadness
+3,joy
+4,neutral
+5,joy
+6,anger
+7,neutral
+8,anger
+9,neutral
+10,sadness
+11,neutral
+12,neutral
+13,disgust
+14,disgust
+15,neutral
+16,joy
+1,neutral
+2,anger
+3,neutral
+4,neutral
+5,anger
+6,neutral
+7,anger
+8,neutral
+9,anger
+10,neutral
+11,anger
+1,joy
+2,surprise
+3,neutral
+4,disgust
+5,sadness
+6,neutral
+7,sadness
+8,surprise
+9,sadness
+10,neutral
+11,surprise
+12,joy
+1,fear
+2,joy
+3,neutral
+4,neutral
+5,surprise
+6,surprise
+7,joy
+8,neutral
+9,surprise
+1,joy
+2,anger
+3,joy
+4,neutral
+5,joy
+6,anger
+7,neutral
+8,neutral
+9,neutral
+10,sadness
+11,neutral
+12,neutral
+13,anger
+1,neutral
+2,anger
+3,anger
+4,anger
+5,joy
+1,neutral
+2,neutral
+3,neutral
+4,joy
+5,neutral
+6,joy
+7,neutral
+8,joy
+9,neutral
+10,joy
+1,joy
+2,anger
+3,sadness
+4,disgust
+5,sadness
+6,sadness
+7,neutral
+8,neutral
+9,neutral
+10,joy
+11,anger
+12,neutral
+13,surprise
+14,neutral
+15,neutral
+1,joy
+2,sadness
+3,neutral
+4,disgust
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,surprise
+11,neutral
+12,joy
+13,neutral
+14,neutral
+15,joy
+16,joy
+17,joy
+18,joy
+1,(Statement Opinion) - **neutral**
+2,(Apology) - **sadness**
+3,"You okay? (Question) - **concern** (if ""concern"" is not an option, **neutral** would be the closest)"
+1,**neutral**
+2,**sadness**
+3,**neutral**
+1,surprise
+2,neutral
+3,sadness
+4,concern
+5,neutral
+6,concern
+7,fear
+8,neutral
+9,sadness
+10,neutral
+11,neutral
+1,fear
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,surprise
+10,neutral
+1,neutral
+2,sadness
+3,surprise
+4,neutral
+5,neutral
+1,neutral
+2,neutral
+3,neutral
+4,sadness
+5,surprise
+6,joy
+7,joy
+8,joy
+1,neutral
+2,sadness
+3,joy
+4,neutral
+5,surprise
+6,anger
+7,surprise
+8,neutral
+9,neutral
+10,neutral
+11,anger
+12,fear
+13,neutral
+14,surprise
+15,neutral
+16,neutral
+17,surprise
+1,joy
+2,anger
+3,neutral
+4,joy
+5,surprise
+6,joy
+1,joy
+2,neutral
+3,surprise
+1,neutral
+2,neutral
+3,sadness
+4,sadness
+5,sadness
+6,joy
+7,joy
+8,neutral
+1,joy
+2,joy
+1,neutral
+2,neutral
+3,sadness
+4,joy
+5,neutral
+1,neutral
+2,neutral
+3,joy
+4,neutral
+5,surprise
+6,joy
+1,surprise
+2,neutral
+3,neutral
+4,anger
+5,neutral
+6,neutral
+7,neutral
+8,surprise
+9,anger
+10,neutral
+11,anger
+12,neutral
+13,disgust
+14,sadness
+15,neutral
+16,anger
+17,surprise
+18,neutral
+19,anger
+1,neutral
+2,sadness
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,joy
+8,neutral
+9,neutral
+10,sadness
+11,sadness
+12,sadness
+13,sadness
+1,neutral
+2,surprise
+3,neutral
+4,surprise
+5,neutral
+6,anger
+7,confusion
+8,neutral
+9,disgust
+10,neutral
+11,neutral
+12,anger
+1,anger
+2,neutral
+3,anger
+4,surprise
+5,disgust
+6,surprise
+7,disgust
+8,neutral
+9,neutral
+10,neutral
+11,neutral
+12,neutral
+13,sadness
+14,surprise
+15,neutral
+16,neutral
+17,sadness
+18,neutral
+19,sadness
+20,neutral
+21,sadness
+1,fear
+2,anger
+3,sadness
+4,joy
+1,fear
+2,neutral
+3,anger
+4,sadness
+1,joy
+2,joy
+3,joy
+4,surprise
+5,surprise
+6,neutral
+7,surprise
+8,neutral
+9,neutral
+10,sadness
+11,neutral
+12,neutral
+13,neutral
+14,anger
+15,neutral
+1,- Monica - Oh my God! (Others) - **surprise**
+2,(Statement Opinion) - **sadness**
+3,How did you get through it? (Question) - **sadness**
+4,"Well, you might try accidentally breaking something valuable of hers, say her- (Answer) - **neutral**"
+5,#NAME? (Answer) - **neutral**
+6,(Statement Opinion) - **neutral**
+7,You actually broke her watch? (Question) - **surprise**
+8,(Apology) - **sadness**
+9,(Apology) - **sadness**
+10,(Statement Opinion) - **sadness**
+1,sadness
+2,joy
+3,neutral
+4,neutral
+5,neutral
+6,joy
+7,neutral
+8,neutral
+9,anger
+10,neutral
+11,anger
+12,anger
+13,anger
+1,joy
+2,neutral
+3,anger
+4,surprise
+5,anger
+6,surprise
+7,anger
+8,anger
+9,neutral
+1,neutral
+2,neutral
+3,joy
+4,joy
+5,joy
+6,surprise
+7,neutral
+8,neutral
+9,joy
+10,neutral
+11,neutral
+12,joy
+13,neutral
+1,sadness
+2,neutral
+3,surprise
+4,joy
+5,neutral
+6,fear
+7,neutral
+8,anger
+9,surprise
+10,surprise
+11,sadness
+12,neutral
+1,joy
+2,joy
+3,joy
+1,anger
+2,joy
+3,anger
+4,joy
+5,surprise
+6,surprise
+7,neutral
+1,joy
+2,surprise
+3,neutral
+4,neutral
+5,neutral
+6,joy
+7,neutral
+8,joy
+9,joy
+10,anger
+1,neutral
+2,joy
+3,neutral
+4,neutral
+5,neutral
+6,sadness
+7,surprise
+8,neutral
+9,anger
+10,sadness
+11,neutral
+12,sadness
+13,neutral
+14,neutral
+15,sadness
+16,sadness
+17,neutral
+18,joy
+1,joy
+2,neutral
+3,neutral
+4,neutral
+5,sadness
+6,surprise
+1,neutral
+2,surprise
+1,anger
+2,neutral
+3,surprise
+4,joy
+5,surprise
+6,neutral
+7,neutral
+8,sadness
+9,sadness
+10,sadness
+11,neutral
+1,neutral
+2,neutral
+3,surprise
+4,neutral
+5,sadness
+6,fear
+7,fear
+8,fear
+9,joy
+10,joy
+1,joy
+2,joy
+3,anger
+4,surprise
+5,neutral
+6,joy
+7,neutral
+8,neutral
+9,joy
+10,neutral
+11,neutral
+12,neutral
+13,anger
+14,neutral
+15,anger
+16,neutral
+17,joy
+18,neutral
+19,neutral
+20,joy
+1,"Chandler - Hey, anybody got a length of rope about six feet long with a little noose at the end? (Question) - **neutral**"
+2,"Monica - Honey, what's the matter? (Question) - **sadness**"
+3,(Answer) - **fear**
+1,- Singer - **joy**
+2,- Joey - **surprise**
+3,- Phoebe - **surprise**
+4,- Chandler - **joy**
+5,- Phoebe - **disgust**
+6,- Chandler - **neutral**
+7,- Monica - **joy**
+8,- Ross - **neutral**
+9,- Joey - **neutral**
+10,- Phoebe - **neutral**
+11,- Singer - **neutral**
+12,- Singer - **sadness**
+13,- Phoebe - **disgust**
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,joy
+6,anger
+7,surprise
+8,neutral
+9,neutral
+10,anger
+11,neutral
+12,anger
+13,anger
+14,neutral
+15,neutral
+1,anger
+2,disgust
+3,neutral
+1,- surprise
+2,- neutral
+3,- anger
+4,- surprise
+5,- disgust
+6,- neutral
+7,- anger
+8,- joy
+9,- neutral
+10,- sadness
+11,- sadness
+12,- disgust
+1,joy
+2,neutral
+3,neutral
+4,neutral
+5,surprise
+6,neutral
+7,joy
+8,anger
+1,neutral
+2,neutral
+3,joy
+4,joy
+5,neutral
+6,joy
+7,neutral
+8,joy
+9,neutral
+1,joy
+2,surprise
+3,neutral
+4,anger
+5,neutral
+6,neutral
+7,joy
+8,surprise
+9,anger
+10,neutral
+1,joy
+2,joy
+3,joy
+4,neutral
+5,neutral
+6,neutral
+7,disgust
+8,surprise
+1,surprise
+2,neutral
+3,joy
+4,neutral
+5,surprise
+6,anger
+7,neutral
+8,sadness
+9,neutral
+10,sadness
+11,surprise
+12,sadness
+1,surprise
+2,neutral
+3,joy
+4,surprise
+5,neutral
+6,joy
+7,surprise
+8,neutral
+9,joy
+10,joy
+1,neutral
+2,neutral
+3,anger
+4,disgust
+5,neutral
+6,neutral
+7,joy
+8,joy
+9,sadness
+10,anger
+11,neutral
+1,- joy
+2,- neutral
+3,- surprise
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,joy
+12,neutral
+13,neutral
+14,neutral
+15,neutral
+16,neutral
+17,neutral
+18,neutral
+19,neutral
+20,anger
+1,- Monica - Hey! (Greeting) - **joy**
+2,How are you doing? (Question) - **anger**
+3,Do you know that feeling when you're trying to blow a Saint Bernard out your ass? (Answer) - **disgust**
+4,Did I hear----Mother of God it's true! (Statement Non Opinion) - **surprise**
+5,Chandler Bing! (Others) - **joy**
+6,Janice (Others) - **neutral**
+7,(Statement Non Opinion) - **surprise**
+8,(Statement Opinion) - **joy**
+9,Janice I didn't even know you were pregnant! Who's the unwitting human who's essence you've stolen? (Question) - **surprise**
+10,(Answer) - **joy**
+11,What?! (Question) - **surprise**
+12,Look how nervous he gets! We haven't slept together in years! (Statement Non Opinion) - **joy**
+13,Does it-does it hurt? Does the labor hurt? (Question) - **fear**
+1,anger
+2,neutral
+3,anger
+4,surprise
+5,neutral
+1,neutral
+2,sadness
+3,sadness
+4,anger
+5,anger
+6,anger
+7,anger
+8,neutral
+9,neutral
+10,neutral
+11,joy
+12,disgust
+13,neutral
+14,neutral
+15,neutral
+16,neutral
+1,- joy
+2,- joy
+3,- joy
+4,- joy
+5,- joy
+6,- joy
+7,- joy
+8,- joy
+9,- neutral
+10,- joy
+11,- joy
+12,- joy
+13,- neutral
+14,- joy
+15,- sadness
+16,- neutral
+17,- neutral
+18,- neutral
+19,- surprise
+20,- joy
+1,joy
+2,neutral
+3,neutral
+4,joy
+5,joy
+6,neutral
+7,sadness
+8,neutral
+9,neutral
+10,joy
+11,anger
+12,surprise
+13,neutral
+14,anger
+15,neutral
+16,surprise
+17,anger
+18,anger
+19,neutral
+20,anger
+21,neutral
+22,anger
+1,neutral
+2,neutral
+3,joy
+4,neutral
+5,neutral
+6,neutral
+7,surprise
+8,joy
+9,joy
+10,surprise
+11,neutral
+12,surprise
+13,neutral
+14,surprise
+1,joy
+2,joy
+3,joy
+4,joy
+5,neutral
+6,surprise
+1,sadness
+2,neutral
+3,neutral
+4,surprise
+5,neutral
+6,sadness
+7,neutral
+8,neutral
+9,joy
+10,joy
+1,neutral
+2,joy
+3,anger
+4,anger
+5,anger
+6,neutral
+1,(Statement Opinion) - **fear**
+2,(Statement Opinion) - **neutral**
+3,(Statement Non Opinion) - **neutral**
+4,(Agreement) - **joy**
+5,Hey! (Greeting) - **joy**
+6,There he is! (Statement Non Opinion) - **joy**
+7,Oh my God! Where the hell have you been?!! (Question) - **anger**
+8,(Answer) - **neutral**
+9,"Ohh, out, oh God, I don't know why we didn't think to check there! (Statement Opinion) - **anger**"
+10,What were you doing? (Question) - **surprise**
+11,(Answer) - **neutral**
+12,(Statement Non Opinion) - **joy**
+13,"Look, I don't have to answer your questions! Okay? I'm a big boy, I can do whatever I want! (Statement Non Opinion) - **anger**"
+14,He hooked up!! Tell us about her! (Command) - **joy**
+15,(Greeting) - **joy**
+1,joy
+2,neutral
+3,joy
+4,neutral
+5,joy
+6,anger
+7,neutral
+8,neutral
+1,anger
+2,neutral
+3,joy
+4,joy
+5,neutral
+6,neutral
+7,joy
+1,sadness
+2,anger
+3,sadness
+4,neutral
+5,joy
+6,disgust
+7,joy
+8,surprise
+1,disgust
+2,joy
+3,joy
+4,joy
+5,anger
+6,surprise
+7,neutral
+8,neutral
+1,- sadness
+2,- sadness
+1,neutral
+2,neutral
+3,joy
+4,disgust
+5,joy
+6,neutral
+7,neutral
+8,surprise
+9,anger
+10,surprise
+11,neutral
+12,anger
+13,anger
+14,neutral
+15,anger
+16,neutral
+17,neutral
+18,neutral
+19,surprise
+20,joy
+1,anger
+2,joy
+3,joy
+1,joy
+2,surprise
+3,neutral
+4,surprise
+5,neutral
+6,joy
+7,neutral
+8,neutral
+1,joy
+2,neutral
+3,joy
+4,neutral
+5,surprise
+6,neutral
+7,joy
+1,sadness
+2,neutral
+3,joy
+4,joy
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,surprise
+10,surprise
+11,neutral
+12,joy
+1,neutral
+2,anger
+3,surprise
+4,agreement (neutral)
+5,anger
+6,anger
+7,anger
+8,joy
+9,joy
+10,joy
+1,neutral
+2,neutral
+3,joy
+4,sadness
+5,sadness
+6,sadness
+7,neutral
+8,anger
+9,joy
+10,neutral
+1,- Chandler - Hey! (Greeting) - **joy**
+2,How do you feel? (Question) - **neutral**
+3,(Answer) - **anger**
+4,"Okay, so I (Others) - **neutral**"
+5,And protected them from a tornado? (Question) - **surprise**
+6,(Others) - **surprise**
+7,(Statement Non Opinion) - **neutral**
+8,"Phoebe, what, what happened here?! (Question) - **anger**"
+9,I did it! I took care of the babies all by myself! (Answer) - **joy**
+10,But my apartment! (Others) - **anger**
+11,(Statement Non Opinion) - **neutral**
+12,(Agreement) - **neutral**
+13,Cause this is what will happen when you and I have babies! (Statement Non Opinion) - **joy**
+14,When will that be? (Question) - **neutral**
+15,"Phoebe, would you take a look at this mess!!!! (Question) - **anger**"
+1,joy
+2,surprise
+3,neutral
+4,surprise
+5,joy
+6,neutral
+1,joy
+2,surprise
+3,neutral
+4,neutral
+5,neutral
+6,anger
+7,neutral
+8,anger
+9,disgust
+10,anger
+11,sadness
+12,sadness
+13,sadness
+14,sadness
+1,"3 - We get off around midnight, why don't we pick you up then? (Question) - **neutral**"
+2,"- Rachel - So, um, will you bring the truck? (Question) - **neutral**"
+3,(Answer) - **joy**
+4,(Others) - **surprise**
+5,"- Phoebe - See, there you go, the cleansing works! (Statement Non Opinion) - **joy**"
+6,(Statement Opinion) - **joy**
+7,(Statement Non Opinion) - **neutral**
+1,neutral
+2,anger
+3,neutral
+4,surprise
+5,sadness
+6,neutral
+7,neutral
+8,anger
+9,anger
+10,anger
+11,neutral
+12,anger
+13,anger
+14,anger
+15,anger
+16,anger
+17,anger
+18,neutral
+19,anger
+1,surprise
+2,neutral
+3,surprise
+4,joy
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,neutral
+12,joy
+13,neutral
+14,joy
+15,neutral
+16,anger
+17,neutral
+18,anger
+19,anger
+20,joy
+1,anger
+2,neutral
+3,surprise
+4,neutral
+5,neutral
+6,joy
+7,anger
+8,neutral
+9,neutral
+10,joy
+11,joy
+12,surprise
+13,surprise
+14,sadness
+15,surprise
+16,surprise
+1,neutral
+2,joy
+3,surprise
+4,anger
+5,anger
+6,anger
+7,neutral
+8,joy
+9,joy
+10,joy
+11,neutral
+12,neutral
+1,joy
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,anger
+7,sarcasm (or neutral if sarcasm isn't an option)
+8,neutral
+9,surprise
+10,joy
+11,surprise
+12,sadness
+13,fear
+14,neutral
+1,neutral
+2,joy
+3,neutral
+4,anger
+5,neutral
+6,anger
+7,neutral
+8,anger
+9,neutral
+10,anger
+1,neutral
+2,joy
+3,joy
+4,neutral
+5,anger
+1,surprise
+2,neutral
+3,sadness
+4,surprise
+5,neutral
+6,surprise
+7,surprise
+8,neutral
+9,neutral
+10,joy
+11,neutral
+1,joy
+2,sadness
+3,neutral
+4,neutral
+1,(Others) - **neutral**
+2,(Command) - **neutral**
+3,"Where you work the uh, waiters eat with the waiters, right? (Question) - **neutral**"
+4,"And the chefs eat with the other chefs, right? (Question) - **neutral**"
+5,(Answer) - **sadness**
+6,(Statement Opinion) - **neutral**
+7,(Statement Opinion) - **neutral**
+8,(Statement Non Opinion) - **neutral**
+9,Y'know? (Backchannel) - **neutral**
+10,"Hey, when I'm in a play and you're in the audience, I don't talk to you, right? (Statement Non Opinion) - **neutral**"
+11,(Statement Opinion) - **neutral**
+12,(Statement Non Opinion) - **neutral**
+13,(Statement Non Opinion) - **neutral**
+"Most responses are **neutral**, with Monica's line (5) expressing **sadness**",
+1,anger
+2,anger
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,sadness
+8,surprise
+9,sadness
+10,joy
+11,neutral
+12,neutral
+13,anger
+1,neutral
+2,neutral
+3,neutral
+4,sadness
+5,neutral
+6,neutral
+7,neutral
+1,- Rachel - *Your parents'?* (Question) - **neutral**
+2,* (Answer) - **neutral**
+3,* (Backchannel) - **surprise**
+4,* (Others) - **neutral**
+5,* (Statement Opinion) - **joy**
+6,* (Statement Non Opinion) - **fear**
+1,joy
+2,neutral
+3,neutral
+4,joy
+5,sadness
+6,joy
+7,neutral
+8,neutral
+9,joy
+10,neutral
+11,neutral
+12,anger
+13,neutral
+14,anger
+15,disgust
+16,anger
+17,neutral
+18,anger
+19,disgust
+1,joy
+2,anger
+3,neutral
+4,neutral
+5,neutral
+6,disgust
+7,neutral
+8,neutral
+9,joy
+10,neutral
+11,joy
+12,sadness
+13,surprise
+14,surprise
+15,anger
+1,neutral
+2,neutral
+3,neutral
+4,joy
+5,joy
+6,joy
+1,disgust
+2,neutral
+3,surprise
+4,joy
+5,neutral
+6,neutral
+7,joy
+8,neutral
+9,neutral
+10,sadness
+11,neutral
+12,neutral
+1,neutral
+2,joy
+3,sadness
+4,neutral
+5,neutral
+6,surprise
+7,joy
+8,neutral
+9,surprise
+10,joy
+11,neutral
+12,anger
+13,surprise
+14,anger
+15,neutral
+16,anger
+17,joy
+18,neutral
+19,joy
+1,"- Joey - Hey, Pheebs? (Greeting) - **neutral**"
+2,"- Phoebe - No, I can't talk to you! I don't have a fancy ad in the Yellow Pages! (Statement Non Opinion) - **anger**"
+3,(Apology) - **sadness**
+4,(Statement Non Opinion) - **neutral**
+5,- Joey - You really think I'm ready? (Question) - **surprise**
+6,- Phoebe - Uh-huh! (Answer) - **joy**
+7,- Joey - Wow! Cool! (Statement Opinion) - **joy**
+8,- Joey - Was the chord at least right? (Question) - **fear**
+9,- Phoebe - No! (Answer) - **disgust**
+1,joy
+2,joy
+3,joy
+4,neutral
+5,neutral
+1,(Statement Non Opinion) - **neutral**
+2,(Statement Opinion) - **joy**
+1,(Statement Non Opinion) - **neutral**
+2,(Apology) - **neutral**
+3,- Rachel - What are you doing? (Question) - **anger**
+4,(Apology) - **sadness**
+5,(Statement Opinion) - **joy**
+6,(Statement Opinion) - **anger**
+7,"- Ross - Come on Rach, you don't have what, ten minutes? (Question) - **neutral**"
+8,- Rachel - I don't have ten minutes!! (Answer) - **anger**
+9,"- Ross - What? Sophie, does she have ten minutes? (Question) - **surprise**"
+10,"- Rachel - Hey, Ross!!! I told you I don't! (Answer) - **anger**"
+11,(Command) - **anger**
+12,(Statement Non Opinion) - **anger**
+13,(Others) - **neutral**
+14,- Rachel - Good bye! (Greeting) - **anger**
+15,(Statement Non Opinion) - **neutral**
+1,neutral
+2,neutral
+3,neutral
+4,anger
+5,fear
+6,anger
+7,fear
+8,sadness
+9,fear
+10,anger
+11,surprise
+12,neutral
+13,joy
+14,neutral
+15,neutral
+16,neutral
+17,fear
+18,neutral
+19,neutral
+20,neutral
+1,joy
+2,surprise
+1,joy
+2,neutral
+3,joy
+4,anger
+5,neutral
+6,anger
+7,neutral
+8,neutral
+9,neutral
+10,anger
+1,surprise
+2,surprise
+3,joy
+4,neutral
+5,anger
+6,neutral
+7,anger
+8,neutral
+9,sadness
+10,neutral
+1,joy
+2,neutral
+3,joy
+4,joy
+5,neutral
+6,anger
+7,anger
+8,anger
+9,anger
+10,neutral
+11,anger
+12,anger
+13,joy
+14,neutral
+15,anger
+1,anger
+2,surprise
+3,anger
+4,joy
+5,surprise
+6,sadness
+7,neutral
+8,surprise
+9,sadness
+10,sadness
+11,neutral
+12,joy
+1,"Forward--Stop! Okay, back--Stop! Okay, forward--Stop! Stop! Stop! (Command) - **anger**"
+2,(Statement Non Opinion) - **neutral**
+3,(Statement Non Opinion) - **neutral**
+4,(Statement Opinion) - **neutral**
+5,Okay? (Backchannel) - **neutral**
+6,(Agreement) - **joy**
+7,Haul ass!!! (Others) - **joy**
+1,neutral
+2,neutral
+3,joy
+4,anger
+5,neutral
+6,disgust
+7,joy
+1,**fear**
+2,**neutral**
+3,**joy**
+4,**anger**
+5,**neutral**
+6,**joy**
+7,**neutral**
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,anger
+7,joy
+8,joy
+9,surprise
+10,joy
+11,joy
+12,disgust
+13,anger
+14,anger
+1,joy
+2,neutral
+3,neutral
+4,neutral
+5,sadness
+6,surprise
+7,joy
+1,- Ross - Ni-chou chi-ma! (Others) - [joy]
+2,(Greeting) - [neutral]
+3,(Greeting) - [neutral]
+4,(Greeting) - [joy]
+5,(Statement Opinion) - [neutral]
+6,"What did, what did he say? (Question) - [surprise]"
+7,(Answer) - [neutral]
+8,(Statement Opinion) - [joy]
+1,joy
+2,joy
+3,disgust
+4,joy
+5,neutral
+6,joy
+7,neutral
+8,joy
+9,joy
+10,sadness
+11,neutral
+12,neutral
+13,surprise
+14,anger
+15,sadness
+16,sadness
+17,neutral
+1,joy
+2,fear
+3,neutral
+4,sadness
+5,joy
+6,anger
+7,neutral
+1,anger
+2,surprise
+3,anger
+1,anger
+2,anger
+3,surprise
+4,joy
+5,anger
+6,joy
+7,anger
+1,disgust
+2,joy
+3,sadness
+4,anger
+5,anger
+6,joy
+7,neutral
+8,joy
+9,surprise
+10,joy
+11,joy
+12,joy
+13,joy
+1,surprise
+2,joy
+3,surprise
+4,joy
+5,disgust
+6,neutral
+7,neutral
+1,frustration
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,fear
+8,fear
+9,neutral
+10,neutral
+11,fear
+12,disgust
+13,joy
+14,neutral
+15,neutral
+16,joy
+17,anger
+18,disgust
+1,neutral
+2,joy
+3,surprise
+4,surprise
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,joy
+10,fear
+11,sadness
+12,joy
+1,neutral
+2,anger
+3,neutral
+4,anger
+5,anger
+6,neutral
+7,neutral
+8,anger
+9,joy
+10,anger
+1,disgust
+2,joy
+3,anger
+4,neutral
+5,anger
+6,neutral
+7,anger
+8,joy
+9,surprise
+10,sadness
+11,anger
+12,anger
+13,fear
+14,sadness
+15,neutral
+16,neutral
+1,anger
+2,neutral
+3,anger
+4,sadness
+5,joy
+6,neutral
+7,neutral
+8,sadness
+9,neutral
+10,joy
+11,neutral
+12,anger
+13,anger
+14,anger
+15,anger
+16,neutral
+1,(Statement Non Opinion) - **neutral**
+2,What's he gonna do now? (Question) - **fear**
+3,I can't watch! (Statement Non Opinion) - **fear**
+4,(Others) - **surprise**
+5,"Seriously, how can you watch this? (Question) - **disgust**"
+6,Aren't you scared? (Question) - **fear**
+7,(Answer) - **fear**
+1,joy
+2,neutral
+3,neutral
+4,sadness
+5,neutral
+6,sadness
+7,anger
+1,neutral
+2,anger
+3,anger
+4,anger
+1,neutral
+2,anger
+3,surprise
+4,sadness
+5,anger
+6,anger
+7,sadness
+8,anger
+9,neutral
+10,"determination (not listed, closest is neutral)"
+11,neutral
+12,anger
+1,joy
+2,surprise
+3,neutral
+4,joy
+5,anger
+6,sadness
+7,neutral
+8,joy
+9,anger
+1,neutral
+2,neutral
+3,neutral
+4,sadness
+5,anger
+1,surprise
+2,joy
+3,neutral
+4,anger
+5,neutral
+6,disgust
+7,neutral
+8,anger
+9,joy
+1,neutral
+2,neutral
+3,surprise
+4,neutral
+5,neutral
+6,neutral
+7,sadness
+8,neutral
+9,anger
+10,neutral
+11,joy
+12,neutral
+13,neutral
+14,joy
+15,neutral
+16,neutral
+17,anger
+18,neutral
+19,disgust
+1,anger
+2,neutral
+3,anger
+4,surprise
+5,sadness
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+1,neutral
+2,surprise
+1,anger
+2,joy
+3,surprise
+4,neutral
+1,anger
+2,joy
+3,joy
+4,joy
+5,joy
+6,anger
+7,neutral
+8,anger
+9,neutral
+10,anger
+11,neutral
+1,- **fear**
+2,- **anger**
+3,- **anger**
+4,- **neutral**
+5,- **neutral**
+6,- **joy**
+7,- **neutral**
+8,- **joy**
+9,- **anger**
+1,joy
+2,sadness
+3,sadness
+4,fear
+5,surprise
+6,neutral
+7,neutral
+8,neutral
+9,joy
+10,disgust
+11,neutral
+12,neutral
+13,neutral
+14,joy
+15,neutral
+16,neutral
+17,fear
+18,anger
+19,neutral
+1,anger
+2,surprise
+3,sadness
+4,disgust
+5,joy
+6,anger
+7,anger
+8,anger
+9,fear
+10,neutral
+11,sadness
+12,surprise
+13,joy
+1,anger
+2,joy
+3,neutral
+4,sadness
+5,neutral
+6,sadness
+7,neutral
+8,surprise
+9,surprise
+10,surprise
+11,fear
+12,joy
+13,anger
+14,surprise
+15,anger
+16,sadness
+17,anger
+1,joy
+2,anger
+3,neutral
+1,disgust
+2,neutral
+3,surprise
+4,sadness
+5,joy
+6,neutral
+7,neutral
+1,joy
+2,neutral
+3,joy
+4,fear
+5,neutral
+6,joy
+7,joy
+8,joy
+9,joy
+1,surprise
+2,sadness
+3,anger
+4,neutral
+5,anger
+6,anger
+7,surprise
+8,neutral
+9,neutral
+10,neutral
+11,neutral
+12,joy
+13,neutral
+14,neutral
+15,neutral
+16,neutral
+1,neutral
+2,joy
+3,neutral
+1,neutral
+2,joy
+3,neutral
+4,joy
+5,surprise
+6,neutral
+7,disgust
+8,neutral
+9,disgust
+10,neutral
+11,joy
+12,joy
+13,neutral
+14,neutral
+15,anger
+16,anger
+17,anger
+18,neutral
+19,neutral
+20,neutral
+21,neutral
+1,disgust
+2,surprise
+3,neutral
+1,neutral
+2,joy
+3,neutral
+4,neutral
+5,neutral
+6,sadness
+7,neutral
+8,surprise
+9,neutral
+10,surprise/disgust
+11,neutral
+12,neutral
+13,sadness/worry
+14,sadness/worry
+15,sadness/worry
+16,neutral
+1,neutral
+2,joy
+3,surprise
+4,neutral
+1,neutral
+2,neutral
+3,anger
+4,neutral
+5,neutral
+6,disgust
+7,sadness
+8,joy
+9,joy
+10,neutral
+11,neutral
+12,joy
+13,joy
+1,joy
+2,neutral
+3,anger
+4,neutral
+5,neutral
+6,neutral
+7,anger
+8,joy
+9,joy
+10,surprise
+11,neutral
+12,surprise
+13,surprise
+14,surprise
+15,surprise
+16,joy
+17,neutral
+18,joy
+19,sadness
+20,neutral
+21,joy
+22,fear
+23,neutral
+24,fear
+25,sadness
+26,surprise
+1,- **sadness**
+2,- **neutral**
+3,- **neutral**
+4,- **neutral**
+5,- **sadness**
+6,- **neutral**
+7,- **neutral**
+8,- **sadness**
+9,- **sadness**
+1,surprise
+2,fear
+3,sadness
+4,joy
+5,neutral
+6,anger
+7,joy
+8,neutral
+9,joy
+10,sadness
+11,joy
+12,disgust
+13,disgust
+1,anger
+2,surprise
+1,surprise
+2,neutral
+3,surprise
+4,anger
+5,sadness
+6,anger
+7,anger
+8,anger
+9,anger
+10,anger
+11,anger
+12,neutral
+13,surprise
+14,neutral
+15,neutral
+16,neutral
+17,neutral
+18,anger
+19,neutral
+20,anger
+21,neutral
+22,anger
+1,neutral
+2,neutral
+3,neutral
+4,sarcasm/anger
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,confusion/surprise
+11,neutral
+12,frustration/sadness
+13,neutral
+14,neutral/playful
+15,neutral
+16,neutral
+17,neutral
+18,hesitation/fear
+19,neutral
+20,surprise
+21,neutral
+1,(Statement Non Opinion) - **neutral**
+2,"Uh, just a second! (Greeting) - **joy**"
+3,"No-no, let me in! (Statement Non Opinion) - **anger**"
+4,Phoebe? (Greeting) - **neutral**
+5,Yeah! (Backchannel) - **neutral**
+6,Can you just hold on for one minute? (Question) - **neutral**
+7,"No, you have to let me in right now!! (Answer) - **anger**"
+8,Are you alone? (Question) - **neutral**
+9,Yes! (Answer) - **neutral**
+10,(Statement Non Opinion) - **neutral**
+1,anger
+2,anger
+3,sadness
+4,sadness
+5,joy
+6,anger
+7,anger
+1,- Joey - Y'know what? (Question) - **neutral**
+2,Umm? (Backchannel) - **neutral**
+3,(Statement Opinion) - **joy**
+4,(Statement Non Opinion) - **anger**
+1,anger
+2,neutral
+3,joy
+4,disgust
+5,anger
+6,disgust
+7,neutral
+8,neutral
+9,anger
+10,anger
+11,surprise
+12,sadness
+13,sadness
+14,neutral
+15,neutral
+1,sadness
+2,fear
+3,fear
+4,neutral
+5,sadness
+6,neutral
+7,joy
+8,anger
+9,surprise
+10,anger
+11,joy
+12,anger
+13,sadness
+14,disgust
+15,sadness
+16,anger
+1,fear
+2,neutral
+3,disgust
+4,anger
+5,neutral
+6,joy
+7,neutral
+8,joy
+9,anger
+10,surprise
+11,neutral
+1,anger
+2,anger
+1,- Phoebe - **neutral**
+2,- Chandler - **neutral**
+3,- Monica - **neutral**
+4,- Chandler - **sadness**
+5,- Joey - **neutral**
+6,- Chandler - **neutral**
+7,- Monica - **neutral**
+8,- Chandler - **anger**
+9,- Monica - **anger**
+10,- Chandler - **anger**
+11,- Phoebe - **joy**
+1,anger
+2,neutral
+3,surprise
+4,neutral
+5,neutral
+6,sadness
+7,joy
+8,neutral
+9,joy
+10,surprise
+11,fear
+12,joy
+13,joy
+14,joy
+15,joy
+1,joy
+2,joy
+3,sadness
+4,sadness
+5,neutral
+6,joy
+7,joy
+8,sadness
+1,anger
+2,joy
+3,surprise
+4,neutral
+5,disgust
+6,joy
+7,sadness
+8,sadness
+9,joy
+10,sadness
+11,neutral
+12,joy
+13,joy
+1,neutral
+2,joy
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+1,joy
+2,joy
+3,joy
+4,joy
+5,neutral
+1,neutral
+2,neutral
+3,sadness
+4,neutral
+5,neutral
+6,surprise
+7,anger
+1,joy
+2,anger
+3,neutral
+4,joy
+5,surprise
+6,joy
+7,neutral
+8,neutral
+9,surprise
+10,joy
+11,surprise
+12,neutral
+13,neutral
+1,anger
+2,sadness
+3,anger
+4,sadness
+5,surprise
+6,neutral
+7,joy
+8,joy
+9,surprise
+10,neutral
+11,joy
+12,sadness
+13,sadness
+14,surprise
+15,sadness
+16,surprise
+17,sadness
+18,disgust
+19,neutral
+20,neutral
+21,neutral
+22,joy
+1,neutral
+2,neutral
+3,anger
+4,sadness
+1,joy
+2,joy
+3,joy
+4,neutral
+5,joy
+6,joy
+7,anger/disgust
+8,sadness
+9,neutral
+10,neutral
+11,neutral
+12,neutral
+1,neutral
+2,neutral
+3,joy
+4,"sarcasm (closest to disgust or neutral, but not a perfect fit)"
+5,anger
+6,joy
+7,joy
+8,joy
+9,neutral
+10,joy
+1,neutral
+2,neutral
+3,sadness
+4,neutral
+5,sadness
+6,anger
+7,joy
+8,joy
+9,neutral
+1,- anger
+2,- neutral
+3,- anger
+4,- surprise
+5,- neutral
+6,- neutral
+7,- joy
+8,- neutral
+9,- anger
+10,- anger
+11,- joy
+12,- neutral
+13,- anger
+14,- anger
+15,- sadness
+16,- sadness
+1,surprise
+2,surprise
+3,fear
+4,neutral
+5,joy
+1,neutral
+2,joy
+3,neutral
+4,sadness
+5,neutral
+6,neutral
+7,joy
+8,surprise
+9,neutral
+10,neutral
+11,neutral
+12,neutral
+13,neutral
+14,surprise
+15,anger
+16,surprise
+17,neutral
+18,disgust
+19,neutral
+20,neutral
+21,disgust
+22,neutral
+23,"sarcasm (Note: ""sarcasm"" is not in the provided list; the closest option is ""neutral"")"
+"For sentence 23, if strictly limited to the given options, ""neutral"" would be the default, but the tone suggests sarcasm, which isn't listed",
+1,neutral
+2,joy
+3,neutral
+4,sadness
+5,neutral
+6,neutral
+7,joy
+8,surprise
+9,neutral
+10,neutral
+11,neutral
+12,neutral
+13,neutral
+14,surprise
+15,anger
+16,surprise
+17,neutral
+18,disgust
+19,neutral
+20,neutral
+21,disgust
+22,neutral
+23,neutral
+1,neutral
+2,joy
+3,neutral
+4,surprise
+5,neutral
+6,anger
+7,sadness
+8,surprise
+9,sadness
+10,neutral
+11,neutral
+12,neutral
+13,neutral
+14,sadness
+15,anger
+16,neutral
+17,surprise
+18,neutral
+1,joy
+2,joy
+3,neutral
+4,sadness
+5,neutral
+6,neutral
+7,surprise
+8,neutral
+9,anger
+10,neutral
+11,disgust
+12,fear
+1,surprise
+2,joy
+3,sadness
+1,neutral
+2,surprise
+3,neutral
+4,joy
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+1,(Answer) - **neutral**
+2,Oh! (Backchannel) - **surprise**
+3,Oh God (Backchannel) - **fear**
+4,(Statement Non Opinion) - **neutral**
+5,"Oh-oh, that's a risky little game! (Statement Opinion) - **anger**"
+6,Are you really gonna do this? (Question) - **fear**
+7,I'm gonna have a baby! (Answer) - **joy**
+8,With who? (Question) - **surprise**
+9,(Statement Non Opinion) - **sadness**
+1,- sadness
+2,- anger
+3,- surprise
+4,- neutral
+5,- anger
+6,- neutral
+7,- surprise
+8,- neutral
+1,anger
+2,anger
+3,anger
+4,neutral
+5,anger
+6,neutral
+7,neutral
+8,neutral
+9,sadness
+1,joy
+2,anger
+3,neutral
+4,joy
+5,anger
+6,anger
+7,neutral
+8,anger
+9,neutral
+10,anger
+11,neutral
+1,joy
+2,neutral
+3,joy
+4,neutral
+1,surprise
+2,neutral
+3,sadness
+4,sadness
+5,sadness
+6,sadness
+7,neutral
+8,joy
+9,joy
+10,anger
+1,surprise
+2,neutral
+3,neutral
+4,joy
+5,joy
+6,joy
+7,neutral
+8,joy
+9,neutral
+10,neutral
+11,neutral
+12,anger
+13,anger
+14,anger
+15,anger
+16,neutral
+1,(Statement Non Opinion) - **neutral**
+2,Geller? (Question) - **neutral**
+3,(Question) - **surprise**
+4,(Statement Non Opinion) - **neutral**
+5,(Statement Non Opinion) - **neutral**
+1,(Statement Non Opinion) - **neutral**
+2,(Acknowledge) - **neutral**
+3,(Command) - **neutral**
+4,(Agreement) - **joy**
+5,(Greeting) - **neutral**
+6,(Statement Non Opinion) - **neutral**
+7,(Statement Non Opinion) - **neutral**
+8,(Statement Non Opinion) - **neutral**
+9,(Statement Opinion) - **sadness**
+10,(Agreement) - **joy**
+11,(Statement Non Opinion) - **neutral**
+12,(Backchannel) - **surprise**
+13,(Statement Non Opinion) - **neutral**
+1,""" (Statement Non Opinion) - **joy**"
+2,""" (Statement Opinion) - **joy**"
+3,""" (Agreement) - **neutral**"
+4,"Ledbetter - ""I wonder if it's time for you to rejoin our team at the museum?"" (Question) - **neutral**"
+1,surprise
+2,joy
+3,neutral
+4,neutral
+5,surprise
+6,anger
+7,sadness
+8,neutral
+9,sadness
+10,neutral
+11,disgust
+12,neutral
+13,joy
+14,surprise
+15,joy
+16,joy
+17,joy
+18,joy
+19,neutral
+20,neutral
+21,joy
+1,neutral
+2,surprise
+3,neutral
+4,confusion
+5,neutral
+6,excitement
+7,confusion
+8,frustration
+9,disagreement
+10,neutral
+11,agreement
+12,neutral
+13,neutral
+14,neutral
+15,anger/frustration
+16,sadness/apologetic
+17,fear/anger
+18,neutral
+19,neutral
+20,neutral
+21,neutral
+1,neutral
+2,joy
+3,neutral
+4,surprise
+5,fear
+6,neutral
+7,neutral
+8,neutral
+9,joy
+10,neutral
+11,neutral
+12,neutral
+13,neutral
+14,neutral
+15,neutral
+16,joy
+17,neutral
+1,anger
+2,neutral
+3,anger
+4,neutral
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,anger
+10,anger
+11,sadness
+12,neutral
+13,neutral
+14,neutral
+15,neutral
+16,anger
+17,neutral
+18,joy
+19,surprise
+20,joy
+21,anger
+22,neutral
+1,joy
+2,joy
+3,neutral
+4,anger
+5,surprise
+6,joy
+7,joy
+8,neutral
+9,neutral
+10,joy
+11,neutral
+12,neutral
+13,neutral
+14,joy
+15,disgust
+1,- Rachel - Hey! (Greeting) - **neutral**
+2,Hey! (Greeting) - **neutral**
+3,"Oh honey, I'm so sorry, you were right, this feels great! (Statement Opinion) - **joy**"
+4,"See? And you don't care if people are staring, it's just for a second cause then you're gone! (Statement Non Opinion) - **joy**"
+5,"Hey! Look out for the horse! Sorry! (Apology) - **fear** (for the horse warning), **joy** (for the excitement), **apology** (neutral)"
+1,neutral
+2,neutral
+3,joy
+4,joy
+5,fear
+1,neutral
+2,surprise
+3,fear
+4,sadness
+5,joy
+6,anger
+7,disgust
+1,anger
+2,neutral
+3,surprise
+4,neutral
+5,sadness
+6,neutral
+7,confusion
+8,anger
+9,concern
+10,sadness
+11,neutral
+12,neutral
+1,joy
+2,joy
+3,neutral
+4,neutral
+1,joy
+2,joy
+3,joy
+4,joy
+5,neutral
+6,joy
+7,joy
+8,neutral
+9,sadness
+10,surprise
+11,sadness
+12,joy
+13,sadness
+1,neutral
+2,joy
+3,neutral
+4,joy
+5,neutral
+6,neutral
+7,joy
+8,neutral
+1,anger
+2,surprise
+3,surprise
+4,anger
+5,fear
+6,anger
+7,fear
+8,surprise
+9,fear
+10,anger
+11,anger
+12,surprise
+13,sadness
+14,anger
+15,anger
+16,neutral
+1,- neutral
+2,- anger
+3,- surprise
+4,- anger
+5,- neutral
+6,- joy
+7,- surprise
+1,- Joey - Bijan for men? Bijan for men? Bijan for men? (Question) - **surprise**
+2,So did you hear about the new guy? (Question) - **neutral**
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,anger
+6,neutral
+7,sadness
+8,surprise
+9,neutral
+10,anger
+11,joy
+12,neutral
+13,sadness
+14,neutral
+15,sadness
+16,sadness
+17,neutral
+18,neutral
+1,- sadness
+2,- neutral
+3,- sadness
+4,- joy
+5,- neutral
+1,joy
+2,surprise
+3,joy
+4,surprise
+5,neutral
+6,neutral
+7,concern
+8,neutral
+9,concern
+10,sadness
+11,regret
+12,surprise
+13,neutral
+14,joy
+15,sarcasm
+16,determination
+17,sadness
+18,determination
+19,curiosity
+20,neutral
+21,fear
+22,concern
+23,neutral
+24,concern
+25,neutral
+26,surprise
+1,joy
+2,neutral
+3,neutral
+4,sadness
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,sadness
+11,joy
+12,surprise
+13,sadness
+14,surprise
+15,sadness
+16,neutral
+17,neutral
+18,neutral
+19,sadness
+1,- Ross - Hello? (Greeting) - **neutral**
+2,(Greeting) - **neutral**
+3,(Apology) - **sadness**
+4,(Disagreement) - **joy**
+5,(Statement Non Opinion) - **sadness**
+6,Does that mean the same thing in England as it does in America? (Question) - **surprise**
+1,sadness
+2,joy
+3,neutral
+4,surprise
+5,neutral
+6,joy
+1,neutral
+2,surprise
+3,neutral
+4,surprise
+5,neutral
+6,neutral
+7,neutral
+8,joy
+9,neutral
+10,disgust
+11,neutral
+12,joy (then neutral)
+13,neutral
+14,neutral
+15,sarcasm (closest to anger or neutral)
+(Note: Some lines are neutral because they are factual statements or simple questions without strong emotional cues,)
+1,sadness
+2,neutral
+3,joy
+4,anger
+5,joy
+6,fear
+7,joy
+8,surprise
+9,joy
+10,joy
+1,fear
+2,joy
+3,neutral
+1,neutral
+2,neutral
+3,sadness
+4,apology (sadness)
+5,anger
+6,fear
+7,anger
+8,sadness
+9,neutral
+10,sadness
+11,neutral
+12,surprise
+13,joy
+14,anger
+15,anger
+1,neutral
+2,sadness
+3,neutral
+4,neutral
+5,"pain (not listed, closest is sadness)"
+6,fear
+7,sadness
+8,anger
+9,surprise
+10,neutral
+11,neutral
+12,neutral
+13,neutral
+14,fear
+15,neutral
+16,neutral
+17,joy
+18,joy
+19,joy
+1,neutral
+2,neutral
+3,neutral
+4,joy
+5,neutral
+6,surprise
+7,neutral
+8,neutral
+9,excitement/joy
+10,surprise
+11,neutral
+12,surprise
+13,neutral
+14,neutral
+15,neutral
+16,excitement/surprise
+1,sadness
+2,joy
+3,neutral
+1,(Statement Opinion) - **neutral**
+2,- Ross - Oh come on! Here we go! Stand by for mission countdown! (Statement Non Opinion) - **joy**
+3,(Statement Non Opinion) - **neutral**
+4,- Ross - Oh no! An asteroid! (Statement Non Opinion) - **fear**
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,"surprise/disgust (ambiguous, but likely surprise given the absurdity)"
+6,neutral
+7,surprise/concern (could also be neutral)
+8,joy/excitement
+9,neutral
+10,neutral
+11,neutral
+12,surprise/confusion
+1,neutral
+2,sadness
+3,concern
+4,sadness
+5,sadness
+6,sadness
+7,sadness
+8,neutral
+9,sadness
+10,sadness
+11,sadness
+12,anger
+13,sadness
+1,(Statement Non Opinion) - **neutral**
+2,"(Agreement) - **sarcasm (anger or disgust, depending on tone, but most likely disgust)**"
+3,"But that's only because you're not eating anything, right? (Question) - **joy**"
+"(Note: For sentence 2, if the tone is sarcastic, it could imply **anger** or **disgust**, but **disgust** is more likely in this context",)
+1,surprise
+2,anger
+3,surprise
+4,neutral
+5,anger
+6,neutral
+7,neutral
+8,neutral
+9,frustration
+10,frustration
+11,neutral
+12,neutral
+13,joy
+14,neutral
+15,joy
+16,frustration
+1,joy
+2,neutral
+3,sadness
+4,sadness
+5,fear
+1,joy
+2,joy
+3,joy
+4,joy
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,anger
+6,sadness
+7,anger
+1,neutral
+2,neutral
+3,sadness
+1,anger
+2,sadness
+3,disgust
+4,sadness
+5,anger
+6,sadness
+7,surprise
+8,neutral
+9,neutral
+10,neutral
+11,surprise
+1,anger
+2,neutral
+3,sadness
+4,neutral
+5,sadness
+6,anger
+1,joy
+2,sadness
+3,joy
+1,neutral
+2,disgust
+3,anger
+4,anger
+5,fear
+6,neutral
+7,surprise
+8,neutral
+9,joy
+10,neutral
+11,neutral
+12,anger
+1,(Greeting) - **neutral**
+2,(Statement Non Opinion) - **neutral**
+3,(Statement Non Opinion) - **joy**
+4,"Maybe we'll be seeing each other at dinner tomorrow night, say around 8 o'clock? (Question) - **joy**"
+5,Oh! (Answer) - **surprise**
+1,- disgust
+2,- anger
+3,- surprise
+4,- anger
+5,- neutral
+6,- neutral
+7,- surprise
+1,surprise
+2,neutral
+3,sadness
+4,joy
+5,neutral
+1,joy
+2,neutral
+3,neutral
+4,surprise
+5,neutral
+6,disagreement (could also be neutral)
+7,neutral
+8,anger
+9,neutral
+10,disgust
+11,neutral
+12,neutral
+13,neutral
+14,neutral
+15,anger
+16,neutral
+17,anger
+1,(Greeting) - neutral
+2,Hi! (Greeting) - joy
+3,Hey! (Greeting) - joy
+4,(Statement Non Opinion) - neutral
+5,Yeah? (Others) - neutral
+6,How's that going? (Question) - neutral
+7,(Answer) - joy
+8,(Statement Non Opinion) - joy
+9,(Question) - neutral
+10,(Greeting) - neutral
+11,(Statement Non Opinion) - sadness
+12,All right!! (Statement Non Opinion) - joy
+13,I'm coming already!! (Statement Non Opinion) - anger
+1,- Rachel - Really?! You think that will work? (Question) - surprise
+2,"- Joey - Absolutely! And if it doesn't, can I get the extra ticket? (Answer) - joy"
+3,- Joey - What the heck is that? (Question) - disgust
+1,neutral
+2,joy
+3,joy
+4,joy
+5,surprise
+6,surprise
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,joy
+12,neutral
+13,neutral
+14,sadness
+1,anger
+2,neutral
+3,neutral
+4,surprise
+5,joy
+6,anger
+7,anger
+8,joy
+1,anger
+2,sadness
+1,joy
+2,neutral
+3,surprise
+4,anger
+5,neutral
+6,anger
+7,neutral
+8,neutral
+9,surprise
+10,disgust
+11,neutral
+12,neutral
+13,neutral
+1,neutral
+2,sadness
+3,joy
+4,sadness
+5,embarrassment
+6,sadness
+7,apology (sadness/regret)
+8,confusion
+9,anger
+10,anger
+11,anger
+12,anger
+13,disgust
+14,anger
+15,disgust
+16,neutral
+17,sadness
+18,neutral
+19,neutral
+20,neutral
+21,sadness
+22,concern
+23,neutral
+24,sadness
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,joy
+9,surprise
+10,neutral
+11,joy
+12,joy
+13,joy
+1,joy
+2,neutral
+3,anger
+4,joy
+5,surprise
+6,neutral
+7,surprise
+8,sadness
+9,sadness
+10,neutral
+11,neutral
+12,sadness
+13,joy
+14,surprise
+15,joy
+16,neutral
+17,neutral
+18,neutral
+19,neutral
+20,neutral
+21,surprise
+22,sadness
+1,anger
+2,anger
+3,neutral
+4,neutral
+5,neutral
+6,surprise
+7,joy
+1,joy
+2,joy
+3,joy
+4,joy
+1,**anger**
+2,**sadness**
+3,**neutral**
+4,**anger**
+5,**neutral**
+6,**neutral**
+7,**anger**
+8,**anger**
+9,**neutral**
+10,**neutral**
+11,**joy**
+1,(Backchannel) - **neutral**
+2,(Statement Non Opinion) - **neutral**
+3,(Statement Non Opinion) - **neutral**
+4,"(Statement Opinion) - **hope** (if ""hope"" is not an option, **neutral**)"
+5,(Agreement) - **joy** (or **neutral** if sarcastic)
+"(Assuming no strong negative context, most responses lean neutral",)
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,joy
+1,neutral
+2,sadness
+3,disgust
+4,joy
+5,joy
+6,neutral
+7,neutral
+8,anger
+9,joy
+10,neutral
+11,joy
+1,in that (Statement Opinion) - **disgust**
+2,(Statement Opinion) - **anger**
+3,(Question) - **neutral**
+4,(Answer) - **anger**
+5,"Can't do it, can you? (Question) - **anger**"
+6,So what? (Question) - **anger**
+7,"What do you see in this guy, anyway? (Question) - **anger**"
+8,(Answer) - **neutral**
+9,"I mean, come on, buddy, get a (Statement Opinion) - **anger**"
+10,(Command) - **sadness**
+11,(Disagreement) - **sadness**
+12,"why, because it might get weird for everyone else? (Question) - **anger**"
+13,(Statement Opinion) - **anger**
+14,(Command) - **anger**
+15,(Statement Non Opinion) - **joy**
+16,(Disagreement) - **sadness**
+17,(Acknowledge) - **sadness**
+18,(Statement Non Opinion) - **sadness**
+19,(Others) - **sadness**
+1,(Greeting) - **neutral**
+2,- Phoebe - Was it my work? Were they mad? Was it Jack? Did he yell?! (Question) - **fear**
+3,Jack just was calling to make sure that (Answer) - **neutral**
+4,(Others) - **joy**
+5,(Statement Non Opinion) - **sadness**
+1,anger
+2,neutral
+3,neutral
+4,neutral
+5,joy
+6,neutral
+7,neutral
+8,surprise
+9,surprise
+10,neutral
+11,neutral
+12,anger
+13,anger
+14,neutral
+15,anger
+16,neutral
+17,neutral
+1,joy
+2,joy
+3,neutral
+4,surprise
+5,surprise
+1,joy
+2,joy
+3,joy
+4,neutral
+5,neutral
+6,neutral
+7,joy
+8,joy
+9,neutral
+10,neutral
+11,neutral
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,disgust
+11,sadness
+1,anger
+2,surprise
+3,anger
+4,disgust
+5,joy
+1,neutral
+2,surprise
+3,neutral
+4,neutral
+5,neutral
+6,joy
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,anger
+12,neutral
+13,neutral
+14,neutral
+15,neutral
+16,surprise
+17,anger
+18,neutral
+19,sadness
+20,sadness
+21,sadness
+22,neutral
+23,neutral
+1,joy
+2,joy
+3,joy
+4,sadness
+5,anger
+6,surprise
+7,neutral
+8,neutral
+1,neutral
+2,joy
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,surprise
+8,sadness
+9,neutral
+1,(**neutral**)
+2,(**joy**)
+3,(**sadness**)
+4,- Phoebe - You gotta go! (**anger**)
+5,- Chandler - Oh! (**surprise**)
+6,(**joy**)
+7,- Chandler - Really? (**surprise**)
+8,(**joy**)
+1,neutral
+2,joy
+3,sadness
+4,sadness
+5,neutral
+6,surprise
+7,anger
+8,neutral
+9,surprise
+10,joy
+11,joy
+1,joy
+2,surprise
+3,neutral
+4,neutral
+5,neutral
+6,joy
+7,neutral
+8,neutral
+9,disgust
+10,neutral
+11,neutral
+12,neutral
+13,anger
+14,joy
+15,joy
+16,anger
+1,neutral
+2,sadness
+3,sadness
+4,surprise
+5,neutral
+6,joy
+1,neutral
+2,sadness
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,sadness
+1,anger
+2,joy
+1,neutral
+2,joy
+3,joy
+4,surprise
+5,anger
+6,neutral
+7,surprise
+8,anger
+9,sadness
+1,joy
+2,neutral
+3,neutral
+4,anger
+5,joy
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,surprise
+11,surprise
+12,neutral
+1,fear
+2,joy
+3,anger
+4,neutral
+5,surprise
+6,neutral
+7,sadness
+8,joy
+9,anger
+1,joy
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,joy
+7,joy
+8,joy
+9,joy
+10,anger
+11,anger
+12,neutral
+13,anger
+14,anger
+15,joy
+16,anger
+17,anger
+18,neutral
+19,disgust
+20,disgust
+1,fear
+2,neutral
+3,sadness
+1,sadness
+2,sadness
+3,sadness
+4,neutral
+5,joy
+6,neutral
+7,joy
+8,neutral
+9,joy
+10,neutral
+11,sadness
+12,neutral
+13,joy
+14,neutral
+15,neutral
+1,neutral
+2,joy
+3,joy
+4,neutral
+5,anger
+6,neutral
+7,joy
+8,joy
+9,joy
+10,surprise
+1,disgust
+2,anger
+3,anger
+4,surprise
+5,neutral
+6,surprise
+1,- Chandler - Hey! (Greeting) - **neutral**
+2,Hey! Check it out! This is unbelievable! Joey has been holding his breath for almost four minutes! (Statement Non Opinion) - **surprise**
+3,Dude! What are yo--you trying to kill me?! (Question) - **anger**
+1,- pain
+2,- neutral
+3,- neutral
+4,- surprise
+5,- neutral
+6,- neutral
+7,- neutral
+8,- neutral
+9,- joy
+10,- neutral
+11,- sadness
+12,- neutral
+13,- neutral
+14,- neutral
+15,- neutral
+1,(Statement Opinion) - **neutral**
+2,(Disagreement) - **disgust**
+3,(Statement Non Opinion) - **neutral**
+4,"- Phoebe - Oh, this will be so much fun! (Statement Opinion) - **joy**"
+5,- Phoebe - Hey! (Greeting) - **joy**
+6,- Phoebe - Are you excited? (Question) - **joy**
+7,"- Frank - Yeah! Hey, do Monica and Rachel work there? (Question) - **joy**"
+1,neutral
+2,neutral
+3,surprise
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,anger
+12,disgust
+13,neutral
+14,neutral
+1,neutral
+2,sadness
+3,neutral
+4,neutral
+5,neutral
+6,joy
+7,neutral
+8,disgust
+9,neutral
+10,neutral
+1,joy
+2,neutral
+3,neutral
+4,sadness
+5,sadness
+6,anger
+1,- Monica - Let's get the show on it! (Command) - **joy**
+2,(Statement Non Opinion) - **neutral**
+3,(Statement Non Opinion) - **joy**
+4,- Rachel - Closer than here? (Question) - **surprise**
+5,(Command) - **joy**
+6,(Disagreement) - **disgust**
+7,(Acknowledge) - **neutral**
+8,Did anyone else hear that?! (Apology) - **sadness**
+1,neutral
+2,neutral
+3,neutral
+4,sadness
+5,neutral
+6,anger
+7,joy
+1,sadness
+2,fear
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,surprise
+9,neutral
+10,sadness
+11,sadness
+12,anger
+13,fear
+14,anger
+15,anger
+16,anger
+17,anger
+18,anger
+19,anger
+20,anger
+21,sadness
+1,surprise
+2,neutral
+3,joy
+4,neutral
+5,joy
+6,joy
+7,neutral
+8,anger
+9,neutral
+10,neutral
+11,neutral
+12,neutral
+13,joy
+14,anger
+15,sadness
+16,sadness
+17,sadness
+18,sadness
+19,sadness
+20,neutral
+1,neutral
+2,joy
+3,anger
+1,sadness
+2,anger
+3,neutral
+4,disgust
+5,neutral
+6,joy
+7,sadness
+8,anger
+9,surprise
+10,sadness
+11,disgust
+12,neutral
+1,neutral
+2,neutral
+3,sadness
+4,sadness
+5,neutral
+6,neutral
+7,surprise
+8,neutral
+9,sadness
+10,sadness
+11,sadness
+12,sadness
+13,sadness
+14,anger
+1,- joy
+2,- anger
+3,- neutral
+4,- anger
+5,- fear
+6,- surprise
+7,- joy
+8,- joy
+9,- sadness
+10,- neutral
+11,- neutral
+12,- joy
+13,- surprise
+14,- neutral
+15,- neutral
+16,- surprise
+17,- neutral
+18,- joy
+19,- joy
+20,- surprise
+21,- neutral
+22,- neutral
+23,- neutral
+24,- neutral
+1,neutral
+2,anger
+3,anger
+4,neutral
+5,frustration
+6,anger
+7,neutral
+8,anger
+1,joy
+2,sadness
+3,sadness
+4,surprise
+5,disgust
+1,- Chandler - I can't believe there is a naked hooker in there! (Statement Non Opinion) - **surprise**
+2,- Joey - Wait! Wait! Maybe she's a hooker (Statement Opinion) - **neutral**
+1,neutral
+2,anger
+3,anger
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,fear
+7,surprise
+8,surprise
+9,sadness
+10,neutral
+11,sadness
+12,sadness
+13,joy
+14,joy
+15,joy
+16,neutral
+17,neutral
+18,anger
+1,joy
+2,neutral
+3,surprise
+4,surprise
+5,sadness
+6,surprise
+7,neutral
+8,anger
+9,sadness
+10,sadness
+11,neutral
+12,anger
+1,surprise
+2,neutral
+3,fear
+4,neutral
+5,joy
+6,anger
+7,joy
+8,sadness
+9,neutral
+10,neutral
+11,neutral
+12,neutral
+13,surprise
+14,anger
+1,surprise
+2,neutral
+3,fear
+4,joy
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,neutral
+12,surprise
+13,neutral
+1,(Statement Non Opinion) - **fear**
+2,(Command) - **joy**
+3,"Joey - Yeah, but I don't wanna die! (Others) - **fear**"
+4,"Phoebe - No-no, it'll be fun! We can come back and we can haunt these guys! (Statement Non Opinion) - **joy**"
+1,neutral
+2,neutral
+3,neutral
+4,joy
+1,- Chandler - Hey! (Greeting) - **joy**
+2,Hey! (Greeting) - **joy**
+3,(Statement Non Opinion) - **neutral**
+4,(Statement Non Opinion) - **neutral**
+5,You're building a post office? (Question) - **surprise**
+6,(Answer) - **neutral**
+7,(Others) - **surprise**
+8,(Agreement) - **joy**
+9,(Statement Non Opinion) - **neutral**
+1,joy
+2,surprise
+3,neutral
+4,sadness
+5,anger
+6,sadness
+7,neutral
+8,neutral
+9,joy
+10,joy
+11,anger
+12,neutral
+13,neutral
+14,joy
+1,neutral
+2,surprise
+3,neutral
+4,joy
+5,anger
+6,joy
+7,joy
+8,neutral
+9,neutral
+10,neutral
+11,neutral
+12,joy
+13,neutral
+14,joy
+15,joy
+16,anger
+17,joy
+18,anger
+19,neutral
+20,joy
+21,anger
+1,- neutral
+2,- joy
+3,- anger
+4,- sadness
+5,- neutral
+6,- surprise
+1,surprise
+2,joy
+3,surprise
+4,disgust
+5,neutral
+6,disgust
+7,joy
+8,anger
+9,neutral
+10,anger
+11,neutral
+12,anger
+13,anger
+14,anger
+15,anger
+16,anger
+1,joy
+2,neutral
+3,joy
+1,joy
+2,anger
+3,surprise
+4,neutral
+5,joy
+6,sadness
+7,neutral
+8,sadness
+9,joy
+10,sadness
+1,neutral
+2,neutral
+3,neutral
+4,anger
+5,anger
+6,neutral
+7,neutral
+8,anger
+9,surprise
+10,neutral
+11,sadness
+12,anger
+1,- neutral
+2,- neutral
+3,- anger
+4,- neutral
+5,- neutral
+1,joy
+2,sadness
+3,neutral
+4,sadness
+5,neutral
+6,surprise
+7,neutral
+8,sadness
+9,sadness
+10,sadness
+11,anger
+12,joy
+13,joy
+14,neutral
+15,joy
+16,joy
+17,joy
+18,joy
+19,neutral
+1,anger
+2,neutral
+3,neutral
+4,joy
+5,neutral
+6,joy
+7,joy
+8,anger
+9,neutral
+10,neutral
+11,anger
+12,neutral
+13,surprise
+14,neutral
+15,surprise
+16,neutral
+17,neutral
+1,(Apology) - **sadness**
+2,(Statement Non Opinion) - **neutral**
+3,(Agreement) - **neutral**
+4,Hey! (Greeting) - **joy**
+5,(Statement Non Opinion) - **sadness**
+6,Oh my God!! What happened?! (Question) - **surprise**
+7,(Answer) - **neutral**
+8,Did everyone get out okay? (Question) - **fear**
+9,(Answer) - **joy**
+10,What is this? (Question) - **surprise**
+11,"No Phoebe, don't look! You don't want to see what's under there!! (Answer) - **fear**"
+12,"Ohh, the-the Foster puppets! (Statement Non Opinion) - **sadness**"
+1,neutral
+2,surprise
+3,neutral
+4,nervous (fear)
+5,neutral
+6,joy
+7,sadness
+8,frustration (anger)
+9,neutral
+10,joy
+11,annoyance (anger)
+12,neutral
+13,neutral
+14,neutral
+15,neutral
+16,frustration (anger)
+17,neutral
+18,neutral
+19,neutral
+1,fear
+2,joy
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,anger
+8,agreement (neutral)
+9,neutral
+10,sadness
+11,joy
+12,neutral
+13,neutral
+14,surprise
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,anger
+7,anger
+8,anger
+9,anger
+10,anger
+11,anger
+12,neutral
+1,joy
+2,joy
+3,neutral
+4,joy
+5,surprise
+6,anger
+7,neutral
+8,anger
+9,neutral
+10,disgust
+1,neutral
+2,joy
+3,neutral
+4,anger
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,neutral
+12,neutral
+13,sadness
+14,neutral
+15,disgust
+1,surprise
+2,surprise
+3,neutral
+4,neutral
+5,anger
+6,anger
+7,neutral
+8,anger
+9,neutral
+10,fear
+11,neutral
+12,surprise
+13,surprise
+14,sadness
+15,fear
+16,joy
+17,joy
+18,relief
+1,neutral
+2,anger
+3,joy
+4,neutral
+5,surprise
+6,neutral
+7,fear
+8,neutral
+9,joy
+10,anger
+11,neutral
+12,neutral
+13,neutral
+14,neutral
+15,neutral
+16,surprise
+1,neutral
+2,neutral
+3,neutral
+1,- neutral
+2,- joy
+3,- neutral
+4,- joy
+5,- neutral
+6,- surprise
+7,- neutral
+8,- anger
+9,- neutral
+10,- anger
+11,- anger
+12,- sadness
+13,- sadness
+14,- fear
+15,- sadness
+16,- neutral
+17,- neutral
+18,- neutral
+1,- Monica - I can't believe Phoebe's gonna have her babies! (Statement Opinion) - **joy**
+2,(Statement Opinion) - **joy**
+3,(Statement Opinion) - **disgust**
+4,- Monica - Do you know anything about women? (Question) - **anger**
+5,(Answer) - **neutral**
+6,(Statement Opinion) - **neutral**
+7,(Acknowledge) - **neutral**
+1,(Greeting) - **neutral**
+2,(Statement Opinion) - **joy**
+3,(Agreement) - **joy**
+4,(Greeting) - **neutral**
+5,(Backchannel) - **neutral**
+6,So how'd it go? (Question) - **neutral**
+1,neutral
+2,surprise
+3,sadness
+4,sadness
+1,joy
+2,neutral
+3,neutral
+4,neutral
+1,- Rachel - Oh my God! Oh my God!! (Others) - **surprise**
+2,Still crying? (Question) - **sadness**
+3,Like a (Statement Non Opinion) - **neutral**
+4,(Statement Non Opinion) - **neutral**
+5,What's the other one? (Question) - **neutral**
+6,(Answer) - **neutral**
+7,(Statement Non Opinion) - **neutral**
+8,(Agreement) - **neutral**
+9,(Statement Non Opinion) - **neutral**
+10,"Anyway uh, great idea! (Statement Opinion) - **joy**"
+11,(Statement Non Opinion) - **neutral**
+12,"Oh, we have some (Statement Non Opinion) - **neutral**"
+13,No you don't! (Disagreement) - **anger**
+1,(Statement Non Opinion) - **neutral**
+2,"- Phoebe - Yeah, what town are we near? (Question) - **neutral**"
+3,"West-Westmont, ah Westburg? (Answer) - **surprise**"
+4,- Phoebe - Then why are you answering? Do you at least know what route we're on? (Question) - **anger**
+1,neutral
+2,surprise
+3,sadness
+4,neutral
+5,joy
+6,anger
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,anger
+12,neutral
+13,anger
+14,joy
+15,neutral
+1,(Statement Non Opinion) - **neutral**
+2,(Disagreement) - **anger**
+3,"Bet that barium enema doesn't sound so bad now, huh? (Disagreement) - **sadness**"
+1,neutral
+2,joy
+3,joy
+4,joy
+5,surprise
+6,anger
+7,joy
+8,anger
+9,neutral
+1,joy
+2,joy
+3,joy
+4,joy
+5,sadness
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,surprise
+12,neutral
+13,surprise
+14,neutral
+15,surprise
+16,joy
+17,surprise
+18,joy
+19,surprise
+20,sadness
+1,sadness
+2,joy
+1,neutral
+2,joy
+3,joy
+4,joy
+5,joy
+6,surprise
+7,neutral
+8,sadness
+9,joy
+10,joy
+11,neutral
+12,neutral
+13,neutral
+1,joy
+2,neutral
+3,fear
+1,anger
+2,joy
+3,surprise
+4,joy
+5,joy
+6,joy
+7,joy
+8,joy
+9,joy
+10,surprise
+11,neutral
+12,fear
+13,joy
+14,neutral
+15,neutral
+16,joy
+1,joy
+2,joy
+3,joy
+4,neutral
+5,neutral
+6,neutral
+7,surprise
+8,neutral
+9,neutral
+10,neutral
+11,neutral
+12,anger
+13,anger
+14,anger
+1,surprise
+2,neutral
+3,surprise
+4,neutral
+5,neutral
+6,neutral
+7,confusion
+8,neutral
+9,neutral
+10,neutral
+11,confusion
+12,confusion
+13,anger
+14,neutral
+15,anger
+16,neutral
+1,sadness
+2,sadness
+3,sadness
+4,joy
+5,anger
+6,anger
+7,sadness
+8,anger
+9,sadness
+10,sadness
+11,sadness
+12,anger
+1,neutral
+2,neutral
+3,fear
+4,neutral
+5,fear
+6,neutral
+7,neutral
+8,neutral
+9,surprise
+10,surprise
+11,joy
+12,neutral
+13,joy
+14,neutral
+15,neutral
+16,joy
+17,neutral
+1,joy
+2,neutral
+3,joy
+4,neutral
+5,surprise
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,neutral
+12,surprise
+13,neutral
+14,surprise
+15,neutral
+16,neutral
+17,neutral
+18,neutral
+19,frustration
+20,anger
+21,neutral
+22,frustration
+1,Ross! (Command) - **neutral**
+2,Yeah? (Agreement) - **neutral**
+3,(Others) - **neutral**
+4,(Statement Opinion) - **sadness**
+5,"They're not!! Ross, they're just saving them for the important people!! Okay?! What-what if I was the president?! (Question) - **anger**"
+6,(Answer) - **neutral**
+7,(Agreement) - **neutral**
+8,"Would you mind checking again to see if any umm, private rooms may have opened up? (Question) - **neutral**"
+9,(Answer) - **neutral**
+10,Y'know what? (Question) - **anger**
+11,(Statement Non Opinion) - **anger**
+12,And this is not the only hospital in this city and we have no problem to--Whoa! (Statement Non Opinion) - **anger**
+13,Oh gosh! (Others) - **surprise**
+14,What-what? (Question) - **fear**
+15,Ow-ow! Ow-ow! (Statement Non Opinion) - **fear**
+16,Would you like to see a semi-private room? (Question) - **neutral**
+17,(Answer) - **neutral**
+1,(Statement Non Opinion) - **neutral**
+2,Who are they? (Question) - **joy**
+3,(Answer) - **neutral**
+4,(Question) - **surprise**
+5,(Answer) - **neutral**
+6,"Wow, uh, anything else I should know? (Question) - **surprise**"
+1,(Disagreement) - **fear**
+2,(Others) - **neutral**
+3,(Apology) - **sadness**
+4,"Oh, what? What-what? (Question) - **surprise**"
+5,Y'know Marcel? (Question) - **neutral**
+6,Yeah? (Answer) - **neutral**
+7,(Statement Non Opinion) - **sadness**
+1,joy
+2,joy
+3,neutral
+4,joy
+5,neutral
+6,neutral
+7,neutral
+8,joy
+9,anger
+10,surprise
+11,anger
+12,anger
+13,anger
+14,surprise
+15,anger
+1,- **neutral**
+2,- **neutral**
+3,- **anger**
+4,- **anger**
+5,- **neutral**
+1,joy
+2,neutral
+3,neutral
+4,anger
+5,neutral
+6,anger
+7,sadness
+8,neutral
+1,(Greeting) - **neutral**
+2,I mean you're going out on a date with the noisy guy upstairs? (Greeting) - **surprise**
+3,(Statement Opinion) - **joy**
+4,(Agreement) - **sadness**
+5,(Statement Non Opinion) - **neutral**
+6,"Joey, where are the (Question) - **anger**"
+7,(Answer) - **neutral**
+1,neutral
+2,surprise
+3,sadness
+4,joy
+5,joy
+6,sadness
+1,- Phoebe - Come on more! (Command) - **joy**
+2,Oh God! (Others) - **surprise**
+3,"Yeah, you like that don't you? (Question) - **joy**"
+4,Oh yeah right there! (Answer) - **joy**
+5,You want it there? You take it there baby! (Question) - **joy**
+6,Uh Phoebe? (Question) - **surprise**
+7,(Answer) - **disgust**
+1,anger
+2,anger
+3,neutral
+4,anger
+5,sadness
+6,sadness
+7,sadness
+8,joy
+9,neutral
+1,surprise
+2,fear
+3,neutral
+4,sadness
+5,anger
+1,joy
+2,neutral
+3,surprise
+4,neutral
+5,surprise
+6,anger
+7,joy
+1,neutral
+2,neutral
+3,sadness
+4,anger
+5,anger
+6,sadness
+7,neutral
+1,- Phoebe - Rach? (Greeting) - **neutral**
+2,(Statement Non Opinion) - **neutral**
+3,Boy I'll tell you it's just such an honor to be nominated for a (Statement Non Opinion) - **surprise**
+4,(Statement Non Opinion) - **neutral**
+5,(Others) - **joy**
+6,(Statement Opinion) - **neutral**
+7,(Command) - **neutral**
+1,surprise
+2,sadness
+3,neutral
+4,anger
+5,neutral
+6,neutral
+7,anger
+8,joy
+9,neutral
+10,joy
+11,joy
+12,joy
+13,neutral
+14,concern
+15,sadness
+16,neutral
+17,neutral
+18,neutral
+19,concern
+20,neutral
+21,neutral
+22,disgust
+23,neutral
+24,neutral
+1,neutral
+2,surprise
+3,sadness
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,disgust
+11,neutral
+12,anger
+13,neutral
+14,fear
+15,neutral
+16,fear
+17,anger
+1,- Monica - Light still out? (Question) - **neutral**
+2,(Answer) - **neutral**
+3,(Statement Non Opinion) - **surprise**
+4,(Statement Non Opinion) - **disgust**
+5,Shut up! (Command) - **anger**
+6,"So, whaddya think George is like? (Question) - **neutral**"
+7,(Answer) - **neutral**
+8,Yeah? (Question) - **neutral**
+9,(Answer) - **joy**
+1,joy
+2,surprise
+3,neutral
+4,neutral
+5,anger
+6,fear
+7,sadness
+8,joy
+9,disgust
+10,neutral
+11,curiosity
+12,neutral
+13,anger
+14,neutral
+15,anger
+16,neutral
+17,anger
+18,neutral
+19,neutral
+20,neutral
+21,neutral
+1,anger
+2,joy
+3,surprise
+4,neutral
+5,joy
+6,disgust
+7,neutral
+8,neutral
+1,neutral
+2,neutral
+3,neutral
+4,surprise
+5,neutral
+6,sadness
+1,anger
+2,anger
+3,neutral
+4,anger
+5,anger
+6,neutral
+7,surprise
+8,neutral
+9,neutral
+10,neutral
+1,sadness
+2,surprise
+3,fear
+4,surprise
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,anger
+10,neutral
+11,anger
+12,anger
+13,anger
+14,neutral
+15,surprise
+16,neutral
+17,sadness
+18,sadness
+19,neutral
+20,neutral
+21,neutral
+22,neutral
+23,surprise
+24,sadness
+1,surprise
+2,neutral
+3,anger
+4,neutral
+5,neutral
+6,sadness
+7,sadness
+8,neutral
+9,neutral
+10,neutral
+11,sadness
+12,sadness
+13,sadness
+14,neutral
+15,anger
+16,joy
+1,neutral
+2,neutral
+3,neutral
+4,sadness
+5,surprise
+6,joy
+7,neutral
+8,anger
+9,anger
+10,anger
+11,sadness
+12,anger
+13,neutral
+14,joy
+15,surprise
+16,joy
+1,**neutral**
+2,**neutral**
+3,**sadness**
+4,**neutral**
+5,**joy**
+6,**joy**
+7,**neutral**
+8,**fear**
+9,**neutral**
+10,**fear**
+1,neutral
+2,joy
+3,joy
+4,surprise
+1,neutral
+2,surprise
+3,anger
+4,frustration
+1,disgust
+2,neutral
+3,sadness
+4,neutral
+5,sadness
+6,surprise
+7,neutral
+8,surprise
+9,sadness
+10,sadness
+11,sadness
+12,sadness
+13,neutral
+14,surprise
+15,disgust
+16,neutral
+1,anger
+2,neutral
+3,sadness
+4,joy
+5,sadness
+1,anger
+2,neutral
+3,neutral
+4,surprise
+5,joy
+6,joy
+7,neutral
+8,neutral
+9,neutral
+10,disgust
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,joy
+6,neutral
+7,sadness
+1,fear
+2,surprise
+3,disgust
+4,neutral
+5,sadness
+1,joy
+2,joy
+3,neutral
+4,neutral
+5,sadness
+6,joy
+7,neutral
+8,neutral
+9,joy
+10,joy
+11,joy
+12,neutral
+13,neutral
+14,neutral
+15,neutral
+16,disgust
+17,disgust
+18,neutral
+19,neutral
+20,joy
+1,neutral
+2,anger
+3,surprise
+4,surprise
+5,joy
+6,neutral
+7,fear
+8,fear
+9,surprise
+1,anger
+2,neutral
+3,joy
+1,sadness
+2,surprise
+3,sadness
+4,neutral
+5,neutral
+6,joy
+7,joy
+8,neutral
+9,neutral
+1,surprise
+2,sadness
+3,disgust
+4,sadness
+5,neutral
+6,sadness
+7,neutral
+8,surprise
+9,anger
+10,sadness
+11,joy
+12,neutral
+13,neutral
+14,neutral
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,anger
+7,surprise
+8,neutral
+9,neutral
+10,anger
+11,neutral
+12,neutral
+13,sadness
+14,joy
+15,sadness
+16,surprise
+17,neutral
+18,joy
+19,sadness
+1,fear
+2,neutral
+3,joy
+1,(Question) - **joy**
+2,- Monica - I know (Answer) - **neutral**
+3,- Rachel - Open your drapes! Open your drapes! (Others) - **joy**
+4,- Chandler - I'm so glad we've got adjoining rooms! (Statement Non Opinion) - **joy**
+5,- Monica - The sun is out! (Statement Non Opinion) - **joy**
+6,- Chandler - Hey! Remember when I had corneas? (Question) - **surprise**
+7,(Statement Non Opinion) - **neutral**
+8,(Others) - **neutral**
+9,"- Ross - Walls are pretty thin, guys! (Statement Non Opinion) - **anger**"
+1,joy
+2,neutral
+3,sadness
+4,neutral
+5,neutral
+6,neutral
+7,sadness
+8,sadness
+9,joy
+10,neutral
+1,joy
+2,neutral
+3,joy
+4,neutral
+5,neutral
+6,neutral
+7,anger
+8,neutral
+9,joy
+10,neutral
+11,surprise
+1,- disgust
+2,- joy
+3,- sadness
+4,- neutral
+5,- anger
+1,neutral
+2,joy
+3,anger
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,anger
+9,joy
+10,joy
+11,surprise
+12,neutral
+13,surprise
+14,neutral
+15,joy
+16,neutral
+17,neutral
+18,anger
+19,anger
+20,sadness
+21,surprise
+1,anger
+2,fear
+3,joy
+4,surprise
+5,neutral
+6,neutral
+7,neutral
+8,surprise
+9,disgust
+10,surprise
+11,surprise
+12,neutral
+13,sadness
+1,fear
+2,joy
+3,anger
+4,surprise
+5,anger
+1,(Greeting) - **neutral**
+2,(Greeting) - **neutral**
+3,(Statement Non Opinion) - **sadness**
+4,(Disagreement) - **neutral**
+5,Oh what then? Kick me? (Question) - **anger**
+6,(Answer) - **neutral**
+7,"Oh hey Katie! What uh, what are you doing here? (Question) - **surprise**"
+1,neutral
+2,neutral
+3,neutral
+4,surprise
+5,neutral
+6,joy
+7,joy
+8,anger
+1,joy
+2,neutral
+3,joy
+4,surprise
+5,neutral
+6,neutral
+7,anger
+8,sadness
+1,fear
+2,neutral
+3,surprise
+4,surprise
+5,neutral
+6,neutral
+7,disgust
+8,fear
+1,joy
+2,joy
+3,joy
+4,joy
+5,joy
+6,joy
+7,neutral
+8,joy
+1,neutral
+2,disgust
+3,neutral
+4,surprise
+5,neutral
+6,anger
+7,neutral
+8,disgust
+9,neutral
+10,disgust
+11,neutral
+12,anger
+13,joy
+14,surprise
+15,"pain (not listed, default to neutral)"
+16,anger
+17,neutral
+18,surprise
+19,neutral
+1,joy
+2,joy
+3,neutral
+4,joy
+5,surprise
+6,neutral
+7,anger
+8,joy
+9,sadness
+10,joy
+11,joy
+12,surprise
+1,neutral
+2,neutral
+3,neutral
+4,joy
+5,surprise
+6,surprise
+7,neutral
+8,joy
+9,joy
+1,surprise
+2,surprise
+3,neutral
+4,joy
+5,neutral
+6,neutral
+7,fear
+8,neutral
+9,neutral
+10,neutral
+11,joy
+1,fear
+2,joy
+3,sadness
+4,neutral
+5,joy
+1,joy
+2,joy
+3,sadness
+1,- Ross - There's twelve bucks I'll never see again! (Statement Non Opinion) - **sadness**
+2,(Statement Non Opinion) - **neutral**
+3,- Monica - Bye! (Greeting) - **neutral**
+4,- All - Bye! (Greeting) - **neutral**
+5,(Greeting) - **joy**
+6,"- Chandler - Okay, did you see that?! With the inappropriate and the pinching!! (Question) - **anger** or **disgust**"
+7,"- Monica - Actually, I did! (Answer) - **surprise**"
+8,"- Chandler - Okay, so now do you believe that she's attracted to me? (Question) - **neutral**"
+9,"- Monica - Ohhh, oh my God! Oh my God! She knows about us! (Answer) - **fear** or **surprise**"
+10,- Chandler - Are you serious? (Question) - **surprise**
+11,- Monica - Phoebe knows and she's just trying to freak us out! That's the only explanation for it! (Statement Non Opinion) - **fear** or **anger**
+12,- Chandler - Okay but what about y'know my pinchable butt and my bulging biceps--She knows! (Statement Non Opinion) - **fear** or **anger**
+"(Note: Some lines could be interpreted with slight variations depending on vocal tone, but these are the most likely emotions",)
+1,- **fear**
+2,- **neutral**
+3,- **anger**
+4,- **surprise**
+1,anger
+2,neutral
+3,joy
+4,joy
+1,neutral
+2,anger
+3,disgust
+4,joy
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,joy
+12,neutral
+13,neutral
+14,sadness
+15,surprise
+16,anger
+1,neutral
+2,neutral
+3,surprise
+4,neutral
+5,anger
+6,anger
+7,anger
+8,fear
+9,anger
+10,fear
+11,anger
+12,fear
+13,anger
+14,neutral
+15,neutral
+16,surprise
+17,fear
+18,anger
+19,anger
+1,surprise
+2,joy
+3,surprise
+4,joy
+5,surprise
+6,joy
+7,neutral
+8,neutral
+9,anger
+10,neutral
+11,fear
+1,neutral
+2,neutral
+3,surprise
+4,neutral
+5,surprise
+6,surprise
+7,neutral
+8,surprise
+9,fear
+10,surprise
+11,neutral
+12,surprise
+13,neutral
+14,anger
+15,fear
+16,fear
+17,joy
+18,joy
+19,disgust
+20,anger
+1,neutral
+2,surprise
+3,neutral
+4,neutral
+1,fear
+2,neutral
+3,surprise
+4,anger
+5,neutral
+6,neutral
+7,neutral
+8,joy
+9,neutral
+10,neutral
+11,disgust
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,joy
+7,neutral
+8,neutral
+1,neutral
+2,anger
+3,joy
+4,neutral
+5,fear
+6,neutral
+7,neutral
+8,neutral
+9,surprise
+10,disgust
+1,joy
+2,joy
+3,neutral
+4,joy
+5,neutral
+6,neutral
+7,neutral
+8,surprise
+9,disgust
+10,surprise
+11,surprise
+12,joy
+13,fear
+14,surprise
+15,neutral
+16,neutral
+1,joy
+2,neutral
+3,joy
+4,neutral
+5,neutral
+6,neutral
+7,surprise
+8,neutral
+9,anger
+10,anger
+1,sadness
+2,anger
+3,sadness
+4,joy
+5,neutral
+6,joy
+7,neutral
+8,surprise
+9,neutral
+10,surprise
+11,fear
+12,surprise
+13,fear
+1,- Mark - Rachel? (Question) - **neutral**
+2,Hi Mark! (Answer) - **joy**
+3,(Statement Non Opinion) - **joy**
+4,"- Rachel - Oh, I did! (Statement Non Opinion) - **surprise**"
+5,(Agreement) - **neutral**
+6,- Rachel - Oh my God!! (Others) - **joy**
+7,wow (Acknowledge) - **joy**
+1,anger
+2,neutral
+3,neutral
+4,neutral
+5,fear
+6,anger
+7,neutral
+1,neutral
+2,surprise
+3,surprise
+4,neutral
+5,neutral
+6,anger
+7,surprise
+8,anger
+9,joy
+10,joy
+11,sadness
+1,joy
+2,joy
+3,surprise
+4,neutral
+5,joy
+6,sadness
+7,neutral
+8,neutral
+9,neutral
+10,fear
+11,neutral
+12,anger
+13,neutral
+14,neutral
+15,neutral
+16,anger
+17,neutral
+18,neutral
+1,neutral
+2,neutral
+3,joy
+4,neutral
+1,neutral
+2,joy
+3,surprise
+4,anger
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,anger
+11,anger
+12,neutral
+13,anger
+14,anger
+1,neutral
+2,neutral
+3,joy
+4,surprise
+5,sadness
+6,sadness
+7,sadness
+8,sadness
+9,sadness
+10,sadness
+11,anger
+1,anger
+2,joy
+3,anger
+4,sadness
+5,neutral
+6,sadness
+7,sadness
+8,sadness
+9,surprise
+10,neutral
+11,joy
+1,anger
+2,neutral
+3,anger
+4,anger
+5,sadness
+6,neutral
+7,sadness
+1,joy
+2,neutral
+3,joy
+4,joy
+5,neutral
+6,anger
+7,disgust
+8,neutral
+9,fear
+10,neutral
+11,fear
+12,neutral
+13,neutral
+14,neutral
+15,neutral
+16,sadness
+17,anger
+18,neutral
+19,neutral
+20,anger
+21,anger
+22,anger
+1,joy
+2,joy
+3,surprise
+4,anger
+5,neutral
+6,sadness
+7,joy
+8,sadness
+9,anger
+10,sadness
+11,joy
+12,neutral
+1,joy
+2,anger
+3,anger
+4,sadness
+5,neutral
+1,anger
+2,neutral
+3,neutral
+4,neutral
+5,anger
+6,neutral
+7,joy
+8,joy
+9,neutral
+10,anger
+11,anger
+12,neutral
+13,neutral
+14,neutral
+15,surprise
+16,neutral
+17,neutral
+18,neutral
+1,(Greeting) - **joy**
+2,And there's daddy! (Statement Non Opinion) - **neutral**
+1,joy
+2,surprise
+3,anger
+4,joy
+5,joy
+6,joy
+1,joy
+2,joy
+3,joy
+4,joy
+5,surprise
+6,neutral
+1,neutral
+2,neutral
+3,joy
+4,joy
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,surprise
+11,joy
+12,neutral
+13,neutral
+14,neutral
+1,joy
+2,joy
+3,surprise
+4,surprise
+5,neutral
+6,anger
+7,neutral
+8,neutral
+9,joy
+10,joy
+11,neutral
+12,neutral
+13,neutral
+14,neutral
+1,sadness
+2,anger
+3,neutral
+4,joy
+5,joy
+6,surprise
+7,fear
+8,sadness
+9,neutral
+1,neutral
+2,joy
+3,joy
+4,surprise
+5,neutral
+6,surprise
+7,neutral
+8,neutral
+9,neutral
+10,joy
+11,neutral
+12,anger
+1,anger
+2,anger
+3,anger
+4,joy
+5,neutral
+6,surprise
+7,surprise
+8,joy
+9,neutral
+10,neutral
+11,neutral
+12,sadness
+13,joy
+14,joy
+15,sadness
+16,neutral
+1,joy
+2,neutral
+3,neutral
+4,joy
+5,joy
+6,fear
+7,joy
+8,joy
+9,surprise
+10,sadness
+1,joy
+2,joy
+3,surprise
+4,neutral
+5,joy
+6,surprise
+7,anger
+8,sadness
+1,neutral
+2,neutral
+3,joy
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,anger
+9,neutral
+10,neutral
+11,neutral
+12,neutral
+13,sadness
+14,sadness
+15,sadness
+1,joy
+2,fear
+3,neutral
+4,neutral
+5,surprise
+6,anger
+7,anger
+8,neutral
+9,neutral
+10,neutral
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,surprise
+8,anger
+9,joy
+10,anger
+11,joy
+1,neutral
+2,joy
+3,joy
+4,surprise
+5,sadness
+6,sadness
+7,sadness
+8,neutral
+9,anger
+10,neutral
+11,sadness
+12,neutral
+13,neutral
+14,joy
+15,joy
+16,neutral
+17,joy
+18,joy
+19,anger
+20,sadness
+21,neutral
+1,neutral
+2,neutral
+3,disgust
+4,anger
+5,disgust
+6,anger
+7,neutral
+8,sadness
+9,neutral
+10,anger
+11,anger
+12,anger
+13,anger
+14,sadness
+15,neutral
+16,neutral
+17,neutral
+18,joy
+19,surprise
+20,neutral
+21,neutral
+22,joy
+23,joy
+1,sadness
+2,neutral
+3,sadness
+4,neutral
+5,neutral
+1,fear
+2,neutral
+3,surprise
+4,disgust
+5,neutral
+6,neutral
+7,sadness
+8,sadness
+9,anger
+10,neutral
+11,joy
+1,(Statement Non Opinion) - **joy**
+2,Ohhh! Wow! He kinda takes your breath away doesn't he? (Question) - **surprise**
+1,joy
+2,neutral
+3,neutral
+4,neutral
+5,fear
+6,anger
+7,sadness
+8,neutral
+9,sadness
+1,"Hey how uh, how serious are you about keeping Ben in your life? (Question) - **neutral**"
+2,(Statement Non Opinion) - **joy**
+1,neutral
+2,neutral
+3,disgust
+4,joy
+5,anger
+6,sadness
+7,disgust
+8,surprise
+1,neutral
+2,neutral
+3,joy
+4,disgust
+5,sadness
+6,neutral
+7,surprise
+8,neutral
+9,neutral
+10,neutral
+11,surprise
+12,joy
+13,neutral
+14,joy
+15,neutral
+1,disgust
+2,sadness
+3,anger
+4,anger
+5,joy
+6,joy
+7,neutral
+8,joy
+9,joy
+10,neutral
+11,joy
+12,neutral
+13,joy
+14,joy
+15,joy
+16,neutral
+17,neutral
+18,joy
+19,neutral
+1,surprise
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,anger
+11,neutral
+12,joy
+13,anger
+14,neutral
+15,sadness
+16,sadness
+17,neutral
+18,neutral
+19,neutral
+20,neutral
+21,neutral
+1,joy
+2,joy
+3,joy
+4,joy
+5,anger
+6,neutral
+7,neutral
+8,surprise
+9,neutral
+10,neutral
+11,neutral
+12,neutral
+13,joy
+14,neutral
+1,surprise
+2,neutral
+3,joy
+4,neutral
+5,anger
+6,neutral
+7,neutral
+8,surprise
+9,surprise
+10,neutral
+11,neutral
+12,neutral
+13,neutral
+14,joy
+1,neutral
+2,anger
+3,joy
+4,joy
+5,joy
+6,neutral
+7,joy
+8,neutral
+9,joy
+10,neutral
+11,surprise
+12,neutral
+13,neutral
+14,neutral
+15,neutral
+16,neutral
+17,surprise
+18,neutral
+1,joy
+2,joy
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,joy
+8,neutral
+9,neutral
+10,surprise
+11,neutral
+12,neutral
+13,neutral
+14,neutral
+15,neutral
+1,neutral
+2,anger
+3,neutral
+4,surprise
+5,anger
+6,anger
+7,anger
+8,anger
+9,anger
+10,anger
+11,neutral
+12,anger
+13,sadness
+14,neutral
+15,neutral
+16,neutral
+17,neutral
+18,neutral
+19,sadness
+1,sadness
+2,neutral
+3,surprise
+4,joy
+5,joy
+6,joy
+7,neutral
+8,neutral
+9,neutral
+10,anger
+1,anger
+2,neutral
+3,joy
+4,sadness
+5,neutral
+6,neutral
+7,neutral
+8,surprise
+9,neutral
+1,joy
+2,neutral
+3,joy
+4,neutral
+5,surprise
+6,neutral
+7,neutral
+8,neutral
+9,apology (sadness)
+10,neutral
+1,joy
+2,neutral
+3,sadness
+4,neutral
+5,joy
+6,disgust
+7,neutral
+1,anger
+2,neutral
+3,anger
+4,anger
+5,sadness
+6,disgust
+7,anger
+8,neutral
+9,anger
+10,neutral
+11,neutral
+12,neutral
+1,- Ross - Dad? (Question) - **neutral**
+2,Geller - I'm here! (Answer) - **joy**
+3,- Ross - Hey! (Greeting) - **joy**
+4,(Statement Non Opinion) - **sadness**
+5,(Statement Non Opinion) - **sadness**
+6,(Statement Non Opinion) - **neutral**
+7,(Others) - **anger**
+8,(Apology) - **sadness**
+9,"- Monica - Oh, that's okay, I can't wait to see everything again! All of the memories (Agreement) - **joy**"
+10,"Geller - Well, I don't know what's in the boxes down here, but I do know there are six or seven (Statement Non Opinion) - **neutral**"
+11,- Monica - I used to (Others) - **neutral**
+12,(Agreement) - **joy**
+13,"- Monica - Hey, it is unreasonable to expect a child to wait for a (Statement Opinion) - **anger**"
+1,neutral
+2,joy
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,joy
+11,surprise
+1,neutral
+2,joy
+3,surprise
+4,surprise
+5,surprise
+6,joy
+7,neutral
+8,neutral
+9,joy
+10,joy
+11,neutral
+12,joy
+13,neutral
+14,neutral
+15,disgust
+16,joy
+17,disgust
+1,neutral
+2,fear
+1,joy
+2,surprise
+3,neutral
+4,neutral
+5,sadness
+1,- Phoebe - Where's Chandler? (Question) - **neutral**
+2,(Answer) - **neutral**
+3,- Phoebe - Wash your hands!!! (Command) - **anger**
+4,know? (Question) - **surprise**
+5,- Ross - Hey! What's she doing back here? (Question) - **anger**
+6,She's not made of ice cream! (Answer) - **joy**
+7,(Statement Non Opinion) - **neutral**
+1,**surprise**
+2,**neutral**
+3,**anger**
+4,**neutral**
+5,**neutral**
+6,**neutral**
+7,**surprise**
+8,**joy**
+9,**joy**
+10,**joy**
+11,**neutral**
+1,fear
+2,joy
+3,sadness
+4,sadness
+5,surprise
+6,fear
+7,disgust
+8,joy
+9,fear
+10,neutral
+11,neutral
+12,joy
+13,neutral
+14,joy
+15,surprise
+16,joy
+17,neutral
+1,neutral
+2,joy
+3,joy
+4,joy
+5,neutral
+6,anger
+7,neutral
+8,neutral
+9,joy
+10,neutral
+11,neutral
+12,neutral
+13,neutral
+14,joy
+15,neutral
+16,neutral
+17,surprise
+18,joy
+19,neutral
+20,neutral
+21,neutral
+22,joy
+1,neutral
+2,anger
+3,fear
+4,anger
+5,joy
+6,surprise
+7,neutral
+1,surprise
+2,joy
+3,joy
+4,joy
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,joy
+10,joy
+11,neutral
+12,neutral
+13,neutral
+14,neutral
+15,neutral
+16,neutral
+17,neutral
+18,joy
+19,neutral
+20,neutral
+21,neutral
+22,neutral
+23,neutral
+24,anger
+1,anger
+2,neutral
+3,joy
+4,surprise
+5,joy
+6,anger
+7,neutral
+8,neutral
+9,joy
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,joy
+6,joy
+7,surprise
+8,neutral
+9,anger
+10,neutral
+11,surprise
+12,disgust
+13,"confusion (Note: ""confusion"" is not in the given options, so the closest would be ""surprise"")"
+13,surprise
+1,disgust
+2,disgust
+3,neutral
+4,surprise
+5,neutral
+6,joy
+7,joy
+8,joy
+9,neutral
+10,fear
+11,joy
+12,neutral
+13,sadness
+14,neutral
+15,joy
+16,surprise
+1,joy
+2,neutral
+3,joy
+4,neutral
+5,sadness
+1,sadness
+2,neutral
+3,joy
+4,anger
+5,sadness
+6,neutral
+7,neutral
+8,neutral
+9,joy
+1,surprise
+2,neutral
+3,neutral
+4,sadness
+5,joy
+6,sadness
+7,surprise
+8,neutral
+9,joy
+10,surprise
+11,neutral
+12,anger
+13,anger
+14,anger
+15,anger
+16,joy
+1,joy
+2,neutral
+3,neutral
+4,neutral
+5,joy
+6,joy
+7,neutral
+8,neutral
+9,joy
+10,neutral
+11,neutral
+12,surprise
+13,surprise
+14,neutral
+15,neutral
+16,neutral
+17,joy
+18,neutral
+19,joy
+20,neutral
+21,neutral
+1,joy
+2,joy
+3,joy
+4,neutral
+5,neutral
+6,anger
+7,neutral
+8,neutral
+9,neutral
+10,joy
+11,sadness
+12,anger
+13,neutral
+14,neutral
+15,joy
+16,neutral
+17,sadness
+18,surprise
+19,neutral
+20,neutral
+21,anger
+1,neutral
+2,joy
+3,surprise
+4,sadness
+5,joy
+6,neutral
+7,sadness
+8,neutral
+9,joy
+10,neutral
+11,neutral
+12,neutral
+13,neutral
+14,neutral
+15,neutral
+16,neutral
+17,neutral
+18,neutral
+19,neutral
+20,joy
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,sadness
+7,sadness
+8,joy
+9,neutral
+10,joy
+11,neutral
+12,neutral
+13,neutral
+14,neutral
+15,sadness
+16,surprise
+1,anger
+2,disgust
+3,neutral
+4,surprise
+5,neutral
+6,neutral
+7,neutral
+8,disgust
+9,anger
+10,sadness
+1,neutral
+2,neutral
+3,joy
+4,sadness
+5,neutral
+6,sadness
+7,anger
+1,joy
+2,neutral
+3,joy
+4,joy
+5,joy
+6,joy
+7,joy
+8,neutral
+9,joy
+10,surprise
+1,- Joey - **neutral**
+2,- Ross - **sadness**
+3,- Chandler - **anger**
+4,- Ross - **fear**
+5,- Chandler - **anger**
+6,- Chandler - **neutral**
+7,- Joey - **joy**
+8,- Chandler - **surprise**
+9,- Joey - **neutral**
+1,neutral
+2,joy
+3,neutral
+4,neutral
+5,surprise
+6,neutral
+7,surprise
+8,neutral
+9,sadness
+10,neutral
+11,neutral
+12,neutral
+13,sadness
+14,neutral
+15,sadness
+16,surprise
+17,sadness
+18,anger
+19,neutral
+1,- Joey - Hey! (Greeting) - joy
+2,Hey! (Greeting) - joy
+3,You guys got anything to eat? I just went down to Johnos for some chicken and it was closed! (Question) - anger
+4,So we shut it down! (Answer) - disgust
+5,"Pheebs, if this guy keeps closing down all of our favorite places, where are we gonna eat?! (Question) - anger"
+6,"I don't know, clean places? (Answer) - neutral"
+7,"Mm, yum! (Backchannel) - joy"
+8,(Statement Non Opinion) - neutral
+9,(Command) - anger
+10,We'll be right there! Can't you just say it starts later? (Question) - neutral
+11,What? What kind of a regatta gala starts at night?! (Question) - surprise
+12,The fake kind! (Answer) - joy
+13,You got a ladle? (Question) - neutral
+14,(Answer) - neutral
+15,(Acknowledge) - joy
+16,"Okay, great! (Acknowledge) - joy"
+17,""" (Greeting) - joy"
+1,joy
+2,neutral
+3,anger
+4,disgust
+5,joy
+6,anger
+7,neutral
+8,neutral
+9,anger
+10,anger
+1,(Backchannel) - **neutral**
+2,(Statement Non Opinion) - **neutral**
+3,(Question) - **surprise**
+4,"If you wanna give Joey a Christmas present that disrupts the entire building, why not get him something a little bit more subtle, like a wrecking ball, or a phial of small pox to release in the hallway? (Statement Non Opinion) - **anger**"
+1,neutral
+2,joy
+3,joy
+4,surprise
+5,neutral
+1,- **joy**
+2,- **fear**
+3,- **anger**
+4,- **fear**
+5,- **joy**
+6,- **neutral**
+7,- **neutral**
+8,- **anger**
+9,- **anger**
+10,- **sadness**
+11,- **joy**
+12,- **joy**
+13,- **neutral**
+14,- **surprise**
+15,- **surprise**
+16,- **fear**
+1,neutral
+2,anger
+3,joy
+4,neutral
+5,sadness
+6,neutral
+7,surprise
+8,anger
+9,joy
+10,joy
+11,surprise
+12,neutral
+13,joy
+14,neutral
+15,joy
+16,anger
+17,anger
+18,anger
+1,(Backchannel) - **neutral**
+2,- Rachel - Hey! What happened to you? Why didn't you come up? (Question) - **surprise**
+3,- Ross - Done! (Answer) - **joy**
+4,- Rachel - You just finished? (Question) - **surprise**
+5,(Answer) - **neutral**
+6,"- Ross - I mean this-this is clearly very, very important to you, to us! (Statement Non Opinion) - **neutral**"
+7,"- Ross - And so I wanted to read every word carefully, twice! (Statement Non Opinion) - **neutral**"
+8,"- Rachel - So umm, does it? (Question) - **neutral**"
+9,(Apology) - **sadness**
+10,- Rachel - Does it? (Question) - **neutral**
+11,(Answer) - **neutral**
+12,"- Rachel - What are you talking about, Ross, you just said that you read it twice! (Question) - **anger**"
+13,"- Rachel - Look, y'know what, either it does or it doesn't, and if you have to even (Answer) - **anger**"
+14,"I don't, I don't, I don't (Answer) - **fear**"
+15,- Rachel - Are you sure? (Question) - **sadness**
+16,(Answer) - **neutral**
+1,surprise
+2,neutral
+3,surprise
+4,neutral
+5,neutral
+6,neutral
+7,sadness
+8,apology
+9,fear
+10,neutral
+11,sadness
+12,neutral
+13,neutral
+14,neutral
+15,neutral
+16,neutral
+17,neutral
+18,neutral
+19,surprise
+20,fear
+21,fear
+1,neutral
+2,joy
+3,neutral
+4,surprise
+5,neutral
+6,neutral
+7,sadness
+8,neutral
+9,neutral
+1,neutral
+2,joy
+3,neutral
+4,anger
+5,neutral
+6,neutral
+1,sadness
+2,surprise
+3,anger
+4,neutral
+5,sadness
+6,anger
+7,sadness
+8,neutral
+9,anger
+10,sadness
+11,anger
+12,neutral
+13,anger
+14,neutral
+15,anger
+1,joy
+2,neutral
+3,anger
+4,neutral
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,joy
+6,neutral
+7,neutral
+8,surprise
+9,neutral
+10,joy
+11,surprise
+12,neutral
+13,neutral
+14,neutral
+15,neutral
+16,joy
+17,neutral
+18,neutral
+19,neutral
+1,joy
+2,neutral
+3,neutral
+4,joy
+5,neutral
+6,neutral
+7,joy
+8,joy
+9,surprise
+10,joy
+11,surprise
+12,joy
+13,sadness
+14,neutral
+15,neutral
+16,neutral
+17,neutral
+1,sadness
+2,surprise
+3,joy
+4,neutral
+5,neutral
+6,sadness
+7,neutral
+8,sadness
+9,joy
+10,neutral
+11,joy
+12,neutral
+13,joy
+14,sadness
+15,sadness
+1,(Statement Opinion) - **neutral**
+2,(Apology) - **sadness**
+3,(Statement Non Opinion) - **sadness**
+4,Why don't we just put 'poor little Tooty' out in the hall? (Question) - **anger**
+5,During a blackout? He'd get trampled! (Answer) - **fear**
+6,Yeah? (Answer) - **neutral**
+1,sadness
+2,joy
+3,sadness
+4,joy
+5,neutral
+6,joy
+7,joy
+8,neutral
+9,surprise
+10,neutral
+11,neutral
+12,neutral
+13,joy
+14,neutral
+15,surprise
+1,joy
+2,neutral
+3,surprise
+4,anger
+1,- Monica - How did it go? (Question) - neutral
+2,(Question) - sadness
+1,"- Monica - All right, I'm gonna go steam my wedding dress okay? Who wants the responsibility of making sure nothing happens to it? (Question) - **neutral**"
+2,(Answer) - **joy**
+3,Who wants it? Anybody? (Question) - **neutral**
+4,I said I'll do it! (Answer) - **anger**
+5,(Disagreement) - **sadness**
+6,Monica! I'm not gonna screw it up! (Statement Non Opinion) - **anger**
+7,(Apology) - **sadness**
+8,(Statement Non Opinion) - **joy**
+9,(Agreement) - **joy**
+10,Well of course that is what I'm here for! (Statement Non Opinion) - **joy**
+11,(Apology) - **sadness**
+12,Ugh! What grandmother? (Question) - **surprise**
+1,neutral
+2,neutral
+3,joy
+4,neutral
+5,anger
+6,anger
+7,surprise
+8,sadness
+1,neutral
+2,neutral
+3,surprise
+4,anger
+5,joy
+6,neutral
+7,surprise
+8,joy
+9,joy
+10,joy
+11,neutral
+12,neutral
+13,neutral
+14,surprise
+15,neutral
+1,neutral
+2,joy
+3,neutral
+4,joy
+5,surprise
+6,surprise
+7,anger
+8,fear
+9,surprise
+10,surprise
+1,joy
+2,neutral
+1,- sadness
+2,- joy
+1,neutral
+2,anger
+3,anger
+4,anger
+5,anger
+6,anger
+1,Chandler - All right! I found one that fits! (Statement Non Opinion) - joy
+2,"Well y'know what they say, the 23 (Others) - neutral"
+3,Whose is it? (Question) - neutral
+4,(Answer) - joy
+1,anger
+2,fear
+3,anger
+4,fear
+5,anger
+6,surprise
+7,surprise
+1,joy
+2,neutral
+3,neutral
+4,surprise
+5,sadness
+6,anger
+7,anger
+8,anger
+1,- neutral
+2,- surprise
+3,- joy
+4,- neutral
+5,- joy
+6,- surprise
+7,- surprise
+8,- joy
+1,anger
+2,sadness
+3,neutral
+4,sadness
+5,neutral
+6,sadness
+7,surprise
+8,sadness
+1,joy
+2,anger
+3,anger
+4,anger
+5,neutral
+6,disgust
+7,surprise
+8,disgust
+9,anger
+10,neutral
+11,neutral
+12,neutral
+13,fear
+14,neutral
+15,neutral
+1,- Ross - Hey! (Greeting) - **neutral**
+2,- Rachel - Hey! (Greeting) - **neutral**
+3,"We register, and (Statement Non Opinion) - **neutral**"
+4,- Rachel - No! (Disagreement) - **anger**
+5,"- Rachel - Ross, come on! (Command) - **anger**"
+6,- Rachel - No! (Disagreement) - **anger**
+7,(Command) - **sadness**
+8,(Disagreement) - **sadness**
+9,- Rachel - Oh b-b-but it is! (Others) - **anger**
+10,"- Ross - Oh, okay, y'know what this is? (Question) - **neutral**"
+11,"- Rachel - Oh Ross, come on! This is not, this is not a marriage!! This is the world's worst hangover! Ross, listen, if (Statement Non Opinion) - **anger**"
+12,(Agreement) - **sadness**
+13,"Hey-hey umm, uh, is there, is there any such thing as an annulment shower? (Acknowledge) - **neutral**"
+1,joy
+2,neutral
+1,joy
+2,sadness
+3,anger
+1,joy
+2,neutral
+3,neutral
+4,surprise
+5,surprise
+6,surprise
+7,fear
+1,(Statement Non Opinion) - **neutral**
+2,(Disagreement) - **anger**
+3,- Chandler - Calm down? Calm down? You set me up with the woman that I've dumped twice in the last five months! (Command) - **anger**
+4,(Question) - **fear**
+5,"Come on, do it, do it, go, come on!!! (Apology) - **joy**"
+1,joy
+2,neutral
+3,joy
+4,joy
+5,neutral
+6,joy
+7,sadness
+8,joy
+9,neutral
+1,sadness
+2,joy
+3,surprise
+4,anger
+5,joy
+6,joy
+7,surprise
+8,joy
+9,joy
+10,joy
+11,joy
+1,surprise
+2,neutral
+3,neutral
+4,neutral
+5,disgust
+6,disgust
+7,surprise
+8,surprise
+9,anger
+10,surprise
+11,anger
+12,anger
+13,anger
+14,joy
+15,anger
+16,sadness
+1,joy
+2,sadness
+3,joy
+4,joy
+1,joy
+2,joy
+3,sadness
+4,neutral
+5,joy
+6,joy
+7,neutral
+8,joy
+9,surprise
+10,joy
+11,joy
+12,anger
+1,(Others) - **neutral**
+2,"Oh honey, I think I'm having one too! (Statement Non Opinion) - **joy**"
+3,Look at this! There we go! (Statement Non Opinion) - **joy**
+1,neutral
+2,joy
+3,anger
+4,neutral
+5,neutral
+6,sadness
+7,neutral
+8,sadness
+9,sadness
+10,anger
+11,anger
+12,anger
+13,anger
+1,neutral
+2,surprise
+3,joy
+4,neutral
+5,surprise
+6,sadness
+7,anger
+8,anger
+9,neutral
+10,anger
+11,anger
+12,disagreement (neutral)
+13,anger
+1,neutral
+2,surprise
+3,neutral
+4,surprise
+5,joy
+6,neutral
+7,joy
+1,joy
+2,neutral
+3,joy
+4,neutral
+5,joy
+6,joy
+7,joy
+8,neutral
+1,anger
+2,sadness
+3,neutral
+4,joy
+5,joy
+6,neutral
+7,anger
+8,neutral
+9,joy
+10,anger
+11,neutral
+12,anger
+13,neutral
+14,joy
+15,neutral
+16,anger
+17,joy
+18,neutral
+19,neutral
+1,anger
+2,sadness
+3,disgust
+4,anger
+5,surprise
+6,joy
+7,sadness
+8,joy
+9,surprise
+10,joy
+11,neutral
+12,anger
+13,joy
+14,joy
+15,neutral
+16,surprise
+17,neutral
+18,anger
+1,joy
+2,joy
+3,neutral
+4,joy
+5,joy
+6,neutral
+7,anger
+8,fear
+1,neutral
+2,neutral
+3,neutral
+4,sadness
+5,joy
+6,sadness
+7,anger
+1,joy
+2,joy
+3,joy
+4,surprise
+5,neutral
+6,neutral
+7,joy
+1,sadness
+2,neutral
+3,disgust
+4,surprise
+5,joy
+6,joy
+7,neutral
+8,anger
+1,joy
+2,neutral
+3,surprise
+4,neutral
+5,confusion
+6,neutral
+7,anger
+8,neutral
+9,joy
+10,surprise
+1,disgust
+2,neutral
+3,sadness
+4,sadness
+5,joy
+6,joy
+7,surprise
+8,disgust
+9,surprise
+10,surprise
+11,surprise
+12,surprise
+1,"Joey - So, you and Angela, huh? (Question) - **neutral**"
+2,(Answer) - **joy**
+1,neutral
+2,joy
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,anger
+11,neutral
+12,anger
+13,neutral
+14,neutral
+15,neutral
+16,neutral
+17,surprise
+1,- Ross - Hey! (Greeting) - **neutral**
+2,"- Rachel - Hey, so did everything go all right with the annulment? (Question) - **neutral**"
+3,(Answer) - **joy**
+4,"Hey, do you guys wanna go see a movie? (Question) - **joy**"
+5,"- Ross - Oh yeah, why not? (Answer) - **joy**"
+6,- Rachel - Pheebs? (Question) - **neutral**
+7,(Answer) - **neutral**
+8,(Statement Non Opinion) - **neutral**
+9,"You uh, you wanna hear something weird? (Question) - **neutral**"
+10,(Answer) - **joy**
+11,(Statement Non Opinion) - **sadness**
+12,- Phoebe - What?! (Question) - **surprise**
+13,(Statement Non Opinion) - **fear**
+1,- Joey - Hey! Are you okay? (Question) - **neutral**
+2,(Answer) - **joy**
+3,You know what you should do? (Statement Opinion) - **anger**
+1,fear
+2,joy
+3,neutral
+4,anger
+5,neutral
+6,neutral
+7,sadness
+8,neutral
+9,fear
+10,joy
+11,anger
+12,anger
+13,anger
+14,anger
+15,anger
+16,neutral
+17,neutral
+18,anger
+19,fear
+20,neutral
+1,- Ross - Emily! (Others) - **joy**
+2,Oh my God! What are you doing here? (Question) - **surprise**
+3,(Answer) - **sadness**
+4,(Statement Non Opinion) - **joy**
+5,(She's holding one of those huge (Statement Non Opinion) - **neutral**
+6,(Agreement) - **joy**
+7,(Statement Non Opinion) - **neutral**
+8,(Command) - **neutral**
+9,(Statement Non Opinion) - **fear**
+10,(Statement Non Opinion) - **fear**
+11,Okay? (Statement Non Opinion) - **neutral**
+12,(Statement Opinion) - **joy**
+13,(Acknowledge) - **neutral**
+14,(Agreement) - **neutral**
+1,- Chandler - Monica! (Others) - **surprise**
+2,(Statement Non Opinion) - **neutral**
+3,Which one was (Question) - **neutral**
+4,Deep Impact (Answer) - **neutral**
+5,(Apology) - **sadness**
+6,Ooh! (Backchannel) - **surprise**
+7,"Where is that book that you are reading with the two women who were ice-skating and wearing, wearing those hats with the flowers on it? (Question) - **neutral**"
+8,Because every time I look at that cover I'm like (Statement Opinion) - **joy**
+9,(Statement Opinion) - **anger**
+1,"- Monica - Hey Ross! So, I was checking out the uh, real estate section (Statement Non Opinion) - **neutral**"
+2,- Ross - Yeah? (Backchannel) - **neutral**
+3,(Command) - **neutral**
+4,(Statement Non Opinion) - **surprise**
+5,Oh my God! (Statement Non Opinion) - **surprise**
+6,- Phoebe - What? What happened to the window in the attic?! (Question) - **fear**
+7,- Monica - I can't believe mom and dad are selling the house! (Statement Non Opinion) - **sadness**
+8,- Ross - I can't believe they-they didn't even tell us! (Statement Non Opinion) - **anger**
+9,)
+1,neutral
+2,neutral
+3,neutral
+4,surprise
+5,surprise
+6,fear
+7,sadness
+8,anger
+9,anger
+1,neutral
+2,joy
+3,joy
+4,joy
+5,joy
+6,neutral
+7,surprise
+8,surprise
+9,joy
+10,joy
+11,neutral
+12,joy
+13,neutral
+14,neutral
+15,anger
+1,neutral
+2,sadness
+3,disgust
+4,sadness
+5,surprise
+6,anger
+7,joy
+8,anger
+9,surprise
+10,neutral
+11,anger
+12,neutral
+13,neutral
+14,neutral
+1,(Statement Non Opinion) - **neutral**
+2,You could? (Question) - **surprise**
+3,(Answer) - **joy**
+4,Your own boat? (Question) - **surprise**
+5,(Statement Non Opinion) - **anger**
+1,- Monica - *Count in our heads as-as good* (Statement Non Opinion) - **neutral**
+2,* (Statement Non Opinion) - **sadness**
+3,* (Statement Non Opinion) - **sadness**
+4,"- Monica - *Wait-wait, guys! If-if we follow the rules, it's still fun and it means something!* (Command) - **anger**"
+5,* (Statement Non Opinion) - **sadness**
+6,"- Monica - *Guys, rules are good! Rules help control the fun! Ohhh!* (Statement Opinion) - **anger**"
+The emotions are inferred based on tone and context (e,
+1,neutral
+2,joy
+3,neutral
+4,joy
+5,joy
+6,joy
+7,surprise
+8,surprise
+9,sadness
+10,sadness
+11,sadness
+12,neutral
+1,neutral
+2,joy
+3,joy
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,sadness
+9,joy
+10,anger
+11,neutral
+12,surprise
+1,neutral
+2,neutral
+3,neutral
+4,surprise
+5,neutral
+6,neutral
+7,neutral
+8,surprise
+9,joy
+10,neutral
+11,sadness
+12,anger/frustration
+13,neutral
+14,neutral
+15,neutral
+16,sadness
+17,sadness
+18,sadness
+19,neutral
+1,joy
+2,anger
+3,surprise
+1,joy
+2,joy
+3,joy
+4,neutral
+5,anger
+6,neutral
+7,joy
+8,joy
+1,(Agreement) - **neutral**
+2,(Statement Non Opinion) - **neutral**
+3,(Statement Non Opinion) - **neutral**
+4,(Statement Non Opinion) - **neutral**
+5,(Statement Non Opinion) - **neutral**
+"All statements are factual or agreements without strong emotional indicators, so they are classified as **neutral**",
+1,"- Ross - We're really gonna do this, huh? (Question) - surprise"
+2,(Statement Non Opinion) - neutral
+3,"Y'know, if, if this is too weird for you, we can still back out at (Statement Non Opinion) - sadness"
+4,I got it! (Statement Non Opinion) - joy
+5,(Agreement) - neutral
+6,Susan! Hi! (Greeting) - joy
+7,Hey! (Greeting) - joy
+8,(Statement Non Opinion) - joy
+9,(Statement Non Opinion) - joy
+10,(Statement Non Opinion) - neutral
+11,(Greeting) - joy
+12,(Statement Non Opinion) - joy
+13,How hot is this?! (Question) - surprise
+1,joy
+2,neutral
+3,joy
+1,sadness
+2,anger
+3,neutral
+4,neutral
+5,surprise
+1,neutral
+2,anger
+3,neutral
+4,anger
+5,neutral
+6,anger
+7,neutral
+8,joy
+9,anger
+10,sadness
+1,neutral
+2,surprise
+3,joy
+4,neutral
+5,neutral
+6,sadness
+7,anger
+8,sadness
+9,neutral
+10,neutral
+1,neutral
+2,neutral
+3,joy
+4,anger
+5,neutral
+6,joy
+7,neutral
+8,neutral
+9,sadness
+10,neutral
+11,joy
+1,"- Frank - Ow!-Ow!-Ow! Ow! Ow! Ow! Ow! Ow! Ow! Y'know, ow! (Statement Non Opinion) - **pain** (Note: Since ""pain"" isn't in the given options, the closest is **anger**)"
+2,- Phoebe - Hey!-Hey! What's going on? (Question) - **surprise**
+3,(Answer) - **anger**
+4,(Statement Non Opinion) - **disgust**
+5,"- Frank - No, she touched mine first! (Disagreement) - **anger**"
+6,- Girl - That's my job! (Statement Opinion) - **anger**
+1,anger
+2,surprise
+3,anger
+4,disgust
+5,anger
+6,anger
+1,surprise
+2,neutral
+3,suspicion
+4,nervousness
+5,surprise
+6,sarcasm
+7,curiosity
+8,neutral
+9,curiosity
+10,neutral
+11,anger
+12,neutral
+13,anger
+14,sadness
+15,anger
+16,sarcasm
+1,joy
+2,neutral
+3,anger
+4,sadness
+5,anger
+1,anger
+2,anger
+3,neutral
+4,joy
+5,anger
+6,sadness
+7,neutral
+8,anger
+9,anger
+10,joy
+1,- anger
+2,- surprise
+3,- joy
+4,- neutral
+5,- fear
+1,neutral
+2,neutral
+3,sadness
+4,neutral
+5,sadness
+6,sadness
+7,surprise
+8,joy
+9,neutral
+10,neutral
+11,joy
+12,joy
+13,neutral
+14,joy
+1,joy
+2,joy
+3,anger
+4,anger
+5,neutral
+6,anger
+7,neutral
+1,joy
+2,neutral
+3,sadness
+4,neutral
+5,surprise
+6,surprise
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,concern (closest to sadness or fear)
+12,neutral
+1,- Chandler - Why are you here? (Question) - **neutral**
+2,(Answer) - **sadness**
+3,"I mean, (Disagreement) - **anger**"
+4,(Statement Opinion) - **disgust**
+5,What!? (Question) - **surprise**
+6,This was fun! But I've got an invasive vaginal exam to get to! (Statement Non Opinion) - **neutral**
+7,(Statement Opinion) - **joy**
+8,go! Just let me know if you need a hand! (Statement Non Opinion) - **neutral**
+9,(Statement Opinion) - **disgust**
+1,sadness
+2,joy
+3,surprise
+1,neutral
+2,anger
+3,anger
+4,joy
+5,neutral
+6,joy
+7,neutral
+8,anger
+9,sadness
+10,anger
+11,anger
+12,anger
+13,anger
+14,neutral
+15,sadness
+16,anger
+17,anger
+18,anger
+1,sadness
+2,joy
+3,neutral
+4,neutral
+5,neutral
+6,anger
+7,neutral
+8,anger
+9,sadness
+10,neutral
+11,joy
+12,neutral
+13,sadness
+14,sadness
+15,fear
+16,surprise
+17,neutral
+18,neutral
+1,neutral
+2,anger
+3,surprise
+4,anger
+5,joy
+6,neutral
+7,joy
+8,joy
+9,joy
+10,neutral
+11,neutral
+12,neutral
+13,joy
+14,neutral
+15,neutral
+16,neutral
+1,(Statement Non Opinion) - **neutral**
+2,(Statement Non Opinion) - **disgust**
+3,(Statement Non Opinion) - **neutral**
+1,neutral
+2,fear
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,surprise
+11,surprise
+1,neutral
+2,joy
+3,surprise
+4,neutral
+5,joy
+6,surprise
+7,neutral
+8,neutral
+9,neutral
+10,joy
+11,surprise
+12,neutral
+13,neutral
+14,sadness
+1,joy
+2,joy
+3,surprise
+4,anger
+5,neutral
+6,anger
+7,neutral
+8,neutral
+1,neutral
+2,joy
+3,neutral
+4,neutral
+5,sadness
+6,anger
+7,surprise
+8,neutral
+9,anger
+10,neutral
+11,anger
+12,neutral
+13,neutral
+14,joy
+1,joy
+2,neutral
+3,sadness
+4,surprise
+5,neutral
+6,joy
+7,neutral
+8,neutral
+9,surprise
+10,anger
+11,anger
+1,neutral
+2,anger
+3,neutral
+4,neutral
+5,anger
+6,anger
+7,sadness
+8,surprise
+9,sadness
+10,neutral
+1,neutral
+2,joy
+1,neutral
+2,joy
+3,joy
+4,joy
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,surprise
+12,neutral
+1,joy
+2,joy
+3,neutral
+4,neutral
+5,joy
+6,joy
+7,surprise
+8,neutral
+9,joy
+1,neutral
+2,disgust
+1,anger
+2,fear
+1,(Statement Opinion) - **neutral**
+2,Are you kidding me?! (Question) - **surprise**
+3,It's just so frustrating! Why doesn't she want my breast?! (Question) - **frustration/anger**
+4,I don't know! Maybe she's crazy! (Answer) - **anger**
+"(Note: Since ""frustration"" is not in the given options, the closest for sentence 3 is **anger**",)
+1,neutral
+2,surprise
+3,anger
+4,anger
+1,joy
+2,neutral
+3,joy
+4,joy
+5,concern (sadness)
+6,anger
+7,joy
+8,joy
+9,joy
+10,sadness
+11,neutral
+1,fear
+2,joy
+3,neutral
+4,disgust
+5,neutral
+1,joy
+2,joy
+3,joy
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,sadness
+10,anger
+1,sadness
+2,joy
+3,anger
+4,neutral
+5,neutral
+6,neutral
+7,joy
+8,joy
+9,joy
+10,neutral
+11,sadness
+12,sadness
+13,sadness
+14,sadness
+15,neutral
+16,neutral
+17,joy
+18,surprise
+19,joy
+20,joy
+21,joy
+22,joy
+23,joy
+1,- Rachel - Hi! (Greeting) - **joy**
+2,- Joey - Hey! (Greeting) - **joy**
+3,"- Rachel - Joey, I gotta tell ya, I've been thinking (Statement Non Opinion) - **neutral**"
+4,and my co-star's good (Statement Opinion) - **joy**
+5,"- Rachel - God, you have to tell me what happens tomorrow! (Statement Non Opinion) - **surprise**"
+6,"- Joey - Ow, I'm just going over the script now! You wanna read lines with me? (Question) - **neutral**"
+7,(Answer) - **neutral**
+8,(Acknowledge) - **neutral**
+9,"- Rachel - Oh screw her, that part is mine! (Statement Non Opinion) - **anger**"
+10,(Statement Non Opinion) - **neutral**
+11,(Statement Non Opinion) - **surprise**
+12,(Statement Non Opinion) - **surprise**
+13,He was keeping my sister in a (Statement Non Opinion) - **sadness**
+14,(Question) - **sadness**
+15,- Rachel/actress - It's over! You (Answer) - **anger**
+16,- Joey/Drake - How can I? (Question) - **sadness**
+17,"- Joey/Drake - Knowing I'll never hold you in my arms again, or touch your skin, or feel your lips, knowing I'll never make love to you? (Answer) - **sadness**"
+18,(Statement Opinion) - **sadness**
+19,(Statement Opinion) - **sadness**
+20,(Statement Non Opinion) - **joy**
+21,- Joey - What? (Question) - **surprise**
+1,joy
+2,neutral
+3,neutral
+4,neutral
+5,sadness (with a mix of joy for the positive outcome)
+6,sadness (with sarcasm/humor)
+7,joy (playful/sarcastic)
+8,joy
+9,humor/sarcasm (neutral or joy)
+10,humor/sarcasm (neutral or joy)
+11,joy
+1,anger
+2,anger
+3,sadness
+4,anger
+5,neutral
+6,anger
+7,joy
+8,sadness
+9,joy
+10,neutral
+11,anger
+1,- Ross - What happened?!! (Question) - **surprise**
+2,"Well, I don't know!! (Answer) - **neutral**"
+3,(Statement Non Opinion) - **neutral**
+4,(Statement Non Opinion) - **neutral**
+5,(Agreement) - **neutral**
+6,(Statement Non Opinion) - **neutral**
+7,But not about this! (Statement Non Opinion) - **anger**
+8,(Agreement) - **anger**
+9,No touch! No touch! (Statement Non Opinion) - **anger**
+1,sadness
+2,surprise
+3,neutral
+4,neutral
+5,surprise
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,sadness
+11,joy
+12,joy
+13,fear
+14,neutral
+15,anger
+16,neutral
+17,neutral
+18,joy
+19,neutral
+20,joy
+21,neutral
+1,- **neutral**
+2,- **neutral**
+3,- **neutral**
+4,- **surprise**
+5,- **neutral**
+6,- **surprise**
+7,- **neutral**
+8,- **neutral**
+9,- **joy**
+10,- **neutral**
+11,- **surprise**
+12,- **sadness**
+13,- **sadness**
+14,- **sadness**
+1,anger
+2,neutral
+3,neutral
+4,fear
+5,sadness
+6,sadness
+7,surprise
+1,- fear
+2,- joy
+3,- neutral
+4,- surprise
+5,- neutral
+6,- anger
+7,- surprise
+8,- sadness
+9,- neutral
+10,- neutral
+11,- joy
+12,- neutral
+13,- neutral
+14,- joy
+15,- joy
+16,- anger
+17,- anger
+18,- anger
+1,joy
+2,surprise
+3,neutral
+4,joy
+5,neutral
+1,anger
+2,fear
+3,neutral
+4,joy
+5,joy
+6,joy
+7,anger
+1,joy
+2,neutral
+3,sadness
+4,anger
+5,sadness
+6,anger
+7,disgust
+8,anger
+9,anger
+10,sadness
+1,joy
+2,surprise
+3,neutral
+4,joy
+5,surprise
+6,fear
+7,sadness
+8,neutral
+1,surprise
+2,surprise
+3,sadness
+4,joy
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,surprise
+10,joy
+11,surprise
+12,neutral
+13,sadness
+14,neutral
+15,neutral
+16,fear
+17,neutral
+18,neutral
+1,joy
+2,anger
+1,anger
+2,neutral
+3,neutral
+4,surprise
+5,joy
+6,neutral
+7,joy
+8,joy
+1,joy
+2,joy
+3,joy
+4,joy
+5,joy
+6,joy
+7,joy
+8,neutral
+9,neutral
+10,surprise
+11,joy
+12,joy
+13,neutral
+14,neutral
+15,anger
+16,anger
+1,surprise
+2,joy
+3,joy
+4,fear
+5,fear
+6,fear
+7,joy
+8,neutral
+9,joy
+10,disgust
+11,neutral
+12,neutral
+13,sadness
+14,sadness
+15,neutral
+16,neutral
+17,joy
+18,joy
+1,fear
+2,anger
+3,neutral
+4,joy
+5,neutral
+6,joy
+7,joy
+8,neutral
+9,joy
+10,fear
+11,surprise
+1,neutral
+2,joy
+3,neutral
+4,neutral
+5,joy
+6,joy
+7,joy
+8,joy
+9,neutral
+10,neutral
+11,joy
+12,joy
+13,joy
+14,neutral
+1,joy
+2,surprise
+3,neutral
+4,anger
+5,neutral
+6,surprise
+7,sadness
+8,neutral
+9,surprise
+10,joy
+11,neutral
+1,"Now all we need is teamwork, okay? We're gonna (Statement Non Opinion) - **neutral**"
+2,"Ross, I really don't think (Disagreement) - **anger**"
+3,Lift!! And slide! (Statement Non Opinion) - **neutral**
+4,(Statement Non Opinion) - **neutral**
+5,"All right everyone, lift! And slide!! (Command) - **anger**"
+1,"Now remember, what is not gonna be? (Statement Non Opinion) - **neutral**"
+2,Another (Others) - **neutral**
+3,That's right! And what are you not gonna do? (Question) - **joy**
+4,"Well, I'm not gonna talk because (Answer) - **neutral**"
+1,sadness
+2,surprise
+3,sadness
+4,neutral
+5,anger
+1,joy
+2,surprise
+3,anger
+4,surprise
+5,neutral
+6,sadness
+7,neutral
+8,anger
+9,neutral
+10,neutral
+11,joy
+12,surprise
+13,sadness
+14,neutral
+15,joy
+1,anger
+2,neutral
+3,disgust
+4,neutral
+5,joy
+6,neutral
+7,sadness
+8,neutral
+1,joy
+2,neutral
+3,joy
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,neutral
+12,neutral
+13,neutral
+14,neutral
+15,surprise
+16,neutral
+17,neutral
+18,anger
+19,joy
+1,joy
+2,neutral
+3,neutral
+4,joy
+5,surprise
+6,joy
+7,neutral
+8,joy
+9,joy
+10,joy
+11,surprise
+12,neutral
+13,neutral
+14,neutral
+15,joy
+16,surprise
+17,neutral
+18,neutral
+19,surprise
+20,surprise
+21,fear
+22,neutral
+1,anger
+2,surprise
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,anger
+9,joy
+10,joy
+11,joy
+12,joy
+13,joy
+14,neutral
+15,neutral
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,sadness
+6,neutral
+7,sadness
+8,sadness
+9,sadness
+1,- neutral
+2,- neutral
+3,- joy
+4,- surprise
+5,- joy
+6,- anger
+7,- neutral
+8,- disgust
+9,- fear
+10,- neutral
+11,- sadness
+12,- neutral
+13,- joy
+14,- neutral
+15,- neutral
+1,joy
+2,joy
+1,fear
+2,neutral
+3,joy
+1,joy
+2,joy
+3,neutral
+4,joy
+5,anger
+1,surprise
+2,neutral
+3,neutral
+4,joy
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,joy
+11,joy
+12,fear
+13,neutral
+14,joy
+1,anger
+2,neutral
+3,anger
+4,neutral
+5,disgust
+6,surprise
+7,anger
+8,neutral
+9,sadness
+10,neutral
+11,sadness
+12,neutral
+13,sadness
+14,anger
+15,anger
+16,anger
+1,anger
+2,joy
+3,neutral
+1,joy
+2,joy
+3,anger
+4,joy
+5,joy
+6,joy
+7,neutral
+8,sadness
+1,joy
+2,joy
+3,neutral
+4,anger
+5,anger
+6,anger
+7,sadness
+8,anger
+1,joy
+2,sadness
+3,neutral
+4,joy
+5,neutral
+6,joy
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,joy
+12,anger
+13,neutral
+14,sadness
+15,joy
+16,joy
+1,anger
+2,neutral
+3,anger
+4,fear
+5,disgust
+6,disgust
+7,neutral
+1,surprise
+2,neutral
+3,neutral
+4,sadness
+5,neutral
+6,joy
+7,neutral
+8,joy
+9,joy
+10,neutral
+11,neutral
+12,neutral
+13,neutral
+14,neutral
+15,surprise
+16,neutral
+1,sadness
+2,joy
+3,disgust
+4,anger
+5,neutral
+6,neutral
+7,neutral
+8,anger
+9,neutral
+10,anger
+11,joy
+12,anger
+1,neutral
+2,neutral
+3,surprise
+4,neutral
+5,neutral
+6,neutral
+7,joy
+8,surprise
+9,neutral
+10,joy
+11,joy
+12,neutral
+13,neutral
+1,neutral
+2,joy
+3,joy
+4,surprise
+5,anger
+6,anger
+7,neutral
+8,neutral
+9,anger
+10,neutral
+11,surprise
+12,neutral
+13,anger
+14,anger
+15,anger
+16,anger
+17,disgust
+18,anger
+1,- joy
+2,- joy
+3,- neutral
+4,- neutral
+5,- neutral
+6,- neutral
+7,- neutral
+8,- neutral
+9,- neutral
+10,- joy
+11,- surprise
+12,- joy
+13,- joy
+14,- joy
+15,- neutral
+16,"- sadness or anger (depending on Phoebe's tone, but likely sadness or discomfort)"
+1,sadness
+2,anger
+3,anger
+4,neutral
+5,joy
+6,neutral
+7,anger
+8,sadness
+9,surprise
+10,anger
+11,sadness
+12,neutral
+13,surprise
+14,sadness
+15,neutral
+16,neutral
+17,sadness
+18,neutral
+19,joy
+20,neutral
+21,joy
+22,joy
+23,joy
+1,neutral
+2,joy
+3,neutral
+4,neutral
+5,sadness
+6,anger
+7,sadness
+8,neutral
+9,joy
+10,neutral
+11,joy
+1,surprise
+2,sadness
+3,neutral
+4,neutral
+5,curiosity
+6,anger
+7,surprise
+8,sadness
+9,comfort
+10,anger
+11,neutral
+12,comfort
+13,comfort
+14,neutral
+15,comfort
+1,neutral
+2,neutral
+3,joy
+4,neutral
+5,neutral
+6,sadness
+7,anger
+8,neutral
+9,neutral
+10,neutral
+11,neutral
+12,fear
+13,joy
+14,neutral
+15,neutral
+16,neutral
+17,neutral
+18,surprise
+19,neutral
+20,neutral
+21,fear
+1,joy
+2,joy
+3,neutral
+4,joy
+5,neutral
+6,joy
+7,neutral
+8,sadness
+9,joy
+10,joy
+11,joy
+12,joy
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,joy
+1,joy
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+1,neutral
+2,joy
+3,neutral
+4,surprise
+5,anger
+6,sadness
+7,sadness
+8,sadness
+9,sadness
+10,confusion
+11,joy
+12,neutral
+1,joy
+2,joy
+3,joy
+4,neutral
+5,neutral
+6,anger
+7,joy
+8,neutral
+9,joy
+10,anger
+11,anger
+12,neutral
+1,joy
+2,surprise
+3,sadness
+4,neutral
+5,surprise
+6,neutral
+7,joy
+1,fear
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,joy
+7,neutral
+8,neutral
+9,neutral
+10,joy
+11,joy
+12,neutral
+13,neutral
+14,fear
+15,neutral
+16,joy
+17,sadness
+18,neutral
+19,joy
+20,neutral
+21,joy
+1,neutral
+2,neutral
+3,sadness
+4,sadness
+5,joy
+6,sadness
+7,anger
+8,anger
+9,sadness
+1,neutral
+2,anger
+3,sadness
+4,anger
+5,neutral
+6,neutral
+7,neutral
+8,anger
+9,neutral
+10,anger
+11,surprise
+12,neutral
+13,disgust
+14,joy
+15,fear
+1,anger
+2,sadness
+3,anger
+4,anger
+5,joy
+6,fear
+1,joy
+2,neutral
+3,neutral
+4,anger
+5,joy
+6,anger
+7,neutral
+8,neutral
+1,neutral
+2,neutral
+3,sadness
+4,surprise
+5,sadness
+1,anger
+2,sadness
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,joy
+10,neutral
+11,joy
+12,disgust
+1,joy
+2,neutral
+3,neutral
+4,neutral
+5,joy
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,surprise
+12,neutral
+13,neutral
+14,anger
+1,"- Phoebe - Ursula! Wait! Err-err, it's me! Phoebe! (Statement Non Opinion) - **surprise**"
+2,(Greeting) - **neutral**
+3,"Wait a second! So, what's new with you? (Question) - **joy**"
+4,(Answer) - **joy**
+1,disgust
+2,neutral
+3,anger
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,surprise
+11,sadness
+12,surprise
+13,neutral
+14,surprise
+15,neutral
+16,neutral
+1,neutral
+2,sadness
+3,neutral
+4,neutral
+5,surprise
+6,neutral
+7,neutral
+8,neutral
+9,anger
+10,neutral
+11,neutral
+12,sadness
+13,neutral
+14,surprise
+15,disgust
+16,neutral
+17,joy
+18,neutral
+19,neutral
+1,neutral
+2,anger
+3,surprise
+4,neutral
+1,sadness
+2,sadness
+3,neutral
+4,joy
+5,joy
+6,neutral
+7,neutral
+8,surprise
+1,neutral
+2,neutral
+3,neutral
+4,joy
+5,anger
+1,(Statement Opinion) - **neutral**
+2,Hi! (Statement Non Opinion) - **anger**
+3,Who do you know the bride and groom? (Question) - **neutral**
+4,Used to! I'm a relative and I didn't get invited! (Statement Non Opinion) - **anger**
+5,(Disagreement) - **anger**
+6,"So, how about you huh? How do you know the happy couple? (Question) - **neutral**"
+7,(Statement Non Opinion) - **neutral**
+1,anger
+2,neutral
+3,anger
+4,neutral
+5,joy
+6,sadness
+7,neutral
+8,joy
+9,fear
+10,joy
+11,sadness
+1,neutral
+2,anger
+3,fear
+4,joy
+5,surprise
+6,joy
+7,neutral
+8,anger
+1,anger
+2,neutral
+3,sadness
+4,neutral
+1,joy
+2,anger
+3,neutral
+4,neutral
+5,neutral
+6,sadness
+7,neutral
+8,neutral
+9,sadness
+10,anger
+11,neutral
+12,neutral
+13,sadness
+14,joy
+15,neutral
+16,sadness
+17,anger
+18,neutral
+1,neutral
+2,joy
+3,neutral
+4,neutral
+5,neutral
+6,joy
+7,joy
+8,neutral
+1,joy
+2,anger
+3,joy
+4,joy
+5,neutral
+6,neutral
+7,neutral
+8,surprise
+9,joy
+10,neutral
+11,sadness
+1,- sadness
+2,- anger
+3,- neutral
+4,- anger
+5,- neutral
+6,- anger
+7,- neutral
+8,- joy
+9,- sadness
+10,- neutral
+1,(Others) - **neutral**
+2,(Greeting) - **joy**
+3,- Joey - Hey Pheebs! (Greeting) - **joy**
+4,- Phoebe - I (Others) - **neutral**
+5,"- Joey - $200? Are you sure Pheebs? I mean, after what (Question) - **surprise**"
+6,"- Phoebe - Oh, I'm still mad at them but I also know that they bring happiness to lots of kids who's moms didn't kill themselves, so by supporting them, I'm doing a good thing, but I'm not (Answer) - **anger** (mixed with sadness)"
+The emotions are listed in order corresponding to each numbered sentence,
+1,neutral
+2,sadness
+3,surprise
+4,anger
+5,neutral
+6,anger
+7,anger
+8,neutral
+9,neutral
+10,sadness
+11,neutral
+12,anger
+13,neutral
+14,neutral
+15,neutral
+16,neutral
+1,joy
+2,joy
+3,neutral
+4,surprise
+5,neutral
+6,surprise
+7,anger
+8,neutral
+9,anger
+10,neutral
+11,anger
+1,anger
+2,anger
+3,neutral
+1,joy
+2,surprise
+3,joy
+4,joy
+5,joy
+1,joy
+2,joy
+3,neutral
+4,neutral
+1,neutral
+2,neutral
+3,surprise
+4,surprise
+5,anger
+6,surprise
+7,sadness
+8,neutral
+9,sadness
+10,neutral
+11,neutral
+12,neutral
+13,neutral
+14,neutral
+15,joy
+16,neutral
+1,neutral
+2,joy
+3,joy
+4,surprise
+5,neutral
+6,sadness
+7,neutral
+8,surprise
+9,joy
+10,surprise
+11,anger
+12,anger
+13,neutral
+14,anger
+15,neutral
+16,surprise
+17,anger
+18,surprise
+1,- Chandler - Can you people not see me?! (Question) - **anger**
+2,"- Rachel - So, will you talk to him? (Question) - **neutral**"
+3,(Answer) - **sadness**
+4,"- Rachel - Oh, come on! I'll give you ten free (Statement Non Opinion) - **joy**"
+5,- Joey - One! No ten! You said ten! You can't take that back! (Agreement) - **anger**
+1,joy
+2,joy
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,joy
+9,joy
+10,joy
+11,neutral
+12,joy
+13,disgust
+14,surprise
+15,neutral
+16,surprise
+17,neutral
+18,neutral
+19,sadness
+20,neutral
+21,neutral
+1,(Agreement) - **neutral**
+2,Why? (Question) - **neutral**
+3,(Answer) - **sadness**
+4,What?! (Question) - **surprise**
+5,(Answer) - **neutral**
+6,(Statement Non Opinion) - **neutral**
+7,"Let me get this straight man, you attacked your ex-wife?! (Question) - **anger**"
+8,"Oh, no! (Answer) - **fear**"
+9,No-no! (Answer) - **fear**
+10,"No, I tired! (Answer) - **sadness**"
+11,(Disagreement) - **sadness**
+12,(Statement Non Opinion) - **neutral**
+13,Maybe we could attack them together? (Question) - **anger**
+14,(Command) - **anger**
+1,anger
+2,fear
+3,anger
+4,neutral
+5,disgust
+6,neutral
+7,joy
+8,neutral
+9,surprise
+10,neutral
+11,joy
+12,neutral
+13,neutral
+14,neutral
+15,joy
+16,neutral
+17,surprise
+18,anger
+19,joy
+20,joy
+1,surprise
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,surprise
+1,- Rachel - Hello? (Greeting) - **neutral**
+2,"- Russell - Hello, is Ross there? (Question) - **neutral**"
+3,Can I take a message? (Question) - **neutral**
+4,(Answer) - **neutral**
+5,- Rachel - Ross got married again--Nooooooo!!!!!!!!! (Disagreement) - **surprise**
+1,joy
+2,surprise
+3,surprise
+4,surprise
+5,joy
+6,sadness
+7,joy
+1,What uh--How come you're not going? (Question) - **neutral**
+2,(Answer) - **neutral**
+3,(Statement Opinion) - **surprise**
+4,(Statement Non Opinion) - **joy**
+5,(Statement Non Opinion) - **joy**
+6,(Statement Non Opinion) - **joy**
+7,Wow! How do you know how to do that?! (Question) - **surprise**
+8,(Answer) - **neutral**
+9,(Command) - **neutral**
+10,What is it? (Question) - **neutral**
+11,I'm getting my revenge! (Answer) - **anger**
+12,You cooked him? (Question) - **surprise**
+13,(Answer) - **neutral**
+14,(Answer) - **anger**
+15,"Oh, I cannot wait to read the front page of the Post tomorrow! (Statement Non Opinion) - **joy**"
+16,""" (Statement Non Opinion) - **joy**"
+17,"The front page? You really do live in your own little world, don't ya? (Others) - **joy**"
+1,neutral
+2,neutral
+3,sadness
+4,joy
+5,neutral
+6,anger
+7,neutral
+8,neutral
+9,neutral
+10,joy
+11,joy
+12,joy
+13,neutral
+14,joy
+15,joy
+16,joy
+17,joy
+18,joy
+1,(Statement Non Opinion) - **sadness**
+2,(Statement Non Opinion) - **joy**
+3,Joey - What the hell is that? (Question) - **anger**
+4,"Joey - Whoa! Whoa! Whoa! Treeger, what are you doing? (Question) - **surprise**"
+5,(Answer) - **neutral**
+6,Phoebe - Well why don't you use your key? (Question) - **neutral**
+7,(Answer) - **fear**
+8,(Statement Non Opinion) - **fear**
+9,Treeger - Come on! (Others) - **anger**
+10,(Others) - **anger**
+11,(Statement Opinion) - **surprise**
+1,neutral
+2,sadness
+3,fear
+4,neutral
+5,anger
+6,joy
+1,joy
+2,sadness
+3,disgust
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,surprise
+11,neutral
+1,- Joey - Seven hundred bucks! (Statement Non Opinion) - **surprise**
+2,"Alright, you did it! Do we have any fruit? (Question) - **joy**"
+3,(Statement Non Opinion) - **neutral**
+4,"Really? So, you're gonna stick with this 'it's all for her' thing? (Question) - **surprise**"
+5,"What, are you crazy? When a blind man gets his sight back, does he walk around like this? (Question) - **anger**"
+1,(Backchannel) - neutral
+2,(Statement Non Opinion) - neutral
+3,Ah-ha! Too cocky! (Others) - joy
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,joy
+6,neutral
+7,neutral
+8,joy
+9,joy
+10,neutral
+11,neutral
+12,anger
+13,anger
+14,sadness
+15,neutral
+16,surprise
+1,neutral
+2,neutral
+3,neutral
+4,surprise
+5,joy
+6,neutral
+7,neutral
+8,disgust
+9,neutral
+10,anger
+11,anger
+12,anger
+13,sadness
+14,anger
+15,sadness
+16,surprise
+17,neutral
+18,sadness
+1,neutral
+2,anger
+3,disgust
+4,neutral
+5,neutral
+6,sadness
+7,joy
+8,neutral
+9,neutral
+10,joy
+11,surprise
+12,joy
+13,joy
+14,neutral
+15,joy
+16,joy
+17,joy
+1,anger
+2,joy
+3,disgust
+1,neutral
+2,neutral
+3,neutral
+4,sadness
+5,sadness
+6,joy
+7,sadness
+8,joy
+1,neutral
+2,sadness
+3,sadness
+4,surprise
+5,joy
+6,neutral
+7,neutral
+8,neutral
+9,anger
+10,neutral
+11,neutral
+12,joy
+13,joy
+14,joy
+15,joy
+16,anger
+17,joy
+1,(Others) - joy
+2,(Statement Non Opinion) - neutral
+3,Uh Rach? (Question) - joy
+4,Yeah? (Answer) - neutral
+5,Why does my cinnamon stick have an eraser? (Question) - surprise
+6,I'm sorry! (Apology) - sadness
+1,surprise
+2,anger
+3,neutral
+4,anger
+5,neutral
+6,anger
+7,surprise
+8,joy
+9,confusion
+10,anger
+11,neutral
+12,anger
+13,fear
+14,joy
+1,fear
+2,surprise
+3,joy
+4,surprise
+5,joy
+6,surprise
+7,neutral
+8,anger
+9,neutral
+10,surprise
+11,neutral
+12,surprise
+13,neutral
+14,anger
+15,anger
+16,anger
+17,fear
+1,joy
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,anger
+8,neutral
+9,neutral
+1,- **neutral**
+2,- **neutral**
+3,- **joy**
+4,- **surprise**
+5,- **neutral**
+6,- **joy**
+7,- **joy**
+8,- **joy**
+9,- **joy**
+10,- **neutral**
+11,- **neutral**
+12,- **neutral**
+13,- **joy**
+14,- **joy**
+15,- **joy**
+1,joy
+2,joy
+3,anger
+4,neutral
+5,neutral
+6,sadness
+1,surprise
+2,anger
+3,disgust
+4,fear
+5,anger
+6,neutral
+7,sadness
+8,neutral
+1,anger
+2,neutral
+3,anger
+4,joy
+5,neutral
+6,sadness
+7,sadness
+8,neutral
+9,joy
+10,surprise
+11,joy
+12,fear
+13,neutral
+14,surprise
+15,neutral
+1,joy
+2,surprise
+3,neutral
+1,neutral
+2,joy
+3,neutral
+4,fear
+5,disgust
+6,joy
+7,neutral
+8,sadness
+9,neutral
+10,fear
+1,neutral
+2,neutral
+3,joy
+4,joy
+5,neutral
+6,sadness
+7,neutral
+8,neutral
+9,surprise
+10,neutral
+11,joy
+12,anger
+13,fear
+14,sadness
+1,neutral
+2,joy
+3,joy
+4,sadness
+5,surprise
+6,joy
+1,- **joy**
+2,- **fear**
+3,- **joy**
+4,- **neutral**
+5,- **surprise**
+6,- **sadness**
+7,- **sadness**
+8,- **anger**
+9,- **anger**
+10,- **anger**
+11,- **joy**
+12,- **sadness**
+13,- **joy**
+1,anger
+2,neutral
+1,(Statement Non Opinion) - **disgust**
+2,Tweezers? (Question) - **surprise**
+3,(Answer) - **neutral**
+4,(Statement Opinion) - **joy**
+5,"Thanks, any suggestions? (Question) - **neutral**"
+1,surprise
+2,fear
+3,anger
+4,joy
+5,disgust
+6,fear
+7,sadness
+8,neutral
+9,sadness
+10,neutral
+11,neutral
+1,- Phoebe - Hey! (Greeting) - joy
+2,(Greeting) - neutral
+3,"- Phoebe - So, did shopping make you feel any better about Ross? (Question) - neutral"
+4,(Answer) - sadness
+5,"- Phoebe - Well, (Others) - neutral"
+6,- Rachel - You can? (Others) - surprise
+7,(Command) - neutral
+8,(Backchannel) - neutral
+9,(Command) - joy
+1,neutral
+2,sadness
+3,joy
+4,sadness
+5,joy
+6,neutral
+7,surprise
+8,neutral
+9,surprise
+10,anger
+11,neutral
+12,neutral
+13,joy
+14,neutral
+1,joy
+2,joy
+3,neutral
+4,neutral
+5,neutral
+6,sadness
+7,neutral
+1,neutral
+2,joy
+3,neutral
+4,neutral
+5,fear
+6,neutral
+7,neutral
+8,neutral
+9,anger
+1,joy
+2,surprise
+3,neutral
+4,concern
+5,sadness
+6,nervousness
+7,neutral
+8,determination
+9,determination
+10,agreement (neutral)
+11,playful anger
+12,playful
+13,acceptance (neutral)
+14,neutral
+15,neutral
+16,concern
+17,nervousness
+18,surprise
+1,neutral
+2,anger
+3,surprise
+4,joy
+5,surprise
+1,- **disgust**
+2,- **neutral**
+3,- **neutral**
+4,- **sadness**
+5,- **sadness**
+6,- **joy**
+1,joy
+2,neutral
+3,neutral
+4,neutral
+5,anger
+6,neutral
+1,joy
+2,neutral
+3,joy
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,joy
+11,neutral
+12,anger
+13,neutral
+14,neutral
+15,neutral
+16,anger
+1,anger
+2,anger
+3,anger
+1,joy
+2,anger
+3,neutral
+4,neutral
+5,joy
+6,anger
+7,neutral
+8,anger
+9,joy
+10,neutral
+11,joy
+12,sadness
+13,neutral
+14,neutral
+15,neutral
+16,neutral
+17,neutral
+1,neutral
+2,joy
+3,neutral
+4,neutral
+5,neutral
+6,anger
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,surprise
+12,neutral
+13,sadness
+14,neutral
+15,anger
+16,anger
+17,surprise
+18,neutral
+19,neutral
+20,neutral
+1,neutral
+2,neutral
+3,neutral
+4,joy
+5,anger
+1,joy
+2,joy
+3,anger
+4,neutral
+5,anger
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,joy
+11,joy
+12,neutral
+13,neutral
+14,neutral
+1,neutral
+2,neutral
+3,neutral
+4,surprise
+5,joy
+6,joy
+7,anger
+8,sadness
+9,sadness
+10,neutral
+11,anger
+12,anger
+13,anger
+14,hope
+15,anger
+16,anger
+17,anger
+18,anger
+19,anger
+20,sadness
+21,anger
+22,anger
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+"All sentences are either factual statements, questions, or filler words (""Here"") without emotional cues, so they are classified as neutral",
+1,sadness
+2,sadness
+3,sadness
+4,joy
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,sadness
+10,neutral
+1,joy
+2,neutral
+3,concern
+4,surprise
+5,surprise
+6,uncertainty
+7,surprise
+8,neutral
+9,joy
+10,uncertainty
+11,frustration
+12,sadness
+13,neutral
+14,surprise
+15,neutral
+16,neutral
+17,neutral
+18,neutral
+19,neutral
+20,neutral
+21,neutral
+1,sadness
+2,surprise
+3,disgust
+4,apology (neutral)
+5,neutral
+6,neutral
+7,anger
+8,neutral
+9,neutral
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,sadness
+9,joy
+10,neutral
+11,neutral
+12,joy
+13,surprise
+14,joy
+15,joy
+1,neutral
+2,surprise
+3,joy
+4,surprise
+5,neutral
+6,surprise
+7,neutral
+8,joy
+9,neutral
+1,neutral
+2,joy
+3,neutral
+4,neutral
+5,surprise
+6,neutral
+1,- Phoebe - Would she? (Question) - neutral
+2,Would she? You ate my candy bar! (Question) - anger
+1,anger
+2,sadness
+3,sadness
+4,neutral
+5,sadness
+6,sadness
+7,anger
+8,fear
+9,anger
+10,neutral
+11,neutral
+12,anger
+13,neutral
+14,neutral
+15,neutral
+16,neutral
+1,neutral
+2,neutral
+3,joy
+4,surprise
+5,neutral
+6,fear
+7,joy
+8,fear
+9,joy
+10,anger
+11,joy
+12,anger
+13,anger
+14,anger
+15,anger
+16,joy
+17,surprise
+1,neutral
+2,surprise
+3,sadness
+4,disgust
+5,anger
+6,neutral
+7,fear
+8,joy
+9,neutral
+10,neutral
+11,neutral
+12,joy
+13,neutral
+14,neutral
+15,joy
+16,neutral
+1,joy
+2,disgust
+3,disgust
+4,joy
+5,surprise
+6,joy
+7,joy
+8,joy
+9,joy
+10,sadness
+11,neutral
+12,neutral
+13,neutral
+14,neutral
+15,neutral
+16,neutral
+1,sadness
+2,neutral
+3,neutral
+4,joy
+5,apology (neutral)
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,neutral
+12,joy
+13,neutral
+1,surprise
+2,sadness
+3,sadness
+4,anger
+5,joy
+6,anger
+7,joy
+8,neutral
+9,joy
+10,joy
+11,joy
+12,joy
+13,joy
+14,joy
+15,joy
+16,joy
+17,neutral
+18,neutral
+1,anger
+2,joy
+1,(Statement Non Opinion) - **neutral**
+2,(Agreement) - **joy**
+3,(Statement Non Opinion) - **surprise**
+4,(Statement Opinion) - **neutral**
+5,"Oh-oh-oh-oh, how I do it is, I look a woman up and down and say, ""Hey, how you doin'?"" (Question) - **joy**"
+6,"Oh, please! (Others) - **disgust**"
+7,"Hey, how you doin'? (Question) - **joy**"
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,fear
+6,"sarcasm (could be classified as neutral or anger, but sarcasm is closest to disgust or anger)"
+7,anger
+8,joy
+9,neutral
+10,neutral
+11,neutral
+12,neutral
+13,neutral
+14,neutral
+15,surprise
+16,surprise
+17,joy
+18,neutral
+19,joy
+20,neutral
+21,sadness
+22,neutral
+23,neutral
+"(Note: Some lines, like sarcastic or exclamatory ones, may be open to interpretation, but these are the closest emotion matches",)
+1,"- Joey - Hmmm, soup! (Others) - **joy**"
+2,"- Carol - Joey, Ross is gonna be here any second, would you mind watching Ben for me while I use the ladies' room? (Question) - **neutral**"
+3,(Answer) - **joy**
+4,(Greeting) - **joy**
+5,(Statement Non Opinion) - **sadness**
+6,- Ross - Joey! (Greeting) - **joy**
+1,neutral
+2,anger
+3,anger
+4,anger
+5,neutral
+6,neutral
+7,anger
+1,surprise
+2,sadness
+3,anger
+4,neutral
+5,joy
+6,neutral
+7,neutral
+8,neutral
+9,sadness
+10,neutral
+11,neutral
+12,joy
+13,anger
+14,sadness
+15,neutral
+16,surprise
+17,sadness
+1,sadness
+2,surprise
+3,neutral
+4,disgust
+5,neutral
+6,neutral
+7,neutral
+8,joy
+9,neutral
+10,sadness
+11,neutral
+12,neutral
+13,joy
+1,disgust
+2,neutral
+3,neutral
+4,anger
+5,disgust
+6,neutral
+7,joy
+8,surprise
+9,neutral
+10,anger
+11,neutral
+1,neutral
+2,joy
+3,neutral
+4,anger
+5,anger
+6,surprise
+7,joy
+8,joy
+9,sadness
+10,surprise
+11,sadness
+12,neutral
+13,neutral
+14,neutral
+15,sadness
+1,joy
+2,joy
+3,surprise
+4,joy
+5,joy
+6,neutral
+1,anger
+2,joy
+3,joy
+4,sadness
+5,neutral
+6,neutral
+7,anger
+8,neutral
+9,anger
+10,disgust
+1,neutral
+2,joy
+3,neutral
+4,neutral
+5,surprise
+6,surprise
+7,surprise
+8,fear
+9,anger
+10,sadness
+11,sadness
+12,disgust
+13,sadness
+14,sadness
+15,neutral
+16,sadness
+17,sadness
+18,anger
+1,- Monica - Not yet! Not yet! Not yet! Not yet! Not yet! Not yet! Not yet! Not yet! (Others) - **anger**
+2,(Greeting) - **neutral**
+3,"Hey, Rach! How ya doin'? (Question) - **joy**"
+4,I've got a great job at (Answer) - **joy**
+5,"So ah, Monica ready yet? (Question) - **neutral**"
+6,"So, Chip, how's umm, Amy Welch? (Answer) - **neutral**"
+7,"So, Monica about ready? (Question) - **surprise**"
+1,joy
+2,disgust
+3,neutral
+4,surprise
+5,neutral
+6,surprise
+7,neutral
+8,neutral
+1,"- Joey - Oh my, oh my God! (Others) - **surprise**"
+2,"Aw, it's unbelievable! (Statement Non Opinion) - **joy**"
+3,Wow! (Others) - **surprise**
+4,She is kicking so much! (Statement Non Opinion) - **joy**
+5,who's that kind of annoying girl soccer player? (Question) - **neutral**
+6,Mia Hamm? (Answer) - **neutral**
+7,Mia Hamm! (Agreement) - **joy**
+8,(Statement Non Opinion) - **joy**
+9,Oh-oh!! One hand on the sheet Joe! (Statement Non Opinion) - **anger**
+10,Whoa-hey-oh! Sorry! (Apology) - **fear**
+1,neutral
+2,surprise
+3,joy
+4,surprise
+5,surprise
+6,neutral
+7,anger
+8,neutral
+1,joy
+2,neutral
+3,neutral
+4,joy
+5,neutral
+6,neutral
+7,neutral
+1,neutral
+2,anger
+3,surprise
+4,anger
+1,neutral
+2,neutral
+3,joy
+4,neutral
+5,neutral
+6,neutral
+7,joy
+8,neutral
+9,joy
+10,joy
+11,surprise
+12,sadness
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,joy
+6,anger
+7,sadness
+8,neutral
+9,neutral
+10,neutral
+11,neutral
+12,sadness
+13,neutral
+14,sadness
+15,neutral
+16,neutral
+17,neutral
+18,neutral
+19,sadness
+1,- joy
+2,- neutral
+1,joy
+2,neutral
+3,neutral
+4,anger
+5,surprise
+6,surprise
+7,neutral
+1,joy
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,surprise
+10,disgust
+11,anger
+12,neutral
+13,sadness
+1,(Answer) - **fear**
+2,(Others) - **surprise**
+3,Are you jealous? (Question) - **neutral**
+4,(Answer) - **anger**
+5,I mean doesn't she have any y'know other stripper moms friends of her own? (Statement Non Opinion) - **disgust**
+6,(Statement Opinion) - **joy**
+7,(Disagreement) - **anger**
+8,(Statement Opinion) - **neutral**
+9,(Statement Non Opinion) - **sadness**
+10,(Statement Non Opinion) - **joy**
+11,(Others) - **disgust**
+12,What? (Question) - **surprise**
+13,(Others) - **neutral**
+14,(Statement Opinion) - **joy**
+15,(Agreement) - **joy**
+1,surprise
+2,anger
+3,sadness
+4,joy
+5,neutral
+6,neutral
+7,surprise
+8,sadness
+9,surprise
+10,neutral
+11,joy
+1,surprise
+2,joy
+3,neutral
+4,anger
+5,anger
+6,neutral
+7,neutral
+1,neutral
+2,neutral
+3,neutral
+4,sadness
+5,anger
+6,anger
+7,neutral
+8,anger
+9,neutral
+10,neutral
+11,fear
+12,surprise
+1,neutral
+2,sadness
+3,surprise
+4,neutral
+5,surprise
+1,(Agreement) - **neutral**
+2,"I have two queens, what do you have? (Question) - **neutral**"
+3,(Answer) - **neutral**
+4,"Ho-ho, you win! 50 dollars! (Statement Non Opinion) - **joy**"
+5,Really?! (Backchannel) - **surprise**
+6,What do you got? (Question) - **joy**
+7,(Answer) - **neutral**
+8,You're kidding right? (Question) - **surprise**
+9,Why? (Answer) - **neutral**
+10,Well that's a full cup! (Answer) - **neutral**
+11,Damn! I am good at Cups! (Statement Opinion) - **joy**
+1,surprise
+2,neutral
+3,anger
+4,sadness
+5,fear
+6,anger
+7,disgust
+8,anger
+1,joy
+2,neutral
+3,neutral
+4,neutral
+5,surprise
+6,joy
+1,fear
+2,neutral
+3,surprise
+4,sadness
+5,anger
+1,surprise
+2,sadness
+3,joy
+4,surprise
+5,joy
+6,neutral
+7,neutral
+8,joy
+9,joy
+10,neutral
+11,neutral
+12,neutral
+13,neutral
+14,neutral
+15,neutral
+16,joy
+17,joy
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,sadness
+6,sadness
+7,neutral
+8,sadness
+9,neutral
+1,surprise
+2,neutral
+3,neutral
+4,neutral
+5,fear
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,surprise
+11,fear
+12,fear
+1,neutral
+2,sadness
+3,neutral
+4,neutral
+5,joy (playful tone)
+6,sadness
+7,sadness
+8,sadness
+9,neutral
+10,neutral
+11,neutral
+12,neutral
+13,neutral
+14,neutral
+15,joy
+16,neutral
+17,neutral
+18,neutral
+19,joy
+20,anger
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,joy
+9,surprise
+10,sadness
+11,neutral
+12,joy
+13,neutral
+14,neutral
+15,neutral
+1,- joy
+2,- joy
+3,- neutral
+4,- joy
+5,- neutral
+6,- sadness
+7,- anger
+8,- neutral
+9,- anger
+10,- anger
+11,- sadness
+12,- neutral
+13,- neutral
+14,- anger
+15,- anger
+16,- sadness
+1,- joy
+2,- joy
+3,- neutral
+4,- neutral
+1,neutral
+2,neutral
+3,joy
+4,sadness
+5,neutral
+6,neutral
+7,surprise
+1,joy
+2,anger
+1,surprise
+2,sadness
+3,surprise
+4,anger
+5,anger
+6,anger
+7,sadness
+8,anger
+9,anger
+10,anger
+11,anger
+12,sadness
+13,anger
+14,sadness
+15,anger
+16,sadness
+17,anger
+18,sadness
+19,anger
+20,sadness
+21,fear
+1,joy
+2,anger
+3,surprise
+4,anger
+5,neutral
+6,sadness
+7,neutral
+8,fear
+9,joy
+10,anger
+1,surprise
+2,neutral
+3,joy
+1,joy
+2,neutral
+3,joy
+4,surprise
+5,disgust
+1,anger
+2,disgust
+3,neutral
+4,joy
+1,- Rachel - What? (Question) - **surprise**
+2,(Answer) - **neutral**
+3,(Statement Non Opinion) - **neutral**
+4,(Question) - **surprise**
+5,(Answer) - **anger**
+6,(Statement Non Opinion) - **joy**
+7,(Statement Non Opinion) - **joy**
+8,(Statement Opinion) - **joy**
+9,(Question) - **joy**
+10,(Answer) - **joy**
+11,- Rachel - Yeah! (Others) - **joy**
+12,- Joey - How much do you think I can get for my kidney? (Question) - **joy** (humorous/sarcastic tone)
+1,neutral
+2,joy
+3,joy
+4,surprise
+5,joy
+6,anger
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,joy (humorous tone)
+6,neutral
+7,joy
+8,surprise (unexpected statement)
+1,neutral
+2,joy
+3,neutral
+1,neutral
+2,joy
+3,neutral
+4,joy
+5,neutral
+6,neutral
+7,disgust
+8,neutral
+9,neutral
+10,neutral
+11,joy
+12,anger
+13,neutral
+14,anger
+15,anger
+16,sadness
+17,sadness
+18,neutral
+19,joy
+20,anger
+21,anger
+22,disgust
+1,fear
+2,disgust
+3,sadness
+4,neutral
+5,neutral
+6,disgust
+1,neutral
+2,sadness
+3,neutral
+4,neutral
+5,neutral
+6,sadness
+7,joy (comforting)
+8,sadness (or regret)
+9,sadness
+10,neutral
+11,anger (or frustration)
+12,anger (or frustration)
+13,sadness
+14,disgust (or frustration)
+15,neutral
+16,neutral
+1,neutral
+2,joy
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,surprise
+10,neutral
+1,sadness
+2,sadness
+3,joy
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,anger
+9,surprise
+10,surprise
+11,surprise
+12,surprise
+13,surprise
+14,joy
+15,neutral
+16,neutral
+17,joy
+18,joy
+19,neutral
+1,joy
+2,surprise
+3,joy
+4,anger
+5,anger
+6,joy
+7,neutral
+8,joy
+9,joy
+10,anger
+11,sadness
+12,anger
+1,joy
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,neutral
+12,neutral
+13,neutral
+1,neutral
+2,neutral
+3,neutral
+4,disgust
+5,neutral
+6,anger
+7,anger
+8,sadness
+9,neutral
+10,anger
+11,anger
+12,joy
+1,(Statement Non Opinion) - **neutral**
+2,"- Monica - Well, they're just gonna have to wait aren't they? I've only got two hands!! (Statement Non Opinion) - **anger**"
+3,- Ross - Need some help? (Question) - **neutral**
+4,- Monica - No! You don't know the system! There'll be nobody messing with the system! (Answer) - **anger**
+1,(Others) - neutral
+2,Pretty? (Question) - surprise
+3,(Answer) - neutral
+4,You have a son! (Statement Non Opinion) - surprise
+5,(Acknowledge) - neutral
+1,"- Gerston - Uh, like, could these margaritas (Question) - **neutral**"
+2,(Greeting) - **joy**
+3,(Statement Non Opinion) - **joy**
+4,"Listen, about the weekly numbers, I'm gonna need them on my desk (Statement Non Opinion) - **neutral**"
+5,(Agreement) - **neutral**
+6,(Statement Opinion) - **neutral**
+7,(Statement Opinion) - **neutral**
+8,"Okay, now that was Gerston, Santos, and who's the guy with the moustache? (Question) - **neutral**"
+9,(Answer) - **neutral**
+10,"Okay, some people gonna be working (Agreement) - **neutral**"
+"(Note: Many of these lines are neutral in tone, with only a few showing slight positivity (joy in greetings/praise)",)
+1,neutral
+2,neutral
+3,sadness
+4,joy
+5,joy
+6,surprise
+7,neutral
+8,joy
+9,surprise
+10,disgust
+11,joy
+12,sadness
+13,anger
+14,neutral
+15,sadness
+16,neutral
+17,anger
+18,neutral
+19,neutral
+20,sadness
+21,sadness
+22,neutral
+1,sadness
+2,neutral
+3,sadness
+4,anger
+5,frustration
+6,neutral
+7,neutral
+8,surprise
+9,neutral
+10,neutral
+11,joy
+12,joy
+13,neutral
+14,joy
+1,neutral
+2,sadness
+3,neutral
+4,sadness
+5,anger
+6,neutral
+7,anger
+8,neutral
+9,joy
+10,neutral
+11,joy
+12,surprise
+13,surprise
+14,anger
+15,anger
+16,anger
+17,surprise
+1,neutral
+2,sadness
+3,neutral
+4,neutral
+5,neutral
+6,anger
+7,sadness
+8,anger
+9,neutral
+10,anger
+11,anger
+12,neutral
+13,neutral
+14,neutral
+15,neutral
+16,joy
+17,neutral
+1,neutral
+2,joy
+3,surprise
+4,neutral
+5,neutral
+6,surprise
+7,neutral
+1,neutral
+2,neutral
+3,sadness
+4,anger
+5,neutral
+6,anger
+7,neutral
+1,neutral
+2,joy
+3,neutral
+4,surprise
+5,neutral
+6,neutral
+7,surprise
+8,neutral
+9,surprise
+10,joy
+11,anger
+12,sadness
+13,neutral
+14,neutral
+15,neutral
+16,joy
+1,joy
+2,joy
+3,neutral
+4,surprise
+5,sadness
+6,neutral
+7,anger
+8,surprise
+1,joy
+2,joy
+3,neutral
+4,neutral
+5,joy
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,neutral
+12,neutral
+13,neutral
+14,neutral
+15,neutral
+16,anger
+1,disgust
+2,neutral
+3,anger
+4,anger
+5,surprise
+6,joy
+7,joy
+8,anger
+9,anger
+10,neutral
+11,fear
+12,fear
+13,anger
+14,joy
+15,anger
+16,neutral
+17,neutral
+18,neutral
+1,joy
+2,joy
+3,joy
+4,neutral
+5,surprise
+6,surprise
+7,surprise
+8,neutral
+9,anger
+10,neutral
+11,sadness
+12,neutral
+13,sadness
+14,anger
+15,surprise
+16,anger
+1,neutral
+2,sadness
+3,sadness
+4,sadness
+5,anger
+6,anger
+7,anger
+1,neutral
+2,neutral
+3,neutral
+4,sadness
+5,neutral
+6,joy
+1,surprise
+2,joy
+3,joy
+4,joy
+5,joy
+6,surprise
+7,joy
+8,neutral
+9,neutral
+10,neutral
+11,neutral
+12,neutral
+13,joy
+14,neutral
+15,joy
+1,neutral
+2,neutral
+3,surprise
+4,sadness
+5,fear
+6,neutral
+1,neutral
+2,neutral
+3,joy
+4,neutral
+1,neutral
+2,neutral
+3,joy
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,joy
+11,neutral
+12,joy
+1,(Acknowledge) - **neutral**
+2,But you found the keys to his clothes? (Question) - **surprise**
+3,(Answer) - **joy**
+4,And people will think you own a Porsche because you're wearing the clothes? (Statement Opinion) - **disgust**
+1,neutral
+2,joy
+3,surprise
+1,anger
+2,neutral
+3,sadness
+4,neutral
+5,neutral
+6,joy
+7,joy
+1,joy
+2,neutral
+3,surprise
+4,neutral
+5,disbelief
+6,neutral
+7,surprise
+8,neutral
+9,frustration
+10,neutral
+11,uncertainty
+12,uncertainty
+13,hopeful
+14,hopeful
+15,neutral
+16,neutral
+17,neutral
+18,neutral
+19,neutral
+20,neutral
+21,neutral
+1,neutral
+2,neutral
+3,neutral
+1,neutral
+2,joy
+3,neutral
+4,sadness
+5,surprise
+6,disgust
+7,disagreement (neutral)
+8,disgust
+9,anger
+10,neutral
+11,agreement (neutral)
+12,neutral
+13,anger
+14,neutral
+15,neutral
+16,surprise
+17,joy
+18,joy
