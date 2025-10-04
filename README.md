@@ -20,12 +20,12 @@ We conducted three main experiments for emotion recognition and three for intent
 2. In the classification with conversational context level, we send the conversation privided toghether with the names ofeach participant. In the specific case of IEMOCAP, each turn of the conversation was provided with a fictition name to the LLM to understand the flow of the conversation.
 3. In the classification with conversational context and the additional cues, the cues were attached to the end of each sentence between parentesis:
 
-The files in this repository are organizared in 6 different carpets:
-* The first 2 carpets of the present repositore have the sentences as we sended to the LLM. 
-* The next 2 carpets have the results of IEMOCAP, the first one holding the files of the classification of DeepSeek-r1 and the second the classification of DeepSeek-v3.
-* The final 2 carpets have the results of MELD, the first one holding the files of the classification of DeepSeek-r1 and the second the classification of DeepSeek-v3.
+The files in this repository are organizared in 3 main carpets:
+* The first one have the code. 
+* The second the raw data.
+* Thne third the processed data.
 
-In order to mach every answer with the sentence whose belong is necesary to  have both files. For example,the firstt conversation on MELD dataset have 14 sentences (|1. - Chandler - also I was the point person on my company's transition from the KL-5 to GR-6 system. (neutral) /.../ 14.- The Interviewer - . Absolutely. You can relax (neutral)|)
+To process the data we received from DeepSeek we mach every answer with the sentence whose belong is necesary to  have both files. For example,the firstt conversation on MELD dataset have 14 sentences (|1. - Chandler - also I was the point person on my company's transition from the KL-5 to GR-6 system. (neutral) /.../ 14.- The Interviewer - . Absolutely. You can relax (neutral)|)
 and these need to be maches with the first 14 answer of the file:
 
 1,Statement Non Opinion
@@ -53,6 +53,13 @@ Then the next conversation of 7 sentences (|1. - Joey - But then who? The waitre
 6: Acknowledge
 7: Agreement
 
-We did the same for all the file.
+We did the same for all the files, and then we put the processed data in files with different names as follows:
+    A25-DAs-v3-baseline.csv
+The first characters, up to the first hyphen, refer to the number of the table in the paper where this data was represented.
+The next characters, up to the second hyphen, represent the type of classification made by the LLM.
+The next two characters represent if the model used for the classification were DS-r1 or DS-v3.
+Finally, from the last hyphen to the end, the condition of the experiment. 
+
+
 
 
