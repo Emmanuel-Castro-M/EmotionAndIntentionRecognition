@@ -1,0 +1,9456 @@
+Text,DS_emotion
+1,**neutral**
+2,**neutral**
+3,**neutral**
+4,**neutral**
+5,**surprised** (Initial confusion/concern about unexpected scrutiny)
+6,**frustrated** (Accusatory tone implying Fey's mistake)
+7,**neutral**
+8,**frustrated** (Defensive explanation)
+9,**neutral**
+10,**frustrated** (Impatient offer to fix perceived issue)
+11,**neutral**
+12,**frustrated** (Explaining rules rigidly/impersonal barrier)
+13,**frustrated** (Exasperated explanation of purpose)
+14,**neutral**
+15,**frustrated** (Rhetorical questions highlighting absurdity)
+16,"**frustrated** (Dismissive, unhelpful adherence to rules)"
+17,**frustrated** (Reiterating purpose with exasperation)
+18,**neutral**
+19,**frustrated** (Exasperated request for specifics)
+20,"**frustrated** (Sarcastic/rhetorical tone: ""didn't you go to school?"")"
+21,""" shows rising anger)"
+22,"**frustrated** (Desperate explanation, pleading tone)"
+23,**neutral**
+24,"**anger** (Strong judgment: ""out of control"")"
+25,**frustrated** (Condescending complaint about customers)
+26,**frustrated** (Sarcastic challenge to competence)
+27,**frustrated** (Cynical/resentful response)
+28,""", demand for supervisor signals confrontation)"
+29,"**frustrated** (Passive-aggressive agreement, repetition shows irritation)"
+30,**neutral** (Polite acknowledgment despite tension)
+1,neutral
+2,frustrated
+3,neutral
+4,frustrated
+5,neutral
+6,sad
+7,frustrated
+8,neutral
+9,frustrated
+10,neutral
+11,frustrated
+12,neutral
+13,frustrated
+14,frustrated
+15,neutral
+16,sad
+17,neutral
+18,neutral
+19,frustrated
+20,neutral
+21,neutral
+22,frustrated
+23,neutral
+24,fear
+25,neutral
+26,neutral
+27,neutral
+28,neutral
+29,neutral
+30,fear
+31,neutral
+32,fear
+33,neutral
+34,neutral
+35,neutral
+36,neutral
+37,neutral
+38,frustrated
+1,neutral
+2,excited
+3,neutral
+4,happy
+5,surprised
+6,neutral
+7,neutral
+8,happy
+9,neutral
+10,happy
+11,neutral
+12,neutral
+13,happy
+14,neutral
+15,neutral
+16,happy
+17,neutral
+18,neutral
+19,excited
+20,neutral
+21,neutral
+22,neutral
+23,neutral
+24,neutral
+25,happy
+26,neutral
+27,happy
+28,happy
+29,neutral
+30,neutral
+31,happy
+32,neutral
+33,neutral
+34,neutral
+35,neutral
+36,surprised
+37,neutral
+38,surprised
+39,neutral
+40,frustrated
+41,neutral
+42,neutral
+43,frustrated
+44,neutral
+45,frustrated
+46,neutral
+47,happy
+48,happy
+49,happy
+50,neutral
+51,neutral
+52,happy
+1,neutral
+2,surprised
+3,neutral
+4,neutral
+5,neutral
+6,frustrated
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,surprised
+12,neutral
+13,neutral
+14,neutral
+15,surprised
+16,neutral
+17,neutral
+18,surprised
+19,neutral
+20,neutral
+21,neutral
+22,frustrated
+23,neutral
+24,surprised
+25,neutral
+26,neutral
+27,neutral
+28,frustrated
+29,neutral
+30,neutral
+31,frustrated
+32,neutral
+33,frustrated
+34,neutral
+35,frustrated
+36,neutral
+37,frustrated
+38,neutral
+39,frustrated
+40,neutral
+41,neutral
+42,frustrated
+43,neutral
+44,angry
+45,angry
+46,neutral
+47,neutral
+48,neutral
+49,neutral
+50,angry
+51,neutral
+52,angry
+53,neutral
+54,frustrated (sarcastic tone)
+55,neutral
+56,frustrated (sarcastic tone)
+57,neutral
+58,neutral
+59,angry
+60,neutral
+61,angry
+62,neutral
+63,angry
+64,neutral
+65,angry
+66,surprised
+67,neutral
+68,angry
+69,neutral
+70,angry
+71,surprised
+1,**neutral** (Greeting)
+2,**neutral** (Greeting)
+3,**frustrated** (Statement Non-Opinion: implies irritation with the situation)
+4,**neutral** (Question)
+5,**neutral** (Backchannel)
+6,**frustrated** (Statement Non-Opinion: direct need expressed after waiting)
+7,**neutral** (Backchannel)
+8,**frustrated** (Statement Non-Opinion: emphasizes prolonged inconvenience)
+9,**neutral** (Backchannel)
+10,**frustrated** (Statement Non-Opinion: escalating complaint about repeated issues)
+11,**neutral** (Question: professional tone despite apology)
+12,**neutral** (Answer)
+13,**neutral** (Backchannel)
+14,**neutral** (Statement Non-Opinion)
+15,**neutral** (Question)
+16,**frustrated** (Agreement: curt response to a frustrating question)
+17,**neutral** (Statement Non-Opinion)
+18,**neutral** (Backchannel)
+19,**frustrated** (Question: demanding compensation)
+20,**neutral** (Answer)
+21,**neutral** (Statement Non-Opinion)
+22,**neutral** (Apology: scripted professionalism)
+23,**anger** (Question: sarcastic disbelief)
+24,**neutral** (Apology)
+25,**anger** (Question: confrontational)
+26,**neutral** (Backchannel)
+27,**neutral** (Disagreement)
+28,"**surprised** (Question: incredulous, suspecting a prank)"
+29,**neutral** (Answer)
+30,**skeptical** (Question: distrustful clarification)
+31,**neutral** (Answer)
+32,**neutral** (Statement Non-Opinion)
+33,**anger** (Statement Opinion: explicit accusation)
+34,**neutral** (Apology)
+35,**anger** (Question: outraged rhetorical questions)
+36,**neutral** (Backchannel)
+37,**neutral** (Agreement)
+38,**frustrated** (Statement Non-Opinion: contextualizes loss severity)
+39,**neutral** (Statement Non-Opinion: defensive policy reference)
+40,**anger** (Command: aggressive demand)
+41,**frustrated** (Command: attempting to de-escalate)
+42,**neutral** (Statement Non-Opinion)
+43,**anger** (Question: threatening tone)
+44,**anger** (Statement Opinion: explicit threat)
+45,**neutral** (Statement Non-Opinion: policy restatement)
+46,**sarcastic** (Question: mocking disbelief)
+47,**neutral** (Answer)
+48,**neutral** (Statement Non-Opinion)
+49,**anger** (Statement Opinion: hostile warning)
+50,**neutral** (Statement Non-Opinion)
+51,**anger** (Question: demanding authority)
+52,**neutral** (Answer)
+53,**anger** (Statement Non-Opinion: implied threat)
+54,**neutral** (Agreement)
+55,**frustrated** (Statement Opinion: sarcastic suggestion)
+56,**frustrated** (Statement Non-Opinion: reasserting core demand)
+57,**neutral** (Statement Non-Opinion)
+58,**anger** (Question: confrontational)
+59,**neutral** (Answer)
+60,**anger** (Question: accusatory)
+61,**neutral** (Answer)
+62,**neutral** (Agreement)
+63,**frustrated** (Question: defensive self-justification)
+64,**anger** (Answer: blaming tone)
+65,**neutral** (Statement Non-Opinion)
+66,**frustrated** (Statement Non-Opinion: dismissive counter)
+67,**neutral** (Statement Opinion: calm suggestion)
+1,sad
+2,neutral
+3,neutral
+4,frustrated
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,sad
+11,sad
+12,neutral
+13,sad
+14,sad
+15,sad
+16,surprised
+17,sad
+18,sad
+19,neutral
+20,sad
+21,neutral
+22,sad
+23,neutral
+24,neutral
+25,neutral
+26,neutral
+27,happy
+28,surprised
+29,surprised
+30,neutral
+31,neutral
+32,neutral
+33,neutral
+34,neutral
+35,sad
+36,sad
+37,sad
+38,neutral
+39,neutral
+40,sad
+41,sad
+42,neutral
+43,sad
+44,neutral
+45,sad
+46,sad
+47,neutral
+"- **Sadness** dominates Fey's lines about loss/cemeteries (10,11,13-15,17,20,22,35-37,40,41,43,45,46), reflecting grief",
+- **Frustration** surfaces in curt denials (4),
+"- **Surprise** appears in Joey's clarifying questions (16,28,29)",
+"- **Happiness** only in the sprinklers memory (27), contrasting the somber tone",
+"- **Neutral** for acknowledgments, practical questions, and backchannels where no strong emotion is conveyed",
+"- No anger, fear, or excitement detected in the dialogue",
+1,Joey - Did you get the letter? (Question)
+2,(Answer)
+3,(Acknowledge)
+4,What are you going to do? [LAUGHTER] (Question)
+5,(Statement Non Opinion)
+6,(Statement Opinion)
+7,(Statement Non Opinion)
+8,Are you going to stay around here? Or are you going to like get a different neighborhood- you going to move to a different neighborhood? (Question)
+9,(Agreement)
+10,(Answer)
+11,(Statement Opinion)
+12,(Agreement)
+13,"So what are you doing this summer, though? You're staying around, too, yeah? (Question)"
+14,(Agreement)
+15,(Answer)
+16,(Statement Opinion)
+17,(Agreement)
+18,So what major? What are you doing? (Question)
+19,(Answer)
+20,(Backchannel)
+21,(Statement Opinion)
+22,(Statement Opinion)
+23,? Nice (Question)
+24,[LAUGHTER] (Answer)
+25,"Don't you have to like teach a class, too, when you do that? (Question)"
+26,(Answer)
+27,(Statement Non Opinion)
+28,(Statement Opinion)
+29,(Statement Non Opinion)
+30,(Statement Non Opinion)
+31,(Statement Opinion)
+32,(Statement Opinion)
+33,(Agreement)
+34,(Statement Opinion)
+35,[LAUGHTER] (Agreement)
+36,(Command)
+37,(Agreement)
+1,fear
+2,fear
+3,neutral
+4,surprised
+5,neutral
+6,neutral
+7,neutral
+8,surprised
+9,neutral
+10,neutral
+11,neutral
+12,sad
+13,frustrated
+14,surprised
+15,frustrated
+16,surprised
+17,frustrated
+18,frustrated
+19,frustrated
+20,frustrated
+21,fear
+22,frustrated
+23,frustrated
+24,frustrated
+25,frustrated
+26,frustrated
+27,neutral
+28,neutral
+29,neutral
+30,neutral
+31,neutral
+32,neutral
+33,neutral
+34,frustrated
+35,neutral
+36,neutral
+37,neutral
+38,frustrated
+39,neutral
+40,frustrated
+41,neutral
+42,frustrated
+43,neutral
+44,sad
+45,sad
+46,happy
+47,frustrated
+48,neutral
+49,neutral
+50,fear
+51,neutral
+52,frustrated
+53,frustrated
+54,neutral
+55,frustrated
+56,frustrated
+57,frustrated
+58,neutral
+59,neutral
+60,neutral
+61,frustrated
+62,neutral
+63,neutral
+64,fear
+65,fear
+66,neutral
+67,fear
+68,frustrated
+69,neutral
+70,surprised
+71,neutral
+72,surprised
+73,frustrated
+74,fear
+75,frustrated
+76,frustrated
+77,frustrated
+78,neutral
+79,fear
+80,frustrated
+81,fear
+82,frustrated
+83,neutral
+84,frustrated
+85,fear
+86,neutral
+87,sad
+88,frustrated
+89,sad
+1,"**frustrated** (Question showing irritation about ""her"" presence)"
+2,**neutral** (Neutral probing question)
+3,**frustrated** (Question expressing suspicion/confusion about timing)
+4,**neutral** (Simple answer/suggestion)
+5,**frustrated** (Opinionated statement dismissing Joey's idea)
+6,**frustrated** (Question challenging Fey's logic with irritation)
+7,**neutral** (Non-opinion factual statement)
+8,**angry** (Forceful command denying possibility)
+9,**frustrated** (Question challenging Fey's assumption)
+10,**frustrated** (Answer implying obvious negative implication)
+11,**neutral** (Dismissive backchannel)
+12,"**frustrated** (Direct, demanding question about the situation)"
+13,**angry** (Command to gain control/attention)
+14,**frustrated** (Emphatic statement of perceived fact)
+15,**neutral** (Stating an objective limitation)
+16,**frustrated** (Rhetorical questions showing agitation and accusation)
+17,**frustrated** (Question challenging Fey's claim of knowledge)
+18,"**sad** (Answer revealing deep conviction, loyalty, and personal pain)"
+19,**frustrated** (Question expressing exasperation about the argument)
+20,**angry** (Strong opinionated statement with protective/threatening tone)
+21,**frustrated** (Repeated question demanding action/solution)
+22,**frustrated** (Answer expressing a demand/accusation)
+23,"**angry** (Firm, threatening non-opinion statement)"
+24,**neutral** (Addressing name - Others)
+25,"**fear** (Opinion revealing desperation, suicidal ideation, and superstition driven by deep anxiety)"
+26,**neutral** (Breathing - Others)
+27,**neutral** (Command to reduce agitation)
+28,**sad** (Pleading statement fueled by desperation and hope)
+29,**neutral** (Repeated calming command)
+30,**frustrated** (Question demanding clarification on a pointed remark)
+31,**neutral** (Observing a physical state - Non Opinion)
+32,**sad** (Statement admitting helplessness/emotional overwhelm)
+33,**frustrated** (Questions expressing bewilderment and exasperation with Fey's state)
+1,**happy**
+2,**neutral**
+3,**neutral**
+4,**happy**
+5,**fear**
+6,**sad**
+7,**fear**
+8,**sad**
+9,**neutral**
+10,**frustrated**
+11,**fear**
+12,**sad**
+13,**frustrated**
+14,**neutral**
+15,**surprised**
+16,**frustrated**
+17,**fear**
+18,**happy**
+19,**neutral**
+20,**excited**
+21,**happy**
+22,**frustrated**
+23,**happy**
+24,**frustrated**
+25,**sad**
+26,**frustrated**
+27,**excited**
+28,**fear**
+29,**sad**
+30,**fear**
+31,**happy**
+32,**surprised**
+33,**happy**
+34,**frustrated**
+35,**frustrated**
+36,**excited**
+37,**excited**
+38,**excited**
+39,**neutral**
+40,**frustrated**
+41,**excited**
+42,**frustrated**
+43,**neutral**
+44,**frustrated**
+45,**fear**
+46,**fear**
+47,**fear**
+48,**sad**
+49,**frustrated**
+50,**sad**
+51,**frustrated**
+52,**sad**
+53,**frustrated**
+54,**sad**
+55,**neutral**
+56,**sad**
+57,**fear**
+58,**sad**
+59,**sad**
+60,**sad**
+61,**sad**
+62,**sad**
+63,**neutral**
+64,**neutral**
+65,**neutral**
+66,**frustrated**
+67,**neutral**
+68,**frustrated**
+69,**sad**
+70,**fear**
+71,**neutral**
+72,**frustrated**
+73,**excited**
+74,**excited**
+75,**happy**
+1,excited
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,surprised
+9,neutral
+10,frustrated
+11,neutral
+12,neutral
+13,frustrated
+14,neutral
+15,neutral
+16,neutral
+17,frustrated
+18,frustrated
+19,frustrated
+20,neutral
+21,excited
+22,neutral
+23,neutral
+24,neutral
+25,neutral
+26,excited
+27,happy
+28,neutral
+29,neutral
+30,neutral
+31,frustrated
+32,frustrated
+33,frustrated
+34,neutral
+35,frustrated
+36,neutral
+37,frustrated
+38,frustrated
+39,frustrated
+40,neutral
+41,frustrated
+42,excited
+43,frustrated
+44,excited
+45,excited
+46,frustrated
+47,frustrated
+48,neutral
+49,excited
+50,excited
+51,neutral
+52,surprised
+53,neutral
+54,neutral
+55,neutral
+56,frustrated
+57,neutral
+58,frustrated
+59,excited
+60,neutral
+61,excited
+62,neutral
+63,neutral
+64,excited
+65,excited
+66,excited
+67,excited
+68,frustrated
+69,neutral
+70,frustrated
+71,neutral
+1,excited
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,frustrated
+7,frustrated
+8,angry
+9,neutral
+10,sad
+11,neutral
+12,sad
+13,frustrated
+14,anger
+15,frustrated
+16,sad
+17,neutral
+18,angry
+19,neutral
+20,frustrated
+21,neutral
+22,sad
+23,neutral
+24,frustrated
+25,sad
+26,sad
+27,frustrated
+28,frustrated
+29,sad
+30,sad
+31,neutral
+32,anger
+33,neutral
+34,neutral
+35,neutral
+36,sad
+37,sad
+38,sad
+39,excited
+40,sad
+41,neutral
+42,sad
+43,neutral
+44,sad
+45,neutral
+46,neutral
+47,sad
+48,neutral
+49,sad
+50,neutral
+51,sad
+52,frustrated
+53,frustrated
+54,sad
+55,frustrated
+56,frustrated
+57,sad
+58,anger
+59,sad
+60,frustrated
+61,sad
+62,sad
+63,sad
+64,sad
+65,frustrated
+66,sad
+67,neutral
+68,sad
+69,sad
+70,neutral
+71,frustrated
+72,sad
+73,sad
+74,sad
+75,neutral
+76,sad
+77,neutral
+78,neutral
+79,neutral
+80,frustrated
+81,sad
+82,neutral
+83,happy
+84,neutral
+85,neutral
+86,neutral
+87,neutral
+88,excited
+89,surprised
+90,neutral
+91,happy
+92,neutral
+93,neutral
+94,happy
+95,sad
+96,happy
+97,happy
+98,happy
+1,"**surprised** (""Good God"" indicates shock/surprise)"
+2,**fear** (Anxious question about potential intruders)
+3,"**neutral** (Simple non-opinion statement, pondering)"
+4,"**frustrated** (Expressing opinion about Freda's unlikely action, implying annoyance)"
+5,**frustrated** (Resigned acceptance of an unwanted situation)
+6,**fear** (Expressing inevitability followed by a worried question about action)
+7,**neutral** (Non-verbal sound - Others)
+8,"**fear** (Seeking reassurance, underlying anxiety)"
+9,**happy** (Affectionate reassurance)
+10,**happy** (Defiant dismissal of worry after reassurance)
+11,**frustrated** (Resigned acceptance of inevitability)
+12,**neutral** (Standard greeting)
+13,**happy** (Relief expressed through laughter after a scare)
+14,**happy** (Laughter indicates amusement/relief)
+15,"**happy** (Playful, teasing question delivered with laughter)"
+16,"**happy** (Playful, confident answer)"
+17,**happy** (Playful continuation of the confident theme)
+18,"**happy** (Playful, humorous opinion)"
+19,**happy** (Reflecting on the power of happiness)
+20,**sad** (Expressing a pessimistic opinion about happiness)
+21,**frustrated** (Command to stop a sad line of thought)
+22,"**sad** (Pessimistic, cynical opinion about love/life)"
+23,"**surprised** (Shocked, questioning reaction to cynicism)"
+24,**sad** (Affirming the cynical view)
+25,**frustrated** (Expressing existential frustration)
+26,**frustrated** (Command expressing annoyance at being laughed at)
+27,"**frustrated** (Opinion advising against seriousness, targeting ""them"")"
+28,**neutral** (Simple clarifying question)
+29,"**frustrated** (Answer identifying and criticizing ""them"")"
+30,"**frustrated** (Opinion justifying flippancy against ""them"")"
+31,**sad** (Pessimistic extension of logic to their own relationship)
+32,"**happy** (Agreeing playfully to being ""figures of fun"")"
+33,**sad** (Pessimistic question about love's duration)
+34,**neutral** (Simple non-committal question)
+35,**sad** (Concerned question about future conflict)
+36,**neutral** (Matter-of-fact answer about passion fading)
+37,**sad** (Concerned question about the future state)
+38,**neutral** (Conditional answer)
+39,**sad** (Morbid question)
+40,"**happy** (Defiant, almost manic answer about laughing at death)"
+41,**sad** (Question highlighting the morbidity)
+42,"**happy** (Defiant, flippant dismissal of death's seriousness)"
+43,**frustrated** (Opinion expressing annoyance at the nonsense)
+44,**neutral** (Cynical but matter-of-fact non-opinion statement)
+45,**excited** (Enthusiastic command to embrace superficiality and fun)
+46,**happy** (Laughter - Others)
+47,**happy** (Morbid but playful/affectionate command)
+48,**happy** (Playful correction delivered lightly)
+49,"**happy** (Extravagant, loving, permissive statement)"
+50,**happy** (Affectionate thanks mixed with playful threat)
+51,**neutral** (Simple question recalling the past)
+52,**neutral** (Simple clarifying question)
+53,**neutral** (Factual answer)
+54,**happy** (Amused recollection)
+55,**neutral** (Non-verbal - Others)
+56,**frustrated** (Expressing strong dislike - opinion)
+57,**neutral** (Recounting a past action factually)
+58,**neutral** (Simple question about duration)
+59,**neutral** (Factual answer)
+60,**neutral** (Backchannel acknowledgment)
+61,**neutral** (Recounting a past event factually)
+62,**neutral** (Recounting a past event factually)
+63,"**happy** (Playful question seeking agreement on a memory, likely amused)"
+64,"**happy** (Answer delivered with laughter, recalling absurdity)"
+65,**frustrated** (Defensive disagreement)
+66,**happy** (Recounting absurd past event with laughter)
+67,**happy** (Recalling absurd memory with laughter)
+68,**happy** (Nostalgic statement with laughter)
+69,**happy** (Self-deprecating opinion with laughter)
+70,**neutral** (Stating an opinion/belief about the past cause)
+71,**neutral** (Dismissive non-opinion statement)
+1,neutral
+2,frustrated
+3,frustrated
+4,neutral
+5,frustrated
+6,neutral
+7,frustrated
+8,frustrated
+9,angry
+10,angry
+11,frustrated
+12,frustrated
+13,surprised
+14,neutral
+15,frustrated
+16,frustrated
+17,frustrated
+18,sad
+19,neutral
+20,neutral
+21,neutral
+22,frustrated
+23,neutral
+24,frustrated
+25,frustrated
+26,frustrated
+27,frustrated
+28,angry
+29,angry
+30,neutral
+31,neutral
+32,neutral
+33,frustrated
+34,sad
+35,neutral
+36,frustrated
+37,angry
+38,angry
+39,angry
+40,frustrated
+41,frustrated
+42,angry
+43,neutral
+44,angry
+45,angry
+46,neutral
+47,neutral
+48,angry
+49,angry
+50,angry
+51,frustrated
+52,frustrated
+53,frustrated
+54,frustrated
+55,frustrated
+56,angry
+57,angry
+58,frustrated
+59,happy
+60,neutral
+61,neutral
+62,neutral
+63,neutral
+64,neutral
+65,frustrated
+66,neutral
+67,angry
+68,angry
+69,frustrated
+70,frustrated
+71,angry
+72,angry
+73,neutral
+74,frustrated
+75,angry
+76,angry
+77,angry
+78,neutral
+79,angry
+80,angry
+81,angry
+82,angry
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,surprised
+6,neutral
+7,neutral
+8,frustrated
+9,neutral
+10,frustrated
+11,neutral
+12,surprised
+13,neutral
+14,frustrated
+15,neutral
+16,neutral
+17,frustrated
+18,frustrated
+19,frustrated
+20,neutral
+21,neutral
+22,neutral
+23,frustrated
+24,frustrated
+25,frustrated
+26,frustrated
+27,frustrated
+28,neutral
+29,neutral
+30,neutral
+31,frustrated
+32,neutral
+33,neutral
+34,neutral
+35,neutral
+36,neutral
+37,neutral
+38,neutral
+39,frustrated
+40,frustrated
+41,anger
+42,frustrated
+43,anger
+44,neutral
+45,anger
+46,anger
+47,neutral
+48,anger
+49,frustrated
+50,frustrated
+51,anger
+52,anger
+53,anger
+54,frustrated
+55,frustrated
+56,anger
+57,frustrated
+58,frustrated
+59,neutral
+60,anger
+61,anger
+62,anger
+63,anger
+64,anger
+65,anger
+1,neutral
+2,neutral
+3,frustrated
+4,sad
+5,neutral
+6,sad
+7,surprised
+8,surprised
+9,frustrated
+10,frustrated
+11,frustrated
+12,sad
+13,sad
+14,sad
+15,neutral
+16,frustrated
+17,sad
+18,sad
+19,neutral
+20,sad
+21,fear
+22,sad
+23,sad
+24,sad
+25,sad
+26,neutral
+27,neutral
+28,neutral
+29,neutral
+30,fear
+31,neutral
+32,neutral
+33,neutral
+34,sad
+35,neutral
+36,neutral
+37,sad
+38,sad
+39,sad
+40,surprised
+41,sad
+42,fear
+43,neutral
+44,fear
+45,fear
+46,sad
+47,sad
+48,sad
+1,surprised
+2,neutral
+3,neutral
+4,surprised
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,excited
+12,excited
+13,neutral
+14,excited
+15,surprised
+16,excited
+17,neutral
+18,fear
+19,surprised
+20,neutral
+21,neutral
+22,neutral
+23,happy
+24,excited
+25,neutral
+26,excited
+27,happy
+28,excited
+29,excited
+30,happy
+31,excited
+32,excited
+33,neutral
+34,fear
+35,neutral
+36,neutral
+37,neutral
+38,neutral
+39,excited
+40,excited
+41,happy
+42,neutral
+43,excited
+44,excited
+45,excited
+46,excited
+47,excited
+48,excited
+49,excited
+50,happy
+51,neutral
+52,excited
+53,happy
+1,neutral
+2,anger
+3,neutral
+4,frustrated
+5,frustrated
+6,neutral
+7,frustrated
+8,neutral
+9,frustrated
+10,neutral
+11,fear
+12,neutral
+13,frustrated
+14,neutral
+15,surprised
+16,frustrated
+17,neutral
+18,frustrated
+19,neutral
+20,neutral
+21,frustrated
+22,neutral
+23,excited
+24,neutral
+25,neutral
+26,surprised
+27,neutral
+28,frustrated
+29,neutral
+30,frustrated
+31,neutral
+32,frustrated
+33,neutral
+34,surprised
+35,neutral
+36,frustrated
+37,neutral
+38,neutral
+39,anger
+40,frustrated
+41,neutral
+42,neutral
+43,frustrated
+44,neutral
+45,neutral
+46,neutral
+47,frustrated
+48,neutral
+49,neutral
+50,frustrated
+51,neutral
+52,sad
+1,neutral
+2,frustrated
+3,neutral
+4,frustrated
+5,neutral
+6,frustrated
+7,neutral
+8,frustrated
+9,frustrated
+10,neutral
+11,neutral
+12,anger
+13,anger
+14,frustrated
+15,frustrated
+16,neutral
+17,neutral
+18,frustrated
+19,neutral
+20,neutral
+21,neutral
+22,neutral
+23,neutral
+24,neutral
+25,neutral
+26,neutral
+27,frustrated
+28,frustrated
+29,neutral
+30,neutral
+31,frustrated
+32,neutral
+33,neutral
+34,frustrated
+35,neutral
+36,frustrated
+37,neutral
+38,neutral
+39,surprised
+40,neutral
+41,fear
+42,neutral
+43,frustrated
+44,neutral
+45,fear
+46,neutral
+47,neutral
+48,anger
+49,frustrated
+50,neutral
+51,frustrated
+52,neutral
+53,frustrated
+54,neutral
+55,frustrated
+56,neutral
+57,frustrated
+58,neutral
+59,neutral
+60,neutral
+61,anger
+62,neutral
+63,anger
+64,anger
+65,frustrated
+66,frustrated
+67,frustrated
+68,frustrated
+69,frustrated
+70,anger
+1,neutral
+2,neutral
+3,sad
+4,neutral
+5,surprised
+6,neutral
+7,frustrated
+8,neutral
+9,sad
+10,sad
+11,neutral
+12,sad
+13,neutral
+14,surprised
+15,frustrated
+16,neutral
+17,neutral
+18,neutral
+19,neutral
+20,frustrated
+21,neutral
+22,surprised
+23,neutral
+24,sad
+25,surprised
+26,surprised
+27,neutral
+28,sad
+29,neutral
+30,fear
+31,neutral
+32,sad
+33,neutral
+34,neutral
+35,neutral
+36,neutral
+37,sad
+38,sad
+39,neutral
+40,sad
+41,surprised
+42,neutral
+43,neutral
+44,sad
+45,neutral
+46,neutral
+47,neutral
+48,sad
+49,neutral
+50,neutral
+51,neutral
+52,sad
+53,neutral
+54,neutral
+55,neutral
+56,"sad (bittersweet, not happy)"
+57,frustrated
+58,neutral
+59,surprised
+60,neutral
+1,excited
+2,neutral
+3,excited
+4,surprised
+5,excited
+6,neutral
+7,neutral
+8,neutral
+9,happy
+10,surprised
+11,happy
+12,happy
+13,excited
+14,neutral
+15,neutral
+16,neutral
+17,happy
+18,neutral
+19,frustrated
+20,neutral
+21,neutral
+22,neutral
+23,neutral
+24,neutral
+25,neutral
+26,neutral
+27,happy
+28,neutral
+29,frustrated
+30,neutral
+31,neutral
+32,neutral
+33,neutral
+34,neutral
+35,neutral
+36,surprised
+37,happy
+38,surprised
+39,neutral
+40,excited
+41,neutral
+42,neutral
+43,surprised
+44,excited
+45,neutral
+46,frustrated
+47,neutral
+48,frustrated
+49,neutral
+50,frustrated
+51,frustrated
+52,neutral
+53,happy
+54,frustrated
+55,neutral
+56,neutral
+57,neutral
+58,neutral
+59,neutral
+60,surprised
+61,neutral
+62,neutral
+63,neutral
+64,neutral
+65,neutral
+66,neutral
+67,happy
+68,happy
+69,neutral
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,surprised
+6,neutral
+7,neutral
+8,sad
+9,neutral
+10,neutral
+11,sad
+12,sad
+13,sad
+14,neutral
+15,neutral
+16,sad
+17,sad
+18,sad
+19,frustrated
+20,surprised
+21,frustrated
+22,neutral
+23,frustrated
+24,frustrated
+25,frustrated
+26,frustrated
+27,frustrated
+28,frustrated
+29,frustrated
+30,frustrated
+31,neutral
+32,frustrated
+33,neutral
+34,neutral
+35,neutral
+36,neutral
+37,excited
+38,neutral
+39,frustrated
+40,frustrated
+41,neutral
+42,neutral
+43,anger
+44,neutral
+45,sad
+46,frustrated
+47,sad
+48,frustrated
+49,neutral
+50,frustrated
+51,neutral
+52,neutral
+53,neutral
+54,neutral
+55,frustrated
+56,frustrated
+57,frustrated
+58,frustrated
+59,frustrated
+60,neutral
+61,sad
+62,fear
+63,neutral
+64,neutral
+65,neutral
+66,neutral
+67,surprised
+68,neutral
+69,surprised
+70,neutral
+71,frustrated
+72,frustrated
+73,frustrated
+74,excited
+75,neutral
+76,surprised
+77,neutral
+78,frustrated
+79,frustrated
+80,frustrated
+81,neutral
+82,frustrated
+83,frustrated
+84,frustrated
+85,frustrated
+86,frustrated
+87,neutral
+1,frustrated
+2,neutral
+3,frustrated
+4,frustrated
+5,frustrated
+6,anger
+7,frustrated
+8,frustrated
+9,frustrated
+10,anger
+11,neutral
+12,frustrated
+13,frustrated
+14,anger
+15,frustrated
+16,sad
+17,neutral
+18,anger
+19,frustrated
+20,anger
+21,neutral
+22,fear
+23,neutral
+24,fear
+25,neutral
+26,fear
+27,neutral
+28,neutral
+29,fear
+30,frustrated
+31,neutral
+32,sad
+33,frustrated
+1,neutral
+2,frustrated
+3,neutral
+4,happy
+5,neutral
+6,sad
+7,neutral
+8,sad
+9,neutral
+10,neutral
+11,neutral
+12,sad
+13,neutral
+14,neutral
+15,surprised
+16,neutral
+17,neutral
+18,neutral
+19,neutral
+20,happy
+21,happy
+22,sad
+23,neutral
+24,frustrated
+25,happy
+26,neutral
+27,neutral
+28,neutral
+29,neutral
+30,neutral
+31,happy
+32,neutral
+33,frustrated
+34,excited
+35,happy
+36,happy
+37,happy
+38,neutral
+39,neutral
+40,neutral
+41,neutral
+42,neutral
+43,frustrated
+44,neutral
+45,frustrated
+46,neutral
+47,neutral
+48,frustrated
+49,neutral
+50,neutral
+51,sad
+52,neutral
+53,sad
+54,surprised
+55,sad
+56,neutral
+57,neutral
+58,sad
+59,neutral
+60,sad
+61,neutral
+62,neutral
+63,neutral
+64,sad
+65,sad
+66,sad
+67,sad
+68,neutral
+69,neutral
+70,happy
+71,neutral
+72,happy
+73,neutral
+74,happy
+75,happy
+1,excited
+2,excited
+3,neutral
+4,surprised
+5,neutral
+6,frustrated
+7,frustrated
+8,excited
+9,frustrated
+10,neutral
+11,neutral
+12,frustrated
+13,neutral
+14,neutral
+15,neutral
+16,frustrated
+17,neutral
+18,frustrated
+19,excited
+20,neutral
+21,neutral
+22,neutral
+23,neutral
+24,neutral
+25,neutral
+26,excited
+27,neutral
+28,neutral
+29,neutral
+30,neutral
+31,neutral
+32,neutral
+33,frustrated
+34,surprised
+35,frustrated
+36,frustrated
+37,frustrated
+38,frustrated
+39,frustrated
+40,frustrated
+41,frustrated
+42,neutral
+43,frustrated
+44,frustrated
+45,frustrated
+46,excited
+47,frustrated
+48,neutral
+49,frustrated
+50,frustrated
+51,frustrated
+52,excited
+53,excited
+54,neutral
+55,surprised
+56,neutral
+57,neutral
+58,sad
+59,excited
+60,frustrated
+61,frustrated
+62,neutral
+63,excited
+64,frustrated
+65,excited
+66,excited
+67,excited
+68,excited
+69,excited
+70,excited
+71,excited
+72,frustrated
+1,neutral
+2,neutral
+3,excited
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,frustrated
+9,frustrated
+10,frustrated
+11,frustrated
+12,frustrated
+13,frustrated
+14,sad
+15,sad
+16,sad
+17,frustrated
+18,sad
+19,frustrated
+20,anger
+21,neutral
+22,sad
+23,neutral
+24,frustrated
+25,neutral
+26,neutral
+27,frustrated
+28,neutral
+29,sad
+30,excited
+31,frustrated
+32,sad
+33,neutral
+34,frustrated
+35,neutral
+36,neutral
+37,sad
+38,neutral
+39,neutral
+40,neutral
+41,neutral
+42,sad
+43,sad
+44,sad
+45,sad
+46,neutral
+47,sad
+48,neutral
+49,neutral
+50,sad
+51,neutral
+52,neutral
+53,sad
+54,neutral
+55,sad
+56,neutral
+57,sad
+58,frustrated
+59,surprised
+60,surprised
+61,sad
+62,neutral
+63,sad
+64,frustrated
+65,sad
+66,frustrated
+67,frustrated
+68,frustrated
+69,sad
+70,frustrated
+71,sad
+72,frustrated
+73,sad
+74,neutral
+75,sad
+76,sad
+77,sad
+78,neutral
+79,sad
+80,sad
+81,sad
+82,frustrated
+83,sad
+84,happy
+85,surprised
+86,frustrated
+87,sad
+88,neutral
+89,happy
+90,neutral
+91,happy
+92,happy
+93,excited
+94,excited
+95,neutral
+96,happy
+97,neutral
+98,happy
+99,sad
+100,neutral
+101,excited
+102,neutral
+103,neutral
+1,surprised
+2,fear
+3,neutral
+4,neutral
+5,fear
+6,fear
+7,fear
+8,happy
+9,neutral
+10,neutral
+11,surprised
+12,neutral
+13,fear
+14,happy
+15,neutral
+16,neutral
+17,neutral
+18,fear
+19,happy
+20,happy
+21,happy
+22,neutral
+23,happy
+24,neutral
+25,neutral
+26,neutral
+27,sad
+28,frustrated
+29,sad
+30,surprised
+31,neutral
+32,sad
+33,frustrated
+34,neutral
+35,neutral
+36,frustrated
+37,frustrated
+38,neutral
+39,neutral
+40,sad
+41,sad
+42,neutral
+43,sad
+44,sad
+45,sad
+46,neutral
+47,neutral
+48,sad
+49,sad
+50,neutral
+51,sad
+52,frustrated
+53,sad
+54,neutral
+55,happy
+56,neutral
+57,happy
+58,neutral
+59,happy
+60,happy
+61,happy
+62,happy
+63,happy
+64,happy
+65,neutral
+66,happy
+67,happy
+68,frustrated
+69,happy
+70,neutral
+71,neutral
+72,neutral
+73,neutral
+74,neutral
+75,happy
+76,happy
+77,happy
+78,happy
+79,neutral
+80,happy
+81,happy
+82,neutral
+83,happy
+84,neutral
+85,neutral
+1,happy
+2,frustrated
+3,neutral
+4,frustrated
+5,neutral
+6,neutral
+7,frustrated
+8,neutral
+9,neutral
+10,neutral
+11,frustrated
+12,neutral
+13,frustrated
+14,neutral
+15,frustrated
+16,frustrated
+17,neutral
+18,frustrated
+19,frustrated
+20,frustrated
+21,frustrated
+22,frustrated
+23,neutral
+24,neutral
+25,frustrated
+26,neutral
+27,frustrated
+28,frustrated
+29,frustrated
+30,frustrated
+31,angry
+32,frustrated
+33,angry
+34,neutral
+35,neutral
+36,frustrated
+37,sad
+38,neutral
+39,neutral
+40,angry
+41,angry
+42,angry
+43,angry
+44,angry
+45,angry
+46,angry
+47,angry
+48,angry
+49,angry
+50,neutral
+51,neutral
+52,angry
+53,angry
+54,angry
+55,angry
+56,angry
+57,angry
+58,angry
+59,angry
+60,angry
+61,angry
+62,angry
+63,neutral
+64,frustrated
+65,frustrated
+66,neutral
+67,frustrated
+68,neutral
+69,neutral
+70,angry
+71,angry
+72,angry
+73,angry
+74,angry
+75,angry
+76,angry
+77,angry
+78,angry
+79,angry
+80,angry
+81,angry
+82,angry
+83,angry
+84,angry
+85,angry
+86,angry
+1,(Greeting) → **neutral**
+2,(Statement Non Opinion) → **neutral**
+3,(Statement Non Opinion) → **surprised**
+4,(Statement Non Opinion) → **neutral**
+5,"Well, I have my driver's license, does that work? (Question) → **neutral**"
+6,(Question) → **neutral**
+7,(Answer) → **frustrated**
+8,(Statement Non Opinion) → **frustrated**
+9,(Statement Opinion) → **frustrated**
+10,(Apology) → **neutral**
+11,(Apology) → **neutral**
+12,(Statement Non Opinion) → **frustrated**
+13,(Statement Non Opinion) → **frustrated**
+14,(Agreement) → **neutral**
+15,"I know, it gets long, but I can't do anything without your--do you have Social Security card, maybe? (Question) → **neutral**"
+16,(Answer) → **frustrated**
+17,(Statement Non Opinion) → **frustrated**
+18,(Statement Opinion) → **neutral**
+19,"Maybe, we can- (Statement Non Opinion) → **neutral**"
+20,(Question) → **frustrated**
+21,(Answer) → **neutral**
+22,And I can give you my social-- (Statement Non Opinion) → **frustrated**
+23,(Statement Opinion) → **neutral**
+24,(Statement Non Opinion) → **frustrated**
+25,"No, it's-- (Disagreement) → **neutral**"
+26,(Statement Non Opinion) → **frustrated**
+27,(Question) → **neutral**
+28,(Answer) → **frustrated**
+29,(Statement Opinion) → **neutral**
+30,(Statement Opinion) → **frustrated**
+31,(Apology) → **neutral**
+32,I- (Apology) → **sad**
+33,The line-- (Backchannel) → **neutral**
+34,(Statement Opinion) → **frustrated**
+35,(Statement Non Opinion) → **neutral**
+36,put that you needed your birth certificate on the application then? (Question) → **frustrated**
+37,", you usually need pretty professional identification-- (Answer) → **neutral**"
+38,"You know, Official documentation-- (Statement Non Opinion) → **neutral**"
+39,(Statement Opinion) → **frustrated**
+40,", it's something-- You should've- You should've figured-- (Disagreement) → **neutral**"
+41,(Statement Non Opinion) → **frustrated**
+42,(Question) → **neutral**
+43,(Answer) → **frustrated**
+44,(Statement Non Opinion) → **neutral**
+45,(Statement Opinion) → **neutral**
+46,Do you have a supervisor? (Question) → **frustrated**
+47,So-- (Answer) → **neutral**
+48,(Greeting) → **sad** (sarcastic/resigned)
+1,**sad** (Resigned statement about departure)
+2,"**frustrated** (Panicked, disbelieving question)"
+3,**sad** (Resigned answer expressing helplessness)
+4,**fear** (Anxious question about coping alone)
+5,**sad** (Encouraging answer masking own sadness)
+6,**sad** (Expressing deep personal inadequacy/loss)
+7,"**frustrated** (Short, blunt disagreement)"
+8,**frustrated** (Desperate opinion about separation's impact)
+9,**sad** (Hoping but acknowledging difficulty)
+10,**sad** (Tentative suggestion masking sadness)
+11,**sad** (Hopeless opinion about the future)
+12,"**fear** (Desperate, fragmented question seeking solution)"
+13,"**frustrated** (Firm, resigned answer)"
+14,**fear** (Opinion driven by protective concern/danger)
+15,**sad** (Opinion highlighting Fey's absence during growth)
+16,**sad** (Opinion emphasizing profound loss/missed moments)
+17,**sad** (Command masking grief with practicality)
+18,**frustrated** (Overwhelmed disagreement/helplessness)
+19,**frustrated** (Opinion expressing urgent need/helplessness)
+20,**sad** (Opinion trying to reassure but acknowledging pain)
+21,**frustrated** (Opinion with resentful undertones)
+22,**sad** (Opinion expressing longing and loss)
+23,**fear** (Opinion driven by protective fear)
+24,**fear** (Statement highlighting danger/worry)
+25,**sad** (Resigned opinion expressing helplessness)
+26,**sad** (Reluctant agreement/acceptance)
+Based on the dialogical context and emotional cues (e,", repetition, laughter, explicit statements, tone indicators), here are the emotions for each line:"
+1,"**excited** (repetitive ""guess what"" with ""Oh my God"" shows high anticipation)"
+2,**neutral** (simple prompt for information)
+3,"**excited** (playful, insistent repetition urging action)"
+4,**neutral** (backchannel filler)
+5,**happy** (playful teasing command)
+6,**neutral** (mild disagreement without distress)
+7,"**surprised** (""no way"" indicates astonishment)"
+8,**excited** (joyful announcement with laughter)
+9,"**happy** (positive opinion: ""great,"" ""radiant"")"
+10,**excited** (explicit statement of emotion)
+11,**happy** (enthusiastic request for details)
+12,**happy** (nostalgic recall)
+13,**neutral** (factual storytelling)
+14,**neutral** (factual storytelling)
+15,**excited** (laughter punctuates amazement)
+16,**surprised** (astonished reaction to revelation)
+17,"**excited** (""flipped out"" conveys thrilled shock)"
+18,"**happy** (positive admiration: ""most romantic"")"
+19,**excited** (amazed disbelief)
+20,**neutral** (logical agreement/pondering)
+21,**surprised** (playful suspicion)
+22,**neutral** (denial with explanation)
+23,**surprised** (skeptical follow-up)
+24,**happy** (explicit shared joy)
+25,**happy** (positive overwhelmed feeling)
+26,**happy** (affirmation)
+27,**happy** (emphatic agreement)
+28,"**excited** (""shaking"" shows physical reaction to joy)"
+29,**neutral** (practical planning)
+30,**neutral** (practical planning)
+31,**neutral** (curious question)
+32,"**happy** (""excited"" attributed to parents)"
+33,**happy** (positive agreement)
+34,**happy** (optimistic planning)
+35,**neutral** (practical question)
+36,**neutral** (uncertain answer)
+37,**neutral** (backchannel agreement)
+38,**happy** (positive opinion)
+39,"**excited** (laughter + ""crazy"" conveys overwhelmed joy)"
+40,**neutral** (factual question)
+41,**happy** (laughter indicates lightheartedness)
+42,"**happy** (explicit ""happy"" with laughter)"
+43,**happy** (grateful thanks)
+44,**sad** (wistful longing for similar happiness)
+45,**happy** (reassuring optimism)
+46,"**happy** (strong approval: ""awesome,"" ""good couple"")"
+47,**excited** (eager seeking validation)
+48,**happy** (emphatic approval with laughter)
+49,**happy** (playful teasing with affection)
+50,**happy** (positive agreement)
+51,**excited** (enthusiastic request)
+52,**happy** (warm agreement)
+53,"**excited** (""Oh, yes"" shows eagerness)"
+54,"**happy** (positive anticipation despite ""weird"")"
+55,**neutral** (descriptive statement)
+56,**happy** (positive affirmation)
+57,**happy** (grateful thanks with laughter)
+1,neutral
+2,frustrated
+3,neutral
+4,frustrated
+5,frustrated
+6,neutral
+7,sad
+8,neutral
+9,sad
+10,neutral
+11,frustrated
+12,neutral
+13,sad
+14,neutral
+15,neutral
+16,neutral
+17,neutral
+18,frustrated
+19,neutral
+20,sad
+21,neutral
+22,neutral
+23,frustrated
+24,neutral
+25,frustrated
+26,neutral
+27,fear
+28,neutral
+29,sad
+30,neutral
+31,frustrated
+32,neutral
+33,neutral
+34,sad
+35,neutral
+36,sad
+37,neutral
+38,sad
+39,neutral
+1,Neutral
+2,Neutral
+3,Frustrated
+4,Neutral
+5,Angry
+6,Neutral
+7,Surprised
+8,Neutral
+9,Neutral
+10,Neutral
+11,Neutral
+12,Frustrated
+13,Neutral
+14,Angry
+15,Neutral
+16,Angry
+17,Neutral
+18,Frustrated
+19,Angry
+20,Neutral
+21,Angry
+22,Neutral
+23,Angry
+24,Neutral
+25,Angry
+26,Neutral
+27,Frustrated
+28,Neutral
+29,Frustrated
+30,Neutral
+31,Frustrated
+32,Neutral
+33,Angry
+34,Neutral
+35,Angry
+36,Neutral
+37,Neutral
+38,Angry
+39,Neutral
+40,Frustrated
+41,Neutral
+42,Frustrated
+43,Neutral
+44,Neutral
+45,Neutral
+1,neutral
+2,sad
+3,surprised
+4,sad
+5,sad
+6,neutral
+7,sad
+8,sad
+9,neutral
+10,sad
+11,sad
+12,neutral
+13,neutral
+14,neutral
+15,neutral
+16,neutral
+17,sad
+18,sad
+19,sad
+20,sad
+21,neutral
+22,sad
+23,neutral
+24,happy
+25,sad
+26,sad
+27,neutral
+28,fear
+29,frustrated
+30,sad
+31,sad
+32,sad
+33,neutral
+34,sad
+35,neutral
+1,neutral
+2,happy
+3,surprised
+4,excited
+5,neutral
+6,happy
+7,neutral
+8,surprised
+9,happy
+10,neutral
+11,excited
+12,happy
+13,happy
+14,neutral
+15,neutral
+16,happy
+17,neutral
+18,excited
+19,happy
+20,happy
+21,happy
+22,surprised
+23,neutral
+24,neutral
+25,happy
+26,neutral
+27,happy
+28,happy
+29,happy
+30,neutral
+31,neutral
+32,neutral
+33,happy
+34,happy
+35,excited
+36,happy
+37,neutral
+38,happy
+39,happy
+40,neutral
+41,neutral
+42,happy
+43,neutral
+44,neutral
+45,happy
+46,neutral
+47,neutral
+48,happy
+49,neutral
+50,excited
+51,neutral
+52,neutral
+53,neutral
+54,happy
+55,neutral
+56,happy
+57,neutral
+58,happy
+59,excited
+60,neutral
+61,neutral
+62,neutral
+63,excited
+64,happy
+65,happy
+66,neutral
+67,happy
+68,happy
+69,excited
+70,happy
+71,neutral
+72,neutral
+1,frustrated
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,happy
+7,neutral
+8,happy
+9,surprised
+10,neutral
+11,happy
+12,neutral
+13,happy
+14,neutral
+15,fear
+16,neutral
+17,happy
+18,happy
+19,neutral
+20,neutral
+21,neutral
+22,neutral
+23,neutral
+24,happy
+25,neutral
+26,happy
+27,neutral
+28,happy
+29,neutral
+30,neutral
+31,happy
+32,happy
+33,neutral
+34,happy
+35,happy
+36,neutral
+37,happy
+38,happy
+39,happy
+40,happy
+41,neutral
+42,happy
+43,neutral
+44,neutral
+1,fear
+2,neutral
+3,surprised
+4,neutral
+5,neutral
+6,neutral
+7,fear
+8,neutral
+9,neutral
+10,neutral
+11,fear
+12,fear
+13,fear
+14,frustrated
+15,sad
+16,surprised
+17,sad
+18,frustrated
+19,frustrated
+20,frustrated
+21,frustrated
+22,fear
+23,frustrated
+24,fear
+25,frustrated
+26,fear
+27,frustrated
+28,frustrated
+29,neutral
+30,neutral
+31,frustrated
+32,neutral
+33,happy
+34,neutral
+35,frustrated
+36,neutral
+37,neutral
+38,neutral
+39,fear
+40,frustrated
+41,neutral
+42,anger
+43,frustrated
+44,anger
+45,frustrated
+46,sad
+47,sad
+48,neutral
+49,anger
+50,neutral
+51,neutral
+52,fear
+53,neutral
+54,frustrated
+55,frustrated
+56,neutral
+57,frustrated
+58,frustrated
+59,frustrated
+60,neutral
+61,frustrated
+62,fear
+63,fear
+64,neutral
+65,frustrated
+66,frustrated
+67,anger
+68,surprised
+69,neutral
+70,surprised
+71,anger
+72,fear
+73,frustrated
+74,frustrated
+75,neutral
+76,neutral
+77,fear
+78,neutral
+79,frustrated
+80,frustrated
+81,sad
+82,neutral
+83,fear
+84,frustrated
+85,sad
+86,frustrated
+87,neutral
+1,**frustrated** (Question implying skepticism)
+2,**neutral** (Calm Answer)
+3,**frustrated** (Disbelieving Statement)
+4,**neutral** (Logical Question)
+5,**frustrated** (Defensive Command)
+6,**neutral** (Interrupted Backchannel)
+7,**neutral** (Inquisitive Question)
+8,**frustrated** (Assertive Command)
+9,**neutral** (Matter-of-fact Answer)
+10,**frustrated** (Dismissive Question)
+11,**frustrated** (Confrontational Question)
+12,**neutral** (Directing Command)
+13,**sad** (Resigned Opinion)
+14,**frustrated** (Contradicting Opinion)
+15,**frustrated** (Agitated Rhetorical Opinion)
+16,**neutral** (Challenging Question)
+17,**sad** (Emotional Answer/Opinion)
+18,**frustrated** (Exasperated Question)
+19,**angry** (Protective Opinion)
+20,**frustrated** (Helpless Question)
+21,**angry** (Demanding Answer)
+22,**neutral** (Hesitant Backchannel)
+23,**fear** (Desperate Opinion with ultimatum)
+24,**surprised** (Shocked Non-Opinion)
+25,**neutral** (Soothing Command)
+26,**sad** (Pleading Non-Opinion)
+27,**neutral** (Repeated Soothing Command)
+28,**sad** (Hopeful Non-Opinion)
+29,**frustrated** (Repetitive Command showing strain)
+30,**angry** (Accusatory Command)
+31,**surprised** (Confused/Defensive Question)
+32,**sad** (Pleading Answer)
+33,**surprised** (Insistent Question)
+34,**neutral** (Observational Statement)
+35,**sad** (Vulnerable Opinion)
+36,**angry** (Aggressive Question)
+1,**neutral** (Calm acceptance)
+2,**happy** (Positive appreciation)
+3,**neutral** (Simple inquiry)
+4,**neutral** (Factual explanation)
+5,**neutral** (Acknowledgment)
+6,"**frustrated** (Hesitant, struggling to explain)"
+7,**neutral** (Simple inquiry)
+8,**sad** (Admitting discomfort/embarrassment)
+9,**frustrated** (Explaining a plan gone wrong)
+10,**neutral** (Simple agreement)
+11,**neutral** (Hesitation filler)
+12,**neutral** (Rhetorical question seeking understanding)
+13,**happy/excited** (Revealing purpose/affection)
+14,**happy** (Affirming feelings)
+15,**excited/happy** (Passionate declaration)
+16,**frustrated/sad** (Self-deprecating admission)
+17,**frustrated** (Explaining failed intention)
+18,**frustrated** (Expressing concern about the setting)
+19,**happy** (Affirming readiness/love)
+20,**neutral** (Seeking confirmation)
+21,**neutral** (Factual statement)
+22,**neutral** (Simple inquiry)
+23,**neutral** (Explaining a reason)
+24,**surprised** (Expressing surprise at the timing)
+25,**happy** (Affirming constant feelings)
+26,**frustrated** (Questioning lack of communication)
+27,**frustrated** (Expressing annoyance at ambiguity)
+28,**excited** (Urgent request born of affection)
+29,**excited/happy** (Elated realization/declaration)
+30,"**frustrated/angry** (Blaming for the long wait, mixed with love)"
+31,**excited/happy** (Joyful promise for the future)
+32,**frustrated** (Mild rejection/correction)
+33,**neutral** (Simple statement of fact)
+34,**frustrated/confused** (Questioning the manner/feeling)
+35,**neutral** (Stating a desire/plan)
+36,**frustrated/concerned** (Urgent question about a problem)
+37,**neutral** (Denial)
+38,**frustrated/concerned** (Insistent questioning about a problem)
+39,**neutral** (Acknowledging a past state is changing)
+40,**frustrated** (Insistent command to share)
+41,**frustrated/sad** (Difficulty expressing painful thoughts)
+42,**neutral** (Stating a perceived fact/problem)
+43,**neutral** (Rhetorical question leading to a story)
+44,**neutral** (Simple affirmation)
+45,**sad** (Delivering tragic news)
+46,**sad/fear** (Dreading the answer)
+47,**sad** (Confirming tragedy)
+48,**sad** (Expression of sympathy/shock)
+49,**sad** (Explaining the weight of loss)
+50,"**sad** (Recalling a poignant, painful memory)"
+51,**sad/frustrated** (Lamenting the sacrifice and its futility at home)
+52,**neutral** (Explaining an ideal/realization)
+53,**frustrated** (Struggling to articulate a profound idea)
+54,**frustrated/sad** (Expressing disillusionment and shame)
+55,**frustrated/sad** (Deep shame and feeling of betrayal)
+56,**frustrated** (Insisting on meaning/redemption)
+57,"**sad/frustrated** (Explaining rejection of ""blood money"" and love)"
+58,**concerned** (Questioning his current state)
+59,**happy** (Affirming desire despite past feelings)
+60,**frustrated** (Passionately insisting he's wrong)
+61,**frustrated** (Defending his worth/rights)
+62,**happy** (Agreeing and making a loving promise)
+63,**neutral** (Playful or genuine inquiry)
+1,**neutral** (Question about time)
+2,**excited** (Positive opinion about the night)
+3,**fear** (Expresses fear of missing the event)
+4,**neutral** (General question)
+5,**neutral** (Simple answer)
+6,**frustrated** (Uncertainty/confusion about observation)
+7,**frustrated** (Rhetorical question showing doubt/confusion)
+8,**frustrated** (Self-criticism about forgetting)
+9,**neutral** (Clarifying question)
+10,**neutral** (Clarifying answer)
+11,**neutral** (Factual correction)
+12,**neutral** (Clarifying question)
+13,**neutral** (Factual answer)
+14,**neutral** (Simple agreement)
+15,**anger** (Accusation of exclusion/possessiveness)
+16,**frustrated** (Sarcastic/forced agreement)
+17,**fear** (Worry about forgetting flashlight/hoping moon stays)
+18,**neutral** (Informational question)
+19,**neutral** (Simple answer)
+20,**frustrated** (Self-criticism about forgetting blanket)
+21,**excited** (Positive statement about the situation)
+22,**frustrated** (Self-criticism about forgetfulness)
+23,**neutral** (Curious question)
+24,**sad** (Expression of discomfort)
+25,**neutral** (Offer/Question)
+26,**sad** (Expression of desire to leave/discomfort)
+27,"**surprised** (""Are you kidding?"" shows disbelief)"
+28,"**sad** (Agrees with negative point, resignation)"
+29,**neutral** (Backchannel)
+30,**neutral** (Statement of position)
+31,**neutral** (Agreement)
+32,**neutral** (Command/Request)
+33,**frustrated** (Contradiction and plea)
+34,"**neutral** (Simple answer, disinterest)"
+35,**neutral** (Question seeking reason)
+36,**sad** (Expression of disinterest/negativity)
+37,**neutral** (Factual statement)
+38,**neutral** (Reasoned statement)
+39,"**sad** (Dismissive, negative description)"
+40,**neutral** (Factual/Explanatory statement)
+41,**excited** (Positive/Enthusiastic opinion)
+42,**anger** (Challenging Joey's excitement dismissively)
+43,**neutral** (Simple disagreement/correction)
+44,**neutral** (Backchannel/Acknowledgment)
+45,**neutral** (Explanatory statement)
+46,**excited** (Enthusiastic opinion about magic/interest)
+47,**neutral** (Statement of disinterest)
+48,**neutral** (Question seeking confirmation)
+49,**neutral** (Simple answer)
+50,**neutral** (Statement of fact/recollection)
+51,**neutral** (Statement of fact/recollection)
+52,**sad** (Recalling negative past experience)
+53,**neutral** (Statement of opinion/reason)
+54,**neutral** (Statement of fact)
+55,**neutral** (Reiteration of opinion/reason)
+56,**frustrated** (Uncertainty/confusion about observation)
+57,**excited** (Enthusiastic command to think positively)
+58,**neutral** (Descriptive statement)
+59,**neutral** (Descriptive statement)
+60,**excited** (Enthusiastic description)
+61,**excited** (Enthusiastic description/opinion)
+62,**excited** (Enthusiastic description)
+63,**excited** (Expression of physical reaction to enthusiasm)
+64,**neutral** (Factual correction)
+65,**neutral** (Question seeking opinion)
+66,**neutral** (Clarifying question)
+67,**neutral** (Clarifying answer)
+68,**anger** (Dismissive negative opinion)
+1,**neutral** (Question - casual inquiry)
+2,**neutral** (Question - seeking clarification)
+3,**neutral** (Answer - factual response)
+4,"**frustrated** (Statement Opinion - dismissive, negative)"
+5,"**frustrated** (Disagreement - defensive, argumentative)"
+6,"**frustrated** (Statement Opinion - cynical, dismissive)"
+7,**frustrated** (Disagreement - argumentative)
+8,"**sad** (Statement Opinion - resigned, disillusioned)"
+9,**frustrated** (Question - confusion/irritation)
+10,**frustrated** (Answer - dismissive)
+11,"**neutral** (Question - inquiry, albeit sensitive)"
+12,"**anger** (Answer - explicit anger, insulted)"
+13,**neutral** (Question - inquiry about problem)
+14,**sad** (Answer - expresses disappointment)
+15,**neutral** (Statement Non Opinion - factual description)
+16,**frustrated** (Statement Opinion - negative assertion)
+17,**neutral** (Question - seeking reason)
+18,"**frustrated** (Question - rhetorical, exasperated)"
+19,**neutral** (Answer - factual correction)
+20,**frustrated** (Statement Non Opinion - factual but argumentative)
+21,**neutral** (Statement Opinion - hopeful assertion)
+22,"**frustrated** (Disagreement - dismissive, negative)"
+23,"**sad** (Statement Opinion - despair, resignation)"
+24,**confused** (Statement Opinion - expressing misunderstanding)
+25,**frustrated** (Statement Non Opinion - expressing communication failure)
+26,**frustrated** (Disagreement - sarcastic agreement)
+27,**sad** (Statement Opinion - expresses repeated disappointment)
+28,"**frustrated** (Statement Opinion - dismissive, minimizing)"
+29,**frustrated** (Statement Non Opinion - correcting focus)
+30,**frustrated** (Statement Non Opinion - expressing difficulty/problem)
+31,**neutral** (Statement Non Opinion - recounting events)
+32,**neutral** (Statement Non Opinion - recounting events)
+33,**neutral** (Statement Non Opinion - recounting events)
+34,**sad** (Statement Non Opinion - nostalgic but melancholic)
+35,**sad** (Statement Non Opinion - nostalgic but melancholic)
+36,**sad** (Statement Non Opinion - nostalgic but melancholic)
+37,"**sad** (Statement Non Opinion - nostalgic, lost happiness)"
+38,**excited** (Command - sudden realization/idea)
+39,**sad** (Statement Non Opinion - nostalgic memory)
+40,**neutral** (Question - seeking confirmation)
+41,"**excited** (Question - realization, seeking confirmation)"
+42,**sad** (Answer - expresses avoidance of hope/memory)
+43,**neutral** (Question - suggestion)
+44,**sad** (Answer - rejection)
+45,**neutral** (Question - suggestion)
+46,**sad** (Answer - rejection)
+47,**neutral** (Question - suggestion)
+48,**sad** (Answer - rejection)
+49,**frustrated** (Question - exasperated suggestion)
+50,**sad** (Answer - rejection)
+51,**neutral** (Question - suggestion)
+52,**sad** (Answer - rejection)
+53,**surprised** (Question - alarmed suggestion)
+54,**sad** (Answer - rejection)
+55,**neutral** (Question - suggestion)
+56,**sad** (Answer - rejection)
+57,"**frustrated** (Question - desperate, exasperated)"
+58,**sad** (Answer - expresses core disappointment)
+59,"**frustrated** (Question - rhetorical, expressing shared disappointment)"
+60,**sad** (Statement Non Opinion - expresses negative reality)
+61,**sad** (Statement Opinion - expresses lost expectations)
+62,**frustrated** (Statement Non Opinion - presents negative reality)
+63,**frustrated** (Statement Non Opinion - dismissive of situation)
+64,**frustrated** (Disagreement - insists on significance)
+65,"**sad** (Statement Opinion - defines ""this"" negatively)"
+66,**neutral** (Agreement - simple acknowledgment)
+67,**sad** (Statement Opinion - disappointment with reality)
+68,**sad** (Agreement - shared disappointment)
+69,**frustrated** (Question - struggling to articulate feeling)
+70,**neutral** (Answer - factual response)
+71,**neutral** (Agreement - acknowledgment)
+72,**sad** (Statement Opinion - expresses disappointment/regret)
+73,**sad** (Statement Opinion - suggests mutual dissatisfaction)
+74,**frustrated** (Disagreement - defensive correction)
+75,**sad** (Agreement - expresses self-doubt/guilt)
+76,**happy** (Statement Opinion - affirmation of commitment)
+77,**neutral** (Question - seeking confirmation)
+78,"**frustrated** (Question - rhetorical, implying obviousness)"
+79,**sad** (Statement Opinion - projects insecurity/doubt)
+80,**frustrated** (Disagreement - defensive denial)
+81,**happy** (Statement Opinion - positive resolution)
+82,**happy** (Statement Opinion - positive observation)
+83,**happy** (Statement Opinion - positive appreciation)
+84,**neutral** (Statement Non Opinion - observation)
+85,**surprised** (Statement Non Opinion - unexpected discovery)
+86,**neutral** (Statement Non Opinion - factual)
+87,**neutral** (Statement Non Opinion - factual)
+88,**neutral** (Question - inquiry/suggestion)
+89,"**happy** (Answer - agreement, acceptance)"
+90,**sad** (Apology - remorseful)
+91,"**happy** (Statement Opinion - hopeful, playful)"
+92,**neutral** (Statement Opinion - realistic/accepting)
+93,**neutral** (Agreement - simple acknowledgment)
+1,surprised
+2,fear
+3,neutral
+4,neutral
+5,neutral
+6,fear
+7,happy
+8,happy
+9,happy
+10,sad
+11,neutral
+12,fear
+13,fear
+14,happy
+15,happy
+16,happy
+17,happy
+18,sad
+19,frustrated
+20,sad
+21,surprised
+22,neutral
+23,frustrated
+24,frustrated
+25,frustrated
+26,neutral
+27,frustrated
+28,frustrated
+29,neutral
+30,happy
+31,sad
+32,neutral
+33,neutral
+34,sad
+35,neutral
+36,neutral
+37,fear
+38,happy
+39,neutral
+40,frustrated
+41,frustrated
+42,frustrated
+43,happy
+44,happy
+45,neutral
+46,happy
+47,happy
+48,neutral
+49,neutral
+50,neutral
+51,happy
+52,frustrated
+53,frustrated
+54,neutral
+55,neutral
+56,neutral
+57,neutral
+58,neutral
+59,sad
+60,neutral
+61,happy
+62,happy
+63,happy
+64,neutral
+65,happy
+66,neutral
+1,**neutral**
+2,**neutral**
+3,**frustrated** (sarcastic tone)
+4,**frustrated** (defensive disagreement)
+5,**angry** (accusatory)
+6,**frustrated** (dismissive disagreement)
+7,**neutral** (probing question)
+8,**neutral**
+9,**angry** (accusatory)
+10,**angry** (defiant)
+11,**surprised** (echoing disbelief)
+12,**angry** (provocative)
+13,**frustrated**
+14,**frustrated** (blaming)
+15,**frustrated** (sarcastic)
+16,**frustrated**
+17,**neutral**
+18,**neutral**
+19,**neutral**
+20,**frustrated** (critical)
+21,**neutral**
+22,**frustrated**
+23,**frustrated** (dismissive)
+24,**frustrated** (accusatory)
+25,**frustrated** (sarcastic)
+26,**angry**
+27,**frustrated** (exasperated)
+28,**neutral**
+29,**neutral**
+30,**neutral**
+31,**sad** (sarcastic/sullen)
+32,**sad**
+33,**neutral**
+34,**neutral**
+35,**frustrated**
+36,**frustrated**
+37,**angry**
+38,**angry** (sarcastic)
+39,**angry** (retaliatory)
+40,**angry**
+41,**frustrated** (pedantic)
+42,**frustrated**
+43,**frustrated**
+44,**frustrated**
+45,**angry**
+46,**neutral**
+47,**neutral**
+48,**angry** (accusatory)
+49,**angry**
+50,**angry** (sarcastic)
+51,**angry**
+52,**frustrated**
+53,**frustrated**
+54,**frustrated**
+55,**angry** (mocking)
+56,**angry**
+57,**angry** (sarcastic)
+58,**frustrated**
+59,**neutral**
+60,**neutral**
+61,**neutral**
+62,**neutral**
+63,**neutral**
+64,**neutral**
+65,**neutral**
+66,**neutral**
+67,**frustrated**
+68,**angry**
+69,**angry**
+70,**angry**
+71,**frustrated**
+72,**angry**
+73,**angry**
+74,**frustrated**
+75,**angry**
+76,**angry** (sarcastic)
+77,**angry**
+78,**angry**
+79,**sad**
+80,**angry**
+81,**angry**
+82,**angry**
+83,**angry**
+84,**angry**
+85,**sad**
+86,**angry**
+87,**angry**
+88,**angry**
+1,"Joey: **neutral** (Simple statement, no emotional cue)"
+2,Fey: **neutral** (Standard polite greeting)
+3,"Joey: **frustrated** (Implies urgency/impatience: ""just want to get this done"")"
+4,Fey: **neutral** (Simple acknowledgment)
+5,Joey: **neutral** (Simple statement of purpose)
+6,Fey: **neutral** (Standard procedural question)
+7,"Joey: **neutral** (Direct answer, slight hesitation ""Um"")"
+8,Fey: **neutral** (Factual statement of policy)
+9,Joey: **frustrated** (Apology combined with forgetfulness and interruption)
+10,Fey: **neutral** (Filler word/backchannel)
+11,Joey: **frustrated** (Repetitive/stuttered question seeking exception)
+12,Fey: **neutral** (Reiterating policy factually)
+13,Joey: **frustrated** (Demanding clarification/confusion)
+14,Fey: **neutral** (Direct answer to question)
+15,""", mentions long wait)"
+16,"Fey: **neutral** (Apology is procedural, not emotional)"
+17,Joey: **angry** (Continuation of outraged statement about wait time)
+18,Fey: **neutral** (Firm restatement of policy)
+19,Joey: **angry** (Rhetorical questions blaming them for the situation)
+20,Fey: **neutral** (Attempting explanation)
+21,"Fey: **neutral** (Stating standard procedure, apology is routine)"
+22,"Joey: **angry** (Sarcastic ""It's standard?"", rhetorical questions, frustration)"
+23,Fey: **neutral** (Procedural apology/statement)
+24,Joey: **frustrated** (Challenging question implying he did his part)
+25,Fey: **neutral** (Answer with policy restatement)
+26,Joey: **frustrated** (Desperate suggestion/solution seeking)
+27,Fey: **neutral** (Apology + factual statement about queue)
+28,Joey: **frustrated** (Reiterating long wait as complaint)
+29,Fey: **neutral** (Explaining commonality + policy)
+30,"Joey: **angry** (Explicit opinion: ""This is ridiculous"")"
+31,Fey: **neutral** (Routine apology)
+32,Joey: **frustrated** (Complaint about inability to wait again)
+33,Fey: **neutral** (Finality statement)
+34,"Joey: **frustrated** (Logical argument, exasperated tone)"
+35,Fey: **neutral** (Reiterating policy)
+36,"Joey: **angry** (Challenging logic: ""doesn't make sense"")"
+37,Fey: **neutral** (Final apology/statement)
+38,Joey: **frustrated** (Suggestion implying their failure)
+39,Fey: **neutral** (Factual statement/implied criticism)
+40,Fey: **neutral** (Repetition for clarity)
+41,"Joey: **angry** (Dismissive, sarcastic description of DMV process)"
+42,Fey: **neutral** (Suggestion/opinion stated factually)
+43,Joey: **frustrated** (Reiteration of expectation vs reality)
+44,Fey: **neutral** (Direct restatement of required action)
+45,Fey: **neutral** (Apology + factual consequence/threat - stated professionally)
+46,"Joey: **surprised** (Exclamation reacting to threat: ""God, oh my-"")"
+47,"Joey: **angry** (Explicit opinion: ""ridiculous"" - peak frustration)"
+48,Fey: **neutral** (Final procedural apology)
+1,**sad** (expressing loneliness and hardship)
+2,**fear** (apprehension about single parenthood)
+3,"**neutral** (reassuring disagreement, factual tone)"
+4,"**neutral** (backchannel, minimal emotional cue)"
+5,"**neutral** (backchannel, minimal emotional cue)"
+6,**fear** (concern about danger)
+7,**neutral** (pragmatic non-opinion statement)
+8,**happy** (positive future outlook)
+9,**sad** (hopeful but resigned)
+10,**happy** (affectionate family reference)
+11,**sad** (repeated worried hope)
+12,"**neutral** (command fragment, no emotional load)"
+13,**sad** (anticipating difficulty)
+14,**neutral** (practical instruction)
+15,**neutral** (logistical statement)
+16,**sad** (expressing dependence and uncertainty)
+17,**sad** (emphasizing emotional weight of separation)
+18,**fear** (pleading for safety)
+19,**fear** (anxious suggestion for safety)
+20,**neutral** (factual answer)
+21,**neutral** (determined but unemotional resolve)
+22,**frustrated** (questioning senselessness of war)
+23,**frustrated** (resigned agreement to powerlessness)
+24,**neutral** (duty-focused non-opinion)
+25,**happy** (optimistic reassurance)
+26,**sad** (vulnerable request for connection)
+27,**neutral** (practical answer)
+28,**happy** (affectionate commitment)
+29,**fear** (desperate plea against abandonment)
+30,**happy** (confident reassurance)
+31,**sad** (focus on missing loved ones)
+32,**sad** (reciprocal expression of loss)
+1,excited
+2,surprised
+3,happy
+4,neutral
+5,happy
+6,excited
+7,happy
+8,surprised
+9,fear
+10,neutral
+11,happy
+12,excited
+13,neutral
+14,frustrated
+15,neutral
+16,happy
+17,neutral
+18,neutral
+19,neutral
+20,neutral
+21,neutral
+22,surprised
+23,neutral
+24,excited
+25,neutral
+26,excited
+27,happy
+28,neutral
+29,neutral
+30,neutral
+31,happy
+32,happy
+33,happy
+34,neutral
+35,happy
+36,excited
+37,happy
+38,neutral
+39,happy
+40,neutral
+41,neutral
+42,excited
+43,excited
+44,neutral
+45,neutral
+46,happy
+47,excited
+48,excited
+49,happy
+50,excited
+51,happy
+52,neutral
+53,happy
+54,neutral
+55,happy
+56,excited
+57,happy
+58,excited
+59,neutral
+1,frustrated
+2,neutral
+3,neutral
+4,frustrated
+5,neutral
+6,neutral
+7,neutral
+8,frustrated
+9,neutral
+10,frustrated
+11,frustrated
+12,neutral
+13,sad
+14,frustrated
+15,neutral
+16,sad
+17,neutral
+18,frustrated
+19,neutral
+20,sad
+21,neutral
+22,sad
+23,neutral
+24,neutral
+25,neutral
+26,sad
+27,neutral
+28,neutral
+29,neutral
+30,frustrated
+31,neutral
+32,sad
+33,neutral
+34,neutral
+35,frustrated
+36,neutral
+37,neutral
+38,neutral
+39,neutral
+1,frustrated (Joey expresses annoyance about the missing bag)
+2,neutral (Fey asks a routine follow-up question)
+3,neutral (Fey states factual information calmly)
+4,"frustrated (Joey’s repetition (""what-what"") shows urgency/irritation)"
+5,neutral (Fey provides a standard procedural answer)
+6,"frustrated (Joey questions skeptically, implying doubt)"
+7,neutral (Fey explains logistics without emotional tone)
+8,neutral (Fey states information objectively)
+9,"surprised (Joey’s ""What? What?"" signals shock/disbelief)"
+10,neutral (Fey lists possibilities factually)
+11,frustrated (Joey emphasizes urgency with repetition)
+12,neutral (Fey acknowledges without emotional inflection)
+13,"frustrated (Joey stresses importance, conveying irritation)"
+14,neutral (Fey uses a minimal agreement)
+15,sad (Joey mentions sentimental loss—gifts for family)
+16,neutral (Fey gives a backchannel response)
+17,"frustrated (Joey highlights value, implying stress)"
+18,neutral (Fey outlines steps dispassionately)
+19,"frustrated (Joey interrupts, questioning logic with agitation)"
+20,frustrated (Follow-up question shows impatience)
+21,neutral (Fey answers neutrally)
+22,neutral (Joey backchannels without emotion)
+23,neutral (Fey states logistics plainly)
+24,neutral (Fey transitions to procedure)
+25,"frustrated (Joey argues with ""I mean,"" showing annoyance)"
+26,frustrated (Continuation of exasperated reasoning)
+27,neutral (Fey agrees briefly and states policy)
+28,"surprised (Joey repeats ""theft"" in disbelief)"
+29,neutral (Fey uses a filler backchannel)
+30,"angry (Joey accuses, using ""Don’t you know"" aggressively)"
+31,neutral (Fey explains security calmly)
+32,neutral (Fey apologizes formally)
+33,"angry (Joey calls it ""unbelievable,"" escalating tone)"
+34,"frustrated (Joey insists on need, but less intense than anger)"
+35,neutral (Fey acknowledges without engagement)
+36,frustrated (Joey demands action urgently)
+37,"angry (Joey commands with ""need,"" implying threat)"
+38,neutral (Fey states facts)
+39,neutral (Fey continues procedure)
+40,"frustrated (Joey insists with ""again,"" showing irritation)"
+41,neutral (Fey states policy flatly)
+42,"angry (Joey mocks ""$50"" with ""joking,"" showing outrage)"
+43,neutral (Fey explains rationale calmly)
+44,frustrated (Joey sarcastically minimizes the loss)
+45,"angry (Joey emphasizes ""thousands,"" expressing fury)"
+46,neutral (Fey states policy limitations)
+47,"angry (Joey’s ""what?"" and sarcasm convey rage)"
+48,neutral (Fey answers procedurally)
+49,neutral (Fey restates compensation calmly)
+50,"angry (Joey mentions suing, showing hostility)"
+51,"angry (""ridiculous"" reinforces outrage)"
+52,neutral (Fey apologizes without emotion)
+53,neutral (Fey explains policy)
+54,"angry (Joey says ""sick of this,"" rejecting help angrily)"
+55,neutral (Fey references others factually)
+56,neutral (Fey agrees tersely)
+1,**sad** (Apology expressing sympathy for loss)
+2,**neutral** (Neutral factual statement)
+3,**neutral** (Neutral factual observation)
+4,**sad** (Apology expressing sympathy)
+5,**neutral** (Matter-of-fact description)
+6,**sad** (Opinion acknowledging emotional difficulty)
+7,**neutral** (Simple agreement)
+8,**neutral** (Non-opinionative detail)
+9,**neutral** (Brief agreement)
+10,**sad** (Opinion expressing confusion/unease)
+11,**neutral** (Backchannel acknowledgment)
+12,**sad** (Opinion on grief/uncertainty)
+13,**happy** (Agreement offering positive comfort)
+14,**neutral** (Incomplete factual statement)
+15,**happy** (Positive opinion to reassure)
+16,**happy** (Positive recollection)
+17,**happy** (Positive recollection)
+18,**neutral** (Incomplete non-opinion statement)
+19,**sad** (Opinion expressing sorrow)
+20,**neutral** (Backchannel acknowledgment)
+21,**neutral** (Factual plan description)
+22,**happy** (Opinion offering comfort)
+23,**sad** (Agreement with emotional breath)
+24,**neutral** (Neutral question)
+25,**frustrated** (Answer expressing helplessness)
+26,**frustrated** (Opinion emphasizing lack of control)
+27,**neutral** (Factual statement)
+28,**happy** (Opinion offering reassurance)
+29,**happy** (Grateful acknowledgment)
+30,**neutral** (Brief agreement)
+31,**neutral** (Non-opinionative statement)
+32,**happy** (Supportive opinion)
+33,**sad** (Opinion accepting prolonged grief)
+34,**neutral** (Agreement)
+35,**neutral** (Backchannel sound)
+36,**happy** (Grateful greeting)
+37,**neutral** (Backchannel acknowledgment)
+1,neutral
+2,neutral
+3,excited
+4,neutral
+5,neutral
+6,surprised
+7,excited
+8,neutral
+9,happy
+10,excited
+11,happy
+12,happy
+13,excited
+14,excited
+15,happy
+16,neutral
+17,neutral
+18,happy
+19,happy
+20,excited
+21,excited
+22,neutral
+23,happy
+24,excited
+25,happy
+26,happy
+27,excited
+28,excited
+29,happy
+30,excited
+31,neutral
+32,neutral
+33,surprised
+34,happy
+35,excited
+36,excited
+37,excited
+38,excited
+39,neutral
+40,neutral
+41,neutral
+42,neutral
+43,happy
+44,excited
+45,happy
+46,excited
+47,excited
+48,excited
+49,surprised
+50,excited
+51,happy
+52,excited
+53,happy
+54,excited
+55,excited
+56,excited
+57,excited
+58,happy
+59,excited
+1,neutral
+2,excited
+3,neutral
+4,neutral
+5,frustrated
+6,frustrated
+7,frustrated
+8,frustrated
+9,neutral
+10,frustrated
+11,neutral
+12,neutral
+13,neutral
+14,neutral
+15,fear
+16,fear
+17,neutral
+18,neutral
+19,neutral
+20,fear
+21,neutral
+22,fear
+23,neutral
+24,neutral
+25,neutral
+26,excited
+27,neutral
+28,neutral
+29,neutral
+30,neutral
+31,neutral
+32,neutral
+33,neutral
+34,neutral
+35,neutral
+36,neutral
+37,fear
+38,neutral
+39,neutral
+40,neutral
+41,neutral
+42,surprised
+43,neutral
+44,happy
+45,neutral
+46,neutral
+47,neutral
+48,neutral
+49,neutral
+50,happy
+51,neutral
+52,neutral
+53,neutral
+54,neutral
+55,neutral
+56,happy
+57,neutral
+58,neutral
+59,happy
+60,neutral
+61,happy
+62,happy
+"- **Fey** shows *frustration* with the phone system (lines 5-10), *fear* about fraud (15-16,20,22,37), and *happy/excited* relief when solutions are offered (26,44,50,56,59,61-62)",
+"- **Joey** remains mostly *neutral* while troubleshooting, with brief *frustration* mirroring (line 6)",
+- Strongest emotions peak at fraud disclosure (*fear*) and resolution (*happy/excited*),
+1,frustrated
+2,neutral
+3,neutral
+4,neutral
+5,frustrated
+6,sad
+7,neutral
+8,neutral
+9,sad
+10,sad
+11,frustrated
+12,neutral
+13,sad
+14,frustrated
+15,surprised
+16,frustrated
+17,frustrated
+18,frustrated
+19,frustrated
+20,frustrated
+21,frustrated
+22,frustrated
+23,frustrated
+24,frustrated
+25,anger
+26,frustrated
+27,neutral
+28,frustrated
+29,neutral
+30,neutral
+31,neutral
+32,neutral
+33,excited
+34,neutral
+35,frustrated
+36,frustrated
+37,neutral
+38,frustrated
+39,frustrated
+40,neutral
+41,anger
+42,neutral
+43,frustrated
+44,neutral
+45,frustrated
+46,sad
+47,neutral
+48,anger
+49,neutral
+50,neutral
+51,frustrated
+52,neutral
+53,frustrated
+54,frustrated
+55,frustrated
+56,frustrated
+57,frustrated
+58,frustrated
+59,happy
+60,frustrated
+61,sad
+62,fear
+63,neutral
+64,neutral
+65,sad
+66,frustrated
+67,anger
+68,frustrated
+69,anger
+70,anger
+71,anger
+72,frustrated
+73,frustrated
+74,frustrated
+75,surprised
+76,frustrated
+77,frustrated
+78,frustrated
+79,frustrated
+80,neutral
+81,frustrated
+82,frustrated
+83,sad
+84,sad
+85,sad
+1,**Frustrated** (Underlying tension about an unexpected guest)
+2,**Neutral** (Calm inquiry)
+3,**Frustrated** (Interrupted thought showing agitation)
+4,**Neutral** (Reasoning statement)
+5,"**Frustrated** (Dismissive, argumentative tone)"
+6,**Frustrated** (Defensive questioning)
+7,"**Frustrated** (Defensive, irritated denial)"
+8,**Angry** (Forceful command/demand)
+9,**Frustrated** (Skeptical challenge)
+10,"**Frustrated** (Insistent, emotional assertion)"
+11,"**Frustrated** (Dismissive, argumentative)"
+12,**Frustrated** (Accusatory questioning)
+13,**Neutral** (Attempting to pacify)
+14,**Sad** (Resigned statement of painful fact)
+15,**Frustrated** (Argumentative contradiction)
+16,"**Frustrated** (Desperate, agitated reasoning)"
+17,**Frustrated** (Challenging question)
+18,"**Sad** (Resigned, painful conviction)"
+19,**Frustrated** (Exasperated question)
+20,"**Angry** (Forceful, protective declaration)"
+21,**Frustrated** (Defensive question)
+22,"**Angry** (Command with threat, intense demand)"
+23,**Neutral** (Interjection)
+24,**Fear** (Desperate threat revealing terror)
+25,"**Fear** (Panicked, superstitious reasoning)"
+26,**Neutral** (Command to de-escalate)
+27,**Fear** (Desperate plea revealing vulnerability)
+28,**Neutral** (Repeated command to calm)
+29,**Fear** (Desperate grasping for evidence)
+30,**Neutral** (Repeated calming command)
+31,"**Fear** (Desperate, pleading statement)"
+32,"**Frustrated** (Confused, defensive question)"
+33,**Fear** (Pleading answer)
+34,"**Frustrated** (Insistent, confused question)"
+35,**Fear** (Observation of physical distress)
+36,**Fear** (Helpless admission of distress)
+37,"**Angry** (Exasperated, shouting question)"
+1,happy (Appreciative compliment)
+2,"neutral (Rhetorical, resigned observation)"
+3,neutral (Reassuring statement)
+4,happy (Positive appreciation)
+5,"fear (Anxious, seeking reassurance)"
+6,sad (Resigned but definitive)
+7,"surprised (Abrupt, seeking explanation)"
+8,neutral (Matter-of-fact explanation)
+9,sad (Disappointed acknowledgment)
+10,neutral (Observational statement)
+11,surprised (Abrupt request for clarification)
+12,neutral (Stating an observation)
+13,frustrated (Explaining a failed plan)
+14,neutral (Agreeing with an observation)
+15,surprised (Curious about the source of knowledge)
+16,neutral (Logical explanation)
+17,"excited (Hopeful, vulnerable admission)"
+18,happy (Affirmative agreement)
+19,excited (Passionate declaration)
+20,frustrated (Self-critical explanation)
+21,frustrated (Explaining dissatisfaction)
+22,frustrated (Expressing desire for ideal conditions)
+23,"happy (Assuring, positive declaration)"
+24,fear (Seeking confirmation with anxiety)
+25,neutral (Factual statement)
+26,surprised (Curious about cause)
+27,neutral (Explaining cause)
+28,surprised (Astonished at the revelation)
+29,happy (Affirming deep feeling)
+30,frustrated (Questioning past silence)
+31,frustrated (Explaining with mild annoyance)
+32,excited (Passionate request)
+33,excited (Joyful realization)
+34,frustrated (Expressing long-held pain)
+35,excited (Hopeful promise)
+36,frustrated (Playful but firm correction)
+37,neutral (Simple statement of fact)
+38,frustrated (Seeking authenticity)
+39,excited (Urgent desire)
+40,fear (Worried inquiry)
+41,neutral (Denial)
+42,fear (Concerned probing)
+43,neutral (Admitting a state)
+44,frustrated (Insistent demand)
+45,frustrated (Expressing difficulty)
+46,neutral (Stating a conclusion)
+47,neutral (Setting context)
+48,neutral (Simple agreement)
+49,sad (Delivering painful news)
+50,surprised (Shocked follow-up)
+51,sad (Confirming magnitude)
+52,sad (Sympathetic reaction)
+53,sad (Reflective grief)
+54,"sad (Nostalgic, painful memory)"
+55,sad (Anguished reflection)
+56,neutral (Explaining a philosophy)
+57,frustrated (Expressing disillusionment)
+58,sad (Expressing shame and alienation)
+59,frustrated (Passionate belief)
+60,sad (Explaining self-denial)
+61,fear (Concerned inquiry)
+62,excited (Definitive desire)
+63,frustrated (Insistent reassurance)
+64,neutral (Logical justification)
+65,excited (Hopeful promise)
+66,"neutral (Playful, rhetorical question)"
+1,neutral
+2,excited
+3,fear
+4,neutral
+5,neutral
+6,frustrated
+7,neutral
+8,frustrated
+9,neutral
+10,neutral
+11,neutral
+12,neutral
+13,neutral
+14,neutral
+15,frustrated
+16,happy
+17,frustrated
+18,neutral
+19,neutral
+20,frustrated
+21,frustrated
+22,happy
+23,neutral
+24,neutral
+25,neutral
+26,neutral
+27,surprised
+28,neutral
+29,neutral
+30,neutral
+31,happy
+32,neutral
+33,frustrated
+34,neutral
+35,neutral
+36,frustrated
+37,neutral
+38,neutral
+39,frustrated
+40,neutral
+41,excited
+42,frustrated
+43,frustrated
+44,neutral
+45,neutral
+46,excited
+47,neutral
+48,surprised
+49,neutral
+50,neutral
+51,neutral
+52,frustrated
+53,neutral
+54,neutral
+55,happy
+56,neutral
+57,excited
+58,excited
+59,excited
+60,excited
+61,excited
+62,excited
+63,excited
+64,neutral
+65,neutral
+66,neutral
+67,neutral
+68,frustrated
+1,neutral
+2,neutral
+3,neutral
+4,frustrated
+5,frustrated
+6,frustrated
+7,frustrated
+8,sad
+9,frustrated
+10,frustrated
+11,neutral
+12,anger
+13,frustrated
+14,sad
+15,neutral
+16,frustrated
+17,neutral
+18,sad
+19,neutral
+20,frustrated
+21,neutral
+22,frustrated
+23,sad
+24,surprised
+25,frustrated
+26,frustrated
+27,sad
+28,neutral
+29,frustrated
+30,frustrated
+31,neutral
+32,neutral
+33,neutral
+34,sad
+35,happy
+36,happy
+37,sad
+38,excited
+39,sad
+40,neutral
+41,excited
+42,sad
+43,neutral
+44,neutral
+45,neutral
+46,neutral
+47,neutral
+48,neutral
+49,neutral
+50,neutral
+51,neutral
+52,neutral
+53,fear
+54,neutral
+55,neutral
+56,neutral
+57,frustrated
+58,sad
+59,frustrated
+60,sad
+61,sad
+62,sad
+63,frustrated
+64,frustrated
+65,sad
+66,neutral
+67,sad
+68,sad
+69,frustrated
+70,sad
+71,neutral
+72,sad
+73,sad
+74,neutral
+75,sad
+76,happy
+77,surprised
+78,neutral
+79,sad
+80,neutral
+81,happy
+82,happy
+83,happy
+84,neutral
+85,neutral
+86,neutral
+87,neutral
+88,neutral
+89,happy
+90,sad
+91,happy
+92,happy
+93,happy
+94,happy
+1,**fear** (Reaction to a potential threat)
+2,**fear** (Anxious question about a potential threat)
+3,**neutral** (Non-committal response)
+4,"**neutral** (Logical reasoning, factual statement)"
+5,**fear** (Resigned acceptance of a threat)
+6,**fear** (Worried question about a threat)
+7,"**neutral** (Reassuring statement, though context is fearful)"
+8,**happy** (Affectionate agreement)
+9,**happy** (Contentment derived from reassurance)
+10,**neutral** (Fatalistic but factual statement)
+11,**neutral** (Statement of fact)
+12,**fear** (Physical reaction to anxiety/fear)
+13,**fear** (Question about a fearful scenario)
+14,**frustrated** (Sarcastic question about composure)
+15,**frustrated** (Sarcastic agreement)
+16,**sad** (Philosophical question tinged with melancholy)
+17,**sad** (Resigned statement about the impermanence of happiness)
+18,**frustrated** (Command to stop a sad statement)
+19,**sad** (Negative opinion about life/love)
+20,**sad** (Disbelieving question about a negative view of love)
+21,**sad** (Affirmation of a negative view)
+22,"**frustrated** (Anguished, existential questioning)"
+23,**frustrated** (Command to stop perceived mockery)
+24,**frustrated** (Strong opinion against seriousness)
+25,**neutral** (Simple question for clarification)
+26,**frustrated** (Dismissive answer targeting moralists)
+27,**frustrated** (Opinion justifying flippancy)
+28,**sad** (Logical but resigned extension of the flippancy argument)
+29,**sad** (Agreement acknowledging their absurdity)
+30,**sad** (Question about the longevity of conflict)
+31,**sad** (Answer predicting fading desire/passion)
+32,**sad** (Question about the desirability of fading passion)
+33,**neutral** (Pragmatic answer)
+34,**sad** (Morbid question about grief and laughter)
+35,**sad** (Answer forcing laughter in grief)
+36,**sad** (Question highlighting the seriousness of forced laughter)
+37,**frustrated** (Defiantly flippant answer about death)
+38,**frustrated** (Opinion dismissing his point as nonsense)
+39,**frustrated** (Opinion dismissing everyone's point as nonsense)
+40,**frustrated** (Opinion advocating superficial enjoyment as defiance)
+41,"**frustrated** (Morbid yet affectionate opinion, emphasizing urgency)"
+42,"**neutral** (Pedantic correction, factual)"
+43,**happy** (Extravagant statement of unconditional love/acceptance)
+44,"**frustrated** (Playful threat masking possessiveness, sarcastic ""thank you"")"
+45,**neutral** (Question prompting a memory)
+46,**neutral** (Question for clarification)
+47,**neutral** (Answer specifying the memory)
+48,**neutral** (Statement recalling a detail)
+49,**frustrated** (Strong negative opinion about the memory)
+50,**sad** (Agreement mixed with lingering resentment)
+51,**neutral** (Question about the duration of a past event)
+52,**neutral** (Answer stating the duration)
+53,**neutral** (Statement recalling a past event)
+54,**neutral** (Statement recalling details of a past event)
+55,**neutral** (Question prompting confirmation/recall)
+56,**sad** (Answer recalling a painful first)
+57,**frustrated** (Defensive opinion minimizing the action)
+58,**neutral** (Statement recalling a scene)
+59,**neutral** (Statement recalling a detail)
+60,**frustrated** (Opinion evaluating the past event negatively)
+61,**neutral** (Statement of fact about the past)
+62,**frustrated** (Opinion evaluating their past selves negatively)
+63,**neutral** (Statement of fact about the cause)
+1,frustrated
+2,neutral
+3,neutral
+4,frustrated
+5,frustrated
+6,anger
+7,frustrated
+8,frustrated
+9,neutral
+10,anger
+11,frustrated
+12,frustrated
+13,frustrated
+14,frustrated
+15,frustrated
+16,anger
+17,frustrated
+18,neutral
+19,neutral
+20,neutral
+21,frustrated
+22,frustrated
+23,frustrated
+24,frustrated
+25,frustrated
+26,anger
+27,anger
+28,frustrated
+29,frustrated
+30,frustrated
+31,frustrated
+32,neutral
+33,neutral
+34,frustrated
+35,neutral
+36,neutral
+37,frustrated
+38,anger
+39,anger
+40,anger
+41,anger
+42,anger
+43,frustrated
+44,anger
+45,anger
+46,anger
+47,anger
+48,frustrated
+49,neutral
+50,anger
+51,anger
+52,anger
+53,anger
+54,anger
+55,anger
+56,anger
+57,anger
+58,anger
+59,anger
+60,anger
+61,anger
+62,neutral
+63,neutral
+64,frustrated
+65,neutral
+66,neutral
+67,neutral
+68,neutral
+69,frustrated
+70,anger
+71,anger
+72,anger
+73,anger
+74,anger
+75,anger
+76,anger
+77,anger
+78,anger
+79,anger
+80,anger
+81,anger
+82,anger
+83,anger
+84,anger
+85,anger
+86,anger
+87,anger
+88,anger
+89,anger
+90,anger
+1,**frustrated** (Statement Non-Opinion: Expresses impatience after waiting)
+2,**frustrated** (Statement Non-Opinion: Physical discomfort and exasperation)
+3,"**neutral** (Agreement: Minimal response, no emotional cue)"
+4,**neutral** (Backchannel: Hesitant filler word)
+5,**neutral** (Question: Direct inquiry without tonal emphasis)
+6,**frustrated** (Answer: Corrective tone with implied annoyance)
+7,**frustrated** (Disagreement: Repetitive denial showing agitation)
+8,"**neutral** (Question: Brief, neutral clarification)"
+9,**frustrated** (Answer: Vague reply with defensive undertone)
+10,**frustrated** (Statement Non-Opinion: Dismissive and accusatory)
+11,**frustrated** (Statement Non-Opinion: Defensive insistence)
+12,**neutral** (Backchannel: Hesitation without emotion)
+13,**frustrated** (Statement Non-Opinion: Justifying with urgency)
+14,"**frustrated** (Statement Non-Opinion: Blunt, inflexible assertion)"
+15,"**frustrated** (Statement Non-Opinion: Desperate, repetitive plea)"
+16,**neutral** (Backchannel: Interrupted acknowledgment)
+17,**frustrated** (Statement Non-Opinion: Condescending explanation)
+18,**frustrated** (Statement Non-Opinion: Cut-off protest)
+19,**frustrated** (Command: Authoritative dismissal)
+20,**fear** (Disagreement: Highlights consequence of job loss)
+21,**frustrated** (Statement Opinion: Blaming/sarcastic remark)
+22,**frustrated** (Statement Non-Opinion: Repeated defensive justification)
+23,**frustrated** (Statement Non-Opinion: Dismissive denial)
+24,**surprised** (Others: Ironic/incredulous laughter at absurdity)
+1,**neutral**
+2,**neutral**
+3,**happy**
+4,**excited**
+5,**neutral**
+6,**neutral**
+7,**neutral**
+8,**neutral**
+9,**neutral**
+10,**surprised**
+11,**neutral**
+12,**neutral**
+13,**frustrated**
+14,**neutral**
+15,**frustrated**
+16,**neutral**
+17,**sad**
+18,**frustrated**
+19,**frustrated**
+20,**frustrated**
+21,**fear**
+22,**neutral**
+23,**neutral**
+24,**frustrated**
+25,**sad**
+26,**frustrated**
+27,**sad**
+28,**sad**
+29,**neutral**
+30,**frustrated**
+31,**frustrated**
+32,**neutral**
+33,**frustrated**
+34,**neutral**
+35,**neutral**
+36,**fear**
+37,**neutral**
+38,**neutral**
+39,**fear**
+40,**neutral**
+41,**fear**
+42,**neutral**
+43,**fear**
+44,**fear**
+45,**neutral**
+46,**fear**
+47,**neutral**
+48,**neutral**
+49,**fear**
+50,**fear**
+51,**neutral**
+52,**neutral**
+53,**neutral**
+54,**frustrated**
+55,**frustrated**
+56,**frustrated**
+57,**frustrated**
+58,**sad**
+59,**neutral**
+60,**sad**
+61,**sad**
+62,**sad**
+63,**sad**
+64,**sad**
+65,**sad**
+66,**sad**
+67,**sad**
+68,**neutral**
+1,surprised
+2,excited
+3,neutral
+4,neutral
+5,happy
+6,happy
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,neutral
+12,neutral
+13,neutral
+14,surprised
+15,neutral
+16,neutral
+17,neutral
+18,surprised
+19,excited
+20,happy
+21,surprised
+22,neutral
+23,neutral
+24,excited
+25,happy
+26,surprised
+27,happy
+28,happy
+29,happy
+30,neutral
+31,neutral
+32,neutral
+33,excited
+34,neutral
+35,neutral
+36,neutral
+37,excited
+38,excited
+39,surprised
+40,happy
+41,excited
+1,"**neutral** (Resigned, factual statement about time)"
+2,**neutral** (Encouraging opinion without strong emotional charge)
+3,**frustrated** (Self-doubt and discouragement about career suitability)
+4,"**neutral** (Mild disagreement, corrective but calm)"
+5,**neutral** (Factual example without emotional emphasis)
+6,"**neutral** (Supportive opinion, pragmatic tone)"
+7,**fear** (Anxious exaggeration about waiting)
+8,"**neutral** (Directive opinion, persistent encouragement)"
+9,**neutral** (Factual description of funds)
+10,**sad** (Agreement tinged with helplessness and guilt)
+11,**neutral** (Reassuring factual statement)
+12,**sad** (Opinion expressing worthlessness)
+13,"**happy** (Disagreement with uplifting, positive reinforcement)"
+14,**fear** (Worried hypotheticals about failure)
+15,"**neutral** (Command to reassure, urgent but not emotional)"
+16,**neutral** (Factual observation about time)
+17,**neutral** (Factual completion of previous statement)
+18,**neutral** (Encouraging opinion using logic)
+19,**surprised** (Question showing disbelief/curiosity)
+20,**neutral** (Simple affirmation)
+21,**frustrated** (Explicit statement of emotion)
+22,**neutral** (Practical question exploring alternatives)
+23,**sad** (Answer conveying helplessness)
+24,"**sad** (Hesitant opinion, lack of enthusiasm)"
+25,**sad** (Opinion expressing trapped despair)
+26,**neutral** (Motivational opinion)
+27,**sad** (Opinion contrasting passion with apathy)
+28,**neutral** (Neutral inquiry about activities)
+29,**frustrated** (Answer implying dissatisfaction despite partial success)
+30,**frustrated** (Opinion expressing exhaustion and need for change)
+31,**neutral** (Casual question about work)
+32,**sad** (Answer with disappointment)
+33,**frustrated** (Factual statement highlighting career frustration)
+34,**neutral** (Factual attempt to lighten mood)
+35,**frustrated** (Breathing indicates stress; backchannel as exasperation)
+36,"**frustrated** (Opinion rejecting humor, emphasizing confusion)"
+37,"**neutral** (Suggestive opinion, solution-oriented)"
+38,"**sad** (Reluctant agreement, lack of enthusiasm)"
+39,**neutral** (Suggestive opinion)
+40,"**sad** (Terse agreement, resignation)"
+41,**neutral** (Opinion stating a challenge matter-of-factly)
+42,"**sad** (Sarcastic ""thanks"" conveying hurt/disappointment)"
+43,"**others** (Non-verbal, laughter doesn't fit standard emotions)"
+44,"**others** (Non-verbal, breathing sound)"
+1,frustrated
+2,neutral
+3,frustrated
+4,neutral
+5,frustrated
+6,frustrated
+7,neutral
+8,surprised
+9,neutral
+10,anger
+11,neutral
+12,frustrated
+13,frustrated
+14,neutral
+15,frustrated
+16,neutral
+17,neutral
+18,surprised
+19,neutral
+20,anger
+21,anger (passive-aggressive tone)
+22,frustrated
+23,anger
+24,anger
+25,anger
+26,anger (accusatory)
+27,frustrated
+28,neutral
+29,anger
+30,neutral
+31,neutral
+32,anger
+1,neutral
+2,neutral
+3,sad
+4,sad
+5,sad
+6,sad
+7,sad
+8,neutral
+9,sad
+10,sad
+11,sad
+12,sad
+13,sad
+14,sad
+15,sad
+16,sad
+17,sad
+18,sad
+19,neutral
+20,sad
+21,neutral
+22,neutral
+23,sad
+24,sad
+25,sad
+26,sad
+27,sad
+28,sad
+29,sad
+30,sad
+31,sad
+32,sad
+33,neutral
+34,neutral
+35,neutral
+36,neutral
+37,neutral
+38,neutral
+39,frustrated
+40,neutral
+41,frustrated
+42,neutral
+43,sad
+44,sad
+45,neutral
+46,sad
+47,sad
+48,neutral
+49,sad
+50,sad
+51,neutral
+52,neutral
+53,neutral
+1,neutral
+2,neutral
+3,happy (playful teasing)
+4,excited
+5,neutral
+6,excited
+7,happy
+8,excited
+9,surprised
+10,neutral
+11,excited
+12,surprised
+13,surprised
+14,excited
+15,happy
+16,sad (recalling disappointment)
+17,sad
+18,neutral
+19,neutral
+20,neutral
+21,excited
+22,excited
+23,excited
+24,happy
+25,happy
+26,excited
+27,neutral
+28,neutral
+29,excited
+30,neutral
+31,surprised
+32,excited
+33,excited
+34,excited
+35,happy
+36,neutral
+37,happy
+38,excited
+39,excited
+40,neutral
+41,excited
+42,excited
+43,happy
+44,excited
+45,happy
+46,excited
+47,neutral
+48,excited
+49,neutral
+50,excited
+51,neutral
+52,excited
+53,excited
+54,neutral
+55,neutral
+56,neutral
+57,happy (playful)
+58,happy (playful refusal)
+59,neutral
+60,happy
+61,happy (teasing)
+62,happy (amused disagreement)
+63,happy (teasing)
+64,happy (playful defiance)
+65,neutral
+66,happy (teasing)
+67,happy (teasing)
+68,happy
+69,happy
+70,happy
+1,anger
+2,neutral
+3,frustrated
+4,neutral
+5,anger
+6,neutral
+7,frustrated
+8,neutral
+9,frustrated
+10,neutral
+11,neutral
+12,neutral
+13,frustrated
+14,frustrated
+15,neutral
+16,neutral
+17,surprised
+18,neutral
+19,frustrated
+20,frustrated
+21,surprised
+22,neutral
+23,frustrated
+24,neutral
+25,neutral
+26,frustrated
+27,neutral
+28,frustrated
+29,neutral
+30,neutral
+31,frustrated
+32,neutral
+33,neutral
+34,frustrated
+35,neutral
+36,frustrated
+37,frustrated
+38,surprised
+39,neutral
+40,frustrated
+41,neutral
+42,frustrated
+43,neutral
+44,frustrated
+45,frustrated
+46,neutral
+47,neutral
+48,frustrated
+49,frustrated
+50,neutral
+51,frustrated
+52,neutral
+53,frustrated
+54,neutral
+55,neutral
+1,fear
+2,neutral
+3,surprised
+4,neutral
+5,fear
+6,sad
+7,fear
+8,neutral
+9,sad
+10,sad
+11,fear
+12,neutral
+13,sad
+14,frustrated
+15,neutral
+16,frustrated
+17,frustrated
+18,frustrated
+19,frustrated
+20,frustrated
+21,fear
+22,frustrated
+23,fear
+24,frustrated
+25,frustrated
+26,frustrated
+27,frustrated
+28,fear
+29,fear
+30,neutral
+31,frustrated
+32,neutral
+33,surprised
+34,neutral
+35,neutral
+36,neutral
+37,neutral
+38,excited
+39,neutral
+40,frustrated
+41,frustrated
+42,neutral
+43,fear
+44,frustrated
+45,frustrated
+46,frustrated
+47,neutral
+48,neutral
+49,frustrated
+50,frustrated
+51,frustrated
+52,frustrated
+53,neutral
+54,frustrated
+55,frustrated
+56,neutral
+57,frustrated
+58,neutral
+59,neutral
+60,surprised
+61,neutral
+62,fear
+63,sad
+64,neutral
+65,frustrated
+66,frustrated
+67,neutral
+68,frustrated
+69,frustrated
+70,frustrated
+71,neutral
+72,neutral
+73,neutral
+74,frustrated
+75,neutral
+76,fear
+77,neutral
+78,neutral
+79,frustrated
+80,sad
+81,frustrated
+82,surprised
+83,frustrated
+84,surprised
+85,frustrated
+86,surprised
+87,frustrated
+88,surprised
+89,frustrated
+90,neutral
+91,frustrated
+92,neutral
+93,fear
+94,frustrated
+95,frustrated
+96,frustrated
+97,fear
+98,neutral
+99,sad
+100,frustrated
+101,neutral
+102,fear
+103,frustrated
+104,fear
+105,frustrated
+106,neutral
+1,**frustrated**
+2,**neutral**
+3,**frustrated**
+4,**neutral**
+5,**frustrated**
+6,**frustrated**
+7,**angry**
+8,**neutral**
+9,**sad**
+10,**neutral**
+11,**frustrated**
+12,**neutral**
+13,**sad**
+14,**neutral**
+15,**frustrated**
+16,**frustrated**
+17,**sad**
+18,**neutral**
+19,**sad**
+20,**sad**
+21,**sad**
+22,**frustrated**
+23,**angry**
+24,**neutral**
+25,**fear**
+26,**neutral**
+27,**angry**
+28,**fear**
+29,**neutral**
+30,**fear**
+31,**neutral**
+32,**angry**
+33,**fear**
+34,**surprised**
+35,**surprised**
+36,**surprised**
+37,**fear**
+38,**surprised**
+39,**sad**
+40,**frustrated**
+41,**surprised**
+1,**neutral** (Calm reassurance)
+2,**happy** (Positive appreciation)
+3,**fear** (Anxious concern)
+4,**neutral** (Simple denial)
+5,**neutral** (Factual statement)
+6,**frustrated** (Demanding explanation)
+7,**happy** (Amused by the reason)
+8,**neutral** (Hesitant filler)
+9,**neutral** (Attention-getting command)
+10,**neutral** (Observing behavior)
+11,**surprised** (Abrupt demand for clarification)
+12,**neutral** (Stating perceived fact)
+13,**frustrated** (Admitting discomfort)
+14,**frustrated** (Explaining awkwardness)
+15,**neutral** (Simple agreement)
+16,**surprised** (Seeking explanation)
+17,**neutral** (Stating expectation)
+18,"**fear** (Nervous, vulnerable question)"
+19,**happy** (Expressing hopeful intent)
+20,**neutral** (Hesitant agreement)
+21,**neutral** (Acknowledging)
+22,**neutral** (Logical reasoning)
+23,**excited** (Passionate declaration)
+24,**excited** (Intensified declaration)
+25,**frustrated** (Self-critical about expression)
+26,**happy** (Confirming mutual feeling)
+27,**frustrated** (Feeling the setting is wrong)
+28,**neutral** (Stating desire)
+29,**happy** (Affirming readiness)
+30,**fear** (Seeking urgent confirmation)
+31,**neutral** (Attention-getting command)
+32,**neutral** (Factual statement)
+33,**surprised** (Demanding reason)
+34,**neutral** (Direct explanation)
+35,**surprised** (Seeking confirmation of depth)
+36,**happy** (Affirming constant feeling)
+37,**frustrated** (Questioning lack of communication)
+38,**frustrated** (Counter-question expressing confusion)
+39,**frustrated** (Criticizing communication style)
+40,**excited** (Eager command)
+41,**excited** (Urgent repetition)
+42,**excited** (Joyful realization)
+43,**frustrated** (Expressing hurt over the wait)
+44,**excited** (Hopeful promise)
+45,**frustrated** (Rejecting the manner)
+46,**neutral** (Stating fact)
+47,**frustrated** (Desiring authenticity)
+48,**fear** (Concerned question)
+49,**neutral** (Proposing action)
+50,**fear** (Worried probing)
+51,**neutral** (Reassuring denial)
+52,**frustrated** (Demanding explanation for observed shame)
+53,**sad** (Admitting shame and its lingering effect)
+54,**neutral** (Asserting need)
+55,**frustrated** (Expressing difficulty)
+56,**neutral** (Stating belief)
+57,**neutral** (Introducing background)
+58,**neutral** (Simple agreement)
+59,**sad** (Revealing painful loss)
+60,**fear** (Apprehensive question)
+61,**sad** (Confirming devastating loss)
+62,**surprised** (Shocked reaction)
+63,**sad** (Expressing profound grief/guilt)
+64,**sad** (Recalling poignant memory)
+65,**sad** (Expressing deep guilt and loss)
+66,**sad** (Reflecting on trauma)
+67,**frustrated** (Struggling to convey meaning)
+68,**frustrated** (Desiring purpose from loss)
+69,**sad** (Feeling alienation)
+70,**sad** (Expressing shame and disillusionment)
+71,**sad** (Profound guilt over survival/materialism)
+72,**anger** (Moral condemnation)
+73,**sad** (Rejecting tainted gains)
+74,**sad** (Including her in rejection)
+75,**fear** (Worried question about his state)
+76,**neutral** (Direct desire)
+77,**frustrated** (Urgent plea for change)
+78,**neutral** (Logical defense of the money)
+79,**neutral** (Addressing)
+80,**excited** (Hopeful promise)
+81,**frustrated** (Dismissive rhetorical question)
+1,excited
+2,excited
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,frustrated
+8,neutral
+9,neutral
+10,neutral
+11,neutral
+12,frustrated
+13,neutral
+14,neutral
+15,excited
+16,neutral
+17,neutral
+18,neutral
+19,frustrated
+20,frustrated
+21,neutral
+22,neutral
+23,neutral
+24,neutral
+25,neutral
+26,frustrated
+27,neutral
+28,neutral
+29,neutral
+30,neutral
+31,neutral
+32,frustrated
+33,neutral
+34,neutral
+35,neutral
+36,neutral
+37,excited
+38,frustrated
+39,excited
+40,excited
+41,frustrated
+42,neutral
+43,frustrated
+44,neutral
+45,excited
+46,neutral
+47,surprised
+48,neutral
+49,neutral
+50,neutral
+51,frustrated
+52,neutral
+53,frustrated
+54,excited
+55,excited
+56,excited
+57,excited
+58,excited
+59,excited
+60,excited
+61,excited
+62,excited
+63,frustrated
+64,neutral
+65,neutral
+66,neutral
+67,frustrated
+1,happy
+2,happy
+3,happy
+4,neutral
+5,happy
+6,neutral
+7,neutral
+8,sad
+9,neutral
+10,neutral
+11,sad
+12,neutral
+13,sad
+14,neutral
+15,frustrated
+16,frustrated
+17,frustrated
+18,frustrated
+19,frustrated
+20,frustrated
+21,frustrated
+22,frustrated
+23,frustrated
+24,frustrated
+25,sad
+26,frustrated
+27,frustrated
+28,sad
+29,frustrated
+30,sad
+31,frustrated
+32,sad
+33,neutral
+34,sad
+35,sad
+36,neutral
+37,neutral
+38,neutral
+39,sad
+40,angry
+41,sad
+42,sad
+43,happy
+44,neutral
+45,sad
+46,neutral
+47,neutral
+48,happy
+49,happy
+50,neutral
+51,happy
+52,neutral
+53,neutral
+54,neutral
+55,happy
+56,neutral
+57,neutral
+58,happy
+59,sad
+60,neutral
+61,happy
+62,neutral
+63,neutral
+1,neutral
+2,neutral
+3,neutral
+4,fear
+5,happy
+6,happy
+7,frustrated
+8,surprised
+9,frustrated
+10,frustrated
+11,frustrated
+12,happy
+13,sad
+14,happy
+15,sad
+16,sad
+17,fear
+18,happy
+19,frustrated
+20,frustrated
+21,happy
+22,happy (playful/jovial tone)
+23,neutral
+24,happy
+25,neutral
+26,neutral
+27,neutral
+28,excited
+29,surprised
+30,happy
+31,neutral
+1,neutral
+2,neutral
+3,frustrated
+4,frustrated
+5,frustrated
+6,frustrated
+7,frustrated
+8,frustrated
+9,frustrated
+10,frustrated
+11,frustrated
+12,frustrated
+13,frustrated
+14,frustrated
+15,frustrated
+16,frustrated
+17,frustrated
+18,frustrated
+19,frustrated
+20,frustrated
+21,neutral
+22,frustrated
+23,frustrated
+24,frustrated
+25,angry
+26,angry
+27,angry
+28,angry
+29,angry
+30,neutral
+31,frustrated
+32,frustrated
+33,angry
+34,angry
+35,angry
+36,angry
+37,angry
+38,angry
+39,angry
+40,angry
+41,neutral
+42,frustrated
+43,frustrated
+44,frustrated
+45,angry
+46,angry
+47,angry
+48,angry
+49,angry
+50,angry
+51,angry
+52,angry
+53,angry
+54,angry
+55,angry
+56,angry
+1,**neutral** (Question - professional clarification)
+2,**frustrated** (Answer - impatient insistence)
+3,**neutral** (Statement Non-Opinion - factual response)
+4,**neutral** (Agreement - procedural instruction)
+5,**frustrated** (Statement Non-Opinion - stressed correction)
+6,**neutral** (Backchannel - acknowledgment)
+7,**frustrated** (Question - exasperated request)
+8,**frustrated** (Answer - defensive explanation)
+9,**anger** (Question - accusatory and hostile)
+10,**frustrated** (Statement Opinion - criticism of tone)
+11,**neutral** (Statement Non-Opinion - directive)
+12,**frustrated** (Statement Non-Opinion - impatient insistence)
+13,**frustrated** (Disagreement - stressed refusal)
+14,**anger** (Statement Opinion - irritated with exclamation)
+15,**frustrated** (Disagreement - urgent refusal)
+16,**defiant/anger** (Statement Opinion - confrontational)
+17,**frustrated** (Statement Non-Opinion - strained instruction)
+18,**anger** (Statement Non-Opinion - demanding)
+19,**anger** (Command - aggressive)
+20,**frustrated** (Disagreement - authoritative refusal)
+21,**anger** (Statement Non-Opinion - refusal with irritation)
+22,**defiant** (Answer - assertive)
+23,**frustrated** (Disagreement - dismissive)
+24,**anger** (Disagreement - confrontational)
+25,**neutral** (Backchannel - procedural address)
+26,**frustrated** (Statement Opinion - exasperated)
+27,**frustrated** (Statement Non-Opinion - warning)
+28,**anger** (Statement Opinion - threatening)
+29,**surprised** (Question - incredulous reaction)
+30,**anger** (Question - provocative challenge)
+31,**frustrated** (Statement Non-Opinion - firm command)
+32,**surprised** (Backchannel - sarcastic disbelief)
+33,**anger** (Statement Non-Opinion - hostile refusal)
+34,**frustrated** (Statement Non-Opinion - impatient insistence)
+35,**anger** (Question - sarcastic challenge)
+36,**frustrated** (Statement Opinion - defensive complaint)
+37,**frustrated** (Statement Non-Opinion - blunt refusal)
+38,**anger** (Command - aggressive demand)
+39,**frustrated** (Statement Opinion - exhausted condemnation)
+- **Joey** shifts from **frustrated** to **anger** as conflict escalates (e,
+"- **Fey** remains mostly **frustrated** or **neutral**, with **surprised** only when provoked (line 29)",
+- **Disagreements** often carry **anger** (Joey) or **frustration** (Fey),
+1,**neutral**
+2,**neutral**
+3,**neutral**
+4,**neutral**
+5,**neutral**
+6,**neutral**
+7,**neutral**
+8,**neutral**
+9,**neutral**
+10,**neutral**
+11,**neutral**
+12,**surprised** (immediate shock) and **frustrated** (underlying tone)
+13,**frustrated**
+14,**frustrated**
+15,**neutral**
+16,**sad**
+17,**frustrated**
+18,**frustrated**
+19,**sad**
+20,**sad**
+21,**frustrated** (desperate encouragement)
+22,**frustrated**
+23,**frustrated**
+24,**frustrated**
+25,**neutral**
+26,**neutral**
+27,**sad** (resigned agreement)
+28,**frustrated**
+29,**frustrated** (wishful but strained)
+30,**sad**
+31,**frustrated**
+32,**frustrated**
+33,**frustrated**
+34,**fear**
+35,**frustrated**
+36,**neutral**
+37,**frustrated**
+38,**sad**
+39,**neutral**
+40,**sad**
+41,**surprised**
+42,**sad**
+43,**fear**
+44,**frustrated**
+45,**fear**
+46,**neutral**
+47,**neutral**
+48,**frustrated**
+1,excited
+2,surprised
+3,happy
+4,neutral
+5,frustrated
+6,surprised
+7,neutral
+8,neutral
+9,neutral
+10,surprised
+11,neutral
+12,neutral
+13,happy
+14,excited
+15,neutral
+16,frustrated
+17,frustrated
+18,neutral
+19,neutral
+20,neutral
+21,frustrated
+22,neutral
+23,neutral
+24,neutral
+25,neutral
+26,happy
+27,surprised
+28,frustrated
+29,happy
+30,happy
+31,excited
+32,neutral
+33,frustrated
+34,neutral
+35,happy
+36,neutral
+37,neutral
+38,surprised
+39,surprised
+40,happy
+41,surprised
+42,excited
+43,excited
+44,happy
+45,frustrated
+46,neutral
+47,frustrated
+48,surprised
+49,neutral
+50,neutral
+51,frustrated
+52,neutral
+53,frustrated
+54,happy
+1,neutral
+2,sad
+3,neutral
+4,frustrated
+5,neutral
+6,frustrated
+7,neutral
+8,frustrated
+9,neutral
+10,frustrated
+11,angry
+12,neutral
+13,angry
+14,neutral
+15,frustrated
+16,neutral
+17,sad
+18,neutral
+19,neutral
+20,surprised
+21,happy
+22,neutral
+23,neutral
+24,frustrated
+25,neutral
+26,neutral
+27,frustrated
+28,sad
+29,sad
+30,surprised
+31,frustrated
+32,neutral
+33,frustrated
+34,neutral
+35,angry
+36,neutral
+37,neutral
+38,happy
+39,frustrated
+40,frustrated
+41,neutral
+42,happy
+43,neutral
+44,sad
+45,surprised
+46,neutral
+47,sad
+48,neutral
+49,sad
+50,frustrated
+51,neutral
+52,frustrated
+53,neutral
+54,frustrated
+55,frustrated
+56,surprised
+57,sad
+58,frustrated
+1,**neutral** (Question - standard service offer)
+2,**frustrated** (Question - impatient tone)
+3,**neutral** (Question - procedural request)
+4,**neutral** (Answer - simple acknowledgment)
+5,**neutral** (Question - verification)
+6,**frustrated** (Question - impatient demand for status)
+7,**neutral** (Answer - simple confirmation)
+8,**neutral** (Question - procedural question)
+9,**frustrated** (Question - sarcastic/impatient)
+10,**frustrated** (Backchannel - exasperation)
+11,**frustrated** (Statement Non Opinion - venting)
+12,**neutral** (Statement Non Opinion - explaining procedure)
+13,**frustrated** (Question - impatient demand)
+14,**neutral** (Question - procedural question)
+15,**frustrated** (Question - demanding/sarcastic)
+16,**neutral** (Answer - simple response)
+17,**sad/frustrated** (Statement Non Opinion - conveying distressing information)
+18,**sad/apologetic** (Apology - empathetic)
+19,**sad/frustrated** (Backchannel - resigned acknowledgment)
+20,**sad/apologetic** (Apology - empathetic and urgent)
+21,**sad/frustrated** (Question - distressed rhetorical question)
+22,**neutral** (Answer - delivering factual bad news)
+23,**frustrated/angry** (Question - sarcastic and demanding)
+24,**neutral** (Statement Non Opinion - attempting to de-escalate)
+25,**angry/frustrated** (Statement Non Opinion - defensive and upset)
+26,**neutral** (Question - procedural verification)
+27,**angry** (Question - confrontational)
+28,**frustrated** (Answer - defensive/insisting on calm)
+29,**angry** (Command - accusatory)
+30,**apologetic** (Apology - conciliatory)
+31,**neutral** (Statement Non Opinion - explaining procedure)
+32,**frustrated/angry** (Statement Opinion - hyperbole expressing extreme stress)
+33,**neutral** (Backchannel - attempt to soothe)
+34,**neutral** (Statement Non Opinion - delivering factual bad news)
+35,**surprised/angry** (Question - disbelief and outrage)
+36,**neutral** (Answer - simple confirmation)
+37,**angry** (Command - demanding escalation)
+38,**neutral** (Statement Non Opinion - factual response)
+39,**angry** (Question - insulting/sarcastic)
+40,**neutral** (Question - seeking clarification)
+41,**frustrated/sarcastic** (Backchannel - mocking repetition)
+42,**neutral** (Question - procedural question)
+43,**neutral** (Answer - simple response)
+44,**angry/frustrated** (Question - demanding action)
+1,**neutral** (Professional inquiry)
+2,**neutral** (Brief affirmation)
+3,**neutral** (Factual response)
+4,**neutral** (Clarifying question)
+5,**neutral** (Simple agreement)
+6,**neutral** (Procedural statement)
+7,**frustrated** (Skeptical challenge)
+8,**neutral** (Informative answer)
+9,**frustrated** (Disbelieving repetition)
+10,**neutral** (Affirmation)
+11,**frustrated** (Rhetorical complaint)
+12,**neutral** (Explanatory answer)
+13,**neutral** (Clarifying fact)
+14,**anger** (Accusatory question)
+15,**neutral** (Hesitation)
+16,**neutral** (Solution proposal)
+17,**frustrated** (Sarcastic rejection)
+18,**neutral** (Clarifying question)
+19,"**anger** (Sarcastic ""thanks"" + cost mention)"
+20,**neutral** (Acknowledgment)
+21,**frustrated** (Mocking question)
+22,**neutral** (Practical question)
+23,**frustrated** (Defensive answer)
+24,**neutral** (Procedural instruction)
+25,**anger** (Threatening demand)
+26,**anger** (Explicit threat)
+27,**neutral** (Factual answer)
+28,**neutral** (Apology – no remorse detected)
+29,**neutral** (Explanatory statement)
+30,**frustrated** (Exasperated fact)
+31,**frustrated** (Rhetorical disbelief)
+32,**anger** (Aggressive challenge)
+33,**neutral** (Constrained answer)
+34,**frustrated** (Exasperated statement)
+35,**frustrated** (Hyperbolic complaint)
+36,**anger** (Critical judgment)
+37,**frustrated** (Demanding question)
+38,**neutral** (Informative answer)
+39,**neutral** (Hesitant answer)
+40,**frustrated** (Sarcastic demand)
+41,**neutral** (Compliance)
+42,**neutral** (Solution statement)
+43,**frustrated** (Sarcastic inquiry)
+44,**neutral** (Hesitation backchannel)
+45,**neutral** (Offer)
+46,**anger** (Mocking sarcasm)
+47,"**anger** (Sarcastic ""thanks"" + dismissal)"
+48,**neutral** (Interrupted backchannel)
+49,**anger** (Final threat)
+1,**neutral** (Standard greeting/question)
+2,"**neutral** (Concerned check-in, but phrasing is casual)"
+3,"**sad** (Brief, flat agreement suggests low mood)"
+4,"**neutral** (Simple agreement, no strong emotion)"
+5,**neutral** (Question seeking factual/emotional confirmation)
+6,**sad** (Statement of isolation/loss)
+7,**sad** (Statement emphasizing past loneliness)
+8,**sad** (Statement highlighting a significant future loss)
+9,**sad** (Empathetic apology for loss)
+10,**sad** (Minimal response indicating sorrow)
+11,**frustrated** (Statement implying regret over influence)
+12,**neutral** (Backchannel acknowledgement)
+13,**frustrated** (Statement blaming action with negative outcome)
+14,**neutral** (Direct question seeking information)
+15,**sad** (Statement of additional tragic loss)
+16,**neutral** (Question seeking information)
+17,**sad** (Statement of further loss)
+18,**sad** (Conflicted emotional statement about grief/anger)
+19,"**neutral** (Supportive offer, caring but calm)"
+20,**neutral** (Simple acknowledgment/thanks)
+21,**neutral** (Supportive reassurance)
+22,**sad** (Statement of missed opportunity/regret)
+23,"**frustrated** (Statement explaining regret with ""got busy"")"
+24,**frustrated** (Statement expressing helplessness/bitterness)
+25,**sad** (Statement emphasizing distance before loss)
+26,**sad** (Statement of disappointment in relationship failure)
+27,**neutral** (Acknowledgement/agreement)
+28,**sad** (Philosophical statement accepting inexplicable loss)
+29,**sad** (Empathetic apology)
+30,**sad** (Statement praising lost friend's virtues)
+31,**frustrated** (Self-directed question expressing confusion/helplessness)
+32,"**neutral** (Suggestive, supportive statement)"
+33,**frustrated** (Direct disagreement expressing inability/defeat)
+34,"**neutral** (Contradicting disagreement, encouraging)"
+35,**sad** (Statement wishing the listener knew the lost person)
+36,**sad** (Statement praising the lost friend)
+37,**neutral** (Agreement)
+38,**sad** (Statement expressing regret for missed opportunity)
+39,**sad** (Final statement confirming permanent loss)
+1,**neutral** (Greeting - standard opener)
+2,**neutral** (Question - casual inquiry)
+3,"**neutral** (Answer - factual, positive but calm)"
+4,**neutral** (Backchannel - filler sound)
+5,**neutral** (Agreement - minimal response)
+6,**neutral** (Statement Non-Opinion - starting an announcement neutrally)
+7,"**frustrated** (Disagreement - ""Yeah"" used contradictorily, implying tension)"
+8,**excited** (Statement Non-Opinion - emphatic comparison showing pride/enthusiasm)
+9,"**excited** (Question - ""Oh my God"", ""so happy"", eager tone)"
+10,**surprised** (Question - seeking clarification on unexpected implication)
+11,"**excited** (Answer - ""we can be together"", positive plan)"
+12,"**surprised** (Statement Non-Opinion - ""Holy shit"" indicates shock/revelation)"
+13,"**excited** (Statement Opinion - ""party"", ""have fun"", enthusiastic)"
+14,"**happy** (Statement Opinion - positive anticipation ""even better"")"
+15,**neutral** (Answer - setting up a story neutrally)
+16,**excited** (Statement Non-Opinion - emotional storytelling with relief/elation)
+17,"**excited** (Statement Opinion - ""Oh man"" as positive reaction)"
+18,"**excited** (Answer - ""Oh my God"", immediate action shows eagerness)"
+19,"**happy** (Statement Opinion - ""so great"", positive personal plans)"
+20,"**excited** (Statement Opinion - ""so exciting"", ""new chapter"")"
+21,"**happy** (Agreement - ""it really is"" affirms shared positivity)"
+22,"**excited** (Statement Opinion - aspirational future, energetic imagery)"
+23,"**happy** (Agreement - ""hopefully"" with positive context)"
+24,"**happy** (Statement Opinion - ""so happy for you"")"
+25,"**happy** (Greeting - ""Thank you"" as appreciative response)"
+26,"**happy** (Statement Opinion - ""happy for you/me"", shared joy)"
+27,**neutral** (Statement Non-Opinion - factual invitation)
+28,"**happy** (Statement Opinion - ""love to go"", positive acceptance)"
+29,**neutral** (Agreement - minimal response)
+30,**neutral** (Statement Non-Opinion - factual detail)
+31,"**excited** (Backchannel - ""Ah man"" as positive exclamation about sushi)"
+32,"**excited** (Statement Opinion - ""so great"", ""many great ideas"", enthusiasm)"
+33,**neutral** (Question - factual curiosity)
+34,**neutral** (Backchannel - prompting continuation neutrally)
+1,neutral
+2,frustrated
+3,neutral
+4,frustrated
+5,frustrated
+6,frustrated
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,neutral
+12,frustrated
+13,neutral
+14,frustrated
+15,frustrated
+16,anger
+17,anger
+18,neutral
+19,frustrated
+20,anger
+21,neutral
+22,surprised
+23,neutral
+24,frustrated
+25,frustrated
+26,neutral
+27,neutral
+28,surprised
+29,frustrated
+30,neutral
+31,neutral
+32,neutral
+33,frustrated
+34,anger
+35,neutral
+36,anger
+37,neutral
+38,frustrated
+39,neutral
+40,neutral
+41,frustrated
+42,anger
+43,neutral
+44,frustrated
+45,frustrated
+46,neutral
+47,anger
+48,neutral
+49,neutral
+1,Joey - Hello? (Greeting) → **neutral**
+2,(Statement Non Opinion) → **frustrated**
+3,What's the nature of your problem? But first can I get you to tell me your first and last name? (Question) → **neutral**
+4,(Statement Non Opinion) → **neutral**
+5,Brown what's the nature of your problem? (Question) → **neutral**
+6,(Answer) → **frustrated**
+7,Um- Did you drop it in water? (Question) → **neutral**
+8,(Statement Opinion) → **anger**
+9,(Answer) → **anger**
+10,(Statement Non Opinion) → **frustrated**
+11,(Agreement) → **neutral**
+12,(Question) → **neutral**
+13,"I can't receive- no, it's, it cuts me off-- (Answer) → **frustrated**"
+14,Joey - Is the phone turned on? (Question) → **neutral**
+15,(Answer) → **frustrated**
+16,cause-- (Statement Opinion) → **neutral**
+17,(Statement Non Opinion) → **neutral**
+18,(Statement Non Opinion) → **frustrated**
+19,(Statement Non Opinion) → **neutral**
+20,(Agreement) → **neutral**
+21,(Statement Non Opinion) → **neutral**
+22,No contract okay? (Agreement) → **neutral**
+23,Fey - Really? No contract? (Question) → **surprised**
+24,(Answer) → **neutral**
+25,I want the really good kind-- (Command) → **excited**
+26,(Agreement) → **happy**
+27,(Command) → **excited**
+28,(Command) → **excited**
+29,(Disagreement) → **neutral**
+30,Fey - no (Disagreement) → **frustrated**
+31,Just for being a good customer (Agreement) → **happy**
+32,(Statement Non Opinion) → **neutral**
+33,"Well- I guess - I guess that's okay but, (Statement Opinion) → **neutral**"
+34,(Agreement) → **neutral**
+35,(Statement Opinion) → **happy**
+36,(Greeting) → **neutral**
+1,**fear**
+2,**neutral**
+3,**neutral**
+4,**sad**
+5,**fear**
+6,**neutral**
+7,**sad**
+8,**sad**
+9,**fear**
+10,**fear**
+11,**neutral**
+12,**fear**
+13,**frustrated**
+14,**surprised**
+15,**frustrated**
+16,**surprised**
+17,**frustrated**
+18,**frustrated**
+19,**frustrated**
+20,**fear**
+21,**frustrated**
+22,**frustrated**
+23,**frustrated**
+24,**frustrated**
+25,**neutral**
+26,**neutral**
+27,**excited**
+28,**neutral**
+29,**frustrated**
+30,**neutral**
+31,**neutral**
+32,**fear**
+33,**anger**
+34,**frustrated**
+35,**frustrated**
+36,**sad**
+37,**frustrated**
+38,**fear**
+39,**frustrated**
+40,**frustrated**
+41,**sad**
+42,**frustrated**
+43,**neutral**
+44,**sad**
+45,**neutral**
+46,**frustrated**
+47,**neutral**
+48,**frustrated**
+49,**neutral**
+50,**frustrated**
+51,**neutral**
+52,**fear**
+53,**neutral**
+54,**neutral**
+55,**frustrated**
+56,**frustrated**
+57,**surprised**
+58,**frustrated**
+59,**surprised**
+60,**frustrated**
+61,**fear**
+62,**frustrated**
+63,**frustrated**
+64,**frustrated**
+65,**frustrated**
+66,**fear**
+67,**frustrated**
+68,**neutral**
+69,**fear**
+70,**frustrated**
+71,**frustrated**
+72,**sad**
+73,**sad**
+1,**frustrated** (Question expressing irritation about an unexpected arrival)
+2,**frustrated** (Question challenging Fey's concern defensively)
+3,**fear** (Rhetorical question highlighting anxiety over sudden reappearance)
+4,**neutral** (Answer attempting to rationalize calmly)
+5,**frustrated** (Statement dismissing Joey's idea with irritation)
+6,"**frustrated** (Question defending the subject, showing exasperation)"
+7,**frustrated** (Command reacting defensively to Fey's judgment)
+8,**anger** (Command asserting control with hostility)
+9,**frustrated** (Question challenging Fey's assumption impatiently)
+10,**fear** (Answer revealing anxious conviction)
+11,**frustrated** (Question dismissing concern with irritation)
+12,**fear** (Question seeking clarity amid escalating tension)
+13,**frustrated** (Command trying to assert authority impatiently)
+14,**anger** (Opinion stated defiantly)
+15,**frustrated** (Opinion challenging Fey's certainty)
+16,**frustrated** (Answer insisting defensively)
+17,**fear** (Opinion expressing dread of being proven right)
+18,**frustrated** (Question attempting to de-escalate with weariness)
+19,"**anger** (Answer fiercely protective, condemning others)"
+20,**frustrated** (Question overwhelmed by demands)
+21,"**sad** (Answer pleading desperately, revealing grief)"
+22,**neutral** (Backchannel; incomplete interjection)
+23,**fear** (Opinion expressing extreme despair/ultimatum)
+24,**fear** (Statement describing a superstitious omen frantically)
+25,**frustrated** (Command urging calm amid tension)
+26,**fear** (Statement citing evidence pleadingly)
+27,**frustrated** (Command demanding calm while pressing for answers)
+28,**fear** (Command begging for shared belief desperately)
+29,**frustrated** (Question fixated on perceived accusation)
+30,**neutral** (Statement observing physical state factually)
+31,**sad** (Opinion admitting helplessness)
+32,**anger** (Question accusing Fey of distrust heatedly)
+1,neutral
+2,sad
+3,happy
+4,happy
+5,happy
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,surprised
+12,neutral
+13,neutral
+14,neutral
+15,neutral
+16,frustrated
+17,happy
+18,happy
+19,happy
+20,happy
+21,sad
+22,frustrated
+23,happy
+24,neutral
+25,sad
+26,neutral
+27,neutral
+28,sad
+29,sad
+30,frustrated
+31,frustrated
+32,excited
+33,happy
+34,anger
+35,happy
+36,frustrated
+37,excited
+38,frustrated
+39,neutral
+40,frustrated
+41,excited
+42,surprised
+43,surprised
+44,sad
+45,sad
+46,neutral
+47,neutral
+48,neutral
+49,neutral
+50,sad
+51,neutral
+52,sad
+53,surprised
+54,sad
+55,sad
+56,excited
+57,excited
+58,sad
+59,sad
+60,sad
+61,sad
+62,frustrated
+63,frustrated
+64,sad
+65,sad
+66,happy
+67,happy
+68,happy
+69,happy
+70,excited
+71,neutral
+72,happy
+1,**excited** (Enthusiastic question about the experience)
+2,**happy** (Positive opinion about the night)
+3,**neutral** (Neutral observation/uncertainty)
+4,**neutral** (Logical question/concern)
+5,**frustrated** (Self-critical about forgetting)
+6,**neutral** (Clarifying question)
+7,**neutral** (Explanatory answer)
+8,**neutral** (Factual correction)
+9,**neutral** (Neutral question)
+10,**neutral** (Direct answer)
+11,**frustrated** (Sarcastic agreement)
+12,**frustrated** (Self-critical question)
+13,**neutral** (Reflective question)
+14,**neutral** (Simple answer)
+15,**concerned** (Caring offer)
+16,**frustrated** (Regretful statement)
+17,**neutral** (Casual suggestion)
+18,**frustrated** (Self-deprecating opinion)
+19,**neutral** (Curious question)
+20,**neutral** (Factual statement)
+21,**concerned** (Repeated caring offer)
+22,**neutral** (Declarative answer)
+23,**frustrated** (Defensive rhetorical questions)
+24,**neutral** (Matter-of-fact answer)
+25,**frustrated** (Sarcastic backchannel)
+26,**neutral** (Factual statement)
+27,**frustrated** (Contradictory agreement)
+28,**neutral** (Direct command)
+29,**frustrated** (Challenging question)
+30,**neutral** (Vague answer)
+31,**excited** (Passionate justification)
+32,**neutral** (Dismissive fact)
+33,**excited** (Enthusiastic description)
+34,**excited** (Dramatic opinion)
+35,**frustrated** (Critical opinion)
+36,**frustrated** (Defensive disagreement)
+37,**neutral** (Minimal backchannel)
+38,**excited** (Awe-filled statement)
+39,**frustrated** (Baffled opinion)
+40,**neutral** (Flat statement)
+41,**surprised** (Disbelieving question)
+42,**neutral** (Simple answer)
+43,**frustrated** (Confused statement)
+44,**neutral** (Factual recollection)
+45,**frustrated** (Negative recollection)
+46,**happy** (Optimistic opinion)
+47,**neutral** (Factual correction)
+48,**frustrated** (Defensive justification)
+49,**neutral** (Uncertain question)
+50,**happy** (Positive reaffirmation)
+51,**frustrated** (Pleading command)
+52,**excited** (Awe-filled description)
+53,**excited** (Wondrous continuation)
+54,**excited** (Philosophical opinion)
+55,**excited** (Dramatic imagery)
+56,**excited** (Physical reaction to awe)
+57,**neutral** (Literal rebuttal)
+58,**neutral** (Open-ended question)
+59,**neutral** (Clarifying question)
+60,**neutral** (Direct answer)
+"- **Joey**: Primarily shifts between **excited** (nature's wonder), **frustrated** (forgetfulness/Fey's disinterest), and **happy** (cherishing the moment)",
+"- **Fey**: Consistently **neutral**/**frustrated**, with flat responses and one critical opinion (line 35)",
+"- **Sarcasm/Defensiveness**: Joey's frustration peaks during disagreements (lines 11, 23, 27, 36)",
+- **Awe vs,
+1,neutral
+2,neutral
+3,neutral
+4,frustrated
+5,frustrated
+6,frustrated
+7,frustrated
+8,frustrated
+9,neutral
+10,neutral
+11,neutral
+12,neutral
+13,neutral
+14,neutral
+15,anger
+16,neutral
+17,frustrated
+18,frustrated
+19,neutral
+20,neutral
+21,neutral
+22,neutral
+23,anger
+24,neutral
+25,frustrated
+26,sad
+27,neutral
+28,frustrated
+29,frustrated
+30,sad
+31,frustrated
+32,frustrated
+33,neutral
+34,neutral
+35,neutral
+36,happy
+37,happy
+38,happy
+39,happy
+40,excited
+41,neutral
+42,neutral
+43,neutral
+44,neutral
+45,sad
+46,sad
+47,neutral
+48,frustrated
+49,neutral
+50,frustrated
+51,neutral
+52,frustrated
+53,frustrated
+54,frustrated
+55,frustrated
+56,frustrated
+57,sad
+58,sad
+59,frustrated
+60,frustrated
+61,sad
+62,sad
+63,frustrated
+64,neutral
+65,neutral
+66,sad
+67,sad
+68,neutral
+69,neutral
+70,happy
+71,sad
+72,sad
+73,frustrated
+74,sad
+75,happy
+76,neutral
+77,happy
+78,sad
+79,happy
+80,sad
+81,neutral
+82,neutral
+83,happy
+84,happy
+85,neutral
+86,neutral
+87,neutral
+88,happy
+89,neutral
+90,neutral
+91,happy
+92,sad
+93,neutral
+94,neutral
+95,neutral
+1,**neutral**
+2,**fear**
+3,**neutral**
+4,**fear**
+5,**neutral**
+6,**fear**
+7,**happy**
+8,**happy**
+9,**happy**
+10,**sad**
+11,**surprised**
+12,**fear**
+13,**neutral**
+14,**fear**
+15,**neutral**
+16,**neutral**
+17,**neutral**
+18,**sad**
+19,**sad**
+20,**frustrated**
+21,**sad**
+22,**surprised**
+23,**sad**
+24,**frustrated**
+25,**frustrated**
+26,**excited**
+27,**neutral**
+28,**excited**
+29,**excited**
+30,**sad**
+31,**neutral**
+32,**sad**
+33,**neutral**
+34,**sad**
+35,**sad**
+36,**sad**
+37,**neutral**
+38,**sad**
+39,**excited**
+40,**sad**
+41,**frustrated**
+42,**frustrated**
+43,**frustrated**
+44,**excited**
+45,**excited**
+46,**neutral**
+47,**frustrated**
+48,**excited**
+49,**happy**
+50,**anger**
+51,**neutral**
+52,**neutral**
+53,**neutral**
+54,**happy**
+55,**anger**
+56,**frustrated**
+57,**anger**
+58,**neutral**
+59,**neutral**
+60,**neutral**
+61,**neutral**
+62,**neutral**
+63,**excited**
+64,**happy**
+65,**neutral**
+66,**neutral**
+67,**happy**
+68,**sad**
+69,**neutral**
+70,**sad**
+71,**neutral**
+1,**neutral**
+2,**frustrated**
+3,**frustrated**
+4,**neutral**
+5,**frustrated**
+6,**frustrated**
+7,**anger**
+8,**anger**
+9,**frustrated**
+10,**neutral**
+11,**frustrated**
+12,**frustrated**
+13,**neutral**
+14,**frustrated**
+15,**frustrated**
+16,**sad**
+17,**frustrated**
+18,**sad**
+19,**neutral**
+20,**neutral**
+21,**neutral**
+22,**frustrated**
+23,**frustrated**
+24,**frustrated**
+25,**frustrated**
+26,**frustrated**
+27,**frustrated**
+28,**anger**
+29,**anger**
+30,**anger**
+31,**neutral**
+32,**neutral**
+33,**neutral**
+34,**neutral**
+35,**sad**
+36,**sad**
+37,**neutral**
+38,**neutral**
+39,**frustrated**
+40,**frustrated**
+41,**anger**
+42,**sarcastic** (neutral)*
+43,**neutral**
+44,**neutral**
+45,**frustrated**
+46,**anger**
+47,**anger**
+48,**anger**
+49,**frustrated**
+50,**frustrated**
+51,**frustrated**
+52,**frustrated**
+53,**anger**
+54,**neutral**
+55,**neutral**
+56,**anger**
+57,**anger**
+58,**anger**
+59,**anger**
+60,**frustrated**
+61,**frustrated**
+62,**frustrated**
+63,**frustrated**
+64,**sarcastic** (frustrated)*
+65,**anger**
+66,**sarcastic** (frustrated)*
+67,**sarcastic** (frustrated)*
+68,**neutral**
+69,**frustrated**
+70,**neutral**
+71,**neutral**
+72,**neutral**
+73,**neutral**
+74,**neutral**
+75,**frustrated**
+76,**frustrated**
+77,**anger**
+78,**anger**
+79,**anger**
+80,**anger**
+81,**anger**
+82,**anger**
+83,**sarcastic** (anger)*
+84,**anger**
+85,**anger**
+86,**anger**
+87,**anger**
+88,**anger**
+89,**anger**
+90,**anger**
+91,**anger**
+92,**anger**
+93,**neutral**
+\* *Sarcastic remarks default to the underlying emotion (frustrated/anger) but are labeled contextually,*
+1,**frustrated** (Expresses confusion and time wasted)
+2,**neutral** (Asks for clarification professionally)
+3,**frustrated** (Expresses exasperation with the process)
+4,**neutral** (Clarifying question)
+5,**neutral** (Simple confirmation)
+6,**neutral** (Factual statement about the form error)
+7,**neutral** (Brief acknowledgment)
+8,**neutral** (Factual statement of procedure)
+9,**frustrated** (Defensive assertion of following instructions)
+10,**frustrated** (Exasperated recounting of experience)
+11,**frustrated** (Impatient refusal)
+12,**frustrated** (Expresses urgency and pleads)
+13,**neutral** (Simple factual statement)
+14,**frustrated** (Expresses annoyance with job/client)
+15,**neutral** (Direct instruction/procedure)
+16,**frustrated** (Exasperated plea and questioning)
+17,**frustrated** (Forceful refusal)
+18,**neutral** (Instruction/procedure)
+19,**frustrated** (Exasperated statement of experience)
+20,**neutral** (Instruction/procedure)
+21,**neutral** (Instruction/procedure)
+22,**frustrated** (Question expressing disbelief/annoyance)
+23,**neutral** (Factual answer identifying error)
+24,**neutral** (Statement continuing factual error)
+25,**frustrated** (Assertive statement trying to bypass procedure)
+26,**frustrated** (Impatient statement prioritizing others)
+27,**frustrated** (Statement emphasizing personal inconvenience)
+28,**neutral** (Factual statement listing errors)
+29,**neutral** (Factual statement listing error + instruction)
+30,**angry** (Forceful refusal and disagreement)
+31,**neutral** (Instruction/procedure)
+32,"**frustrated** (Beginning to lose patience, fragmented speech)"
+33,**frustrated** (Direct plea for help)
+34,**frustrated** (Forceful refusal/reiteration)
+35,**frustrated** (Exasperated justification of urgency)
+36,**frustrated** (Dismissive instruction prioritizing break)
+37,**angry** (Forceful demand/command)
+38,**neutral** (Reiteration of previous statement)
+39,**frustrated** (Accusatory statement of purpose)
+40,**frustrated** (Accusatory statement of purpose)
+41,**angry** (Explicit statement of lost patience)
+42,"**surprised** (Shocked, disbelieving repetition)"
+43,"**angry** (Intensified, profane statement of anger)"
+44,**surprised** (Repeated shocked disbelief)
+45,**angry** (Profane expression of job dissatisfaction)
+46,**frustrated** (Sarcastic/pointed agreement)
+47,**frustrated** (Assertion of personal urgency)
+48,"**angry** (Desperate, profane plea/demand)"
+49,"**angry** (Dismissive, unprofessional statement ending interaction)"
+1,sad
+2,sad
+3,frustrated
+4,sad
+5,frustrated
+6,sad
+7,sad
+8,fear
+9,frustrated
+10,frustrated
+11,frustrated
+12,sad
+13,frustrated
+14,anger
+15,frustrated
+16,anger
+17,frustrated
+18,frustrated
+19,frustrated
+20,neutral
+21,frustrated
+22,frustrated
+23,sad
+24,frustrated
+25,sad
+26,frustrated
+27,frustrated
+28,sad
+29,frustrated
+30,anger
+31,frustrated
+32,anger
+33,frustrated
+34,neutral
+35,frustrated
+36,anger
+37,anger
+38,anger
+39,anger
+40,anger
+41,frustrated
+42,anger
+43,neutral
+44,anger
+45,frustrated
+46,sad
+47,frustrated
+48,frustrated
+49,frustrated
+50,sad
+51,sad
+52,frustrated
+1,excited
+2,neutral
+3,excited
+4,surprised
+5,happy
+6,excited
+7,excited
+8,neutral
+9,happy
+10,neutral
+11,happy
+12,neutral
+13,excited
+14,excited
+15,happy
+16,excited
+17,excited
+18,excited
+19,happy
+20,neutral
+21,neutral
+22,frustrated
+23,frustrated
+24,frustrated
+25,frustrated
+26,frustrated
+27,frustrated
+28,frustrated
+29,neutral
+30,neutral
+31,neutral
+32,neutral
+33,neutral
+34,neutral
+35,excited
+36,neutral
+37,frustrated
+38,neutral
+39,frustrated
+40,neutral
+41,neutral
+42,frustrated
+43,frustrated
+44,frustrated
+45,frustrated
+46,neutral
+47,frustrated
+48,frustrated
+49,frustrated
+50,neutral
+51,frustrated
+52,neutral
+53,frustrated
+54,frustrated
+55,frustrated
+56,neutral
+57,neutral
+58,neutral
+59,neutral
+60,neutral
+61,happy
+62,neutral
+63,neutral
+64,neutral
+65,excited
+66,excited
+67,neutral
+68,excited
+69,happy
+70,neutral
+71,happy
+72,happy
+73,frustrated
+74,neutral
+75,excited
+76,excited
+77,happy
+78,happy
+79,excited
+80,excited
+81,excited
+82,happy
+83,excited
+84,excited
+85,neutral
+86,excited
+87,excited
+88,neutral
+89,sad
+90,neutral
+91,sad
+92,neutral
+93,frustrated
+94,neutral
+95,frustrated
+96,happy
+97,happy
+98,happy
+99,happy
+100,neutral
+101,happy
+102,happy
+1,frustrated
+2,frustrated
+3,sad
+4,frustrated
+5,frustrated
+6,sad
+7,angry
+8,frustrated
+9,neutral
+10,angry
+11,frustrated
+12,sad
+13,frustrated
+14,surprised
+15,neutral
+16,frustrated
+17,sad
+18,neutral
+19,sad
+20,neutral
+21,sad
+22,frustrated
+23,angry
+24,frustrated
+25,angry
+26,neutral
+27,angry
+28,neutral
+29,frustrated
+30,neutral
+31,frustrated
+32,angry
+33,frustrated
+34,angry
+35,neutral
+36,frustrated
+37,frustrated
+38,frustrated
+39,neutral
+40,frustrated
+41,neutral
+42,frustrated
+43,neutral
+44,neutral
+45,frustrated
+46,neutral
+47,frustrated
+48,frustrated
+49,angry
+50,angry
+51,angry
+52,frustrated
+53,sad
+54,frustrated
+55,sad
+56,frustrated
+57,angry
+58,frustrated
+59,sad
+60,angry
+61,angry
+62,neutral
+63,angry
+64,frustrated
+65,frustrated
+66,angry
+67,neutral
+68,neutral
+69,angry
+1,neutral
+2,anger
+3,neutral
+4,anger
+5,neutral
+6,frustrated
+7,neutral
+8,anger
+9,anger
+10,neutral
+11,surprised
+12,neutral
+13,anger
+14,anger
+15,neutral
+16,anger
+17,neutral
+18,anger
+19,neutral
+20,neutral
+21,neutral
+22,neutral
+23,anger
+24,neutral
+25,neutral
+26,anger
+27,neutral
+28,anger
+29,neutral
+30,anger
+31,neutral
+32,neutral
+33,neutral
+34,anger
+35,neutral
+36,anger
+37,neutral
+38,surprised
+39,neutral
+40,anger
+41,neutral
+1,sad
+2,neutral
+3,sad
+4,sad
+5,sad
+6,neutral
+7,sad
+8,sad
+9,sad
+10,sad
+11,sad
+12,sad
+13,sad
+14,sad
+15,sad
+16,neutral
+17,neutral
+18,happy
+19,happy
+20,happy
+21,happy
+22,happy
+23,happy
+24,neutral
+1,neutral
+2,excited
+3,neutral
+4,happy
+5,surprised
+6,neutral
+7,surprised
+8,happy
+9,surprised
+10,happy
+11,happy
+12,excited
+13,happy
+14,happy
+15,neutral
+16,happy
+17,neutral
+18,neutral
+19,excited
+20,neutral
+21,happy
+22,neutral
+23,happy
+24,neutral
+25,happy
+26,happy
+27,happy
+28,neutral
+29,happy
+30,surprised
+31,neutral
+32,surprised
+33,happy
+34,surprised
+35,surprised
+36,happy
+37,neutral
+38,neutral
+39,neutral
+40,neutral
+41,happy
+42,happy
+43,neutral
+44,happy
+45,neutral
+46,happy
+47,neutral
+48,happy
+49,neutral
+50,happy
+51,happy
+52,happy
+53,happy
+54,happy
+55,neutral
+56,happy
+57,happy
+58,excited
+59,neutral
+60,excited
+61,surprised
+62,happy
+63,happy
+64,neutral
+65,happy
+66,happy
+67,happy
+68,happy
+69,neutral
+70,neutral
+71,happy
+72,happy
+73,happy
+74,happy
+75,happy
+76,neutral
+77,happy
+78,neutral
+79,surprised
+80,neutral
+81,neutral
+82,happy
+83,happy
+84,excited
+85,happy
+86,neutral
+87,happy
+88,excited
+89,happy
+90,excited
+91,happy
+92,excited
+93,excited
+94,excited
+95,excited
+96,happy
+97,happy
+98,neutral
+99,neutral
+100,neutral
+101,neutral
+102,neutral
+103,neutral
+104,happy
+105,happy
+106,happy
+107,neutral
+108,neutral
+109,neutral
+110,neutral
+111,neutral
+112,neutral
+113,neutral
+114,neutral
+115,neutral
+116,neutral
+117,neutral
+118,neutral
+119,neutral
+120,neutral
+121,happy
+122,neutral
+123,happy
+124,surprised
+125,neutral
+126,neutral
+127,neutral
+128,neutral
+129,neutral
+130,neutral
+131,happy
+132,happy
+133,happy
+134,happy
+135,happy
+136,happy
+137,neutral
+138,excited
+139,neutral
+140,neutral
+141,neutral
+142,neutral
+143,neutral
+144,neutral
+145,neutral
+146,neutral
+147,neutral
+148,happy
+149,neutral
+150,neutral
+151,neutral
+152,neutral
+153,neutral
+154,happy
+155,happy
+156,neutral
+157,neutral
+158,neutral
+159,neutral
+160,happy
+161,frustrated
+162,happy
+163,happy
+164,happy
+165,happy
+166,happy
+167,happy
+1,Fey - **neutral** (Professional inquiry)
+2,Joey - **neutral** (Factual response)
+3,Fey - **neutral** (Routine question)
+4,Joey - **neutral** (Objective answer)
+5,Joey - **neutral** (Non-opinion statement)
+6,Fey - **neutral** (Clarification request)
+7,Joey - **frustrated** (Details error with emphasis)
+8,Joey - **disgust/frustrated** (Gross detail implies irritation)
+9,Fey - **neutral** (Procedural question)
+10,"Joey - **angry** (""have your ass"" threat shows rage)"
+11,Fey - **happy** (Apology with upbeat reassurance)
+12,Joey - **frustrated** (Corrects amount sharply)
+13,Fey - **neutral** (Standard instruction)
+14,Joey - **frustrated** (Resists transfer demandingly)
+15,Joey - **frustrated** (Pleading/tense self-description)
+16,"Joey - **angry** (Threatens to ""lose my mind"")"
+17,Fey - **neutral** (Procedural assurance)
+18,"Joey - **angry** (Dismissive ""you don't understand"")"
+19,Fey - **neutral** (Solution-focused)
+20,Joey - **frustrated** (Accusatory repetition)
+21,Joey - **frustrated** (Demanding tone)
+22,"Joey - **angry** (""stupid corporate building"" insult)"
+23,Fey - **neutral** (Attempted explanation)
+24,Fey - **neutral** (Attention-getter)
+25,Fey - **neutral** (Reassuring statement)
+26,Joey - **frustrated** (Aggressive questioning)
+27,Fey - **neutral** (Simple answer)
+28,Joey - **frustrated** (Skeptical repetition)
+29,Fey - **neutral** (Clarification)
+30,Joey - **angry** (Demanding personal details)
+31,Fey - **frustrated** (Defensive refusal)
+32,Joey - **angry** (Threatening language)
+33,Joey - **angry** (Explicit threat)
+34,Fey - **frustrated** (Insistent despite pushback)
+35,Fey - **frustrated** (Sarcastic agreement)
+36,Joey - **frustrated** (Dismissive repetition)
+37,Fey - **neutral** (Attempted resolution)
+38,"Joey - **sad/frustrated** (Defeated ""do whatever"")"
+39,"Joey - **sad** (""lost all hope"" resignation)"
+40,Fey - **neutral** (Professional offer)
+41,"Joey - **sad** (""It's fine"" with defeat)"
+42,"Joey - **sad** (""you don't care"" hopelessness)"
+43,Fey - **frustrated** (Interrupted objection)
+44,Fey - **frustrated** (Defensive claim)
+45,Joey - **sad** (Resigned acceptance)
+46,Fey - **frustrated** (Exasperated question)
+47,"Joey - **sad** (Short, defeated reply)"
+48,"Fey - **frustrated** (Terse, insincere acknowledgment)"
+1,fear
+2,neutral
+3,neutral
+4,neutral
+5,neutral
+6,neutral
+7,fear
+8,neutral
+9,frustrated
+10,surprised
+11,frustrated
+12,surprised
+13,frustrated
+14,frustrated
+15,frustrated
+16,frustrated
+17,fear
+18,frustrated
+19,frustrated
+20,frustrated
+21,frustrated
+22,neutral
+23,frustrated
+24,frustrated
+25,neutral
+26,neutral
+27,neutral
+28,neutral
+29,neutral
+30,frustrated
+31,frustrated
+32,neutral
+33,fear
+34,neutral
+35,neutral
+36,anger
+37,frustrated
+38,neutral
+39,anger
+40,neutral
+41,frustrated
+42,frustrated
+43,neutral
+44,anger
+45,neutral
+46,neutral
+47,fear
+48,neutral
+49,frustrated
+50,neutral
+51,neutral
+52,neutral
+53,neutral
+54,frustrated
+55,neutral
+56,frustrated
+57,fear
+58,fear
+59,neutral
+60,neutral
+61,sad
+62,sad
+63,surprised
+64,neutral
+65,surprised
+66,anger
+67,surprised
+68,frustrated
+69,frustrated
+70,neutral
+71,frustrated
+72,surprised
+73,neutral
+74,neutral
+75,neutral
+76,neutral
+77,frustrated
+78,neutral
+79,frustrated
+80,neutral
+81,sad
+82,neutral
+83,neutral
+1,frustrated
+2,neutral
+3,frustrated
+4,neutral
+5,frustrated
+6,angry
+7,neutral
+8,frustrated
+9,neutral
+10,frustrated
+11,neutral
+12,sad
+13,sad
+14,neutral
+15,frustrated
+16,sad
+17,neutral
+18,angry
+19,frustrated
+20,angry
+21,neutral
+22,sad
+23,frustrated
+24,fear
+25,neutral
+26,sad
+27,neutral
+28,excited
+29,neutral
+30,angry
+31,surprised
+32,sad
+33,surprised
+34,fear
+35,frustrated
+1,neutral
+2,neutral
+3,neutral
+4,happy
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,sad
+11,frustrated
+12,neutral
+13,neutral
+14,neutral
+15,neutral
+16,happy
+17,neutral
+18,sad
+19,excited
+20,neutral
+21,happy
+22,neutral
+23,neutral
+24,neutral
+25,neutral
+26,surprised
+27,happy
+28,frustrated
+29,frustrated
+30,excited
+31,happy
+32,frustrated
+33,happy
+34,frustrated
+35,neutral
+36,neutral
+37,neutral
+38,excited
+39,neutral
+40,neutral
+41,frustrated
+42,neutral
+43,frustrated
+44,frustrated
+45,neutral
+46,frustrated
+47,neutral
+48,neutral
+49,sad
+50,neutral
+51,sad
+52,surprised
+53,sad
+54,sad
+55,sad
+56,sad
+57,neutral
+58,neutral
+59,sad
+60,sad
+61,frustrated
+62,sad
+63,sad
+64,sad
+65,neutral
+66,neutral
+67,anger
+68,sad
+69,neutral
+70,happy
+71,neutral
+72,neutral
+73,happy
+74,excited
+75,happy
+1,excited
+2,fear
+3,neutral
+4,fear
+5,neutral
+6,frustrated
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,frustrated
+12,frustrated
+13,neutral
+14,neutral
+15,neutral
+16,excited
+17,frustrated
+18,neutral
+19,neutral
+20,neutral
+21,frustrated
+22,surprised
+23,neutral
+24,neutral
+25,neutral
+26,neutral
+27,frustrated
+28,frustrated
+29,neutral
+30,neutral
+31,frustrated
+32,excited
+33,excited
+34,frustrated
+35,neutral
+36,excited
+37,frustrated
+38,neutral
+39,neutral
+40,neutral
+41,excited
+42,excited
+43,neutral
+44,surprised
+45,neutral
+46,surprised
+47,frustrated
+48,neutral
+49,neutral
+50,happy
+51,frustrated
+52,excited
+53,excited
+54,excited
+55,excited
+56,excited
+57,excited
+58,excited
+59,excited
+60,neutral
+61,neutral
+62,neutral
+63,neutral
+64,frustrated
+1,neutral
+2,neutral
+3,neutral
+4,frustrated
+5,frustrated
+6,frustrated
+7,frustrated
+8,frustrated
+9,neutral
+10,frustrated
+11,frustrated
+12,anger
+13,neutral
+14,neutral
+15,neutral
+16,frustrated
+17,neutral
+18,frustrated
+19,neutral
+20,anger
+21,neutral
+22,frustrated
+23,frustrated
+24,neutral
+25,frustrated
+26,frustrated
+27,sad
+28,neutral
+29,neutral
+30,frustrated
+31,frustrated
+32,sad
+33,frustrated
+34,neutral
+35,neutral
+36,neutral
+37,neutral
+38,neutral
+39,neutral
+40,neutral
+41,neutral
+42,sad
+43,neutral
+44,neutral
+45,neutral
+46,neutral
+47,sad
+48,neutral
+49,neutral
+50,neutral
+51,neutral
+52,neutral
+53,neutral
+54,frustrated
+55,neutral
+56,neutral
+57,neutral
+58,neutral
+59,neutral
+60,neutral
+61,neutral
+62,anger
+63,sad
+64,frustrated
+65,frustrated
+66,frustrated
+67,sad
+68,sad
+69,neutral
+70,neutral
+71,frustrated
+72,frustrated
+73,neutral
+74,sad
+75,sad
+76,sad
+77,neutral
+78,sad
+79,sad
+80,frustrated
+81,sad
+82,neutral
+83,neutral
+84,frustrated
+85,frustrated
+86,neutral
+87,neutral
+88,neutral
+89,neutral
+90,neutral
+91,neutral
+92,neutral
+93,neutral
+94,neutral
+95,neutral
+96,neutral
+97,neutral
+98,neutral
+99,neutral
+1,neutral
+2,neutral
+3,neutral
+4,fear
+5,happy
+6,happy
+7,happy
+8,neutral
+9,neutral
+10,fear
+11,fear
+12,happy
+13,happy
+14,happy
+15,happy
+16,sad
+17,frustrated
+18,sad
+19,neutral
+20,neutral
+21,frustrated
+22,frustrated
+23,neutral
+24,neutral
+25,frustrated
+26,excited
+27,angry
+28,neutral
+29,happy
+30,sad
+31,neutral
+32,neutral
+33,sad
+34,fear
+35,neutral
+36,fear
+37,happy
+38,neutral
+39,happy
+40,frustrated
+41,happy
+42,excited
+43,excited
+44,neutral
+45,happy
+46,happy
+47,happy
+48,neutral
+49,neutral
+50,neutral
+51,happy
+52,angry
+53,sad
+54,neutral
+55,neutral
+56,neutral
+57,neutral
+58,happy
+59,sad
+60,neutral
+61,neutral
+62,neutral
+63,happy
+64,neutral
+65,neutral
+66,neutral
+1,neutral
+2,frustrated
+3,frustrated
+4,neutral
+5,frustrated
+6,frustrated
+7,frustrated
+8,frustrated
+9,frustrated
+10,neutral
+11,frustrated
+12,frustrated
+13,surprised
+14,neutral
+15,frustrated
+16,frustrated
+17,frustrated
+18,frustrated
+19,frustrated
+20,neutral
+21,neutral
+22,frustrated
+23,frustrated
+24,frustrated
+25,frustrated
+26,frustrated
+27,frustrated
+28,frustrated
+29,frustrated
+30,frustrated
+31,neutral
+32,neutral
+33,sarcastic (neutral)
+34,sarcastic (neutral)
+35,neutral
+36,neutral
+37,frustrated
+38,frustrated
+39,frustrated
+40,angry
+41,angry
+42,angry
+43,frustrated
+44,frustrated
+45,frustrated
+46,frustrated
+47,angry
+48,frustrated
+49,neutral
+50,angry
+51,angry
+52,angry
+53,angry
+54,frustrated
+55,frustrated
+56,frustrated
+57,frustrated
+58,sarcastic (frustrated)
+59,angry
+60,sarcastic (frustrated)
+61,frustrated
+62,neutral
+63,frustrated
+64,frustrated
+65,frustrated
+66,neutral
+67,neutral
+68,neutral
+69,frustrated
+70,angry
+71,angry
+72,angry
+73,angry
+74,angry
+75,angry
+76,angry
+77,angry
+78,angry
+79,angry
+80,angry (sarcastic)
+81,angry
+82,angry
+83,angry
+84,angry
+85,angry
+86,angry
+87,angry
+88,angry
+89,angry
+90,angry
+91,angry
+1,frustrated
+2,neutral
+3,neutral
+4,frustrated
+5,neutral
+6,neutral
+7,neutral
+8,frustrated
+9,neutral
+10,frustrated
+11,frustrated
+12,neutral
+13,neutral
+14,frustrated
+15,frustrated
+16,frustrated
+17,frustrated
+18,neutral
+19,frustrated
+20,neutral
+21,frustrated
+22,neutral
+23,neutral
+24,frustrated
+25,frustrated
+26,frustrated
+27,frustrated
+28,frustrated
+29,angry
+30,neutral
+31,frustrated
+32,frustrated
+33,frustrated
+34,frustrated
+35,angry
+36,frustrated
+37,frustrated
+38,frustrated
+39,angry
+40,neutral
+41,frustrated
+42,neutral
+43,neutral
+44,frustrated
+45,neutral
+46,angry
+47,neutral
+1,frustrated
+2,angry
+3,frustrated
+4,sad
+5,neutral
+6,sad
+7,neutral
+8,fearful
+9,frustrated
+10,angry
+11,frustrated
+12,neutral
+13,angry
+14,fearful
+15,frustrated
+16,angry
+17,neutral
+18,angry
+19,frustrated
+20,angry
+21,frustrated
+22,angry
+23,sad
+24,sad
+25,frustrated
+26,angry
+27,frustrated
+28,sad
+29,neutral
+30,neutral
+31,angry
+32,sad
+33,angry
+34,frustrated
+35,angry
+36,frustrated
+37,angry
+38,frustrated
+39,angry
+40,surprised
+41,angry
+42,neutral (Others)
+43,angry
+44,frustrated
+45,angry
+46,fearful
+47,angry
+48,neutral
+49,angry
+50,frustrated
+51,sad
+52,neutral
+1,**neutral**
+2,**surprised**
+3,**happy**
+4,**excited**
+5,**happy** (amused)
+6,**neutral**
+7,**excited**
+8,**excited**
+9,**surprised**
+10,**neutral**
+11,**excited**
+12,**happy**
+13,**happy**
+14,**neutral**
+15,**neutral**
+16,**happy**
+17,**neutral**
+18,**excited**
+19,**neutral**
+20,**surprised**
+21,**neutral**
+22,**neutral**
+23,**curious** (excited)
+24,**surprised**
+25,**neutral**
+26,**neutral**
+27,**neutral**
+28,**excited**
+29,**excited**
+30,**neutral**
+31,**excited**
+32,**neutral**
+33,**happy** (amused)
+34,**neutral**
+35,**excited**
+36,**neutral**
+37,**happy**
+38,**neutral**
+39,**happy**
+40,**excited** (with nervousness)
+41,**happy**
+42,**neutral**
+43,**curious**
+44,**neutral**
+45,**happy**
+46,**happy**
+47,**happy** (amused)
+48,**neutral**
+49,**neutral**
+50,**neutral**
+51,**happy** (teasing)
+52,**neutral**
+53,**neutral**
+54,**neutral**
+"- **Fey** consistently shows **excitement** (lines 4,7,11,18,29,31) and **happy surprise** (2,9,20) about the engagement",
+"- **Joey** expresses **happiness** (3,12) and **excitement** (8,28,40) about his marriage, with moments of nervousness (40)",
+"- Humor (**happy/amused**) surfaces during wedding planning (5,33,47,51)",
+"- Neutral tones dominate logistical discussions (wedding details, requests)",
+1,**frustrated**
+2,**frustrated**
+3,**frustrated**
+4,**neutral**
+5,**frustrated**
+6,**neutral**
+7,**neutral**
+8,**frustrated**
+9,**frustrated**
+10,**frustrated**
+11,**neutral**
+12,**frustrated**
+13,**neutral**
+14,**frustrated**
+15,**sad**
+16,**neutral**
+17,**angry**
+18,**neutral**
+19,**angry**
+20,**surprised**
+21,**angry**
+22,**surprised**
+23,**angry**
+24,**neutral**
+25,**sad**
+26,**neutral**
+27,**angry**
+28,**angry**
+29,**surprised**
+30,**frustrated**
+31,**neutral**
+32,**angry**
+33,**neutral**
+34,**angry**
+35,**neutral**
+36,**neutral**
+37,**sad**
+1,**neutral** (Factual arrival statement)
+2,**neutral** (Acknowledgment)
+3,**neutral** (Acknowledgment)
+4,**frustrated** (Explaining loss with defensiveness)
+5,**surprised** (Mild shock at correction)
+6,**neutral** (Neutral opinion statement)
+7,**neutral** (Factual claim)
+8,**neutral** (Justification of value)
+9,**sad** (Apologetic tone)
+10,**neutral** (Policy statement)
+11,**surprised** (Incredulous question)
+12,**neutral** (Informative answer)
+13,**frustrated** (Dismissive opinion)
+14,**frustrated** (Challenging question)
+15,**frustrated** (Insistent instruction)
+16,**frustrated** (Politely firm refusal)
+17,**frustrated** (Assertive demand)
+18,**frustrated** (Defiant refusal)
+19,"**angry** (Dismissive, escalating tone)"
+20,**sad** (Empathetic apology)
+21,**neutral** (Policy restatement)
+22,**frustrated** (Repetitive insistence)
+23,**neutral** (Policy restatement)
+24,**frustrated** (Interrupting insistence)
+25,**neutral** (Policy restatement)
+26,**frustrated** (Forced reassurance)
+27,**angry** (Explicit threat)
+28,**sad** (Apology)
+29,**sad** (Empathetic apology)
+30,**frustrated** (Dismissive contradiction)
+31,**frustrated** (Sarcastic justification)
+32,**sad** (Apologetic acknowledgment)
+33,**neutral** (Compromise offer)
+34,**angry** (Aggressive demand)
+35,**frustrated** (Firm refusal)
+36,**angry** (Command with threat)
+37,**neutral** (Procedural statement)
+38,**frustrated** (Exasperated request)
+39,**neutral** (Factual answer)
+40,**neutral** (Offer)
+41,**frustrated** (Insistent demand)
+42,**neutral** (Informative statement)
+43,**frustrated** (Pleading interruption)
+44,**frustrated** (Persistent request)
+45,**neutral** (Helpful suggestion)
+46,**neutral** (Added offer)
+47,**frustrated** (Condescending argument)
+48,**fear** (Statement about job risk)
+49,**angry** (Self-centered assertion)
+50,**frustrated** (Retaliatory statement)
+51,**neutral** (Policy restatement)
+52,**frustrated** (Weary plea)
+53,**neutral** (Compliant answer)
+54,**neutral** (Procedural statement)
+55,**frustrated** (Desperate suggestion)
+56,**frustrated** (Elaboration)
+57,**neutral** (Moral statement)
+58,**frustrated** (Counter-argument)
+59,**frustrated** (Justification)
+60,**neutral** (Policy restatement)
+61,**frustrated** (Emotional plea)
+62,**neutral** (Acknowledgment)
+63,**sad** (Personal appeal)
+64,**neutral** (Empathetic agreement)
+65,**frustrated** (Pleading command)
+66,**neutral** (Calm suggestion)
+67,**frustrated** (Defensive claim)
+68,**frustrated** (Bargaining tone)
+69,**frustrated** (Sarcastic refusal)
+70,**angry** (Accusatory tone)
+71,**neutral** (Blunt agreement)
+72,**frustrated** (Threatening implication)
+73,**sad** (Apology)
+74,**frustrated** (Skeptical statement)
+75,**neutral** (Clarifying question)
+76,**frustrated** (Manipulative challenge)
+77,**angry** (Aggressive suggestion)
+1,neutral
+2,sad
+3,sad
+4,sad
+5,neutral
+6,sad
+7,sad
+8,frustrated
+9,sad
+10,sad
+11,neutral
+12,sad
+13,neutral
+14,sad
+15,neutral
+16,sad
+17,frustrated
+18,neutral
+19,frustrated
+20,frustrated
+21,neutral
+22,sad
+23,neutral
+24,sad
+25,sad
+26,neutral
+27,sad
+28,sad
+29,sad
+30,sad
+31,neutral
+32,neutral
+33,sad
+1,excited
+2,surprised
+3,excited
+4,surprised
+5,excited
+6,excited
+7,happy
+8,excited
+9,surprised
+10,neutral
+11,neutral
+12,neutral
+13,neutral
+14,neutral
+15,neutral
+16,happy
+17,happy
+18,surprised
+19,happy
+20,happy
+21,excited
+22,happy
+23,neutral
+24,happy
+25,happy
+26,happy
+27,excited
+28,happy
+29,neutral
+30,neutral
+31,neutral
+32,happy
+33,happy
+34,neutral
+35,happy
+36,excited
+37,neutral
+38,surprised
+39,happy
+40,neutral
+41,neutral
+42,happy
+43,neutral
+44,frustrated
+45,happy
+46,neutral
+47,happy
+48,neutral
+49,happy
+50,neutral
+51,neutral
+52,happy
+53,excited
+54,happy
+55,neutral
+56,frustrated
+57,frustrated
+58,happy
+59,frustrated
+60,happy
+61,neutral
+62,neutral
+63,neutral
+64,neutral
+65,neutral
+66,happy
+67,neutral
+68,surprised
+69,neutral
+70,frustrated
+71,neutral
+72,frustrated
+73,frustrated
+74,neutral
+1,neutral
+2,neutral
+3,neutral
+4,frustrated
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,frustrated
+11,frustrated
+12,neutral
+13,neutral
+14,neutral
+15,frustrated
+16,neutral
+17,neutral
+18,neutral
+19,neutral
+20,frustrated
+21,frustrated
+22,neutral
+23,frustrated
+24,neutral
+25,surprised
+26,neutral
+27,angry
+28,frustrated
+29,surprised
+30,neutral
+31,neutral
+32,neutral
+33,neutral
+34,neutral
+35,happy
+36,neutral
+37,happy
+38,neutral
+39,surprised
+40,neutral
+41,neutral
+42,neutral
+43,neutral
+44,neutral
+45,neutral
+46,neutral
+47,neutral
+48,neutral
+1,fear
+2,neutral
+3,neutral
+4,sad
+5,neutral
+6,frustrated
+7,sad
+8,sad
+9,fear
+10,sad
+11,surprised
+12,frustrated
+13,neutral
+14,frustrated
+15,neutral
+16,frustrated
+17,frustrated
+18,frustrated
+19,neutral
+20,frustrated
+21,frustrated
+22,frustrated
+23,frustrated
+24,frustrated
+25,neutral
+26,neutral
+27,frustrated
+28,frustrated
+29,frustrated
+30,neutral
+31,fear
+32,frustrated
+33,neutral
+34,anger
+35,frustrated
+36,frustrated
+37,neutral
+38,frustrated
+39,neutral
+40,frustrated
+41,neutral
+42,neutral
+43,fear
+44,frustrated
+45,frustrated
+46,frustrated
+47,frustrated
+48,frustrated
+49,fear
+50,frustrated
+51,neutral
+52,neutral
+53,fear
+54,frustrated
+55,frustrated
+56,surprised
+57,frustrated
+58,surprised
+59,frustrated
+60,fear
+61,frustrated
+62,neutral
+63,frustrated
+64,frustrated
+65,surprised
+66,frustrated
+67,fear
+68,frustrated
+69,frustrated
+70,frustrated
+71,fear
+72,frustrated
+73,sad
+74,frustrated
+75,frustrated
+1,**frustrated** (Accusatory suspicion)
+2,**frustrated** (Defensive probing)
+3,**frustrated** (Exasperated questioning)
+4,**neutral** (Attempting to placate/reason)
+5,**frustrated** (Defensive command)
+6,**angry** (Forceful denial/command)
+7,**frustrated** (Challenging question)
+8,"**frustrated** (Vague, dismissive answer)"
+9,**frustrated** (Dismissive question)
+10,**angry** (Aggressive command)
+11,**frustrated** (Mocking command)
+12,**frustrated** (Insistent opinion)
+13,**frustrated** (Dismissive opinion)
+14,"**frustrated** (Desperate, rhetorical opinion)"
+15,**frustrated** (Challenging question)
+16,"**sad** (Despairing, resigned answer)"
+17,**frustrated** (Exasperated question)
+18,**fear** (Desperate plea/demand)
+19,**frustrated** (Interruptive backchannel)
+20,**sad** (Hopeless statement)
+21,**frustrated** (Accusatory statement)
+22,**surprised** (Shocked statement)
+23,**fear** (Concerned command - fear *for* her)
+24,**fear** (Desperate plea)
+25,**fear** (Urgent command - fear *for* her)
+26,**fear** (Desperate command)
+27,**frustrated** (Confused question)
+28,**fear** (Pleading answer)
+29,**fear** (Concerned observation)
+30,**sad** (Resigned admission)
+31,"**angry** (Exasperated, confrontational question)"
+1,neutral
+2,neutral
+3,neutral
+4,neutral
+5,surprised
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,happy
+11,frustrated
+12,neutral
+13,fear
+14,neutral
+15,neutral
+16,neutral
+17,surprised
+18,neutral
+19,excited
+20,excited
+21,frustrated
+22,neutral
+23,surprised
+24,neutral
+25,fear
+26,neutral
+27,fear
+28,neutral
+29,frustrated
+30,frustrated
+31,neutral
+32,neutral
+33,neutral
+34,sad
+35,neutral
+36,sad
+37,sad
+38,sad
+39,sad
+40,sad
+41,frustrated
+42,frustrated
+43,neutral
+44,neutral
+45,excited
+46,neutral
+1,excited
+2,neutral
+3,frustrated
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,frustrated
+9,frustrated
+10,frustrated
+11,excited
+12,neutral
+13,frustrated
+14,excited
+15,frustrated
+16,neutral
+17,frustrated
+18,frustrated
+19,neutral
+20,neutral
+21,frustrated
+22,excited
+23,frustrated
+24,frustrated
+25,excited
+26,frustrated
+27,excited
+28,frustrated
+29,neutral
+30,frustrated
+31,frustrated
+32,frustrated
+33,excited
+34,neutral
+35,neutral
+36,neutral
+37,excited
+38,neutral
+39,neutral
+40,neutral
+1,neutral
+2,frustrated
+3,frustrated
+4,frustrated
+5,sad
+6,frustrated
+7,anger
+8,neutral
+9,frustrated
+10,neutral
+11,frustrated
+12,neutral
+13,neutral
+14,frustrated
+15,neutral
+16,frustrated
+17,frustrated
+18,sad
+19,frustrated
+20,frustrated
+21,neutral
+22,neutral
+23,sad
+24,sad
+25,neutral
+26,sad
+27,excited
+28,sad
+29,neutral
+30,neutral
+31,neutral
+32,neutral
+33,neutral
+34,neutral
+35,neutral
+36,neutral
+37,neutral
+38,sad
+39,frustrated
+40,sad
+41,frustrated
+42,frustrated
+43,frustrated
+44,sad
+45,sad
+46,sad
+47,neutral
+48,sad
+49,frustrated
+50,frustrated
+51,sad
+52,neutral
+53,neutral
+54,frustrated
+55,neutral
+56,happy
+57,frustrated
+1,**surprised** (Good God - expresses shock)
+2,**neutral** (Simple factual statement)
+3,**neutral** (Logical conclusion)
+4,**fear** (Expresses worry/anxiety about what to do)
+5,"**frustrated** (Dismissive, indicates irritation or resignation)"
+6,**sad** (Resigned acceptance of an inevitable negative event)
+7,**neutral** (Simple statement of fact - wrong number)
+8,"**fear** (Physical reaction ""shivers up my spine"" indicates fear)"
+9,**fear** (Question expressing apprehension about a threatening possibility)
+10,**neutral** (Matter-of-fact answer)
+11,**happy** (Rhetorical question reflecting their current happiness making worries irrelevant)
+12,**sad** (Statement contrasting the previous happiness with the sad reality it ends)
+13,"**frustrated** (Command to stop saying something negative, implying frustration)"
+14,"**sad** (Opinion expressing a bleak, negative view of life/love)"
+15,"**surprised** (Question challenging Fey's negative view of ""sacred and beautiful"" love, implying disbelief)"
+16,**sad** (Affirms the bleak opinion about love)
+17,"**excited** (Passionate, almost manic, call to defiance and flippancy)"
+18,**sad** (Logical but negative conclusion from Joey's previous statement)
+19,**sad** (Agreement with the negative assessment of themselves)
+20,**sad** (Question reflecting doubt and negativity about the future of their love)
+21,"**neutral** (Simple, non-emotive answer)"
+22,**sad** (Question expressing worry about continued conflict)
+23,**sad** (Answer predicting the fading of passion/fire)
+24,**sad** (Morbid question about death and its impact)
+25,"**excited** (Forceful, defiant answer about laughing in the face of death)"
+26,"**sad** (Question challenging Joey's flippancy about death, implying it *is* serious)"
+27,"**excited** (Defiant, flippant dismissal of death's seriousness)"
+28,**frustrated** (Opinion expressing exasperation with Joey's nonsensical philosophy)
+29,**excited** (Passionate advocacy for superficial enjoyment and rejecting deep philosophy)
+30,"**excited** (Intense, morbidly passionate call to seize the moment)"
+31,**neutral** (Simple factual correction)
+32,"**excited** (Extreme, passionate declaration of unconditional love/acceptance)"
+33,"**excited** (Intense, passionate (though possessive/threatening) declaration of love)"
+34,**neutral** (Simple question prompting a memory)
+35,"**happy** (Nostalgic, amused recollection - ""wriggle so beautifully"")"
+36,**neutral** (Simple question about duration)
+37,**neutral** (Simple answer)
+38,**neutral** (Simple statement recalling a past event)
+39,**neutral** (Simple statement recalling a past event)
+40,"**neutral** (Prompt/question - unclear context, but likely neutral)"
+41,**neutral** (Simple question seeking confirmation)
+42,**sad** (Statement recalling a negative event - being hit)
+43,**neutral** (Minimizing opinion about the past event)
+44,"**happy** (Amused, nostalgic recollection of a chaotic fight - ""Oh, dear"" sounds fond)"
+45,**happy** (Amused recollection)
+46,"**happy** (Playful, teasing opinion)"
+47,**neutral** (Simple statement of fact about the cause)
+1,**neutral** (Question about a past event)
+2,**frustrated** (Embarrassed recollection of conflict)
+3,**surprised** (Vivid memory of a shocked reaction)
+4,**frustrated** (Expression of disdain/ridicule)
+5,**neutral** (Factual statement)
+6,**frustrated** (Dismissive disagreement)
+7,**frustrated** (Accusatory statement)
+8,**frustrated** (Defensive downplaying)
+9,**frustrated** (Critical statement)
+10,"**frustrated** (Reluctant, dismissive agreement)"
+11,**neutral** (Procedural question)
+12,"**frustrated** (Defiant, challenging question)"
+13,"**frustrated** (Self-centered, challenging question)"
+14,**frustrated** (Blaming answer)
+15,**frustrated** (Sarcastic opinion)
+16,**frustrated** (Expressing boredom/displeasure)
+17,**frustrated** (Agreeing with displeasure)
+18,**neutral** (Offer/Question)
+19,**neutral** (Simple refusal)
+20,**neutral** (Statement of intent)
+21,**frustrated** (Critical statement)
+22,**frustrated** (Sarcastic defense/opinion)
+23,**frustrated** (Accusatory opinion)
+24,**frustrated** (Critical opinion)
+25,**angry** (Insulting opinion)
+26,**frustrated** (Beginning of disagreement)
+27,**neutral** (Request for repetition/clarification)
+28,**neutral** (Simple answer)
+29,**sad** (Sarcastic statement implying hurt)
+30,**neutral** (Statement of belief/instruction)
+31,**frustrated** (Sarcastic agreement/disagreement)
+32,**angry** (Command to stop talking)
+33,**neutral** (Procedural question)
+34,**frustrated** (Sarcastic criticism)
+35,**angry** (Insulting criticism)
+36,**angry** (Insulting retort)
+37,**neutral** (Procedural question)
+38,**frustrated** (Critical comparison)
+39,**frustrated** (Pedantic disagreement)
+40,**angry** (Forceful disagreement)
+41,**angry** (Forceful disagreement)
+42,**angry** (Forceful disagreement)
+43,**angry** (Angry dismissal)
+44,"**angry** (Accusatory, provocative statement)"
+45,**angry** (Command to stop questioning)
+46,**angry** (Sarcastic accusation)
+47,**angry** (Insulting accusation)
+48,**angry** (Insulting statement)
+49,"**frustrated** (Defensive, exaggerated statement)"
+50,"**frustrated** (Contradictory, argumentative statement)"
+51,**frustrated** (Sarcastic question)
+52,**angry** (Command to stop talking)
+53,**frustrated** (Sarcastic suggestion)
+54,**frustrated** (Dismissive criticism/suggestion)
+55,**neutral** (Agreement/Statement of intent)
+56,**frustrated** (Critical suggestion)
+57,**neutral** (Factual statement)
+58,**neutral** (Question)
+59,**neutral** (Answer)
+60,**frustrated** (Critical opinion)
+61,**frustrated** (Command)
+62,**angry** (Refusal)
+63,**angry** (Accusatory disagreement)
+64,**angry** (Command expressing distress)
+65,**angry** (Command expressing hatred)
+66,**angry** (Command)
+67,**angry** (Critical accusation/command)
+68,**frustrated** (Command)
+69,**angry** (Insulting statement)
+70,**angry** (Command to stop)
+71,**angry** (Insulting statement expressing hatred)
+72,**angry** (Command to prevent leaving)
+73,**angry** (Defiant disagreement)
+74,**angry** (Forceful disagreement)
+75,**angry** (Insulting statement expressing hatred)
+76,**angry** (Command to stop talking)
+77,**angry** (Insulting statement)
+78,"**angry** (Sarcastic, incredulous statement)"
+79,**angry** (Insulting statement expressing hatred)
+80,**angry** (Emphatic statement expressing hatred)
+81,**angry** (Insult)
+82,**angry** (Insult)
+1,neutral
+2,neutral
+3,neutral
+4,frustrated
+5,neutral
+6,frustrated
+7,neutral
+8,frustrated
+9,neutral
+10,frustrated
+11,neutral
+12,frustrated
+13,neutral
+14,frustrated
+15,neutral
+16,frustrated
+17,neutral
+18,frustrated
+19,neutral
+20,frustrated
+21,neutral
+22,frustrated
+23,neutral
+24,frustrated
+25,frustrated
+26,frustrated
+27,anger
+28,anger
+29,fear
+30,anger
+31,frustrated
+32,surprised
+33,neutral
+34,anger
+35,anger
+36,neutral
+37,frustrated
+38,neutral
+39,frustrated
+40,neutral
+41,frustrated
+42,neutral
+43,frustrated
+44,neutral
+45,frustrated
+46,neutral
+47,frustrated
+48,neutral
+49,frustrated
+50,neutral
+1,"**neutral** (Statement Non-Opinion: factual, directive)"
+2,"**fear** (Question: concern, apprehension)"
+3,"**fear** (Backchannel: hesitation, anxiety)"
+4,**neutral** (Statement Non-Opinion: neutral encouragement)
+5,"**sad** (Statement Non-Opinion: apologetic, overwhelmed)"
+6,"**fear** (Question: worry, seeking reassurance)"
+7,"**fear** (Answer: uncertainty, reassurance)"
+8,**neutral** (Statement Non-Opinion: factual delivery)
+9,**fear** (Backchannel: hesitation)
+10,**neutral** (Backchannel: acknowledgment)
+11,**sad** (Statement Non-Opinion: somber news)
+12,**neutral** (Statement Non-Opinion: factual acknowledgment)
+13,**fear** (Statement Non-Opinion: ominous detail)
+14,"**frustrated** (Statement Opinion: disbelief, betrayal)"
+15,"**sad** (Apology: regret, resignation)"
+16,**fear** (Question: helplessness)
+17,**sad** (Answer: defeat)
+18,"**frustrated** (Statement Opinion: inadequacy, distress)"
+19,**neutral** (Statement Non-Opinion: factual mention)
+20,**sad** (Agreement: empathetic acknowledgment)
+21,**frustrated** (Statement Non-Opinion: emphasizing isolation)
+22,**neutral** (Statement Opinion: practical suggestion)
+23,**fear** (Question: seeking specifics with anxiety)
+24,"**fear** (Answer: blunt, concerning)"
+25,**fear** (Question: escalating worry about danger)
+26,**fear** (Answer: uncertainty about role)
+27,"**fear** (Statement Non-Opinion: trailing off, dread)"
+28,**frustrated** (Question: desperate alternatives)
+29,**sad** (Answer: resignation to duration)
+30,"**frustrated** (Question: confusion, injustice)"
+31,**sad** (Answer: shared dismay)
+32,"**anger** (Statement Opinion: blame, resentment)"
+33,**sad** (Statement Opinion: helplessness)
+34,**fear** (Statement Opinion: repeated helplessness)
+35,**neutral** (Statement Opinion: reassuring but flat)
+36,**fear** (Statement Non-Opinion: emphasizing vulnerability)
+37,**fear** (Statement Non-Opinion: self-doubt)
+38,**neutral** (Statement Opinion: practical idea)
+39,**surprised** (Question: disbelief at suggestion)
+40,**neutral** (Answer: non-committal)
+41,**anger** (Statement Opinion: resentment toward mom)
+42,"**neutral** (Disagreement: corrective, calm)"
+43,"**sad** (Others: pause, emotional overwhelm)"
+44,**sad** (Statement Opinion: resigned acknowledgment)
+45,"**fear** (Statement Non-Opinion: inability, trailing off)"
+46,**neutral** (Question: seeking clarification)
+47,"**fear** (Answer: desperation, denial)"
+48,**sad** (Statement Opinion: hopelessness)
+49,**frustrated** (Statement Non-Opinion: irrational suggestion)
+50,"**sad** (Statement Opinion: pleading, helplessness)"
+51,**anger** (Statement Opinion: perceived injustice)
+52,**sad** (Agreement: shared sorrow)
+53,"**anger** (Statement Opinion: resentment, unfairness)"
+54,**neutral** (Statement Opinion: factual resignation)
+55,**anger** (Question: challenging necessity)
+56,"**frustrated** (Answer: defensive, emotional plea)"
+57,"**sad** (Statement Non-Opinion: loneliness, despair)"
+58,**fear** (Agreement: admitting personal fear)
+59,**fear** (Statement Opinion: concern for partner)
+60,**sad** (Agreement: somber acknowledgment)
+61,**fear** (Statement Non-Opinion: highlighting danger)
+62,**sad** (Agreement: grim acceptance)
+63,"**fear** (Backchannel: cut off, anxious)"
+64,**neutral** (Question: problem-solving)
+65,**fear** (Answer: uncertainty)
+66,**neutral** (Statement Opinion: suggestion)
+67,"**sad** (Agreement: reluctant, defeated)"
+68,**sad** (Apology: remorseful acceptance)
+69,**sad** (Statement Opinion: grief over loss)
+70,**sad** (Agreement: empathetic)
+71,**neutral** (Statement Non-Opinion: logistical)
+72,**neutral** (Agreement: practical planning)
+73,**fear** (Statement Opinion: uncertainty about communication)
+74,**fear** (Question: anxious demand)
+75,**neutral** (Answer: compliant)
+76,**fear** (Question: dreading answer)
+77,**sad** (Answer: heavy revelation)
+78,**surprised** (Question: shock at short timeframe)
+79,**neutral** (Answer: confirmation)
+80,**neutral** (Statement Opinion: forced optimism)
+81,**sad** (Agreement: subdued acceptance)
+82,**sad** (Statement Opinion: affectionate but sorrowful)
+83,"**sad** (Statement Opinion: longing, loss)"
+1,neutral
+2,neutral
+3,neutral
+4,happy
+5,surprised
+6,happy
+7,surprised
+8,happy
+9,surprised
+10,happy
+11,surprised
+12,neutral
+13,surprised
+14,happy
+15,surprised
+16,happy
+17,surprised
+18,happy
+19,happy
+20,neutral
+21,neutral
+22,neutral
+23,frustrated
+24,neutral
+25,excited
+26,neutral
+27,happy
+28,neutral
+29,happy
+30,happy
+31,happy
+32,happy
+33,happy
+34,neutral
+35,happy
+36,neutral
+37,neutral
+38,excited
+39,happy
+40,happy
+41,excited
+42,neutral
+43,excited
+44,happy
+45,happy
+46,neutral
+47,neutral
+48,happy
+49,neutral
+50,neutral
+51,neutral
+52,neutral
+53,neutral
+54,neutral
+55,neutral
+56,neutral
+57,happy
+58,happy
+59,neutral
+60,surprised
+61,happy
+62,surprised
+63,neutral
+64,happy
+65,neutral
+66,happy
+67,happy
+68,excited
+69,neutral
+70,excited
+71,happy
+72,happy
+73,happy
+74,neutral
+75,happy
+76,happy
+77,happy
+78,happy
+79,happy
+80,happy
+81,frustrated
+82,neutral
+83,neutral
+84,happy
+85,neutral
+86,happy
+87,neutral
+88,neutral
+89,happy
+90,happy
+91,neutral
+92,happy
+93,happy
+94,happy
+95,surprised
+96,excited
+97,neutral
+98,neutral
+99,surprised
+100,neutral
+101,happy
+102,neutral
+103,neutral
+104,neutral
+105,neutral
+106,neutral
+107,neutral
+108,neutral
+109,neutral
+110,happy
+111,neutral
+112,neutral
+113,neutral
+114,neutral
+115,neutral
+116,neutral
+117,neutral
+118,neutral
+119,neutral
+120,neutral
+121,happy
+122,happy
+123,happy
+124,happy
+125,happy
+126,happy
+127,happy
+128,happy
+129,neutral
+130,happy
+131,happy
+132,happy
+133,happy
+134,happy
+135,happy
+136,happy
+1,frustrated
+2,neutral
+3,frustrated
+4,neutral
+5,frustrated
+6,sad
+7,frustrated
+8,neutral
+9,frustrated
+10,frustrated
+11,frustrated
+12,neutral
+13,frustrated
+14,neutral
+15,frustrated
+16,neutral
+17,frustrated
+18,frustrated
+19,frustrated
+20,neutral
+21,frustrated
+22,frustrated
+23,neutral
+24,frustrated
+25,neutral
+26,anger
+27,frustrated
+28,sad
+29,frustrated
+30,sad
+31,sad
+32,fear
+33,frustrated
+34,neutral
+35,sad
+36,neutral
+37,frustrated
+38,neutral
+39,fear
+40,neutral
+41,frustrated
+42,frustrated
+43,anger
+44,frustrated
+45,sad
+46,frustrated
+47,sad
+48,neutral
+49,fear
+50,frustrated
+51,fear
+52,neutral
+53,sad
+54,neutral
+55,happy
+56,neutral
+57,sad
+58,neutral
+59,sad
+60,neutral
+61,neutral
+62,neutral
+63,neutral
+64,neutral
+65,neutral
+66,neutral
+67,sad
+68,neutral
+69,neutral
+70,neutral
+71,neutral
+72,sad
+73,neutral
+74,neutral
+75,neutral
+76,neutral
+77,neutral
+78,neutral
+79,neutral
+80,neutral
+81,neutral
+82,neutral
+83,neutral
+84,neutral
+85,neutral
+86,neutral
+87,neutral
+88,happy
+89,neutral
+90,neutral
+91,happy
+92,neutral
+1,**neutral**
+2,**neutral**
+3,**neutral**
+4,**neutral**
+5,**neutral**
+6,**neutral**
+7,**sad**
+8,**neutral**
+9,**neutral**
+10,**neutral**
+11,**neutral**
+12,**neutral**
+13,**happy**
+14,**neutral**
+15,**neutral**
+16,**frustrated**
+17,**frustrated**
+18,**frustrated**
+19,**neutral**
+20,**frustrated**
+21,**neutral**
+22,**neutral**
+23,**neutral**
+24,**sad**
+25,**neutral**
+26,**frustrated**
+27,**frustrated**
+28,**neutral**
+29,**neutral**
+30,**sad**
+31,**neutral**
+32,**sad**
+33,**neutral**
+34,**frustrated**
+35,**neutral**
+36,**frustrated**
+37,**neutral**
+38,**frustrated**
+39,**neutral**
+40,**neutral**
+41,**neutral**
+42,**neutral**
+43,**frustrated**
+44,**frustrated**
+45,**frustrated**
+46,**frustrated**
+47,**neutral**
+48,**angry**
+49,**neutral**
+50,**neutral**
+51,**frustrated**
+52,**neutral**
+53,**frustrated**
+54,**neutral**
+55,**frustrated**
+56,**neutral**
+57,**neutral**
+58,**neutral**
+59,**frustrated**
+60,**neutral**
+61,**frustrated**
+62,**neutral**
+63,**frustrated**
+64,**neutral**
+65,**frustrated**
+66,**neutral**
+67,**frustrated**
+68,**neutral**
+69,**angry**
+70,**frustrated**
+71,**neutral**
+72,**angry**
+73,**frustrated**
+74,**angry**
+75,**neutral**
+76,**frustrated**
+77,**neutral**
+78,**frustrated**
+79,**frustrated**
+80,**angry**
+81,**frustrated**
+82,**frustrated**
+83,**neutral**
+84,**angry**
+85,**frustrated**
+86,**angry**
+87,**frustrated**
+88,**angry**
+89,**frustrated**
+90,**sad**
+91,**neutral**
+92,**sad**
+93,**neutral**
+94,**neutral**
+95,**frustrated**
+96,**neutral**
+97,**frustrated**
+98,**neutral**
+99,**neutral**
+100,**neutral**
+1,neutral
+2,sad
+3,sad
+4,sad
+5,sad
+6,sad
+7,sad
+8,sad
+9,sad
+10,sad
+11,sad
+12,sad
+13,sad
+14,neutral
+15,sad
+16,sad
+17,sad
+18,sad
+19,neutral
+20,sad
+21,neutral
+22,neutral
+23,sad
+24,sad
+25,sad
+26,sad
+27,neutral
+28,sad
+29,neutral
+30,sad
+31,sad
+32,sad
+33,sad
+34,neutral
+35,neutral
+36,neutral
+37,neutral
+38,sad
+39,neutral
+40,neutral
+41,neutral
+42,sad
+43,sad
+44,sad
+45,sad
+46,neutral
+47,sad
+48,sad
+49,sad
+50,sad
+51,sad
+52,sad
+53,sad
+54,sad
+55,happy
+56,neutral
+1,neutral
+2,neutral
+3,happy
+4,surprised
+5,happy
+6,happy
+7,happy
+8,fear
+9,neutral
+10,happy
+11,happy
+12,neutral
+13,neutral
+14,excited
+15,frustrated
+16,excited
+17,surprised
+18,excited
+19,happy
+20,happy
+21,neutral
+22,excited
+23,happy
+24,excited
+25,excited
+26,happy
+27,excited
+28,happy
+29,happy
+30,excited
+31,excited
+32,happy
+33,happy
+34,excited
+35,happy
+36,excited
+37,neutral
+38,neutral
+39,neutral
+40,excited
+41,neutral
+42,neutral
+43,excited
+44,neutral
+45,neutral
+46,neutral
+47,happy
+48,excited
+49,neutral
+50,neutral
+51,neutral
+52,happy
+53,neutral
+54,neutral
+55,happy
+56,excited
+57,happy
+58,happy
+59,anger
+60,sad
+61,happy
+62,happy
+63,neutral
+64,happy
+65,happy
+66,excited
+67,happy
+68,happy
+69,excited
+70,happy
+71,excited
+72,excited
+73,happy
+74,neutral
+75,excited
+76,excited
+77,excited
+1,neutral
+2,frustrated
+3,frustrated
+4,neutral
+5,frustrated
+6,frustrated (relief mixed with lingering frustration)
+7,neutral
+8,angry
+9,neutral
+10,neutral
+11,frustrated
+12,neutral
+13,neutral
+14,neutral
+15,frustrated
+16,frustrated
+17,neutral
+18,neutral
+19,neutral
+20,neutral
+21,neutral
+22,neutral
+23,neutral
+24,frustrated
+25,neutral
+26,neutral
+27,neutral
+28,neutral
+29,neutral
+30,neutral
+31,neutral
+32,neutral
+33,neutral
+34,surprised
+35,neutral
+36,happy
+37,neutral
+38,neutral
+39,neutral
+40,neutral
+41,neutral
+42,neutral
+43,neutral
+44,neutral
+45,neutral
+46,neutral
+47,neutral
+48,frustrated
+49,neutral
+50,surprised
+51,neutral
+52,happy
+53,neutral
+54,neutral
+55,neutral
+56,neutral
+57,neutral
+58,happy
+59,neutral
+60,neutral
+61,neutral
+62,neutral
+63,happy
+64,happy
+65,neutral
+66,happy
+67,neutral
+68,neutral
+1,fear
+2,neutral
+3,surprised
+4,neutral
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,sad
+12,neutral
+13,sad
+14,sad
+15,neutral
+16,neutral
+17,frustrated
+18,surprised
+19,frustrated
+20,neutral
+21,frustrated
+22,neutral
+23,frustrated
+24,frustrated
+25,frustrated
+26,frustrated
+27,frustrated
+28,anger
+29,frustrated
+30,neutral
+31,frustrated
+32,frustrated
+33,neutral
+34,neutral
+35,neutral
+36,neutral
+37,excited
+38,neutral
+39,frustrated
+40,neutral
+41,neutral
+42,fear
+43,anger
+44,anger
+45,neutral
+46,anger
+47,neutral
+48,sad
+49,frustrated
+50,neutral
+51,anger
+52,neutral
+53,neutral
+54,neutral
+55,frustrated
+56,neutral
+57,neutral
+58,neutral
+59,neutral
+60,frustrated
+61,frustrated
+62,neutral
+63,fear
+64,neutral
+65,neutral
+66,frustrated
+67,surprised
+68,neutral
+69,surprised
+70,anger
+71,surprised
+72,frustrated
+73,neutral
+74,frustrated
+75,fear
+76,neutral
+77,frustrated
+78,neutral
+79,neutral
+80,frustrated
+81,neutral
+82,neutral
+83,neutral
+1,frustrated
+2,neutral
+3,frustrated
+4,neutral
+5,frustrated
+6,frustrated
+7,angry
+8,frustrated
+9,sad
+10,frustrated
+11,frustrated
+12,neutral
+13,frustrated
+14,frustrated
+15,frustrated
+16,frustrated
+17,sad
+18,frustrated
+19,angry
+20,frustrated
+21,desperate/frustrated (closest: **frustrated**)
+22,neutral
+23,fear
+24,neutral
+25,fear
+26,neutral
+27,sad
+28,frustrated
+29,neutral
+30,frustrated
+31,desperate/frustrated (closest: **frustrated**)
+32,frustrated
+33,desperate/sad (closest: **sad**)
+34,surprised
+35,sad
+36,angry
+- **Fey** primarily shows **frustration** (e,
+"- **Joey** reacts with **frustration** (6, 8, 10, 16, 18, 28, 30, 32) and **anger** (36), but often stays **neutral** (2, 4, 12, 22, 24, 26)",
+"- Intensity peaks in **fear** (Fey's suicide threat, line 23) and **anger** (Joey's outburst, line 36)",
+"- **Surprise** only occurs once (Joey noticing Fey shaking, line 34)",
+- No instances of *excited* or *happy* emotions,
+1,neutral
+2,frustrated
+3,neutral
+4,happy
+5,neutral
+6,sad
+7,neutral
+8,sad
+9,neutral
+10,frustrated
+11,neutral
+12,sad
+13,neutral
+14,neutral
+15,neutral
+16,neutral
+17,excited
+18,happy
+19,excited
+20,frustrated
+21,sad
+22,neutral
+23,fearful
+24,neutral
+25,neutral
+26,happy
+27,surprised
+28,happy
+29,frustrated
+30,frustrated
+31,excited
+32,excited
+33,angry
+34,happy
+35,frustrated
+36,neutral
+37,fearful
+38,excited
+39,fearful
+40,neutral
+41,fearful
+42,sad
+43,frustrated
+44,frustrated
+45,frustrated
+46,neutral
+47,neutral
+48,sad
+49,fearful
+50,sad
+51,sad
+52,sad
+53,sad
+54,sad
+55,sad
+56,sad
+57,sad
+58,sad
+59,sad
+60,frustrated
+61,sad
+62,angry
+63,angry
+64,fearful
+65,excited
+66,excited
+67,excited
+68,neutral
+1,excited
+2,fear
+3,neutral
+4,neutral
+5,frustrated
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,neutral
+11,neutral
+12,frustrated
+13,frustrated
+14,neutral
+15,neutral
+16,happy
+17,frustrated
+18,happy
+19,neutral
+20,neutral
+21,neutral
+22,surprised
+23,neutral
+24,neutral
+25,neutral
+26,neutral
+27,frustrated
+28,frustrated
+29,neutral
+30,neutral
+31,neutral
+32,excited
+33,excited
+34,frustrated
+35,excited
+36,excited
+37,frustrated
+38,neutral
+39,neutral
+40,excited
+41,excited
+42,neutral
+43,surprised
+44,neutral
+45,frustrated
+46,neutral
+47,neutral
+48,neutral
+49,excited
+50,excited
+51,excited
+52,excited
+53,excited
+54,excited
+55,neutral
+56,neutral
+1,neutral
+2,neutral
+3,neutral
+4,frustrated
+5,frustrated
+6,frustrated
+7,frustrated
+8,frustrated
+9,confused (surprised)
+10,sad
+11,neutral
+12,anger
+13,neutral
+14,sad
+15,neutral
+16,frustrated
+17,neutral
+18,frustrated
+19,frustrated
+20,neutral
+21,neutral
+22,sad
+23,neutral
+24,sad
+25,frustrated
+26,frustrated
+27,neutral
+28,neutral
+29,neutral
+30,neutral
+31,happy
+32,happy
+33,neutral
+34,neutral
+35,neutral
+36,sad
+37,neutral
+38,frustrated
+39,neutral
+40,frustrated
+41,neutral
+42,frustrated
+43,neutral
+44,frustrated
+45,neutral
+46,frustrated
+47,surprised
+48,frustrated
+49,frustrated
+50,frustrated
+51,sad
+52,frustrated
+53,frustrated
+54,sad
+55,neutral
+56,frustrated
+57,frustrated
+58,frustrated
+59,neutral
+60,sad
+61,sad
+62,sad
+63,sad
+64,frustrated
+65,sad
+66,frustrated
+67,neutral
+68,frustrated
+69,sad
+70,neutral
+71,neutral
+72,neutral
+73,happy
+74,neutral
+75,surprised
+76,neutral
+77,neutral
+78,neutral
+79,neutral
+80,excited
+81,neutral
+82,neutral
+1,**neutral** (Statement Non-Opinion - mild surprise/exclamation)
+2,**fear** (Question - anxious inquiry)
+3,**neutral** (Answer - contemplative)
+4,**neutral** (Statement Non-Opinion - factual explanation)
+5,**neutral** (Statement Non-Opinion - logical conclusion)
+6,**fear** (Question - worried about consequences)
+7,**happy** (Statement Non-Opinion - reassuring declaration of love)
+8,**happy** (Agreement - romantic affirmation)
+9,**happy** (Statement Non-Opinion - content dismissal of worry)
+10,**neutral** (Statement Non-Opinion - resigned observation)
+11,**neutral** (Statement Non-Opinion - reporting a fact)
+12,**fear** (Statement Non-Opinion - describing a fearful reaction)
+13,**fear** (Question - anxious hypothetical)
+14,**excited** (Answer - playful/sarcastic defiance)
+15,**excited** (Question - playful continuation)
+16,**excited** (Answer - playful imagery)
+17,**happy** (Question - joyful philosophical musing)
+18,**sad** (Answer - wistful regret)
+19,**frustrated** (Command - pleading against sadness)
+20,**sad** (Statement Opinion - resigned acceptance)
+21,**frustrated** (Statement Opinion - cynical view)
+22,**surprised** (Question - shocked/challenging)
+23,**frustrated** (Answer - confirming cynicism)
+24,**frustrated** (Question - existential angst)
+25,**frustrated** (Command - defensive seriousness)
+26,**frustrated** (Statement Opinion - defiant advice)
+27,**neutral** (Question - seeking clarification)
+28,**frustrated** (Answer - cynical rant against societal norms)
+29,**frustrated** (Statement Opinion - logical extension of cynicism)
+30,**happy** (Agreement - accepting absurdity with laughter)
+31,**fear** (Question - anxious about the future of love)
+32,**fear** (Question - anxious about duration)
+33,**neutral** (Answer - simple acknowledgment of uncertainty)
+34,**fear** (Question - anxious about future conflict)
+35,**neutral** (Answer - matter-of-fact prediction)
+36,**sad** (Question - apprehensive about loss)
+37,**neutral** (Answer - pragmatic response)
+38,**fear** (Question - morbid hypothetical)
+39,**excited** (Answer - defiant/forced bravado)
+40,**fear** (Question - challenging the bravado)
+41,**frustrated** (Answer - morbidly flippant)
+42,**frustrated** (Statement Opinion - dismissing the morbid flippancy)
+43,**frustrated** (Statement Opinion - cynical generalization)
+44,**excited** (Statement Opinion - urging hedonistic enjoyment)
+45,**excited** (Statement Opinion - morbidly passionate plea)
+46,**neutral** (Statement Non-Opinion - pedantic correction)
+47,**happy** (Statement Opinion - extreme declaration of unconditional love)
+48,**happy** (Statement Opinion - playful but possessive declaration)
+49,**happy** (Question - nostalgic reminiscing)
+50,**neutral** (Question - seeking specificity)
+51,**neutral** (Answer - providing detail)
+52,**happy** (Statement Non-Opinion - fond recollection)
+53,**frustrated** (Statement Opinion - strong dislike)
+54,**frustrated** (Agreement - lingering resentment)
+55,**neutral** (Question - factual inquiry about the past)
+56,**neutral** (Answer - factual response)
+57,**neutral** (Statement Non-Opinion - recalling an event)
+58,**neutral** (Statement Non-Opinion - adding detail)
+59,**excited** (Question - recalling drama with amusement)
+60,**neutral** (Answer - stating a fact)
+61,**frustrated** (Statement Opinion - defensive minimization)
+62,**neutral** (Statement Non-Opinion - describing the scene)
+63,**happy** (Statement Non-Opinion - amused recollection)
+64,**happy** (Statement Opinion - affectionate view of past absurdity)
+65,**neutral** (Statement Non-Opinion - factual reflection)
+66,**happy** (Statement Opinion - affectionate self-criticism)
+67,**neutral** (Statement Non-Opinion - stating a fact)
+68,**frustrated** (Disagreement - defensive denial)
+1,**neutral**
+2,**frustrated**
+3,**frustrated**
+4,**neutral**
+5,**frustrated** (contemptuous tone)
+6,**frustrated**
+7,**angry**
+8,**frustrated**
+9,**frustrated**
+10,**neutral**
+11,**frustrated**
+12,**frustrated**
+13,**surprised**
+14,**frustrated**
+15,**frustrated**
+16,**frustrated**
+17,**frustrated** (sarcastic)
+18,**frustrated**
+19,**frustrated**
+20,**neutral**
+21,**neutral**
+22,**frustrated**
+23,**frustrated**
+24,**frustrated**
+25,**frustrated**
+26,**frustrated**
+27,**angry**
+28,**angry**
+29,**frustrated**
+30,**neutral**
+31,**sad** (sarcastic resignation)
+32,**sad**
+33,**frustrated**
+34,**neutral**
+35,**frustrated**
+36,**frustrated**
+37,**angry**
+38,**angry**
+39,**angry**
+40,**angry**
+41,**frustrated**
+42,**frustrated**
+43,**frustrated**
+44,**frustrated**
+45,**frustrated**
+46,**neutral**
+47,**frustrated**
+48,**neutral**
+49,**angry**
+50,**angry**
+51,**angry**
+52,**angry**
+53,**frustrated**
+54,**frustrated**
+55,**frustrated**
+56,**frustrated** (provocative)
+57,**angry**
+58,**frustrated**
+59,**frustrated**
+60,**neutral**
+61,**frustrated**
+62,**frustrated**
+63,**frustrated**
+64,**neutral**
+65,**neutral**
+66,**frustrated**
+67,**neutral**
+68,**frustrated**
+69,**angry**
+70,**angry**
+71,**angry**
+72,**angry**
+73,**frustrated**
+74,**angry**
+75,**frustrated**
+76,**angry**
+77,**angry**
+78,**frustrated**
+79,**angry**
+80,**angry**
+81,**angry** (sarcastic)
+82,**angry**
+83,**angry**
+84,**angry**
+85,**angry**
+86,**angry**
+- **Neutral**: Factual statements with no emotional charge (e,
+"- **Frustrated**: Disagreements, sarcasm, and rising tension (e",
+"- **Angry**: Personal insults, commands, and explosive accusations (e",
+- **Sad**: Sarcastic resignation (line 31) and wounded pride (line 32),
+"- **Surprised**: Repetition of ""What of it?"" indicating disbelief (line 13)",
+1,Fey - **neutral**
+2,Joey - **neutral**
+3,Fey - **neutral**
+4,Joey - **frustrated**
+5,Fey - **neutral**
+6,Joey - **surprised**
+7,Fey - **neutral**
+8,Joey - **frustrated**
+9,Fey - **neutral**
+10,Joey - **frustrated**
+11,Fey - **frustrated**
+12,Joey - **frustrated**
+13,Fey - **neutral**
+14,Joey - **neutral**
+15,Joey - **neutral**
+16,Joey - **frustrated**
+17,Fey - **neutral**
+18,Joey - **frustrated**
+19,Fey - **neutral**
+20,Joey - **frustrated**
+21,Fey - **neutral**
+22,Fey - **neutral**
+23,Joey - **frustrated**
+24,Fey - **neutral**
+25,Fey - **neutral**
+26,Joey - **frustrated**
+27,Fey - **frustrated**
+28,Joey - **frustrated**
+29,Fey - **frustrated**
+30,Fey - **neutral**
+31,Joey - **frustrated**
+32,Fey - **neutral**
+33,Joey - **frustrated**
+34,Fey - **frustrated**
+35,Fey - **frustrated**
+36,Joey - **frustrated**
+37,Fey - **neutral**
+38,Joey - **anger**
+39,Fey - **neutral**
+40,Joey - **anger**
+41,Fey - **neutral**
+42,Joey - **anger**
+43,Joey - **anger**
+44,Fey - **frustrated**
+45,Joey - **anger**
+46,Fey - **neutral**
+47,Joey - **anger**
+"- Joey escalates from **neutral** → **frustrated** (line 4 onward) → **anger** (line 38+), especially after direct confrontations",
+"- Fey remains mostly **neutral**, showing **frustration** only when challenged (lines 11, 27, 29, 34-35, 44)",
+"- No instances of *happy*, *excited*, *sad*, or *fear* detected",
+1,neutral
+2,sad
+3,surprised
+4,frustrated
+5,fear
+6,sad
+7,fear
+8,frustrated
+9,frustrated
+10,sad
+11,sad
+12,anger
+13,sad
+14,fear
+15,frustrated
+16,frustrated
+17,fear
+18,sad
+19,surprised
+20,sad
+21,sad
+22,sad
+23,frustrated
+24,frustrated
+25,fear
+26,fear
+27,fear
+28,fear
+29,sad
+30,fear
+31,fear
+32,fear
+33,sad
+34,sad
+35,fear
+36,neutral
+37,fear
+38,fear
+39,fear
+40,sad
+41,neutral (reassuring tone despite context)
+42,fear
+43,fear
+44,fear
+45,neutral (dismissive/defensive)
+46,fear
+47,sad
+48,neutral
+49,sad
+50,sad
+51,fear
+52,neutral
+53,sad
+54,neutral
+55,sad
+56,sad
+57,sad
+58,sad
+59,neutral
+1,**excited**
+2,**neutral**
+3,**happy**
+4,**surprised**
+5,**happy**
+6,**neutral**
+7,**excited**
+8,**surprised**
+9,**happy**
+10,**happy**
+11,**happy**
+12,**neutral**
+13,**happy**
+14,**happy**
+15,**neutral**
+16,**happy**
+17,**happy**
+18,**neutral**
+19,**happy**
+20,**happy**
+21,**surprised**
+22,**happy**
+23,**happy**
+24,**happy**
+25,**neutral**
+26,**happy**
+27,**neutral**
+28,**happy**
+29,**happy**
+30,**happy**
+31,**neutral**
+32,**happy**
+33,**happy**
+34,**happy**
+35,**happy**
+36,**happy**
+37,**neutral**
+38,**neutral**
+39,**neutral**
+40,**happy**
+41,**happy**
+42,**happy**
+43,**happy**
+44,**excited**
+45,**happy**
+46,**neutral**
+47,**happy**
+48,**neutral**
+49,**happy**
+50,**excited**
+51,**happy**
+52,**happy**
+53,**neutral**
+54,**neutral**
+55,**happy**
+56,**neutral**
+57,**surprised**
+58,**happy**
+59,**neutral**
+60,**neutral**
+61,**neutral**
+62,**neutral**
+63,**neutral**
+64,**neutral**
+65,**happy**
+66,**neutral**
+67,**happy**
+68,**happy**
+69,**happy**
+1,"**frustrated** (Hopeless tone, unemployment stress)"
+2,**neutral** (Neutral inquiry)
+3,**sad** (Despair over prolonged unemployment)
+4,**surprised** (Seeking confirmation of unexpected duration)
+5,**frustrated** (Exasperation and uncertainty)
+6,**neutral** (Minimal backchannel)
+7,**frustrated** (Continued struggle emphasis)
+8,**neutral** (Factual question)
+9,"**frustrated** (Desperation in ""I’ll do anything"")"
+10,**frustrated** (Rejection of unsuitable jobs)
+11,**neutral** (Simple agreement)
+12,**frustrated** (Anxious rhetorical questions)
+13,**neutral** (Information-seeking question)
+14,**neutral** (Matter-of-fact answer)
+15,**neutral** (Direct question)
+16,**neutral** (Informative answer)
+17,**neutral** (Backchannel)
+18,**neutral** (Backchannel)
+19,**frustrated** (Exasperation at rejection)
+20,**surprised** (Disbelief at job struggles)
+21,**frustrated** (Baffled by polite yet failed interviews)
+22,**sad** (Resigned disappointment)
+23,**neutral** (Practical suggestion/question)
+24,"**frustrated** (Defensive, ""Hello?"" sarcasm)"
+25,**frustrated** (Self-doubt with defensive edge)
+26,**neutral** (Tentative observation)
+27,**neutral** (Clarifying question)
+28,**frustrated** (Demanding honesty with agitation)
+29,"**neutral** (Hesitant, non-committal answer)"
+30,"**frustrated** (Insistent, defensive questioning)"
+31,**neutral** (Diagnostic question)
+32,**frustrated** (Admitting frustration-driven attitude)
+33,**neutral** (Incomplete thought)
+34,**neutral** (Cautious opinion)
+35,"**surprised** (Taken aback by ""abrasive vibe"")"
+36,**neutral** (Hedging answer)
+37,"**frustrated** (Sarcastic ""whatever,"" resignation)"
+38,**neutral** (Observing reaction)
+39,**frustrated** (Defensive repetition)
+40,**neutral** (Gentle suggestion)
+41,**frustrated** (Explicitly stating frustration)
+42,**neutral** (Backchannel)
+43,**frustrated** (Urgent financial pressure)
+44,**neutral** (Empathetic agreement)
+45,**neutral** (Acknowledging stress)
+46,**frustrated** (Desperate plea for solutions)
+47,**neutral** (Hesitation backchannel)
+48,**neutral** (Playful clarification)
+49,"**fear** (""I don’t want to go to jail"")"
+50,**neutral** (Transition)
+51,**neutral** (Mild agreement)
+52,**frustrated** (Cynical hyperbole)
+53,**neutral** (Explaining intent)
+54,**neutral** (Sarcastic thanks/laughter)
+55,**neutral** (Thinking aloud)
+56,**frustrated** (Defeated accusation)
+57,**neutral** (Problem-solving question)
+58,**neutral** (Factual answer)
+59,**neutral** (Suggestive opinion)
+60,**frustrated** (Dismissive of prior efforts)
+61,**neutral** (Practical question)
+62,"**frustrated** (Angry refusal, ""freaking clown"")"
+63,**neutral** (Suggestive question)
+64,**frustrated** (Indignant refusal)
+65,**neutral** (Conceding)
+66,**frustrated** (Defiant assertion)
+67,**neutral** (Non-confrontational statement)
+68,**neutral** (Backchannel)
+69,**neutral** (Thinking aloud question)
+70,**frustrated** (Shared exasperation)
+71,"**sad** (Empathetic ""That's rough"")"
+72,**sad** (Cynical generalization)
+73,**neutral** (Analytical question)
+74,**frustrated** (Dismissive answer)
+75,**neutral** (Reassuring opinion)
+76,**neutral** (Mild agreement)
+77,**neutral** (Puzzled statement)
+78,**neutral** (Minimal assertion)
+79,**frustrated** (Sarcastic thanks)
+80,**sad** (Apologetic sympathy)
+81,**frustrated** (Resigned acceptance of struggle)
+1,frustrated
+2,neutral
+3,frustrated
+4,neutral
+5,frustrated
+6,neutral
+7,frustrated
+8,neutral
+9,neutral
+10,neutral
+11,frustrated
+12,neutral
+13,frustrated
+14,neutral
+15,surprised
+16,fear
+17,neutral
+18,fear
+19,neutral
+20,frustrated
+21,neutral
+22,frustrated
+23,neutral
+24,frustrated
+25,neutral
+26,neutral
+27,frustrated
+28,neutral
+29,surprised
+30,frustrated
+31,neutral
+32,sad
+33,surprised
+34,surprised
+35,frustrated
+36,neutral
+37,frustrated
+38,neutral
+39,frustrated
+40,neutral
+41,frustrated
+42,neutral
+43,happy
+44,neutral
+45,happy
+1,neutral
+2,sad
+3,neutral
+4,sad
+5,sad
+6,sad
+7,surprised
+8,sad
+9,neutral
+10,sad
+11,sad
+12,neutral
+13,neutral
+14,sad
+15,sad
+16,sad
+17,sad
+18,sad
+19,sad
+20,neutral
+21,sad
+22,neutral
+23,frustrated
+24,anger
+25,sad
+26,frustrated
+27,frustrated
+28,anger
+29,neutral
+30,sad
+31,sad
+32,neutral
+33,sad
+34,neutral
+35,neutral
+1,excited
+2,neutral
+3,excited
+4,surprised
+5,excited
+6,happy
+7,happy
+8,excited
+9,neutral
+10,neutral
+11,surprised
+12,neutral
+13,surprised
+14,neutral
+15,neutral
+16,happy
+17,happy
+18,happy
+19,neutral
+20,happy
+21,neutral
+22,excited
+23,neutral
+24,excited
+25,neutral
+26,excited
+27,surprised
+28,happy
+29,excited
+30,neutral
+31,excited
+32,neutral
+33,excited
+34,neutral
+35,neutral
+36,happy
+37,neutral
+38,neutral
+39,neutral
+40,neutral
+41,neutral
+42,neutral
+43,neutral
+44,excited
+45,neutral
+46,happy
+47,neutral
+48,neutral
+49,neutral
+50,surprised
+51,neutral
+52,neutral
+53,neutral
+54,neutral
+55,neutral
+56,neutral
+57,neutral
+58,neutral
+59,neutral
+60,neutral
+61,neutral
+62,neutral
+63,happy
+64,neutral
+65,surprised
+66,surprised
+67,neutral
+68,happy
+69,neutral
+70,neutral
+71,neutral
+72,neutral
+73,neutral
+74,happy
+75,happy
+76,happy
+77,neutral
+78,neutral
+79,neutral
+80,happy
+81,neutral
+82,happy
+83,happy
+84,excited
+85,neutral
+86,happy
+87,neutral
+88,neutral
+89,excited
+90,neutral
+91,neutral
+92,excited
+93,excited
+94,happy
+95,happy
+96,happy
+97,happy
+98,neutral
+1,neutral
+2,frustrated
+3,neutral
+4,frustrated
+5,neutral
+6,neutral
+7,neutral
+8,neutral
+9,neutral
+10,frustrated
+11,neutral
+12,neutral
+13,neutral
+14,frustrated
+15,neutral
+16,neutral
+17,neutral
+18,neutral
+19,neutral
+20,neutral
+21,neutral
+22,surprised
+23,neutral
+24,neutral
+25,neutral
+26,neutral
+27,neutral
+28,neutral
+29,neutral
+30,neutral
+31,neutral
+32,neutral
+33,neutral
+34,neutral
+35,neutral
+36,neutral
+37,neutral
+38,neutral
+39,neutral
+40,neutral
+41,neutral
+42,neutral
+43,frustrated
+44,neutral
+45,excited
+46,neutral
+47,happy
+48,neutral
+49,frustrated
+50,neutral
+51,happy
+52,neutral
+53,excited
+54,neutral
+55,happy
+56,happy
+57,happy
+58,neutral
+59,happy
+60,neutral
+1,fear
+2,neutral
+3,surprised
+4,neutral
+5,neutral
+6,neutral
+7,fear
+8,neutral
+9,neutral
+10,neutral
+11,fear
+12,neutral
+13,fear
+14,neutral
+15,frustrated
+16,sad
+17,surprised
+18,frustrated
+19,frustrated
+20,frustrated
+21,frustrated
+22,frustrated
+23,frustrated
+24,neutral
+25,frustrated
+26,frustrated
+27,anger
+28,frustrated
+29,frustrated
+30,neutral
+31,neutral
+32,neutral
+33,neutral
+34,neutral
+35,excited
+36,neutral
+37,frustrated
+38,neutral
+39,neutral
+40,neutral
+41,frustrated
+42,neutral
+43,anger
+44,frustrated
+45,neutral
+46,anger
+47,neutral
+48,sad
+49,neutral
+50,anger
+51,neutral
+52,neutral
+53,fear
+54,frustrated
+55,neutral
+56,neutral
+57,neutral
+58,neutral
+59,neutral
+60,frustrated
+61,fear
+62,neutral
+63,neutral
+64,sad
+65,frustrated
+66,surprised
+67,neutral
+68,surprised
+69,anger
+70,fear
+71,neutral
+72,neutral
+73,frustrated
+74,neutral
+75,neutral
+76,fear
+77,neutral
+78,neutral
+79,neutral
+80,neutral
+1,fear
+2,neutral
+3,surprised
+4,neutral
+5,neutral
+6,neutral
+7,fear
+8,sad
+9,neutral
+10,neutral
+11,sad
+12,frustrated
+13,surprised
+14,frustrated
+15,neutral
+16,frustrated
+17,frustrated
+18,frustrated
+19,frustrated
+20,frustrated
+21,anger
+22,neutral
+23,frustrated
+24,neutral
+25,frustrated
+26,neutral
+27,neutral
+28,neutral
+29,neutral
+30,neutral
+31,happy
+32,neutral
+33,frustrated
+34,frustrated
+35,neutral
+36,fear
+37,anger
+38,anger
+39,neutral
+40,anger
+41,neutral
+42,frustrated
+43,frustrated
+44,neutral
+45,anger
+46,neutral
+47,neutral
+48,fear
+49,neutral
+50,frustrated
+51,frustrated
+52,frustrated
+53,frustrated
+54,frustrated
+55,frustrated
+56,frustrated
+57,frustrated
+58,fear
+59,fear
+60,neutral
+61,neutral
+62,frustrated
+63,frustrated
+64,anger
+65,neutral
+66,surprised
+67,anger
+68,anger
+69,frustrated
+70,frustrated
+71,frustrated
+72,frustrated
+73,neutral
+74,frustrated
+75,frustrated
+76,frustrated
+77,frustrated
+78,frustrated
+79,sad
+80,neutral
+81,sad
+1,frustrated
+2,frustrated
+3,frustrated
+4,neutral
+5,frustrated
+6,frustrated
+7,angry
+8,surprised
+9,neutral
+10,frustrated
+11,frustrated
+12,neutral
+13,angry
+14,frustrated
+15,frustrated
+16,frustrated
+17,sad
+18,frustrated
+19,angry
+20,frustrated
+21,angry
+22,surprised
+23,fear
+24,fear
+25,neutral
+26,sad
+27,neutral
+28,sad
+29,neutral
+30,frustrated
+31,surprised
+32,sad
+33,surprised
+34,fear
+35,angry
+1,**neutral**
+2,**frustrated**
+3,**happy**
+4,**fear**
+5,**neutral**
+6,**neutral**
+7,**neutral**
+8,**neutral**
+9,**frustrated**
+10,**surprised**
+11,**neutral**
+12,**neutral**
+13,**neutral**
+14,**neutral**
+15,**neutral**
+16,**excited**
+17,**happy**
+18,**excited**
+19,**frustrated**
+20,**happy**
+21,**happy**
+22,**fear**
+23,**neutral**
+24,**neutral**
+25,**happy**
+26,**surprised**
+27,**happy**
+28,**frustrated**
+29,**frustrated**
+30,**excited**
+31,**excited**
+32,**frustrated**
+33,**happy**
+34,**frustrated**
+35,**happy**
+36,**frustrated**
+37,**excited**
+38,**fear**
+39,**neutral**
+40,**frustrated**
+41,**sad**
+42,**neutral**
+43,**frustrated**
+44,**frustrated**
+45,**sad**
+46,**frustrated**
+47,**neutral**
+48,**neutral**
+49,**sad**
+50,**surprised**
+51,**sad**
+52,**sad**
+53,**sad**
+54,**sad**
+55,**sad**
+56,**sad**
+57,**sad**
+58,**sad**
+59,**sad**
+60,**neutral**
+61,**sad**
+62,**sad**
+63,**sad**
+64,**sad**
+65,**fear**
+66,**happy**
+67,**happy**
+68,**neutral**
+69,**happy**
+70,**happy**
+71,**excited**
+1,excited
+2,neutral
+3,frustrated
+4,frustrated
+5,neutral
+6,frustrated
+7,frustrated
+8,neutral
+9,frustrated
+10,neutral
+11,neutral
+12,neutral
+13,frustrated
+14,happy
+15,neutral
+16,neutral
+17,neutral
+18,frustrated
+19,surprised
+20,frustrated
+21,neutral
+22,frustrated
+23,neutral
+24,frustrated
+25,frustrated
+26,frustrated
+27,neutral
+28,frustrated
+29,neutral
+30,frustrated
+31,excited
+32,excited
+33,frustrated
+34,neutral
+35,neutral
+36,excited
+37,frustrated
+38,frustrated
+39,neutral
+40,excited
+41,frustrated
+42,neutral
+43,neutral
+44,frustrated
+45,frustrated
+46,frustrated
+47,frustrated
+48,excited
+49,neutral
+50,excited
+51,excited
+52,excited
+53,excited
+54,frustrated
+55,frustrated
+1,neutral
+2,neutral
+3,neutral
+4,frustrated
+5,frustrated
+6,frustrated
+7,frustrated
+8,frustrated
+9,frustrated
+10,sad
+11,neutral
+12,anger
+13,neutral
+14,sad
+15,neutral
+16,frustrated
+17,neutral
+18,frustrated
+19,frustrated
+20,frustrated
+21,frustrated
+22,sad
+23,frustrated
+24,frustrated
+25,frustrated
+26,sad
+27,neutral
+28,neutral
+29,sad
+30,sad
+31,excited
+32,neutral
+33,neutral
+34,sad
+35,neutral
+36,sad
+37,neutral
+38,sad
+39,neutral
+40,sad
+41,frustrated
+42,happy
+43,frustrated
+44,neutral
+45,neutral
+46,neutral
+47,neutral
+48,anger
+49,sad
+50,anger
+51,sad
+52,neutral
+53,frustrated
+54,frustrated
+55,frustrated
+56,neutral
+57,sad
+58,sad
+59,sad
+60,neutral
+61,neutral
+62,sad
+63,sad
+64,neutral
+65,sad
+66,happy
+67,surprised
+68,happy
+69,happy
+70,happy
+71,happy
+72,happy
+73,excited
+74,happy
+75,neutral
+76,happy
+77,neutral
+78,happy
+79,excited
+80,happy
+81,happy
+1,frustrated
+2,fear
+3,neutral
+4,neutral
+5,frustrated
+6,fear
+7,happy
+8,happy
+9,happy
+10,neutral
+11,happy
+12,excited
+13,fear
+14,happy
+15,happy
+16,happy
+17,sad
+18,sad
+19,sad
+20,sad
+21,sad
+22,sad
+23,sad
+24,sad
+25,frustrated
+26,happy
+27,neutral
+28,frustrated
+29,frustrated
+30,neutral
+31,happy
+32,sad
+33,neutral
+34,sad
+35,sad
+36,fear
+37,neutral
+38,fear
+39,happy
+40,surprised
+41,happy
+42,frustrated
+43,excited
+44,happy
+45,neutral
+46,happy
+47,happy
+48,happy
+49,happy
+50,happy
+51,happy
+52,frustrated
+53,happy
+54,neutral
+55,neutral
+56,happy
+57,happy
+58,excited
+59,happy
+60,happy
+61,excited
+62,excited
+63,happy
+64,sad
+65,sad
+66,neutral
+67,frustrated
+1,neutral
+2,frustrated
+3,frustrated
+4,neutral
+5,frustrated
+6,frustrated
+7,angry
+8,angry
+9,frustrated
+10,neutral
+11,angry
+12,frustrated
+13,frustrated
+14,neutral
+15,angry
+16,angry
+17,frustrated
+18,frustrated
+19,frustrated
+20,neutral
+21,neutral
+22,neutral
+23,frustrated
+24,neutral
+25,frustrated
+26,frustrated
+27,frustrated
+28,angry
+29,angry
+30,frustrated
+31,neutral
+32,neutral
+33,neutral
+34,sad
+35,neutral
+36,neutral
+37,frustrated
+38,frustrated
+39,angry
+40,angry
+41,angry
+42,angry
+43,frustrated
+44,angry
+45,frustrated
+46,frustrated
+47,angry
+48,neutral
+49,neutral
+50,angry
+51,angry
+52,angry
+53,angry
+54,frustrated
+55,angry
+56,frustrated
+57,frustrated
+58,frustrated
+59,angry
+60,frustrated
+61,angry
+62,neutral
+63,neutral
+64,neutral
+65,neutral
+66,neutral
+67,neutral
+68,neutral
+69,neutral
+70,angry
+71,frustrated
+72,angry
+73,angry
+74,angry
+75,angry
+76,angry
+77,angry
+78,angry
+79,angry
+80,angry
+81,angry
+82,angry
+83,frustrated
+84,angry
+85,angry
+86,angry
+87,angry
+88,angry
+89,angry
+90,angry
+91,angry
