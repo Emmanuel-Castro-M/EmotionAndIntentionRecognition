@@ -1,0 +1,9431 @@
+Text,DS_emotion
+1,Apology
+2,Question
+3,Answer
+4,Command
+5,Question
+6,Question
+7,Answer
+8,Statement Non Opinion
+9,Statement Non Opinion
+10,Question
+11,Statement Non Opinion
+12,Statement Non Opinion
+13,Statement Non Opinion
+14,Statement Non Opinion
+15,Question
+16,Statement Non Opinion
+17,Statement Non Opinion
+18,Statement Non Opinion
+19,Question
+20,Statement Non Opinion
+21,Question
+22,Statement Non Opinion
+23,Statement Non Opinion
+24,Statement Opinion
+25,Statement Opinion
+26,Question
+27,Statement Non Opinion
+28,Statement Opinion
+29,Question
+30,Acknowledge
+1,Question
+2,Statement Non Opinion
+3,Acknowledge
+4,Statement Opinion
+5,Statement Non Opinion
+6,Statement Opinion
+7,Statement Opinion
+8,Statement Opinion
+9,Statement Opinion
+10,Acknowledge
+11,Question
+12,Statement Non Opinion
+13,Question
+14,Statement Opinion
+15,Statement Non Opinion
+16,Statement Non Opinion
+17,Statement Non Opinion
+18,Statement Non Opinion
+19,Statement Opinion
+20,Statement Opinion
+21,Acknowledge
+22,Statement Opinion
+23,Question
+24,Question
+25,Question
+26,Acknowledge
+27,Question
+28,Question
+29,Acknowledge
+30,Statement Opinion
+31,Statement Non Opinion
+32,Question
+33,Statement Non Opinion
+34,Acknowledge
+35,Statement Non Opinion
+36,Statement Non Opinion
+37,Command
+38,Statement Non Opinion
+"(Note: Some classifications may vary slightly based on interpretation, but this follows general dialogical act conventions",)
+1,Question
+2,Statement Opinion
+3,Acknowledge
+4,Statement Opinion
+5,Statement Non Opinion
+6,Statement Opinion
+7,Question
+8,Statement Opinion
+9,Question
+10,Statement Opinion
+11,Statement Opinion
+12,Question
+13,Statement Opinion
+14,Statement Non Opinion
+15,Statement Opinion
+16,Statement Opinion
+17,Statement Opinion
+18,Acknowledge
+19,Statement Opinion
+20,Question
+21,Statement Opinion
+22,Command
+23,Statement Opinion
+24,Question
+25,Statement Opinion
+26,Question
+27,Statement Opinion
+28,Statement Opinion
+29,Question
+30,Question
+31,Statement Opinion
+32,Statement Opinion
+33,Statement Opinion
+34,Question
+35,Statement Non Opinion
+36,Question
+37,Statement Non Opinion
+38,Acknowledge
+39,Acknowledge
+40,Statement Opinion
+41,Backchannel
+42,Statement Opinion
+43,Statement Opinion
+44,Acknowledge
+45,Statement Opinion
+46,Acknowledge
+47,Statement Opinion
+48,Acknowledge
+49,Statement Opinion
+50,Statement Opinion
+51,Acknowledge
+52,Statement Opinion
+1,Question
+2,Question
+3,Backchannel
+4,Statement Opinion
+5,Statement Non Opinion
+6,Statement Opinion
+7,Backchannel
+8,Statement Non Opinion
+9,Question
+10,Statement Non Opinion
+11,Question
+12,Statement Non Opinion
+13,Statement Non Opinion
+14,Statement Non Opinion
+15,Question
+16,Statement Non Opinion
+17,Backchannel
+18,Question
+19,Question
+20,Backchannel
+21,Backchannel
+22,Question
+23,Statement Non Opinion
+24,Question
+25,Question
+26,Statement Non Opinion
+27,Statement Non Opinion
+28,Statement Non Opinion
+29,Statement Opinion
+30,Backchannel
+31,Statement Opinion
+32,Statement Non Opinion
+33,Statement Opinion
+34,Statement Non Opinion
+35,Question
+36,Statement Non Opinion
+37,Statement Opinion
+38,Backchannel
+39,Statement Opinion
+40,Backchannel
+41,Backchannel
+42,Statement Opinion
+43,Statement Opinion
+44,Disagreement
+45,Command
+46,Statement Non Opinion
+47,Statement Opinion
+48,Question
+49,Statement Non Opinion
+50,Statement Opinion
+51,Statement Non Opinion
+52,Question
+53,Statement Non Opinion
+54,Disagreement
+55,Statement Non Opinion
+56,Disagreement
+57,Backchannel
+58,Statement Opinion
+59,Statement Opinion
+60,Statement Opinion
+61,Question
+62,Statement Non Opinion
+63,Statement Opinion
+64,Backchannel
+65,Statement Opinion
+66,Question
+67,Statement Non Opinion
+68,Statement Opinion
+69,Statement Opinion
+70,Statement Opinion
+71,Question
+1,Greeting
+2,Greeting
+3,Statement Non Opinion
+4,Question
+5,Backchannel
+6,Statement Non Opinion
+7,Acknowledge
+8,Statement Non Opinion
+9,Acknowledge
+10,Statement Non Opinion
+11,Apology
+12,Statement Non Opinion
+13,Acknowledge
+14,Statement Non Opinion
+15,Question
+16,Answer
+17,Statement Non Opinion
+18,Backchannel
+19,Question
+20,Acknowledge
+21,Statement Non Opinion
+22,Apology
+23,Question
+24,Apology
+25,Question
+26,Answer
+27,Disagreement
+28,Question
+29,Statement Non Opinion
+30,Question
+31,Statement Non Opinion
+32,Statement Non Opinion
+33,Statement Opinion
+34,Apology
+35,Statement Opinion
+36,Acknowledge
+37,Acknowledge
+38,Statement Non Opinion
+39,Apology
+40,Statement Opinion
+41,Acknowledge
+42,Statement Non Opinion
+43,Question
+44,Statement Opinion
+45,Statement Non Opinion
+46,Question
+47,Statement Non Opinion
+48,Statement Non Opinion
+49,Statement Opinion
+50,Statement Non Opinion
+51,Question
+52,Answer
+53,Statement Opinion
+54,Acknowledge
+55,Statement Non Opinion
+56,Statement Opinion
+57,Apology
+58,Question
+59,Answer
+60,Question
+61,Answer
+62,Statement Opinion
+63,Question
+64,Statement Opinion
+65,Statement Non Opinion
+66,Statement Opinion
+67,Statement Non Opinion
+1,Apology
+2,Acknowledge
+3,Question
+4,Disagreement
+5,Question
+6,Answer
+7,Statement Opinion
+8,Acknowledge
+9,Acknowledge
+10,Statement Non Opinion
+11,Statement Opinion
+12,Backchannel
+13,Statement Non Opinion
+14,Statement Non Opinion
+15,Statement Non Opinion
+16,Question
+17,Statement Non Opinion
+18,Statement Non Opinion
+19,Backchannel
+20,Statement Opinion
+21,Acknowledge
+22,Statement Opinion
+23,Question
+24,Question
+25,Backchannel
+26,Answer
+27,Statement Non Opinion
+28,Question
+29,Question
+30,Statement Non Opinion
+31,Question
+32,Answer
+33,Question
+34,Answer
+35,Statement Opinion
+36,Statement Non Opinion
+37,Statement Non Opinion
+38,Backchannel
+39,Acknowledge
+40,Statement Non Opinion
+41,Statement Non Opinion
+42,Backchannel
+43,Statement Non Opinion
+44,Question
+45,Statement Non Opinion
+46,Statement Non Opinion
+47,Backchannel
+1,Question
+2,Answer
+3,Agreement
+4,Question
+5,Statement Non Opinion
+6,Agreement
+7,Statement Opinion
+8,Question
+9,Acknowledge
+10,Statement Non Opinion
+11,Statement Opinion
+12,Agreement
+13,Question
+14,Agreement
+15,Statement Opinion
+16,Statement Opinion
+17,Agreement
+18,Question
+19,Statement Opinion
+20,Acknowledge
+21,Statement Opinion
+22,Statement Non Opinion
+23,Question
+24,Answer
+25,Question
+26,Answer
+27,Statement Opinion
+28,Statement Opinion
+29,Statement Opinion
+30,Acknowledge
+31,Statement Opinion
+32,Statement Opinion
+33,Statement Opinion
+34,Statement Opinion
+35,Agreement
+36,Command
+37,Statement Opinion
+1,Question
+2,Statement Opinion
+3,Statement Non Opinion
+4,Question
+5,Statement Non Opinion
+6,Question
+7,Statement Non Opinion
+8,Question
+9,Statement Non Opinion
+10,Statement Opinion
+11,Agreement
+12,Question
+13,Statement Opinion
+14,Question
+15,Statement Opinion
+16,Question
+17,Statement Opinion
+18,Question
+19,Statement Opinion
+20,Question
+21,Statement Opinion
+22,Statement Opinion
+23,Question
+24,Statement Opinion
+25,Statement Opinion
+26,Command
+27,Statement Opinion
+28,Question
+29,Question
+30,Statement Non Opinion
+31,Statement Opinion
+32,Statement Non Opinion
+33,Statement Opinion
+34,Statement Opinion
+35,Question
+36,Question
+37,Statement Opinion
+38,Statement Opinion
+39,Statement Opinion
+40,Statement Opinion
+41,Statement Opinion
+42,Statement Opinion
+43,Statement Opinion
+44,Statement Opinion
+45,Statement Opinion
+46,Statement Opinion
+47,Statement Opinion
+48,Question
+49,Statement Non Opinion
+50,Question
+51,Statement Opinion
+52,Statement Opinion
+53,Statement Opinion
+54,Statement Opinion
+55,Question
+56,Statement Opinion
+57,Statement Opinion
+58,Statement Non Opinion
+59,Statement Opinion
+60,Statement Opinion
+61,Question
+62,Statement Opinion
+63,Statement Opinion
+64,Statement Opinion
+65,Question
+66,Acknowledge
+67,Command
+68,Statement Opinion
+69,Statement Opinion
+70,Question
+71,Statement Opinion
+72,Question
+73,Statement Opinion
+74,Question
+75,Statement Opinion
+76,Question
+77,Statement Opinion
+78,Statement Opinion
+79,Question
+80,Statement Opinion
+81,Statement Opinion
+82,Command
+83,Statement Opinion
+84,Statement Opinion
+85,Command
+86,Statement Opinion
+87,Question
+88,Statement Opinion
+89,Acknowledge
+1,Question
+2,Question
+3,Statement Non Opinion
+4,Statement Opinion
+5,Statement Opinion
+6,Question
+7,Statement Non Opinion
+8,Statement Opinion
+9,Question
+10,Statement Opinion
+11,Backchannel
+12,Question
+13,Command
+14,Statement Opinion
+15,Statement Opinion
+16,Question
+17,Question
+18,Statement Opinion
+19,Question
+20,Statement Opinion
+21,Question
+22,Command
+23,Statement Opinion
+24,Acknowledge
+25,Statement Opinion
+26,Others
+27,Command
+28,Command
+29,Command
+30,Question
+31,Statement Non Opinion
+32,Statement Non Opinion
+33,Question
+"(Note: Some classifications may vary slightly depending on interpretation, but this follows the general intent of each line",)
+1,Statement Non Opinion
+2,Agreement
+3,Statement Opinion
+4,Statement Opinion
+5,Statement Non Opinion
+6,Statement Non Opinion
+7,Question
+8,Statement Non Opinion
+9,Backchannel
+10,Statement Non Opinion
+11,Question
+12,Statement Non Opinion
+13,Statement Non Opinion
+14,Statement Non Opinion
+15,Question
+16,Statement Opinion
+17,Question
+18,Statement Non Opinion
+19,Backchannel
+20,Statement Opinion
+21,Backchannel
+22,Statement Non Opinion
+23,Backchannel
+24,Question
+25,Acknowledge
+26,Statement Non Opinion
+27,Statement Non Opinion
+28,Question
+29,Statement Non Opinion
+30,Question
+31,Statement Non Opinion
+32,Question
+33,Statement Non Opinion
+34,Question
+35,Statement Non Opinion
+36,Command
+37,Command
+38,Statement Non Opinion
+39,Statement Non Opinion
+40,Statement Opinion
+41,Statement Opinion
+42,Disagreement
+43,Statement Non Opinion
+44,Statement Non Opinion
+45,Question
+46,Command
+47,Question
+48,Statement Non Opinion
+49,Question
+50,Statement Non Opinion
+51,Command
+52,Statement Non Opinion
+53,Statement Non Opinion
+54,Statement Non Opinion
+55,Acknowledge
+56,Statement Non Opinion
+57,Question
+58,Statement Non Opinion
+59,Backchannel
+60,Statement Non Opinion
+61,Statement Non Opinion
+62,Statement Non Opinion
+63,Statement Non Opinion
+64,Backchannel
+65,Statement Non Opinion
+66,Statement Non Opinion
+67,Statement Non Opinion
+68,Statement Non Opinion
+69,Statement Non Opinion
+70,Question
+71,Statement Non Opinion
+72,Statement Opinion
+73,Statement Opinion
+74,Statement Opinion
+75,Question
+1,Question
+2,Question
+3,Answer
+4,Backchannel
+5,Statement Non Opinion
+6,Others
+7,Statement Opinion
+8,Statement Non Opinion
+9,Question
+10,Statement Non Opinion
+11,Question
+12,Statement Non Opinion
+13,Statement Non Opinion
+14,Question
+15,Statement Non Opinion
+16,Acknowledge
+17,Statement Opinion
+18,Disagreement
+19,Question
+20,Statement Non Opinion
+21,Statement Non Opinion
+22,Question
+23,Answer
+24,Question
+25,Statement Non Opinion
+26,Statement Opinion
+27,Backchannel
+28,Statement Non Opinion
+29,Statement Non Opinion
+30,Question
+31,Command
+32,Question
+33,Statement Non Opinion
+34,Acknowledge
+35,Statement Non Opinion
+36,Agreement
+37,Command
+38,Statement Opinion
+39,Statement Non Opinion
+40,Question
+41,Statement Non Opinion
+42,Statement Opinion
+43,Statement Opinion
+44,Statement Opinion
+45,Statement Opinion
+46,Statement Opinion
+47,Disagreement
+48,Others
+49,Statement Opinion
+50,Statement Opinion
+51,Statement Non Opinion
+52,Question
+53,Answer
+54,Question
+55,Statement Non Opinion
+56,Statement Non Opinion
+57,Statement Non Opinion
+58,Statement Non Opinion
+59,Statement Opinion
+60,Statement Non Opinion
+61,Statement Opinion
+62,Statement Opinion
+63,Statement Opinion
+64,Statement Opinion
+65,Statement Opinion
+66,Statement Opinion
+67,Statement Non Opinion
+68,Statement Non Opinion
+69,Question
+70,Question
+71,Question
+1,Statement Non Opinion
+2,Statement Non Opinion
+3,Question
+4,Question
+5,Statement Non Opinion
+6,Statement Opinion
+7,Statement Opinion
+8,Statement Opinion
+9,Statement Non Opinion
+10,Statement Opinion
+11,Question
+12,Apology
+13,Question
+14,Statement Opinion
+15,Question
+16,Statement Opinion
+17,Statement Opinion
+18,Command
+19,Question
+20,Question
+21,Statement Non Opinion
+22,Statement Opinion
+23,Statement Opinion
+24,Statement Opinion
+25,Statement Opinion
+26,Statement Opinion
+27,Statement Opinion
+28,Disagreement
+29,Statement Opinion
+30,Statement Opinion
+31,Statement Opinion
+32,Statement Opinion
+33,Statement Non Opinion
+34,Statement Non Opinion
+35,Statement Non Opinion
+36,Question
+37,Statement Non Opinion
+38,Statement Opinion
+39,Statement Non Opinion
+40,Statement Non Opinion
+41,Statement Non Opinion
+42,Statement Non Opinion
+43,Question
+44,Statement Opinion
+45,Acknowledge
+46,Question
+47,Answer
+48,Question
+49,Answer
+50,Question
+51,Answer
+52,Question
+53,Question
+54,Answer
+55,Question
+56,Question
+57,Answer
+58,Question
+59,Statement Opinion
+60,Statement Opinion
+61,Others
+62,Statement Opinion
+63,Statement Opinion
+64,Statement Opinion
+65,Statement Opinion
+66,Statement Opinion
+67,Backchannel
+68,Statement Opinion
+69,Others
+70,Question
+71,Statement Non Opinion
+72,Statement Opinion
+73,Statement Opinion
+74,Statement Opinion
+75,Statement Opinion
+76,Statement Opinion
+77,Statement Opinion
+78,Backchannel
+79,Question
+80,Others
+81,Statement Opinion
+82,Statement Opinion
+83,Statement Opinion
+84,Statement Opinion
+85,Question
+86,Statement Opinion
+87,Others
+88,Statement Non Opinion
+89,Statement Opinion
+90,Statement Non Opinion
+91,Statement Opinion
+92,Others
+93,Question
+94,Statement Opinion
+95,Apology
+96,Statement Non Opinion
+97,Statement Non Opinion
+98,Statement Non Opinion
+1,Statement Non Opinion
+2,Question
+3,Statement Non Opinion
+4,Statement Opinion
+5,Statement Opinion
+6,Question
+7,Others
+8,Question
+9,Agreement
+10,Statement Opinion
+11,Statement Opinion
+12,Question
+13,Statement Non Opinion
+14,Statement Opinion
+15,Question
+16,Statement Opinion
+17,Statement Opinion
+18,Statement Opinion
+19,Question
+20,Statement Opinion
+21,Statement Opinion
+22,Statement Opinion
+23,Question
+24,Agreement
+25,Question
+26,Statement Opinion
+27,Statement Opinion
+28,Question
+29,Statement Opinion
+30,Statement Opinion
+31,Statement Opinion
+32,Agreement
+33,Question
+34,Statement Non Opinion
+35,Question
+36,Statement Opinion
+37,Question
+38,Statement Opinion
+39,Question
+40,Statement Opinion
+41,Statement Opinion
+42,Statement Opinion
+43,Disagreement
+44,Statement Opinion
+45,Command
+46,Others
+47,Command
+48,Statement Non Opinion
+49,Statement Opinion
+50,Statement Opinion
+51,Question
+52,Question
+53,Statement Non Opinion
+54,Statement Opinion
+55,Others
+56,Statement Opinion
+57,Statement Opinion
+58,Question
+59,Statement Non Opinion
+60,Backchannel
+61,Statement Non Opinion
+62,Statement Non Opinion
+63,Question
+64,Statement Non Opinion
+65,Statement Opinion
+66,Statement Opinion
+67,Statement Opinion
+68,Statement Non Opinion
+69,Statement Opinion
+70,Statement Opinion
+71,Statement Opinion
+1,Statement Non Opinion
+2,Statement Opinion
+3,Statement Opinion
+4,Statement Opinion
+5,Statement Non Opinion
+6,Statement Opinion
+7,Statement Opinion
+8,Statement Opinion
+9,Statement Non Opinion
+10,Disagreement
+11,Question
+12,Statement Non Opinion
+13,Question
+14,Statement Opinion
+15,Question
+16,Statement Opinion
+17,Statement Opinion
+18,Statement Opinion
+19,Statement Opinion
+20,Acknowledge
+21,Statement Non Opinion
+22,Statement Opinion
+23,Statement Non Opinion
+24,Statement Opinion
+25,Disagreement
+26,Statement Opinion
+27,Disagreement
+28,Command
+29,Statement Non Opinion
+30,Question
+31,Acknowledge
+32,Question
+33,Statement Opinion
+34,Statement Opinion
+35,Statement Opinion
+36,Agreement
+37,Disagreement
+38,Agreement
+39,Command
+40,Statement Opinion
+41,Statement Opinion
+42,Statement Opinion
+43,Statement Non Opinion
+44,Disagreement
+45,Disagreement
+46,Question
+47,Statement Non Opinion
+48,Statement Opinion
+49,Command
+50,Statement Opinion
+51,Disagreement
+52,Statement Opinion
+53,Disagreement
+54,Disagreement
+55,Statement Opinion
+56,Command
+57,Command
+58,Command
+59,Statement Non Opinion
+60,Command
+61,Question
+62,Statement Non Opinion
+63,Statement Opinion
+64,Statement Non Opinion
+65,Statement Non Opinion
+66,Command
+67,Disagreement
+68,Statement Opinion
+69,Command
+70,Statement Opinion
+71,Command
+72,Disagreement
+73,Command
+74,Statement Opinion
+75,Disagreement
+76,Statement Opinion
+77,Statement Opinion
+78,Disagreement
+79,Disagreement
+80,Disagreement
+81,Disagreement
+82,Disagreement
+1,Command
+2,Acknowledge
+3,Statement Non Opinion
+4,Statement Non Opinion
+5,Question
+6,Statement Non Opinion
+7,Answer
+8,Statement Opinion
+9,Backchannel
+10,Question
+11,Answer
+12,Question
+13,Statement Non Opinion
+14,Statement Non Opinion
+15,Answer
+16,Command
+17,Statement Opinion
+18,Backchannel
+19,Statement Non Opinion
+20,Question
+21,Answer
+22,Question
+23,Answer
+24,Question
+25,Question
+26,Answer
+27,Question
+28,Answer
+29,Greeting
+30,Greeting
+31,Question
+32,Statement Non Opinion
+33,Backchannel
+34,Statement Non Opinion
+35,Acknowledge
+36,Statement Non Opinion
+37,Question
+38,Answer
+39,Question
+40,Question
+41,Command
+42,Question
+43,Command
+44,Acknowledge
+45,Question
+46,Statement Opinion
+47,Statement Non Opinion
+48,Command
+49,Statement Non Opinion
+50,Command
+51,Statement Non Opinion
+52,Statement Non Opinion
+53,Acknowledge
+54,Command
+55,Statement Opinion
+56,Question
+57,Question
+58,Question
+59,Acknowledge
+60,Statement Opinion
+61,Answer
+62,Statement Opinion
+63,Others
+64,Statement Opinion
+65,Command
+1,Command
+2,Question
+3,Statement Non Opinion
+4,Statement Non Opinion
+5,Question
+6,Statement Non Opinion
+7,Question
+8,Statement Non Opinion
+9,Statement Non Opinion
+10,Question
+11,Statement Non Opinion
+12,Statement Non Opinion
+13,Statement Non Opinion
+14,Statement Non Opinion
+15,Backchannel
+16,Statement Opinion
+17,Statement Opinion
+18,Statement Non Opinion
+19,Backchannel
+20,Statement Non Opinion
+21,Statement Opinion
+22,Statement Opinion
+23,Statement Non Opinion
+24,Question
+25,Statement Non Opinion
+26,Statement Opinion
+27,Statement Opinion
+28,Statement Opinion
+29,Statement Opinion
+30,Question
+31,Statement Opinion
+32,Statement Opinion
+33,Question
+34,Command
+35,Statement Non Opinion
+36,Acknowledge
+37,Statement Opinion
+38,Statement Opinion
+39,Statement Opinion
+40,Question
+41,Statement Opinion
+42,Statement Opinion
+43,Backchannel
+44,Statement Opinion
+45,Command
+46,Statement Non Opinion
+47,Statement Opinion
+48,Statement Opinion
+1,Statement Opinion
+2,Question
+3,Statement Opinion
+4,Acknowledge
+5,Backchannel
+6,Question
+7,Statement Non Opinion
+8,Question
+9,Statement Opinion
+10,Statement Opinion
+11,Statement Opinion
+12,Statement Opinion
+13,Statement Non Opinion
+14,Acknowledge
+15,Question
+16,Statement Opinion
+17,Statement Opinion
+18,Statement Opinion
+19,Acknowledge
+20,Statement Opinion
+21,Question
+22,Statement Opinion
+23,Acknowledge
+24,Statement Opinion
+25,Question
+26,Statement Opinion
+27,Agreement
+28,Statement Opinion
+29,Backchannel
+30,Agreement
+31,Statement Opinion
+32,Statement Opinion
+33,Statement Opinion
+34,Question
+35,Acknowledge
+36,Statement Opinion
+37,Statement Opinion
+38,Backchannel
+39,Question
+40,Statement Opinion
+41,Agreement
+42,Statement Opinion
+43,Statement Opinion
+44,Agreement
+45,Statement Opinion
+46,Statement Opinion
+47,Statement Opinion
+48,Acknowledge
+49,Statement Opinion
+50,Statement Opinion
+51,Question
+52,Agreement
+53,Acknowledge
+1,Statement Non Opinion
+2,Statement Opinion
+3,Question
+4,Statement Opinion
+5,Statement Opinion
+6,Question
+7,Statement Opinion
+8,Statement Non Opinion
+9,Statement Opinion
+10,Statement Non Opinion
+11,Statement Opinion
+12,Question
+13,Question
+14,Statement Non Opinion
+15,Question
+16,Statement Opinion
+17,Question
+18,Statement Opinion
+19,Acknowledge
+20,Statement Non Opinion
+21,Statement Opinion
+22,Statement Non Opinion
+23,Question
+24,Statement Non Opinion
+25,Acknowledge
+26,Question
+27,Statement Non Opinion
+28,Question
+29,Statement Non Opinion
+30,Statement Opinion
+31,Statement Non Opinion
+32,Statement Opinion
+33,Statement Non Opinion
+34,Question
+35,Statement Non Opinion
+36,Command
+37,Statement Non Opinion
+38,Statement Non Opinion
+39,Statement Opinion
+40,Statement Opinion
+41,Statement Non Opinion
+42,Statement Non Opinion
+43,Acknowledge
+44,Statement Non Opinion
+45,Others
+46,Statement Non Opinion
+47,Statement Opinion
+48,Others
+49,Statement Non Opinion
+50,Statement Opinion
+51,Question
+52,Statement Non Opinion
+1,Question
+2,Answer
+3,Statement Non Opinion
+4,Statement Non Opinion
+5,Question
+6,Answer
+7,Question
+8,Statement Non Opinion
+9,Statement Non Opinion
+10,Statement Non Opinion
+11,Statement Non Opinion
+12,Question
+13,Command
+14,Statement Non Opinion
+15,Statement Non Opinion
+16,Statement Non Opinion
+17,Statement Non Opinion
+18,Statement Non Opinion
+19,Statement Non Opinion
+20,Statement Non Opinion
+21,Statement Non Opinion
+22,Statement Non Opinion
+23,Statement Non Opinion
+24,Statement Non Opinion
+25,Statement Non Opinion
+26,Question
+27,Statement Non Opinion
+28,Statement Non Opinion
+29,Statement Non Opinion
+30,Apology
+31,Statement Non Opinion
+32,Statement Non Opinion
+33,Statement Non Opinion
+34,Statement Non Opinion
+35,Apology
+36,Acknowledge
+37,Statement Non Opinion
+38,Statement Non Opinion
+39,Question
+40,Answer
+41,Statement Non Opinion
+42,Answer
+43,Question
+44,Statement Non Opinion
+45,Question
+46,Statement Non Opinion
+47,Statement Non Opinion
+48,Statement Opinion
+49,Question
+50,Question
+51,Statement Non Opinion
+52,Statement Non Opinion
+53,Statement Non Opinion
+54,Statement Non Opinion
+55,Statement Non Opinion
+56,Statement Non Opinion
+57,Command
+58,Statement Non Opinion
+59,Answer
+60,Answer
+61,Statement Non Opinion
+62,Statement Non Opinion
+63,Statement Opinion
+64,Statement Opinion
+65,Statement Non Opinion
+66,Statement Non Opinion
+67,Statement Non Opinion
+68,Command
+69,Others
+70,Acknowledge
+1,Question
+2,Answer
+3,Statement Opinion
+4,Question
+5,Question
+6,Backchannel
+7,Statement Opinion
+8,Statement Non Opinion
+9,Statement Opinion
+10,Statement Opinion
+11,Acknowledge
+12,Statement Opinion
+13,Question
+14,Acknowledge
+15,Statement Opinion
+16,Question
+17,Answer
+18,Statement Opinion
+19,Question
+20,Statement Opinion
+21,Question
+22,Question
+23,Statement Opinion
+24,Statement Opinion
+25,Acknowledge
+26,Statement Opinion
+27,Backchannel
+28,Statement Opinion
+29,Backchannel
+30,Statement Opinion
+31,Agreement
+32,Statement Opinion
+33,Backchannel
+34,Others
+35,Backchannel
+36,Statement Non Opinion
+37,Statement Opinion
+38,Statement Non Opinion
+39,Statement Opinion
+40,Statement Non Opinion
+41,Question
+42,Acknowledge
+43,Statement Non Opinion
+44,Statement Opinion
+45,Backchannel
+46,Statement Opinion
+47,Backchannel
+48,Statement Opinion
+49,Backchannel
+50,Question
+51,Backchannel
+52,Answer
+53,Statement Non Opinion
+54,Acknowledge
+55,Statement Non Opinion
+56,Statement Opinion
+57,Statement Opinion
+58,Backchannel
+59,Statement Opinion
+60,Question
+1,Command
+2,Backchannel
+3,Statement Non Opinion
+4,Statement Opinion
+5,Statement Opinion
+6,Statement Non Opinion
+7,Backchannel
+8,Statement Non Opinion
+9,Statement Opinion
+10,Question
+11,Statement Non Opinion
+12,Statement Opinion
+13,Statement Opinion
+14,Question
+15,Statement Non Opinion
+16,Command
+17,Statement Opinion
+18,Acknowledge
+19,Statement Opinion
+20,Backchannel
+21,Statement Opinion
+22,Question
+23,Statement Opinion
+24,Backchannel
+25,Question
+26,Statement Opinion
+27,Statement Non Opinion
+28,Question
+29,Statement Opinion
+30,Statement Opinion
+31,Question
+32,Question
+33,Statement Non Opinion
+34,Statement Non Opinion
+35,Statement Non Opinion
+36,Statement Opinion
+37,Statement Opinion
+38,Question
+39,Statement Non Opinion
+40,Statement Non Opinion
+41,Question
+42,Statement Non Opinion
+43,Statement Opinion
+44,Statement Opinion
+45,Statement Opinion
+46,Statement Non Opinion
+47,Statement Opinion
+48,Question
+49,Statement Opinion
+50,Question
+51,Statement Opinion
+52,Statement Opinion
+53,Statement Opinion
+54,Statement Opinion
+55,Question
+56,Statement Non Opinion
+57,Question
+58,Statement Non Opinion
+59,Statement Non Opinion
+60,Backchannel
+61,Statement Opinion
+62,Statement Non Opinion
+63,Backchannel
+64,Statement Non Opinion
+65,Statement Opinion
+66,Backchannel
+67,Statement Opinion
+68,Statement Non Opinion
+69,Command
+1,Question
+2,Statement Non Opinion
+3,Question
+4,Statement Non Opinion
+5,Question
+6,Statement Non Opinion
+7,Question
+8,Statement Non Opinion
+9,Question
+10,Statement Non Opinion
+11,Question
+12,Statement Non Opinion
+13,Others
+14,Question
+15,Statement Non Opinion
+16,Statement Opinion
+17,Agreement
+18,Question
+19,Statement Opinion
+20,Question
+21,Statement Opinion
+22,Question
+23,Statement Opinion
+24,Question
+25,Statement Opinion
+26,Statement Non Opinion
+27,Statement Opinion
+28,Question
+29,Statement Opinion
+30,Statement Opinion
+31,Command
+32,Statement Opinion
+33,Question
+34,Question
+35,Statement Non Opinion
+36,Statement Non Opinion
+37,Statement Non Opinion
+38,Statement Opinion
+39,Statement Opinion
+40,Question
+41,Question
+42,Statement Non Opinion
+43,Statement Opinion
+44,Statement Non Opinion
+45,Apology
+46,Disagreement
+47,Statement Opinion
+48,Statement Opinion
+49,Statement Opinion
+50,Statement Opinion
+51,Question
+52,Statement Non Opinion
+53,Question
+54,Statement Opinion
+55,Statement Opinion
+56,Statement Opinion
+57,Statement Opinion
+58,Statement Opinion
+59,Statement Opinion
+60,Statement Opinion
+61,Statement Opinion
+62,Question
+63,Statement Non Opinion
+64,Command
+65,Statement Opinion
+66,Statement Opinion
+67,Question
+68,Statement Opinion
+69,Question
+70,Statement Opinion
+71,Question
+72,Statement Opinion
+73,Question
+74,Statement Opinion
+75,Statement Opinion
+76,Question
+77,Statement Opinion
+78,Command
+79,Command
+80,Question
+81,Acknowledge
+82,Command
+83,Command
+84,Statement Opinion
+85,Question
+86,Statement Opinion
+87,Statement Opinion
+1,Question
+2,Answer
+3,Question
+4,Answer
+5,Statement Non Opinion
+6,Statement Opinion
+7,Question
+8,Statement Opinion
+9,Statement Non Opinion
+10,Question
+11,Command
+12,Statement Opinion
+13,Command
+14,Statement Opinion
+15,Question
+16,Statement Opinion
+17,Question
+18,Statement Opinion
+19,Question
+20,Command
+21,Acknowledge
+22,Statement Opinion
+23,Others
+24,Statement Opinion
+25,Command
+26,Statement Opinion
+27,Command
+28,Command
+29,Statement Opinion
+30,Question
+31,Statement Non Opinion
+32,Statement Non Opinion
+33,Question
+1,Statement Non Opinion
+2,Agreement
+3,Statement Opinion
+4,Statement Opinion
+5,Question
+6,Statement Non Opinion
+7,Question
+8,Statement Non Opinion
+9,Backchannel
+10,Statement Non Opinion
+11,Question
+12,Statement Non Opinion
+13,Statement Non Opinion
+14,Statement Non Opinion
+15,Question
+16,Question
+17,Backchannel
+18,Question
+19,Statement Non Opinion
+20,Statement Opinion
+21,Statement Opinion
+22,Apology
+23,Greeting
+24,Apology
+25,Statement Non Opinion
+26,Question
+27,Statement Non Opinion
+28,Question
+29,Statement Non Opinion
+30,Question
+31,Statement Non Opinion
+32,Question
+33,Statement Non Opinion
+34,Command
+35,Statement Non Opinion
+36,Statement Opinion
+37,Statement Non Opinion
+38,Statement Non Opinion
+39,Question
+40,Command
+41,Question
+42,Statement Non Opinion
+43,Question
+44,Statement Non Opinion
+45,Command
+46,Statement Non Opinion
+47,Statement Non Opinion
+48,Statement Non Opinion
+49,Question
+50,Acknowledge
+51,Statement Non Opinion
+52,Question
+53,Statement Non Opinion
+54,Acknowledge
+55,Statement Non Opinion
+56,Statement Non Opinion
+57,Statement Non Opinion
+58,Statement Non Opinion
+59,Statement Non Opinion
+60,Statement Non Opinion
+61,Statement Non Opinion
+62,Statement Non Opinion
+63,Statement Non Opinion
+64,Statement Non Opinion
+65,Statement Non Opinion
+66,Statement Non Opinion
+67,Statement Non Opinion
+68,Question
+69,Statement Non Opinion
+70,Statement Opinion
+71,Statement Opinion
+72,Statement Opinion
+73,Greeting
+74,Statement Opinion
+75,Question
+1,"Question, Statement Opinion"
+2,"Statement Opinion, Question, Question, Question, Greeting, Question, Acknowledge"
+3,Answer
+4,"Command, Question"
+5,Statement Non Opinion
+6,Backchannel
+7,"Statement Opinion, Question, Question"
+8,"Statement Opinion, Statement Opinion, Question"
+9,"Statement Non Opinion, Question"
+10,Question
+11,"Statement Non Opinion, Question"
+12,Statement Non Opinion
+13,Question
+14,Statement Non Opinion
+15,Acknowledge
+16,Question
+17,Statement Non Opinion
+18,Statement Non Opinion
+19,"Statement Opinion, Question, Question"
+20,Backchannel
+21,"Question, Question, Question, Offer, Offer, Question"
+22,Answer
+23,"Statement Opinion, Statement Opinion, Statement Opinion"
+24,"Question, Question, Question"
+25,Answer
+26,Statement Opinion
+27,Statement Opinion
+28,Statement Opinion
+29,Statement Opinion
+30,Statement Opinion
+31,Statement Non Opinion
+32,Offer
+33,Command
+34,"Question, Statement Opinion, Question"
+35,Statement Non Opinion
+36,Acknowledge
+37,Statement Non Opinion
+38,Statement Non Opinion
+39,Command
+40,"Disagreement, Statement Opinion"
+41,Question
+42,Answer
+43,Question
+44,Statement Non Opinion
+45,"Disagreement, Statement Non Opinion"
+46,"Statement Opinion, Statement Opinion"
+47,"Question, Statement Non Opinion"
+48,"Statement Opinion, Statement Opinion"
+49,"Statement Opinion, Statement Non Opinion"
+50,Disagreement
+51,Backchannel
+52,"Statement Opinion, Statement Opinion"
+53,"Statement Opinion, Question"
+54,Answer
+55,Question
+56,Answer
+57,Acknowledge
+58,Statement Opinion
+59,Statement Opinion
+60,Statement Non Opinion
+61,Statement Non Opinion
+62,Statement Non Opinion
+63,Statement Opinion
+64,"Command, Statement Opinion"
+65,Statement Opinion
+66,Statement Opinion
+67,Statement Opinion
+68,Statement Opinion
+69,Statement Opinion
+70,Statement Opinion
+71,"Statement Opinion, Statement Non Opinion"
+72,Statement Non Opinion
+1,Statement Non Opinion
+2,Statement Opinion
+3,Statement Opinion
+4,Statement Non Opinion
+5,Question
+6,Question
+7,Statement Non Opinion
+8,Statement Opinion
+9,Statement Opinion
+10,Statement Opinion
+11,Statement Opinion
+12,Statement Opinion
+13,Statement Opinion
+14,Statement Opinion
+15,Statement Opinion
+16,Statement Opinion
+17,Question
+18,Statement Opinion
+19,Question
+20,Statement Opinion
+21,Question
+22,Statement Opinion
+23,Statement Opinion
+24,Statement Opinion
+25,Statement Non Opinion
+26,Question
+27,Statement Opinion
+28,Statement Non Opinion
+29,Statement Opinion
+30,Statement Opinion
+31,Statement Opinion
+32,Statement Opinion
+33,Statement Non Opinion
+34,Statement Opinion
+35,Statement Non Opinion
+36,Statement Non Opinion
+37,Statement Opinion
+38,Statement Non Opinion
+39,Statement Non Opinion
+40,Statement Non Opinion
+41,Statement Non Opinion
+42,Statement Non Opinion
+43,Statement Non Opinion
+44,Statement Non Opinion
+45,Statement Opinion
+46,Statement Non Opinion
+47,Statement Non Opinion
+48,Statement Non Opinion
+49,Question
+50,Statement Opinion
+51,Acknowledge
+52,Question
+53,Statement Non Opinion
+54,Question
+55,Statement Non Opinion
+56,Question
+57,Statement Non Opinion
+58,Question
+59,Question
+60,Question
+61,Statement Non Opinion
+62,Question
+63,Statement Non Opinion
+64,Question
+65,Statement Opinion
+66,Statement Opinion
+67,Statement Opinion
+68,Statement Opinion
+69,Statement Opinion
+70,Statement Opinion
+71,Question
+72,Statement Non Opinion
+73,Statement Opinion
+74,Acknowledge
+75,Statement Opinion
+76,Acknowledge
+77,Question
+78,Statement Non Opinion
+79,Acknowledge
+80,Statement Opinion
+81,Question
+82,Statement Non Opinion
+83,Statement Opinion
+84,Statement Opinion
+85,Backchannel
+86,Question
+87,Statement Opinion
+88,Statement Opinion
+89,Statement Opinion
+90,Statement Opinion
+91,Statement Non Opinion
+92,Statement Opinion
+93,Statement Non Opinion
+94,Statement Non Opinion
+95,Statement Non Opinion
+96,Statement Opinion
+97,Question
+98,Statement Opinion
+99,Apology
+100,Backchannel
+101,Statement Non Opinion
+102,Statement Non Opinion
+103,Statement Non Opinion
+1,Statement Non Opinion
+2,Question
+3,Statement Non Opinion
+4,Statement Opinion
+5,Statement Non Opinion
+6,Question
+7,Question
+8,Statement Opinion
+9,Statement Opinion
+10,Statement Opinion
+11,Question
+12,Statement Non Opinion
+13,Statement Opinion
+14,Backchannel
+15,Backchannel
+16,Backchannel
+17,Backchannel
+18,Question
+19,Statement Opinion
+20,Statement Opinion
+21,Statement Opinion
+22,Backchannel
+23,Backchannel
+24,Backchannel
+25,Backchannel
+26,Question
+27,Statement Opinion
+28,Statement Opinion
+29,Statement Opinion
+30,Question
+31,Statement Opinion
+32,Question
+33,Statement Opinion
+34,Statement Opinion
+35,Question
+36,Statement Opinion
+37,Statement Opinion
+38,Statement Opinion
+39,Backchannel
+40,Question
+41,Statement Opinion
+42,Statement Non Opinion
+43,Question
+44,Statement Opinion
+45,Question
+46,Statement Opinion
+47,Statement Opinion
+48,Question
+49,Statement Opinion
+50,Question
+51,Statement Opinion
+52,Statement Opinion
+53,Question
+54,Backchannel
+55,Command
+56,Backchannel
+57,Command
+58,Statement Opinion
+59,Statement Opinion
+60,Statement Opinion
+61,Acknowledge
+62,Statement Opinion
+63,Statement Opinion
+64,Question
+65,Question
+66,Statement Non Opinion
+67,Statement Opinion
+68,Statement Opinion
+69,Statement Opinion
+70,Question
+71,Statement Non Opinion
+72,Statement Opinion
+73,Backchannel
+74,Statement Non Opinion
+75,Question
+76,Statement Opinion
+77,Statement Opinion
+78,Statement Opinion
+79,Backchannel
+80,Statement Opinion
+81,Backchannel
+82,Statement Opinion
+83,Statement Opinion
+84,Statement Opinion
+85,Statement Opinion
+1,Backchannel
+2,Statement Non Opinion
+3,Statement Non Opinion
+4,Statement Non Opinion
+5,Backchannel
+6,Statement Opinion
+7,Statement Opinion
+8,Statement Opinion
+9,Statement Opinion
+10,Statement Opinion
+11,Statement Opinion
+12,Statement Opinion
+13,Statement Opinion
+14,Statement Opinion
+15,Statement Non Opinion
+16,Question
+17,Statement Opinion
+18,Question
+19,Statement Opinion
+20,Statement Opinion
+21,Statement Opinion
+22,Question
+23,Statement Non Opinion
+24,Statement Non Opinion
+25,Statement Opinion
+26,Statement Non Opinion
+27,Statement Opinion
+28,Statement Opinion
+29,Statement Opinion
+30,Statement Opinion
+31,Command
+32,Statement Opinion
+33,Command
+34,Statement Non Opinion
+35,Question
+36,Statement Opinion
+37,Statement Opinion
+38,Command
+39,Statement Opinion
+40,Disagreement
+41,Agreement
+42,Command
+43,Statement Opinion
+44,Statement Opinion
+45,Statement Opinion
+46,Statement Opinion
+47,Statement Opinion
+48,Statement Opinion
+49,Statement Opinion
+50,Question
+51,Statement Non Opinion
+52,Statement Opinion
+53,Command
+54,Statement Opinion
+55,Statement Opinion
+56,Statement Opinion
+57,Statement Opinion
+58,Statement Opinion
+59,Statement Opinion
+60,Statement Opinion
+61,Command
+62,Command
+63,Statement Non Opinion
+64,Command
+65,Question
+66,Statement Non Opinion
+67,Statement Opinion
+68,Statement Non Opinion
+69,Statement Opinion
+70,Command
+71,Statement Opinion
+72,Statement Opinion
+73,Command
+74,Statement Opinion
+75,Command
+76,Command
+77,Command
+78,Statement Opinion
+79,Statement Opinion
+80,Statement Opinion
+81,Statement Opinion
+82,Statement Opinion
+83,Statement Opinion
+84,Statement Opinion
+85,Statement Opinion
+86,Statement Opinion
+"Note: Some sentences may be open to interpretation, but this classification follows the context and emotional tone provided",
+1,Greeting
+2,Statement Non Opinion
+3,Question
+4,Statement Non Opinion
+5,Question
+6,Statement Non Opinion
+7,Statement Non Opinion
+8,Statement Non Opinion
+9,Statement Non Opinion
+10,Apology
+11,Statement Non Opinion
+12,Statement Non Opinion
+13,Statement Non Opinion
+14,Statement Non Opinion
+15,Question
+16,Statement Non Opinion
+17,Statement Non Opinion
+18,Statement Non Opinion
+19,Statement Non Opinion
+20,Question
+21,Statement Non Opinion
+22,Statement Non Opinion
+23,Statement Non Opinion
+24,Statement Non Opinion
+25,Statement Non Opinion
+26,Statement Non Opinion
+27,Statement Non Opinion
+28,Statement Non Opinion
+29,Statement Non Opinion
+30,Statement Non Opinion
+31,Statement Non Opinion
+32,Statement Non Opinion
+33,Statement Non Opinion
+34,Statement Non Opinion
+35,Statement Non Opinion
+36,Question
+37,Statement Non Opinion
+38,Statement Non Opinion
+39,Statement Non Opinion
+40,Statement Non Opinion
+41,Statement Non Opinion
+42,Question
+43,Statement Non Opinion
+44,Statement Non Opinion
+45,Statement Non Opinion
+46,Question
+47,Statement Non Opinion
+48,Acknowledge
+1,Statement Non Opinion
+2,Question
+3,Statement Non Opinion
+4,Question
+5,Statement Opinion
+6,Statement Opinion
+7,Statement Non Opinion
+8,Command
+9,Statement Opinion
+10,Statement Non Opinion
+11,Statement Opinion
+12,Question
+13,Statement Non Opinion
+14,Statement Non Opinion
+15,Statement Opinion
+16,Statement Opinion
+17,Statement Opinion
+18,Statement Opinion
+19,Statement Opinion
+20,Statement Opinion
+21,Statement Opinion
+22,Statement Opinion
+23,Statement Opinion
+24,Question
+25,Statement Non Opinion
+26,Acknowledge
+1,Statement Opinion
+2,Question
+3,Statement Opinion
+4,Backchannel
+5,Command
+6,Command
+7,Statement Opinion
+8,Statement Opinion
+9,Statement Opinion
+10,Statement Opinion
+11,Question
+12,Statement Non Opinion
+13,Statement Non Opinion
+14,Statement Non Opinion
+15,Statement Non Opinion
+16,Question
+17,Statement Opinion
+18,Statement Opinion
+19,Statement Opinion
+20,Statement Opinion
+21,Question
+22,Statement Opinion
+23,Question
+24,Statement Opinion
+25,Statement Opinion
+26,Statement Opinion
+27,Statement Opinion
+28,Statement Opinion
+29,Statement Opinion
+30,Statement Opinion
+31,Question
+32,Statement Opinion
+33,Statement Opinion
+34,Statement Opinion
+35,Question
+36,Statement Opinion
+37,Backchannel
+38,Statement Opinion
+39,Statement Opinion
+40,Question
+41,Statement Non Opinion
+42,Statement Opinion
+43,Acknowledge
+44,Statement Opinion
+45,Statement Opinion
+46,Statement Opinion
+47,Question
+48,Statement Opinion
+49,Statement Opinion
+50,Statement Opinion
+51,Command
+52,Statement Opinion
+53,Statement Opinion
+54,Statement Opinion
+55,Statement Opinion
+56,Statement Opinion
+57,Acknowledge
+1,Question
+2,Statement Non Opinion
+3,Disagreement
+4,Statement Non Opinion
+5,Statement Non Opinion
+6,Acknowledge
+7,Statement Non Opinion
+8,Command
+9,Statement Non Opinion
+10,Agreement
+11,Statement Non Opinion
+12,Disagreement
+13,Statement Non Opinion
+14,Statement Non Opinion
+15,Statement Non Opinion
+16,Statement Non Opinion
+17,Acknowledge
+18,Statement Non Opinion
+19,Question
+20,Statement Non Opinion
+21,Disagreement
+22,Statement Non Opinion
+23,Question
+24,Statement Non Opinion
+25,Statement Non Opinion
+26,Statement Non Opinion
+27,Statement Non Opinion
+28,Disagreement
+29,Statement Non Opinion
+30,Disagreement
+31,Statement Non Opinion
+32,Backchannel
+33,Statement Non Opinion
+34,Statement Non Opinion
+35,Statement Non Opinion
+36,Statement Non Opinion
+37,Command
+38,Statement Non Opinion
+39,Statement Non Opinion
+1,Greeting
+2,Acknowledge
+3,Question
+4,Acknowledge
+5,Question
+6,Statement Non Opinion
+7,Question
+8,Statement Non Opinion
+9,Statement Non Opinion
+10,Question
+11,Statement Non Opinion
+12,Disagreement
+13,Apology
+14,Disagreement
+15,Statement Non Opinion
+16,Question
+17,Statement Non Opinion
+18,Statement Opinion
+19,Question
+20,Acknowledge
+21,Disagreement
+22,Statement Non Opinion
+23,Disagreement
+24,Statement Non Opinion
+25,Disagreement
+26,Statement Non Opinion
+27,Statement Opinion
+28,Statement Non Opinion
+29,Disagreement
+30,Statement Non Opinion
+31,Question
+32,Statement Non Opinion
+33,Question
+34,Statement Non Opinion
+35,Statement Opinion
+36,Statement Non Opinion
+37,Statement Non Opinion
+38,Statement Opinion
+39,Statement Non Opinion
+40,Disagreement
+41,Statement Non Opinion
+42,Question
+43,Statement Non Opinion
+44,Acknowledge
+45,Acknowledge
+1,Greeting
+2,Statement Non Opinion
+3,Statement Opinion
+4,Apology
+5,Statement Non Opinion
+6,Backchannel
+7,Statement Non Opinion
+8,Statement Opinion
+9,Backchannel
+10,Statement Opinion
+11,Statement Non Opinion
+12,Statement Opinion
+13,Statement Opinion
+14,Statement Opinion
+15,Statement Non Opinion
+16,Statement Non Opinion
+17,Statement Opinion
+18,Statement Opinion
+19,Statement Non Opinion
+20,Statement Non Opinion
+21,Statement Opinion
+22,Statement Non Opinion
+23,Agreement
+24,Statement Opinion
+25,Statement Non Opinion
+26,Acknowledge
+27,Statement Opinion
+28,Statement Non Opinion
+29,Disagreement
+30,Statement Non Opinion
+31,Statement Opinion
+32,Statement Non Opinion
+33,Statement Opinion
+34,Statement Opinion
+35,Acknowledge
+1,Question
+2,Statement Non Opinion
+3,Acknowledge
+4,Statement Opinion
+5,Question
+6,Statement Opinion
+7,Backchannel
+8,Acknowledge
+9,Statement Opinion
+10,Acknowledge
+11,Statement Opinion
+12,Statement Opinion
+13,Statement Opinion
+14,Acknowledge
+15,Backchannel
+16,Statement Opinion
+17,Backchannel
+18,Statement Non Opinion
+19,Statement Opinion
+20,Statement Opinion
+21,Backchannel
+22,Statement Opinion
+23,Statement Opinion
+24,Statement Opinion
+25,Statement Opinion
+26,Question
+27,Statement Opinion
+28,Statement Opinion
+29,Statement Opinion
+30,Statement Opinion
+31,Backchannel
+32,Backchannel
+33,Statement Opinion
+34,Statement Opinion
+35,Statement Opinion
+36,Statement Opinion
+37,Question
+38,Statement Opinion
+39,Statement Opinion
+40,Question
+41,Statement Opinion
+42,Statement Opinion
+43,Statement Opinion
+44,Statement Opinion
+45,Backchannel
+46,Statement Opinion
+47,Backchannel
+48,Statement Opinion
+49,Statement Non Opinion
+50,Statement Opinion
+51,Backchannel
+52,Backchannel
+53,Backchannel
+54,Statement Opinion
+55,Statement Non Opinion
+56,Statement Opinion
+57,Backchannel
+58,Statement Opinion
+59,Statement Opinion
+60,Statement Opinion
+61,Statement Opinion
+62,Statement Opinion
+63,Statement Opinion
+64,Backchannel
+65,Statement Opinion
+66,Backchannel
+67,Statement Opinion
+68,Statement Opinion
+69,Statement Opinion
+70,Command
+71,Acknowledge
+72,Acknowledge
+1,Statement Non Opinion
+2,Acknowledge
+3,Acknowledge
+4,Question
+5,Statement Non Opinion
+6,Agreement
+7,Statement Non Opinion
+8,Statement Non Opinion
+9,Question
+10,Question
+11,Statement Non Opinion
+12,Statement Non Opinion
+13,Acknowledge
+14,Statement Non Opinion
+15,Statement Opinion
+16,Agreement
+17,Statement Non Opinion
+18,Statement Non Opinion
+19,Acknowledge
+20,Backchannel
+21,Statement Non Opinion
+22,Backchannel
+23,Statement Non Opinion
+24,Question
+25,Statement Non Opinion
+26,Statement Non Opinion
+27,Question
+28,Question
+29,Statement Opinion
+30,Statement Non Opinion
+31,Agreement
+32,Question
+33,Statement Non Opinion
+34,Statement Non Opinion
+35,Statement Non Opinion
+36,Question
+37,Statement Non Opinion
+38,Statement Non Opinion
+39,Acknowledge
+40,Agreement
+41,Question
+42,Statement Non Opinion
+43,Acknowledge
+44,Acknowledge
+1,Question
+2,Statement Non Opinion
+3,Question
+4,Statement Non Opinion
+5,Question
+6,Statement Non Opinion
+7,Question
+8,Statement Non Opinion
+9,Question
+10,Statement Non Opinion
+11,Question
+12,Question
+13,Statement Opinion
+14,Question
+15,Statement Opinion
+16,Question
+17,Statement Opinion
+18,Statement Opinion
+19,Question
+20,Statement Opinion
+21,Question
+22,Statement Opinion
+23,Statement Opinion
+24,Question
+25,Statement Opinion
+26,Statement Opinion
+27,Command
+28,Statement Opinion
+29,Question
+30,Question
+31,Statement Non Opinion
+32,Statement Opinion
+33,Statement Non Opinion
+34,Statement Opinion
+35,Statement Opinion
+36,Question
+37,Question
+38,Question
+39,Statement Opinion
+40,Statement Opinion
+41,Statement Non Opinion
+42,Statement Opinion
+43,Statement Opinion
+44,Statement Opinion
+45,Statement Opinion
+46,Statement Opinion
+47,Statement Opinion
+48,Statement Opinion
+49,Statement Opinion
+50,Question
+51,Statement Non Opinion
+52,Statement Opinion
+53,Statement Opinion
+54,Statement Opinion
+55,Statement Opinion
+56,Statement Opinion
+57,Statement Opinion
+58,Statement Non Opinion
+59,Statement Opinion
+60,Statement Non Opinion
+61,Statement Opinion
+62,Statement Opinion
+63,Statement Opinion
+64,Statement Non Opinion
+65,Command
+66,Statement Opinion
+67,Statement Opinion
+68,Question
+69,Statement Opinion
+70,Question
+71,Statement Opinion
+72,Question
+73,Statement Opinion
+74,Question
+75,Statement Opinion
+76,Statement Opinion
+77,Question
+78,Statement Non Opinion
+79,Statement Opinion
+80,Command
+81,Statement Opinion
+82,Statement Opinion
+83,Command
+84,Statement Non Opinion
+85,Question
+86,Statement Non Opinion
+87,Statement Opinion
+1,Question
+2,Statement Opinion
+3,Statement Non Opinion
+4,Question
+5,Statement Non Opinion
+6,Others
+7,Question
+8,Statement Non Opinion
+9,Statement Opinion
+10,Statement Non Opinion
+11,Question
+12,Command
+13,Statement Non Opinion
+14,Statement Non Opinion
+15,Statement Opinion
+16,Question
+17,Statement Opinion
+18,Question
+19,Statement Opinion
+20,Question
+21,Command
+22,Others
+23,Statement Opinion
+24,Statement Opinion
+25,Command
+26,Statement Opinion
+27,Command
+28,Statement Non Opinion
+29,Command
+30,Statement Opinion
+31,Question
+32,Command
+33,Question
+34,Statement Non Opinion
+35,Statement Non Opinion
+36,Question
+1,Acknowledge
+2,Statement Opinion
+3,Question
+4,Statement Non Opinion
+5,Backchannel
+6,Statement Non Opinion
+7,Question
+8,Statement Non Opinion
+9,Statement Non Opinion
+10,Statement Opinion
+11,Backchannel
+12,Statement Opinion
+13,Question
+14,Statement Non Opinion
+15,Statement Opinion
+16,Statement Non Opinion
+17,Statement Non Opinion
+18,Question
+19,Statement Opinion
+20,Question
+21,Statement Non Opinion
+22,Question
+23,Statement Non Opinion
+24,Question
+25,Statement Non Opinion
+26,Question
+27,Statement Non Opinion
+28,Command
+29,Statement Opinion
+30,Statement Opinion
+31,Statement Opinion
+32,Disagreement
+33,Statement Non Opinion
+34,Question
+35,Command
+36,Disagreement
+37,Statement Non Opinion
+38,Question
+39,Statement Non Opinion
+40,Command
+41,Statement Non Opinion
+42,Statement Non Opinion
+43,Question
+44,Acknowledge
+45,Statement Non Opinion
+46,Question
+47,Statement Non Opinion
+48,Backchannel
+49,Statement Non Opinion
+50,Statement Non Opinion
+51,Statement Non Opinion
+52,Statement Non Opinion
+53,Question
+54,Statement Non Opinion
+55,Statement Non Opinion
+56,Statement Non Opinion
+57,Statement Non Opinion
+58,Question
+59,Statement Opinion
+60,Statement Opinion
+61,Statement Opinion
+62,Statement Opinion
+63,Question
+1,Question
+2,Statement Opinion
+3,Statement Opinion
+4,Greeting
+5,Answer
+6,Question
+7,Question
+8,Statement Non Opinion
+9,Question
+10,Question
+11,Statement Non Opinion
+12,Question
+13,Statement Non Opinion
+14,Acknowledge
+15,Statement Opinion
+16,Agreement
+17,Statement Non Opinion
+18,Question
+19,Answer
+20,Question
+21,Statement Opinion
+22,Statement Non Opinion
+23,Question
+24,Statement Non Opinion
+25,Question
+26,Command
+27,Disagreement
+28,Statement Opinion
+29,Acknowledge
+30,Statement Opinion
+31,Agreement
+32,Command
+33,Disagreement
+34,Statement Opinion
+35,Question
+36,Statement Opinion
+37,Statement Opinion
+38,Statement Opinion
+39,Statement Opinion
+40,Statement Opinion
+41,Statement Opinion
+42,Question
+43,Disagreement
+44,Statement Non Opinion
+45,Statement Opinion
+46,Statement Opinion
+47,Statement Opinion
+48,Question
+49,Answer
+50,Statement Non Opinion
+51,Statement Non Opinion
+52,Statement Opinion
+53,Statement Non Opinion
+54,Statement Non Opinion
+55,Statement Opinion
+56,Question
+57,Statement Opinion
+58,Statement Non Opinion
+59,Statement Non Opinion
+60,Statement Opinion
+61,Statement Opinion
+62,Statement Opinion
+63,Statement Non Opinion
+64,Statement Non Opinion
+65,Question
+66,Question
+67,Statement Non Opinion
+68,Statement Opinion
+1,Question
+2,Question
+3,Statement Non Opinion
+4,Statement Opinion
+5,Statement Opinion
+6,Statement Opinion
+7,Statement Non Opinion
+8,Statement Opinion
+9,Question
+10,Apology
+11,Question
+12,Statement Opinion
+13,Question
+14,Statement Opinion
+15,Statement Non Opinion
+16,Statement Opinion
+17,Question
+18,Question
+19,Statement Non Opinion
+20,Statement Opinion
+21,Statement Non Opinion
+22,Statement Opinion
+23,Statement Opinion
+24,Statement Non Opinion
+25,Statement Opinion
+26,Disagreement
+27,Statement Opinion
+28,Statement Non Opinion
+29,Statement Opinion
+30,Statement Non Opinion
+31,Statement Non Opinion
+32,Statement Non Opinion
+33,Statement Non Opinion
+34,Statement Non Opinion
+35,Statement Non Opinion
+36,Statement Non Opinion
+37,Statement Opinion
+38,Statement Non Opinion
+39,Statement Non Opinion
+40,Question
+41,Question
+42,Statement Opinion
+43,Question
+44,Disagreement
+45,Question
+46,Disagreement
+47,Question
+48,Disagreement
+49,Question
+50,Disagreement
+51,Question
+52,Disagreement
+53,Question
+54,Disagreement
+55,Question
+56,Disagreement
+57,Question
+58,Statement Opinion
+59,Statement Opinion
+60,Statement Opinion
+61,Statement Opinion
+62,Statement Opinion
+63,Question
+64,Agreement
+65,Statement Opinion
+66,Agreement
+67,Statement Opinion
+68,Agreement
+69,Question
+70,Statement Non Opinion
+71,Acknowledge
+72,Statement Opinion
+73,Statement Opinion
+74,Disagreement
+75,Statement Opinion
+76,Statement Opinion
+77,Question
+78,Statement Opinion
+79,Statement Opinion
+80,Disagreement
+81,Statement Opinion
+82,Statement Opinion
+83,Statement Opinion
+84,Statement Non Opinion
+85,Statement Non Opinion
+86,Statement Non Opinion
+87,Statement Non Opinion
+88,Question
+89,Agreement
+90,Apology
+91,Statement Non Opinion
+92,Statement Non Opinion
+93,Statement Non Opinion
+1,Statement Non Opinion
+2,Question
+3,Statement Non Opinion
+4,Statement Non Opinion
+5,Statement Non Opinion
+6,Question
+7,Statement Opinion
+8,Statement Opinion
+9,Statement Non Opinion
+10,Statement Non Opinion
+11,Statement Non Opinion
+12,Statement Opinion
+13,Question
+14,Statement Opinion
+15,Question
+16,Statement Opinion
+17,Question
+18,Statement Opinion
+19,Statement Non Opinion
+20,Statement Opinion
+21,Question
+22,Statement Opinion
+23,Statement Opinion
+24,Statement Opinion
+25,Statement Opinion
+26,Question
+27,Statement Opinion
+28,Statement Opinion
+29,Statement Opinion
+30,Statement Opinion
+31,Question
+32,Statement Non Opinion
+33,Question
+34,Statement Non Opinion
+35,Question
+36,Statement Non Opinion
+37,Question
+38,Statement Opinion
+39,Statement Opinion
+40,Statement Opinion
+41,Statement Opinion
+42,Statement Non Opinion
+43,Statement Opinion
+44,Command
+45,Statement Opinion
+46,Statement Opinion
+47,Statement Opinion
+48,Question
+49,Question
+50,Statement Non Opinion
+51,Statement Opinion
+52,Statement Opinion
+53,Statement Opinion
+54,Question
+55,Statement Non Opinion
+56,Statement Non Opinion
+57,Statement Non Opinion
+58,Question
+59,Statement Non Opinion
+60,Statement Non Opinion
+61,Statement Non Opinion
+62,Statement Opinion
+63,Statement Opinion
+64,Statement Non Opinion
+65,Statement Opinion
+66,Statement Non Opinion
+1,Disagreement
+2,Statement Non Opinion
+3,Statement Opinion
+4,Disagreement
+5,Statement Opinion
+6,Disagreement
+7,Question
+8,Statement Non Opinion
+9,Statement Opinion
+10,Question
+11,Question
+12,Statement Opinion
+13,Question
+14,Statement Opinion
+15,Statement Opinion
+16,Statement Opinion
+17,Statement Non Opinion
+18,Statement Non Opinion
+19,Statement Non Opinion
+20,Statement Opinion
+21,Statement Non Opinion
+22,Statement Opinion
+23,Disagreement
+24,Statement Opinion
+25,Statement Opinion
+26,Command
+27,Acknowledge
+28,Question
+29,Acknowledge
+30,Question
+31,Statement Opinion
+32,Statement Opinion
+33,Command
+34,Agreement
+35,Disagreement
+36,Disagreement
+37,Command
+38,Statement Opinion
+39,Statement Opinion
+40,Statement Opinion
+41,Disagreement
+42,Disagreement
+43,Disagreement
+44,Disagreement
+45,Statement Opinion
+46,Question
+47,Statement Non Opinion
+48,Statement Opinion
+49,Command
+50,Statement Opinion
+51,Statement Opinion
+52,Disagreement
+53,Statement Opinion
+54,Disagreement
+55,Question
+56,Command
+57,Statement Opinion
+58,Statement Opinion
+59,Statement Non Opinion
+60,Command
+61,Question
+62,Statement Opinion
+63,Statement Non Opinion
+64,Question
+65,Statement Non Opinion
+66,Statement Opinion
+67,Command
+68,Disagreement
+69,Statement Opinion
+70,Command
+71,Statement Opinion
+72,Command
+73,Command
+74,Command
+75,Statement Opinion
+76,Statement Opinion
+77,Statement Opinion
+78,Statement Opinion
+79,Statement Opinion
+80,Disagreement
+81,Disagreement
+82,Disagreement
+83,Statement Opinion
+84,Command
+85,Statement Opinion
+86,Statement Opinion
+87,Statement Opinion
+88,Statement Opinion
+1,(frustrated) - **Statement Non Opinion**
+2,"- Fey - Hi, How can I help you? (neutral) - **Greeting**"
+3,"I just want to get this done, (neutral) - **Statement Opinion**"
+4,"- Fey - Sure, um (neutral) - **Backchannel**"
+5,(neutral) - **Statement Non Opinion**
+6,- Fey - do you have two forms of ID with you? (neutral) - **Question**
+7,(neutral) - **Answer**
+8,(neutral) - **Statement Non Opinion**
+9,I mean I've got to - (neutral) - **Apology**
+10,- Fey - Well (neutral) - **Backchannel**
+11,- Joey - well is the dri-driver's license going to work? (neutral) - **Question**
+12,(neutral) - **Statement Non Opinion**
+13,"- Joey - Okay, so what are you saying? What- (frustrated) - **Question**"
+14,(neutral) - **Statement Non Opinion**
+15,"- Joey - What? I- You telling me I waited in that huge line to go and sit down and get my number called, like after (anger) - **Disagreement**"
+16,"- Fey - Well, I'm sorry sir but (frustrated) - **Apology**"
+17,- Joey - three hours and (anger) - **Statement Non Opinion**
+18,(frustrated) - **Statement Non Opinion**
+19,- Joey - Shouldn't they have like told us about that? I mean why - why would they make me go and wait three hours if I have got to go and do it again? (anger) - **Question**
+20,"- Fey - Well, it's actually- (frustrated) - **Backchannel**"
+21,(frustrated) - **Statement Non Opinion**
+22,"how am I supposed to know that, like, I stand in line, I get my (anger) - **Disagreement**"
+23,(frustrated) - **Apology**
+24,"- Joey - I filled out the application right, didn't I? (anger) - **Question**"
+25,(frustrated) - **Statement Non Opinion**
+26,What about - no -- how about you hold that and I'll - I'll go and I can come back- (frustrated) - **Question**
+27,(frustrated) - **Statement Non Opinion**
+28,(frustrated) - **Statement Non Opinion**
+29,(frustrated) - **Statement Non Opinion**
+30,Come on (frustrated) - **Statement Opinion**
+31,(neutral) - **Apology**
+32,"I've got stuff I need to do, I mean- (frustrated) - **Statement Opinion**"
+33,(neutral) - **Statement Non Opinion**
+34,"- Joey - But my driver's license - I had to have my birth certificate to get my driver's license in the first place right, I mean this - here is my driver's license so (xxx) - **Statement Non Opinion**"
+35,(frustrated) - **Statement Non Opinion**
+36,Why? (frustrated) - **Question**
+37,(frustrated) - **Apology**
+38,- Joey - You- shouldn't you have like a sign or something maybe like up on the counter when you get the applica- maybe on the application (anger) - **Question**
+39,(frustrated) - **Statement Non Opinion**
+40,(frustrated) - **Statement Non Opinion**
+41,(anger) - **Disagreement**
+42,"- Fey - Well, maybe you should (frustrated) - **Backchannel**"
+43,(frustrated) - **Statement Non Opinion**
+44,(frustrated) - **Command**
+45,(frustrated) - **Command**
+46,"- Joey - God, oh my- (frustrated) - **Statement Opinion**"
+47,(frustrated) - **Statement Opinion**
+48,(frustrated) - **Apology**
+1,Statement Opinion
+2,Statement Opinion
+3,Statement Opinion
+4,Statement Non-Opinion
+5,Statement Non-Opinion
+6,Statement Opinion
+7,Statement Opinion
+8,Statement Opinion
+9,Statement Opinion
+10,Statement Non-Opinion
+11,Statement Opinion
+12,Command
+13,Statement Opinion
+14,Command
+15,Statement Opinion
+16,Statement Opinion
+17,Statement Opinion
+18,Command
+19,Statement Opinion
+20,Statement Non-Opinion
+21,Statement Opinion
+22,Statement Opinion
+23,Acknowledge
+24,Statement Opinion
+25,Statement Opinion
+26,Question
+27,Answer
+28,Statement Opinion
+29,Statement Opinion
+30,Statement Opinion
+31,Command
+32,Statement Opinion
+1,Statement Non Opinion
+2,Question
+3,Statement Non Opinion
+4,Question
+5,Statement Non Opinion
+6,Statement Opinion
+7,Acknowledge
+8,Backchannel
+9,Statement Non Opinion
+10,Question
+11,Statement Non Opinion
+12,Statement Opinion
+13,Question
+14,Statement Opinion
+15,Question
+16,Statement Non Opinion
+17,Backchannel
+18,Statement Opinion
+19,Question
+20,Statement Non Opinion
+21,Statement Non Opinion
+22,Statement Opinion
+23,Statement Non Opinion
+24,Statement Opinion
+25,Statement Non Opinion
+26,Statement Opinion
+27,Acknowledge
+28,Statement Non Opinion
+29,Statement Non Opinion
+30,Statement Opinion
+31,Statement Non Opinion
+32,Statement Opinion
+33,Statement Non Opinion
+34,Question
+35,Statement Non Opinion
+36,Statement Opinion
+37,Statement Opinion
+38,Question
+39,Statement Non Opinion
+40,Question
+41,Statement Non Opinion
+42,Statement Non Opinion
+43,Statement Opinion
+44,Question
+45,Statement Non Opinion
+46,Backchannel
+47,Statement Non Opinion
+48,Statement Opinion
+49,Acknowledge
+50,Statement Opinion
+51,Statement Opinion
+52,Question
+53,Statement Non Opinion
+54,Statement Opinion
+55,Statement Non Opinion
+56,Statement Opinion
+57,Acknowledge
+58,Statement Opinion
+59,Backchannel
+1,Statement Non Opinion
+2,Statement Non Opinion
+3,Question
+4,Statement Non Opinion
+5,Acknowledge
+6,Statement Non Opinion
+7,Statement Opinion
+8,Statement Non Opinion
+9,Question
+10,Statement Non Opinion
+11,Statement Non Opinion
+12,Acknowledge
+13,Statement Non Opinion
+14,Statement Non Opinion
+15,Statement Opinion
+16,Statement Non Opinion
+17,Statement Opinion
+18,Statement Non Opinion
+19,Statement Opinion
+20,Statement Non Opinion
+21,Statement Non Opinion
+22,Apology
+23,Statement Non Opinion
+24,Statement Non Opinion
+25,Statement Non Opinion
+26,Statement Non Opinion
+27,Statement Opinion
+28,Statement Opinion
+29,Statement Opinion
+30,Statement Non Opinion
+31,Statement Opinion
+32,Statement Non Opinion
+33,Statement Opinion
+34,Statement Opinion
+35,Statement Non Opinion
+36,Statement Opinion
+37,Question
+38,Command
+39,Acknowledge
+1,Statement Non Opinion
+2,Question
+3,Statement Non Opinion
+4,Question
+5,Statement Non Opinion
+6,Question
+7,Statement Non Opinion
+8,Statement Non Opinion
+9,Question
+10,Statement Non Opinion
+11,Statement Opinion
+12,Acknowledge
+13,Statement Opinion
+14,Backchannel
+15,Statement Opinion
+16,Backchannel
+17,Statement Opinion
+18,Statement Non Opinion
+19,Statement Opinion
+20,Question
+21,Statement Non Opinion
+22,Question
+23,Statement Non Opinion
+24,Statement Non Opinion
+25,Statement Opinion
+26,Statement Opinion
+27,Statement Non Opinion
+28,Question
+29,Backchannel
+30,Question
+31,Statement Non Opinion
+32,Apology
+33,Statement Opinion
+34,Statement Opinion
+35,Acknowledge
+36,Statement Opinion
+37,Command
+38,Statement Non Opinion
+39,Statement Non Opinion
+40,Question
+41,Statement Non Opinion
+42,Statement Opinion
+43,Statement Non Opinion
+44,Statement Opinion
+45,Statement Opinion
+46,Statement Non Opinion
+47,Question
+48,Statement Non Opinion
+49,Statement Non Opinion
+50,Question
+51,Statement Opinion
+52,Apology
+53,Statement Non Opinion
+54,Statement Opinion
+55,Statement Non Opinion
+56,Backchannel
+1,Apology
+2,Backchannel
+3,Statement Non Opinion
+4,Apology
+5,Statement Non Opinion
+6,Apology
+7,Backchannel
+8,Statement Non Opinion
+9,Agreement
+10,Statement Opinion
+11,Backchannel
+12,Statement Opinion
+13,Statement Opinion
+14,Statement Non Opinion
+15,Statement Opinion
+16,Statement Opinion
+17,Statement Opinion
+18,Acknowledge
+19,Statement Opinion
+20,Backchannel
+21,Statement Non Opinion
+22,Statement Opinion
+23,Acknowledge
+24,Question
+25,Statement Opinion
+26,Statement Opinion
+27,Statement Non Opinion
+28,Statement Opinion
+29,Statement Opinion
+30,Acknowledge
+31,Statement Non Opinion
+32,Statement Opinion
+33,Statement Opinion
+34,Backchannel
+35,Others
+36,Acknowledge
+37,Backchannel
+1,Statement Non Opinion
+2,Question
+3,Statement Non Opinion
+4,Question
+5,Statement Non Opinion
+6,Statement Opinion
+7,Statement Opinion
+8,Statement Non Opinion
+9,Statement Non Opinion
+10,Statement Opinion
+11,Statement Opinion
+12,Statement Opinion
+13,Statement Opinion
+14,Statement Opinion
+15,Acknowledge
+16,Statement Non Opinion
+17,Statement Non Opinion
+18,Agreement
+19,Statement Opinion
+20,Statement Non Opinion
+21,Statement Opinion
+22,Question
+23,Statement Opinion
+24,Backchannel
+25,Statement Opinion
+26,Acknowledge
+27,Statement Opinion
+28,Statement Opinion
+29,Agreement
+30,Statement Opinion
+31,Statement Opinion
+32,Statement Opinion
+33,Question
+34,Acknowledge
+35,Statement Opinion
+36,Statement Opinion
+37,Statement Opinion
+38,Statement Opinion
+39,Question
+40,Statement Opinion
+41,Statement Opinion
+42,Question
+43,Statement Opinion
+44,Statement Opinion
+45,Statement Opinion
+46,Statement Non Opinion
+47,Statement Opinion
+48,Statement Opinion
+49,Statement Opinion
+50,Statement Opinion
+51,Statement Opinion
+52,Statement Opinion
+53,Acknowledge
+54,Statement Opinion
+55,Backchannel
+56,Command
+57,Statement Opinion
+58,Acknowledge
+59,Statement Opinion
+1,Statement Non Opinion
+2,Greeting
+3,Answer
+4,Statement Opinion
+5,Statement Opinion
+6,Acknowledge
+7,Question
+8,Statement Opinion
+9,Command
+10,Statement Opinion
+11,Statement Non Opinion
+12,Apology
+13,Statement Non Opinion
+14,Statement Non Opinion
+15,Statement Non Opinion
+16,Statement Opinion
+17,Acknowledge
+18,Statement Non Opinion
+19,Acknowledge
+20,Statement Opinion
+21,Statement Non Opinion
+22,Question
+23,Statement Non Opinion
+24,Statement Non Opinion
+25,Command
+26,Acknowledge
+27,Answer
+28,Statement Non Opinion
+29,Statement Opinion
+30,Command
+31,Statement Non Opinion
+32,Acknowledge
+33,Statement Opinion
+34,Statement Non Opinion
+35,Acknowledge
+36,Acknowledge
+37,Question
+38,Question
+39,Statement Non Opinion
+40,Statement Non Opinion
+41,Statement Non Opinion
+42,Backchannel
+43,Acknowledge
+44,Statement Opinion
+45,Statement Non Opinion
+46,Backchannel
+47,Statement Non Opinion
+48,Agreement
+49,Acknowledge
+50,Backchannel
+51,Command
+52,Backchannel
+53,Command
+54,Command
+55,Backchannel
+56,Acknowledge
+57,Agreement
+58,Statement Non Opinion
+59,Statement Opinion
+60,Apology
+61,Acknowledge
+62,Greeting
+1,Question
+2,Statement Non Opinion
+3,Question
+4,Statement Non Opinion
+5,Question
+6,Statement Non Opinion
+7,Question
+8,Statement Non Opinion
+9,Question
+10,Statement Non Opinion
+11,Statement Opinion
+12,Agreement
+13,Statement Opinion
+14,Statement Opinion
+15,Question
+16,Statement Opinion
+17,Question
+18,Statement Opinion
+19,Question
+20,Statement Opinion
+21,Statement Opinion
+22,Statement Opinion
+23,Command
+24,Question
+25,Statement Opinion
+26,Statement Opinion
+27,Command
+28,Statement Opinion
+29,Command
+30,Question
+31,Statement Non Opinion
+32,Statement Non Opinion
+33,Statement Non Opinion
+34,Statement Opinion
+35,Disagreement
+36,Statement Opinion
+37,Question
+38,Statement Non Opinion
+39,Statement Opinion
+40,Statement Non Opinion
+41,Statement Opinion
+42,Statement Opinion
+43,Disagreement
+44,Statement Opinion
+45,Statement Opinion
+46,Statement Opinion
+47,Statement Opinion
+48,Statement Opinion
+49,Question
+50,Statement Non Opinion
+51,Question
+52,Statement Non Opinion
+53,Statement Opinion
+54,Statement Opinion
+55,Statement Opinion
+56,Statement Opinion
+57,Statement Opinion
+58,Statement Opinion
+59,Statement Opinion
+60,Question
+61,Statement Opinion
+62,Question
+63,Acknowledge
+64,Command
+65,Statement Non Opinion
+66,Statement Opinion
+67,Question
+68,Statement Opinion
+69,Question
+70,Statement Opinion
+71,Question
+72,Statement Opinion
+73,Question
+74,Statement Opinion
+75,Question
+76,Statement Opinion
+77,Command
+78,Statement Opinion
+79,Statement Opinion
+80,Statement Opinion
+81,Command
+82,Statement Opinion
+83,Question
+84,Statement Opinion
+85,Acknowledge
+1,Question
+2,Question
+3,Statement Non Opinion
+4,Statement Opinion
+5,Statement Opinion
+6,Question
+7,Command
+8,Statement Opinion
+9,Question
+10,Statement Non Opinion
+11,Statement Non Opinion
+12,Question
+13,Command
+14,Statement Opinion
+15,Statement Opinion
+16,Question
+17,Question
+18,Statement Opinion
+19,Question
+20,Statement Opinion
+21,Question
+22,Command
+23,Acknowledge
+24,Statement Opinion
+25,Question
+26,Command
+27,Statement Opinion
+28,Command
+29,Statement Non Opinion
+30,Command
+31,Statement Opinion
+32,Question
+33,Command
+34,Question
+35,Statement Non Opinion
+36,Statement Non Opinion
+37,Question
+1,Statement Opinion
+2,Statement Opinion
+3,Statement Non Opinion
+4,Statement Opinion
+5,Question
+6,Statement Non Opinion
+7,Question
+8,Statement Non Opinion
+9,Acknowledge
+10,Statement Non Opinion
+11,Question
+12,Statement Non Opinion
+13,Statement Opinion
+14,Statement Opinion
+15,Question
+16,Statement Opinion
+17,Question
+18,Statement Opinion
+19,Statement Opinion
+20,Statement Non Opinion
+21,Statement Opinion
+22,Question
+23,Statement Opinion
+24,Question
+25,Statement Non Opinion
+26,Question
+27,Statement Non Opinion
+28,Question
+29,Statement Non Opinion
+30,Question
+31,Statement Opinion
+32,Command
+33,Statement Opinion
+34,Statement Opinion
+35,Statement Opinion
+36,Disagreement
+37,Statement Non Opinion
+38,Command
+39,Command
+40,Question
+41,Statement Non Opinion
+42,Question
+43,Statement Non Opinion
+44,Command
+45,Statement Non Opinion
+46,Statement Non Opinion
+47,Question
+48,Acknowledge
+49,Statement Non Opinion
+50,Question
+51,Statement Non Opinion
+52,Backchannel
+53,Statement Opinion
+54,Statement Opinion
+55,Statement Opinion
+56,Statement Opinion
+57,Statement Opinion
+58,Statement Opinion
+59,Statement Opinion
+60,Statement Opinion
+61,Question
+62,Statement Opinion
+63,Statement Opinion
+64,Statement Opinion
+65,Statement Opinion
+66,Question
+1,Question
+2,Statement Opinion
+3,Statement Non Opinion
+4,Question
+5,Answer
+6,Question
+7,Statement Opinion
+8,Question
+9,Question
+10,Statement Non Opinion
+11,Statement Non Opinion
+12,Question
+13,Statement Non Opinion
+14,Acknowledge
+15,Question
+16,Statement Non Opinion
+17,Statement Non Opinion
+18,Question
+19,Answer
+20,Question
+21,Statement Non Opinion
+22,Statement Non Opinion
+23,Question
+24,Statement Non Opinion
+25,Question
+26,Command
+27,Question
+28,Statement Non Opinion
+29,Acknowledge
+30,Statement Non Opinion
+31,Statement Non Opinion
+32,Command
+33,Statement Non Opinion
+34,Statement Non Opinion
+35,Question
+36,Statement Non Opinion
+37,Statement Opinion
+38,Statement Opinion
+39,Statement Non Opinion
+40,Statement Opinion
+41,Statement Opinion
+42,Question
+43,Statement Non Opinion
+44,Others
+45,Statement Opinion
+46,Statement Opinion
+47,Statement Non Opinion
+48,Question
+49,Answer
+50,Statement Non Opinion
+51,Statement Non Opinion
+52,Statement Non Opinion
+53,Statement Non Opinion
+54,Statement Non Opinion
+55,Statement Non Opinion
+56,Question
+57,Statement Opinion
+58,Statement Non Opinion
+59,Statement Non Opinion
+60,Statement Non Opinion
+61,Statement Non Opinion
+62,Statement Non Opinion
+63,Statement Non Opinion
+64,Statement Non Opinion
+65,Question
+66,Question
+67,Statement Non Opinion
+68,Statement Non Opinion
+1,Question
+2,Question
+3,Statement Non Opinion
+4,Statement Opinion
+5,Statement Opinion
+6,Statement Opinion
+7,Statement Opinion
+8,Statement Opinion
+9,Question
+10,Statement Opinion
+11,Question
+12,Statement Opinion
+13,Question
+14,Statement Opinion
+15,Statement Non Opinion
+16,Statement Opinion
+17,Question
+18,Question
+19,Statement Non Opinion
+20,Statement Opinion
+21,Statement Opinion
+22,Statement Opinion
+23,Statement Opinion
+24,Statement Opinion
+25,Statement Opinion
+26,Statement Opinion
+27,Statement Opinion
+28,Statement Opinion
+29,Statement Opinion
+30,Statement Opinion
+31,Statement Non Opinion
+32,Statement Non Opinion
+33,Statement Non Opinion
+34,Statement Non Opinion
+35,Statement Non Opinion
+36,Statement Non Opinion
+37,Statement Opinion
+38,Statement Non Opinion
+39,Statement Non Opinion
+40,Question
+41,Question
+42,Statement Opinion
+43,Question
+44,Statement Non Opinion
+45,Question
+46,Statement Non Opinion
+47,Question
+48,Statement Non Opinion
+49,Question
+50,Statement Non Opinion
+51,Question
+52,Statement Non Opinion
+53,Question
+54,Statement Non Opinion
+55,Question
+56,Statement Non Opinion
+57,Question
+58,Statement Opinion
+59,Statement Opinion
+60,Statement Opinion
+61,Statement Opinion
+62,Statement Opinion
+63,Statement Opinion
+64,Statement Opinion
+65,Statement Opinion
+66,Acknowledge
+67,Statement Opinion
+68,Statement Opinion
+69,Question
+70,Statement Opinion
+71,Acknowledge
+72,Statement Opinion
+73,Statement Opinion
+74,Statement Non Opinion
+75,Statement Opinion
+76,Statement Opinion
+77,Backchannel
+78,Statement Opinion
+79,Statement Opinion
+80,Statement Opinion
+81,Statement Opinion
+82,Statement Opinion
+83,Statement Opinion
+84,Question
+85,Statement Non Opinion
+86,Statement Non Opinion
+87,Statement Opinion
+88,Question
+89,Statement Opinion
+90,Apology
+91,Command
+92,Statement Non Opinion
+93,Statement Non Opinion
+94,Backchannel
+1,Statement Non Opinion
+2,Question
+3,Statement Non Opinion
+4,Statement Non Opinion
+5,Statement Non Opinion
+6,Question
+7,Question
+8,Statement Opinion
+9,Statement Opinion
+10,Statement Opinion
+11,Statement Non Opinion
+12,Statement Opinion
+13,Question
+14,Statement Opinion
+15,Statement Opinion
+16,Question
+17,Statement Opinion
+18,Statement Opinion
+19,Statement Opinion
+20,Question
+21,Statement Opinion
+22,Question
+23,Statement Opinion
+24,Statement Opinion
+25,Question
+26,Statement Opinion
+27,Statement Opinion
+28,Statement Opinion
+29,Statement Opinion
+30,Question
+31,Statement Opinion
+32,Question
+33,Statement Opinion
+34,Question
+35,Statement Opinion
+36,Question
+37,Statement Opinion
+38,Statement Opinion
+39,Statement Opinion
+40,Command
+41,Command
+42,Statement Opinion
+43,Statement Opinion
+44,Statement Opinion
+45,Question
+46,Question
+47,Statement Non Opinion
+48,Statement Opinion
+49,Statement Opinion
+50,Statement Opinion
+51,Question
+52,Statement Non Opinion
+53,Statement Non Opinion
+54,Statement Non Opinion
+55,Question
+56,Statement Non Opinion
+57,Statement Non Opinion
+58,Statement Non Opinion
+59,Statement Non Opinion
+60,Statement Opinion
+61,Statement Non Opinion
+62,Statement Opinion
+63,Statement Non Opinion
+1,Statement Non Opinion
+2,Disagreement
+3,Statement Non Opinion
+4,Statement Opinion
+5,Disagreement
+6,Statement Non Opinion
+7,Disagreement
+8,Question
+9,Statement Non Opinion
+10,Statement Non Opinion
+11,Question
+12,Question
+13,Statement Non Opinion
+14,Question
+15,Statement Non Opinion
+16,Statement Opinion
+17,Statement Non Opinion
+18,Question
+19,Answer
+20,Statement Non Opinion
+21,Statement Opinion
+22,Statement Non Opinion
+23,Statement Non Opinion
+24,Disagreement
+25,Statement Non Opinion
+26,Statement Opinion
+27,Command
+28,Backchannel
+29,Question
+30,Answer
+31,Statement Non Opinion
+32,Question
+33,Statement Non Opinion
+34,Statement Opinion
+35,Command
+36,Agreement
+37,Disagreement
+38,Agreement
+39,Command
+40,Statement Opinion
+41,Statement Opinion
+42,Statement Non Opinion
+43,Disagreement
+44,Disagreement
+45,Disagreement
+46,Disagreement
+47,Statement Non Opinion
+48,Question
+49,Answer
+50,Statement Opinion
+51,Command
+52,Statement Opinion
+53,Statement Opinion
+54,Statement Opinion
+55,Disagreement
+56,Statement Non Opinion
+57,Disagreement
+58,Question
+59,Command
+60,Statement Opinion
+61,Statement Opinion
+62,Agreement
+63,Command
+64,Question
+65,Statement Non Opinion
+66,Statement Non Opinion
+67,Question
+68,Statement Non Opinion
+69,Statement Opinion
+70,Command
+71,Disagreement
+72,Statement Opinion
+73,Command
+74,Command
+75,Command
+76,Statement Non Opinion
+77,Command
+78,Statement Non Opinion
+79,Statement Opinion
+80,Statement Non Opinion
+81,Statement Non Opinion
+82,Statement Non Opinion
+83,Disagreement
+84,Disagreement
+85,Disagreement
+86,Statement Non Opinion
+87,Command
+88,Command
+89,Statement Non Opinion
+90,Statement Non Opinion
+1,Statement Non Opinion
+2,Statement Non Opinion
+3,Backchannel
+4,Others
+5,Question
+6,Statement Non Opinion
+7,Disagreement
+8,Question
+9,Statement Non Opinion
+10,Statement Opinion
+11,Disagreement
+12,Backchannel
+13,Statement Non Opinion
+14,Disagreement
+15,Disagreement
+16,Acknowledge
+17,Statement Opinion
+18,Disagreement
+19,Command
+20,Statement Non Opinion
+21,Statement Opinion
+22,Statement Non Opinion
+23,Statement Non Opinion
+24,Others
+1,Statement Non Opinion
+2,Question
+3,Statement Non Opinion
+4,Acknowledge
+5,Statement Non Opinion
+6,Statement Non Opinion
+7,Acknowledge
+8,Question
+9,Statement Non Opinion
+10,Disagreement
+11,Acknowledge
+12,Statement Non Opinion
+13,Statement Opinion
+14,Statement Opinion
+15,Disagreement
+16,Acknowledge
+17,Statement Non Opinion
+18,Statement Opinion
+19,Statement Opinion
+20,Backchannel
+21,Statement Opinion
+22,Statement Opinion
+23,Statement Non Opinion
+24,Backchannel
+25,Apology
+26,Disagreement
+27,Statement Opinion
+28,Statement Opinion
+29,Statement Opinion
+30,Statement Non Opinion
+31,Backchannel
+32,Statement Opinion
+33,Statement Opinion
+34,Statement Opinion
+35,Statement Opinion
+36,Question
+37,Statement Non Opinion
+38,Statement Non Opinion
+39,Statement Opinion
+40,Question
+41,Statement Opinion
+42,Statement Opinion
+43,Disagreement
+44,Backchannel
+45,Statement Non Opinion
+46,Question
+47,Statement Opinion
+48,Statement Opinion
+49,Statement Opinion
+50,Statement Opinion
+51,Statement Opinion
+52,Statement Opinion
+53,Statement Non Opinion
+54,Statement Opinion
+55,Statement Opinion
+56,Disagreement
+57,Statement Opinion
+58,Question
+59,Statement Non Opinion
+60,Question
+61,Statement Opinion
+62,Statement Opinion
+63,Statement Opinion
+64,Acknowledge
+65,Statement Opinion
+66,Apology
+67,Apology
+68,Acknowledge
+1,Question
+2,Statement Opinion
+3,Statement Non Opinion
+4,Acknowledge
+5,Backchannel
+6,Statement Opinion
+7,Statement Opinion
+8,Question
+9,Backchannel
+10,Statement Opinion
+11,Statement Opinion
+12,Acknowledge
+13,Statement Opinion
+14,Acknowledge
+15,Statement Opinion
+16,Statement Opinion
+17,Statement Opinion
+18,Question
+19,Question
+20,Statement Opinion
+21,Statement Opinion
+22,Statement Opinion
+23,Question
+24,Statement Opinion
+25,Statement Opinion
+26,Question
+27,Statement Opinion
+28,Statement Opinion
+29,Statement Opinion
+30,Statement Opinion
+31,Question
+32,Statement Opinion
+33,Statement Opinion
+34,Statement Non Opinion
+35,Statement Non Opinion
+36,Question
+37,Statement Opinion
+38,Statement Opinion
+39,Acknowledge
+40,Statement Opinion
+41,Statement Opinion
+1,Statement Non Opinion
+2,Statement Opinion
+3,Statement Opinion
+4,Command
+5,Statement Non Opinion
+6,Statement Non Opinion
+7,Statement Opinion
+8,Statement Non Opinion
+9,Statement Non Opinion
+10,Statement Opinion
+11,Statement Non Opinion
+12,Statement Opinion
+13,Statement Opinion
+14,Statement Opinion
+15,Statement Opinion
+16,Statement Opinion
+17,Statement Opinion
+18,Statement Non Opinion
+19,Question
+20,Acknowledge
+21,Statement Opinion
+22,Question
+23,Statement Opinion
+24,Statement Opinion
+25,Statement Opinion
+26,Statement Opinion
+27,Statement Opinion
+28,Question
+29,Statement Opinion
+30,Statement Opinion
+31,Question
+32,Acknowledge
+33,Statement Opinion
+34,Statement Opinion
+35,Statement Non Opinion
+36,Statement Opinion
+37,Statement Opinion
+38,Acknowledge
+39,Command
+40,Acknowledge
+41,Statement Opinion
+42,Acknowledge
+43,Others
+44,Others
+1,Statement Non Opinion
+2,Apology
+3,Statement Non Opinion
+4,Question
+5,Question
+6,Statement Non Opinion
+7,Statement Non Opinion
+8,Question
+9,Statement Non Opinion
+10,Command
+11,Statement Non Opinion
+12,Statement Non Opinion
+13,Statement Non Opinion
+14,Statement Non Opinion
+15,Question
+16,Statement Non Opinion
+17,Statement Non Opinion
+18,Question
+19,Statement Non Opinion
+20,Statement Non Opinion
+21,Statement Opinion
+22,Statement Non Opinion
+23,Question
+24,Statement Opinion
+25,Disagreement
+26,Question
+27,Statement Non Opinion
+28,Backchannel
+29,Command
+30,Statement Non Opinion
+31,Question
+32,Command
+1,Greeting
+2,Acknowledge
+3,Acknowledge
+4,Statement Non Opinion
+5,Statement Opinion
+6,Statement Opinion
+7,Statement Non Opinion
+8,Backchannel
+9,Statement Non Opinion
+10,Statement Non Opinion
+11,Statement Opinion
+12,Statement Opinion
+13,Statement Opinion
+14,Statement Non Opinion
+15,Statement Opinion
+16,Statement Opinion
+17,Statement Opinion
+18,Statement Opinion
+19,Backchannel
+20,Statement Opinion
+21,Question
+22,Acknowledge
+23,Statement Non Opinion
+24,Statement Opinion
+25,Statement Opinion
+26,Statement Opinion
+27,Statement Opinion
+28,Question
+29,Statement Non Opinion
+30,Statement Opinion
+31,Statement Non Opinion
+32,Statement Opinion
+33,Statement Non Opinion
+34,Question
+35,Statement Non Opinion
+36,Acknowledge
+37,Statement Non Opinion
+38,Statement Non Opinion
+39,Statement Non Opinion
+40,Statement Non Opinion
+41,Statement Opinion
+42,Statement Non Opinion
+43,Statement Opinion
+44,Statement Opinion
+45,Acknowledge
+46,Statement Opinion
+47,Question
+48,Answer
+49,Statement Opinion
+50,Statement Opinion
+51,Statement Opinion
+52,Statement Opinion
+53,Acknowledge
+1,Greeting
+2,Statement Non Opinion
+3,Statement Non Opinion
+4,Statement Non Opinion
+5,Question
+6,Question
+7,Statement Non Opinion
+8,Question
+9,Question
+10,Question
+11,Statement Non Opinion
+12,Question
+13,Statement Opinion
+14,Statement Non Opinion
+15,Statement Opinion
+16,Statement Non Opinion
+17,Statement Non Opinion
+18,Backchannel
+19,Statement Non Opinion
+20,Acknowledge
+21,Statement Non Opinion
+22,Statement Opinion
+23,Statement Non Opinion
+24,Question
+25,Agreement
+26,Statement Non Opinion
+27,Statement Non Opinion
+28,Statement Non Opinion
+29,Statement Non Opinion
+30,Statement Opinion
+31,Statement Opinion
+32,Statement Opinion
+33,Backchannel
+34,Statement Non Opinion
+35,Statement Opinion
+36,Question
+37,Statement Non Opinion
+38,Statement Non Opinion
+39,Statement Opinion
+40,Backchannel
+41,Statement Non Opinion
+42,Statement Non Opinion
+43,Statement Opinion
+44,Statement Non Opinion
+45,Statement Opinion
+46,Statement Opinion
+47,Backchannel
+48,Statement Non Opinion
+49,Command
+50,Statement Non Opinion
+51,Backchannel
+52,Question
+53,Agreement
+54,Statement Non Opinion
+55,Statement Non Opinion
+56,Statement Non Opinion
+57,Statement Non Opinion
+58,Disagreement
+59,Statement Non Opinion
+60,Statement Non Opinion
+61,Statement Opinion
+62,Disagreement
+63,Statement Opinion
+64,Disagreement
+65,Agreement
+66,Command
+67,Disagreement
+68,Statement Non Opinion
+69,Statement Non Opinion
+70,Statement Non Opinion
+1,Command
+2,Greeting
+3,Statement Non Opinion
+4,Apology
+5,Statement Opinion
+6,Command
+7,Acknowledge
+8,Statement Non Opinion
+9,Statement Opinion
+10,Command
+11,Statement Non Opinion
+12,Statement Non Opinion
+13,Question
+14,Statement Opinion
+15,Statement Non Opinion
+16,Statement Non Opinion
+17,Question
+18,Apology
+19,Statement Opinion
+20,Statement Opinion
+21,Question
+22,Question
+23,Statement Non Opinion
+24,Statement Non Opinion
+25,Statement Non Opinion
+26,Statement Opinion
+27,Apology
+28,Question
+29,Statement Non Opinion
+30,Statement Non Opinion
+31,Statement Opinion
+32,Disagreement
+33,Statement Non Opinion
+34,Statement Opinion
+35,Disagreement
+36,Disagreement
+37,Statement Opinion
+38,Question
+39,Question
+40,Question
+41,Statement Non Opinion
+42,Statement Non Opinion
+43,Apology
+44,Statement Opinion
+45,Statement Opinion
+46,Statement Non Opinion
+47,Statement Non Opinion
+48,Statement Non Opinion
+49,Acknowledge
+50,Greeting
+51,Statement Opinion
+52,Command
+53,Statement Opinion
+54,Statement Non Opinion
+55,Greeting
+"Note: For sentences marked (xxx) or (-), I inferred the dialogical act based on context where possible",
+1,Question
+2,Statement Non Opinion
+3,Question
+4,Statement Non Opinion
+5,Question
+6,Statement Non Opinion
+7,Question
+8,Statement Non Opinion
+9,Question
+10,Statement Non Opinion
+11,Question
+12,Statement Non Opinion
+13,Statement Opinion
+14,Question
+15,Statement Non Opinion
+16,Statement Opinion
+17,Question
+18,Statement Opinion
+19,Question
+20,Statement Opinion
+21,Question
+22,Statement Opinion
+23,Statement Opinion
+24,Statement Opinion
+25,Statement Opinion
+26,Statement Opinion
+27,Statement Opinion
+28,Statement Opinion
+29,Statement Opinion
+30,Command
+31,Statement Opinion
+32,Command
+33,Question
+34,Question
+35,Question
+36,Statement Non Opinion
+37,Statement Opinion
+38,Statement Non Opinion
+39,Statement Opinion
+40,Statement Opinion
+41,Statement Opinion
+42,Statement Non Opinion
+43,Statement Opinion
+44,Statement Opinion
+45,Statement Opinion
+46,Statement Opinion
+47,Statement Opinion
+48,Statement Opinion
+49,Statement Opinion
+50,Statement Opinion
+51,Statement Opinion
+52,Question
+53,Statement Non Opinion
+54,Question
+55,Statement Opinion
+56,Statement Opinion
+57,Statement Opinion
+58,Statement Opinion
+59,Statement Non Opinion
+60,Question
+61,Statement Non Opinion
+62,Question
+63,Statement Opinion
+64,Statement Non Opinion
+65,Command
+66,Statement Opinion
+67,Statement Opinion
+68,Statement Opinion
+69,Statement Non Opinion
+70,Statement Opinion
+71,Statement Non Opinion
+72,Statement Opinion
+73,Statement Non Opinion
+74,Statement Opinion
+75,Statement Opinion
+76,Statement Opinion
+77,Statement Non Opinion
+78,Command
+79,Statement Opinion
+80,Statement Opinion
+81,Statement Non Opinion
+82,Question
+83,Statement Non Opinion
+84,Statement Opinion
+85,Statement Opinion
+86,Question
+87,Statement Opinion
+88,Statement Opinion
+89,Statement Opinion
+90,Statement Opinion
+91,Question
+92,Command
+93,Statement Non Opinion
+94,Statement Non Opinion
+95,Statement Opinion
+96,Statement Non Opinion
+97,Statement Opinion
+98,Statement Non Opinion
+99,Statement Opinion
+100,Statement Opinion
+101,Statement Non Opinion
+102,Statement Opinion
+103,Statement Non Opinion
+104,Question
+105,Statement Non Opinion
+106,Statement Non Opinion
+1,Question
+2,Question
+3,Statement Non Opinion
+4,Statement Opinion
+5,Statement Non Opinion
+6,Question
+7,Statement Non Opinion
+8,Question
+9,Statement Opinion
+10,Statement Non Opinion
+11,Question
+12,Command
+13,Statement Non Opinion
+14,Statement Non Opinion
+15,Question
+16,Statement Opinion
+17,Statement Non Opinion
+18,Question
+19,Statement Opinion
+20,Statement Opinion
+21,Statement Opinion
+22,Question
+23,Statement Opinion
+24,Command
+25,Statement Opinion
+26,Command
+27,Command
+28,Statement Opinion
+29,Command
+30,Command
+31,Command
+32,Command
+33,Command
+34,Question
+35,Question
+36,Question
+37,Command
+38,Statement Non Opinion
+39,Statement Non Opinion
+40,Question
+41,Question
+1,Disagreement
+2,Statement Opinion
+3,Question
+4,Answer
+5,Statement Non Opinion
+6,Question
+7,Statement Non Opinion
+8,Backchannel
+9,Command
+10,Statement Non Opinion
+11,Question
+12,Statement Opinion
+13,Acknowledge
+14,Statement Non Opinion
+15,Backchannel
+16,Question
+17,Statement Opinion
+18,Question
+19,Statement Non Opinion
+20,Backchannel
+21,Greeting
+22,Statement Opinion
+23,Statement Opinion
+24,Statement Opinion
+25,Statement Opinion
+26,Statement Non Opinion
+27,Statement Opinion
+28,Statement Opinion
+29,Statement Opinion
+30,Question
+31,Command
+32,Statement Non Opinion
+33,Question
+34,Answer
+35,Question
+36,Statement Opinion
+37,Question
+38,Statement Non Opinion
+39,Statement Opinion
+40,Command
+41,Command
+42,Statement Non Opinion
+43,Statement Opinion
+44,Statement Opinion
+45,Disagreement
+46,Statement Non Opinion
+47,Command
+48,Question
+49,Command
+50,Question
+51,Answer
+52,Command
+53,Acknowledge
+54,Command
+55,Statement Non Opinion
+56,Statement Opinion
+57,Statement Non Opinion
+58,Backchannel
+59,Statement Non Opinion
+60,Question
+61,Answer
+62,Acknowledge
+63,Statement Non Opinion
+64,Statement Non Opinion
+65,Statement Opinion
+66,Statement Non Opinion
+67,Statement Opinion
+68,Statement Opinion
+69,Statement Opinion
+70,Statement Opinion
+71,Statement Opinion
+72,Statement Opinion
+73,Statement Opinion
+74,Statement Opinion
+75,Question
+76,Statement Non Opinion
+77,Command
+78,Statement Opinion
+79,Greeting
+80,Statement Opinion
+81,Question
+1,Question
+2,Statement Opinion
+3,Statement Opinion
+4,Answer
+5,Question
+6,Question
+7,Statement Non Opinion
+8,Question
+9,Statement Non Opinion
+10,Statement Opinion
+11,Acknowledge
+12,Statement Opinion
+13,Agreement
+14,Statement Non Opinion
+15,Statement Opinion
+16,Question
+17,Answer
+18,Question
+19,Statement Non Opinion
+20,Statement Opinion
+21,Statement Opinion
+22,Statement Opinion
+23,Statement Non Opinion
+24,Question
+25,Command
+26,Disagreement
+27,Statement Opinion
+28,Acknowledge
+29,Statement Opinion
+30,Agreement
+31,Command
+32,Disagreement
+33,Question
+34,Answer
+35,Question
+36,Answer
+37,Statement Opinion
+38,Statement Opinion
+39,Statement Opinion
+40,Statement Opinion
+41,Statement Opinion
+42,Disagreement
+43,Statement Opinion
+44,Statement Opinion
+45,Statement Opinion
+46,Statement Opinion
+47,Question
+48,Answer
+49,Statement Non Opinion
+50,Statement Non Opinion
+51,Statement Opinion
+52,Statement Non Opinion
+53,Statement Opinion
+54,Statement Non Opinion
+55,Question
+56,Statement Opinion
+57,Statement Opinion
+58,Statement Opinion
+59,Statement Opinion
+60,Statement Opinion
+61,Statement Opinion
+62,Statement Opinion
+63,Statement Opinion
+64,Question
+65,Question
+66,Question
+67,Statement Opinion
+1,Statement Opinion
+2,Statement Opinion
+3,Statement Opinion
+4,Statement Non Opinion
+5,Statement Opinion
+6,Question
+7,Question
+8,Statement Opinion
+9,Statement Opinion
+10,Question
+11,Disagreement
+12,Question
+13,Disagreement
+14,Question
+15,Disagreement
+16,Question
+17,Disagreement
+18,Question
+19,Disagreement
+20,Disagreement
+21,Question
+22,Disagreement
+23,Question
+24,Question
+25,Statement Opinion
+26,Statement Opinion
+27,Question
+28,Statement Opinion
+29,Statement Opinion
+30,Question
+31,Agreement
+32,Disagreement
+33,Agreement
+34,Statement Opinion
+35,Agreement
+36,Statement Opinion
+37,Question
+38,Statement Opinion
+39,Statement Opinion
+40,Statement Opinion
+41,Disagreement
+42,Statement Opinion
+43,Statement Opinion
+44,Backchannel
+45,Statement Opinion
+46,Statement Opinion
+47,Statement Opinion
+48,Statement Opinion
+49,Statement Opinion
+50,Statement Opinion
+51,Statement Opinion
+52,Statement Opinion
+53,Question
+54,Statement Non Opinion
+55,Statement Opinion
+56,Question
+57,Statement Opinion
+58,Statement Opinion
+59,Apology
+60,Command
+61,Statement Opinion
+62,Statement Non Opinion
+63,Statement Non Opinion
+1,Acknowledge
+2,Backchannel
+3,Statement Non Opinion
+4,Statement Opinion
+5,Question
+6,Agreement
+7,Statement Non Opinion
+8,Statement Opinion
+9,Statement Opinion
+10,Question
+11,Statement Opinion
+12,Statement Opinion
+13,Statement Opinion
+14,Statement Opinion
+15,Question
+16,Statement Opinion
+17,Question
+18,Statement Opinion
+19,Statement Opinion
+20,Statement Opinion
+21,Statement Opinion
+22,Statement Opinion
+23,Statement Non Opinion
+24,Statement Opinion
+25,Question
+26,Statement Non Opinion
+27,Statement Non Opinion
+28,Question
+29,Acknowledge
+30,Statement Opinion
+31,Statement Non Opinion
+1,Statement Non Opinion
+2,Statement Non Opinion
+3,Statement Non Opinion
+4,Statement Non Opinion
+5,Question
+6,Statement Non Opinion
+7,Question
+8,Statement Non Opinion
+9,Question
+10,Statement Opinion
+11,Statement Non Opinion
+12,Statement Non Opinion
+13,Statement Non Opinion
+14,Statement Opinion
+15,Statement Non Opinion
+16,Statement Non Opinion
+17,Statement Non Opinion
+18,Question
+19,Statement Non Opinion
+20,Question
+21,Statement Non Opinion
+22,Agreement
+23,Disagreement
+24,Disagreement
+25,Statement Non Opinion
+26,Statement Non Opinion
+27,Disagreement
+28,Disagreement
+29,Statement Opinion
+30,Backchannel
+31,Question
+32,Statement Non Opinion
+33,Statement Opinion
+34,Statement Opinion
+35,Disagreement
+36,Statement Opinion
+37,Statement Non Opinion
+38,Command
+39,Statement Opinion
+40,Command
+41,Statement Non Opinion
+42,Statement Non Opinion
+43,Statement Non Opinion
+44,Statement Non Opinion
+45,Command
+46,Disagreement
+47,Statement Opinion
+48,Command
+49,Statement Opinion
+50,Statement Non Opinion
+51,Statement Opinion
+52,Statement Opinion
+53,Disagreement
+54,Statement Opinion
+55,Command
+56,Statement Opinion
+1,Question
+2,Statement Non Opinion
+3,Statement Non Opinion
+4,Command
+5,Command
+6,Acknowledge
+7,Question
+8,Statement Non Opinion
+9,Question
+10,Statement Opinion
+11,Command
+12,Statement Non Opinion
+13,Command
+14,Statement Non Opinion
+15,Command
+16,Statement Non Opinion
+17,Statement Non Opinion
+18,Command
+19,Command
+20,Statement Non Opinion
+21,Statement Non Opinion
+22,Statement Non Opinion
+23,Statement Non Opinion
+24,Statement Non Opinion
+25,Greeting
+26,Statement Non Opinion
+27,Statement Non Opinion
+28,Statement Non Opinion
+29,Question
+30,Question
+31,Command
+32,Acknowledge
+33,Statement Non Opinion
+34,Statement Non Opinion
+35,Question
+36,Apology
+37,Statement Non Opinion
+38,Question
+39,Command
+1,Greeting
+2,Greeting
+3,Backchannel
+4,Question
+5,Question
+6,Backchannel
+7,Question
+8,Question
+9,Backchannel
+10,Question
+11,Statement Non Opinion
+12,Question
+13,Statement Opinion
+14,Statement Opinion
+15,Statement Non Opinion
+16,Question
+17,Answer
+18,Question
+19,Statement Opinion
+20,Statement Opinion
+21,Statement Opinion
+22,Statement Opinion
+23,Statement Opinion
+24,Statement Opinion
+25,Statement Non Opinion
+26,Statement Non Opinion
+27,Acknowledge
+28,Statement Non Opinion
+29,Statement Opinion
+30,Statement Opinion
+31,Statement Non Opinion
+32,Statement Opinion
+33,Statement Opinion
+34,Question
+35,Statement Opinion
+36,Statement Opinion
+37,Command
+38,Statement Opinion
+39,Question
+40,Statement Opinion
+41,Question
+42,Statement Opinion
+43,Question
+44,Statement Opinion
+45,Question
+46,Statement Opinion
+47,Statement Non Opinion
+48,Statement Opinion
+1,Statement Opinion
+2,Question
+3,Statement Opinion
+4,Statement Non Opinion
+5,Statement Opinion
+6,Question
+7,Statement Non Opinion
+8,Statement Opinion
+9,Statement Non Opinion
+10,Question
+11,Statement Non Opinion
+12,Statement Non Opinion
+13,Statement Opinion
+14,Statement Opinion
+15,Statement Non Opinion
+16,Statement Opinion
+17,Question
+18,Statement Opinion
+19,Acknowledge
+20,Statement Opinion
+21,Statement Opinion
+22,Acknowledge
+23,Question
+24,Question
+25,Acknowledge
+26,Statement Opinion
+27,Acknowledge
+28,Statement Opinion
+29,Statement Non Opinion
+30,Statement Opinion
+31,Command
+32,Disagreement
+33,Statement Opinion
+34,Statement Non Opinion
+35,Statement Non Opinion
+36,Question
+37,Statement Non Opinion
+38,Acknowledge
+39,Statement Opinion
+40,Statement Opinion
+41,Acknowledge
+42,Statement Opinion
+43,Statement Opinion
+44,Statement Opinion
+45,Question
+46,Statement Non Opinion
+47,Acknowledge
+48,Question
+49,Statement Non Opinion
+50,Acknowledge
+51,Statement Opinion
+52,Statement Non Opinion
+53,Command
+54,Statement Opinion
+1,Question
+2,Statement Non Opinion
+3,Question
+4,Statement Non Opinion
+5,Statement Opinion
+6,Statement Opinion
+7,Question
+8,Statement Non Opinion
+9,Acknowledge
+10,Statement Non Opinion
+11,Statement Opinion
+12,Backchannel
+13,Statement Opinion
+14,Backchannel
+15,Statement Opinion
+16,Question
+17,Statement Opinion
+18,Question
+19,Statement Non Opinion
+20,Statement Opinion
+21,Statement Opinion
+22,Question
+23,Statement Non Opinion
+24,Statement Opinion
+25,Backchannel
+26,Statement Opinion
+27,Statement Opinion
+28,Statement Non Opinion
+29,Statement Non Opinion
+30,Statement Opinion
+31,Statement Non Opinion
+32,Question
+33,Statement Non Opinion
+34,Question
+35,Statement Opinion
+36,Statement Non Opinion
+37,Acknowledge
+38,Statement Opinion
+39,Statement Opinion
+40,Disagreement
+41,Acknowledge
+42,Statement Opinion
+43,Backchannel
+44,Statement Opinion
+45,Command
+46,Statement Non Opinion
+47,Statement Non Opinion
+48,Question
+49,Statement Non Opinion
+50,Statement Opinion
+51,Statement Opinion
+52,Statement Non Opinion
+53,Statement Non Opinion
+54,Statement Non Opinion
+55,Statement Non Opinion
+56,Question
+57,Statement Opinion
+58,Statement Opinion
+1,Question
+2,Answer
+3,Statement Non Opinion
+4,Acknowledge
+5,Question
+6,Question
+7,Answer
+8,Question
+9,Question
+10,Statement Non Opinion
+11,Statement Non Opinion
+12,Statement Non Opinion
+13,Question
+14,Question
+15,Question
+16,Statement Non Opinion
+17,Statement Non Opinion
+18,Apology
+19,Acknowledge
+20,Statement Non Opinion
+21,Question
+22,Statement Non Opinion
+23,Statement Non Opinion
+24,Command
+25,Statement Non Opinion
+26,Question
+27,Question
+28,Command
+29,Command
+30,Apology
+31,Statement Non Opinion
+32,Statement Non Opinion
+33,Command
+34,Statement Non Opinion
+35,Question
+36,Answer
+37,Command
+38,Statement Non Opinion
+39,Question
+40,Question
+41,Statement Non Opinion
+42,Question
+43,Statement Non Opinion
+44,Question
+1,Question
+2,Acknowledge
+3,Statement Non Opinion
+4,Statement Non Opinion
+5,Acknowledge
+6,Backchannel
+7,Question
+8,Statement Non Opinion
+9,Question
+10,Acknowledge
+11,Statement Opinion
+12,Statement Non Opinion
+13,Statement Non Opinion
+14,Statement Opinion
+15,Others
+16,Statement Non Opinion
+17,Question
+18,Question
+19,Statement Opinion
+20,Backchannel
+21,Question
+22,Question
+23,Statement Opinion
+24,Command
+25,Command
+26,Statement Opinion
+27,Statement Non Opinion
+28,Apology
+29,Statement Non Opinion
+30,Statement Opinion
+31,Question
+32,Question
+33,Statement Non Opinion
+34,Statement Opinion
+35,Statement Opinion
+36,Statement Opinion
+37,Command
+38,Statement Non Opinion
+39,Others
+40,Command
+41,Acknowledge
+42,Statement Non Opinion
+43,Question
+44,Others
+45,Statement Non Opinion
+46,Statement Opinion
+47,Statement Opinion
+48,Others
+49,Statement Opinion
+1,Question
+2,Question
+3,Answer
+4,Backchannel
+5,Question
+6,Statement Opinion
+7,Statement Opinion
+8,Statement Opinion
+9,Apology
+10,Backchannel
+11,Statement Opinion
+12,Backchannel
+13,Statement Opinion
+14,Question
+15,Statement Non Opinion
+16,Question
+17,Statement Non Opinion
+18,Question
+19,Statement Opinion
+20,Acknowledge
+21,Statement Opinion
+22,Statement Non Opinion
+23,Statement Non Opinion
+24,Statement Opinion
+25,Statement Non Opinion
+26,Statement Opinion
+27,Acknowledge
+28,Statement Opinion
+29,Apology
+30,Statement Opinion
+31,Question
+32,Statement Opinion
+33,Statement Opinion
+34,Statement Opinion
+35,Statement Opinion
+36,Statement Opinion
+37,Backchannel
+38,Statement Opinion
+39,Statement Non Opinion
+1,Greeting
+2,Greeting
+3,Answer
+4,Backchannel
+5,Backchannel
+6,Statement Non Opinion
+7,Backchannel
+8,Statement Non Opinion
+9,Statement Opinion
+10,Question
+11,Statement Opinion
+12,Statement Opinion
+13,Statement Opinion
+14,Statement Opinion
+15,Statement Non Opinion
+16,Statement Non Opinion
+17,Acknowledge
+18,Statement Non Opinion
+19,Statement Opinion
+20,Statement Opinion
+21,Agreement
+22,Statement Opinion
+23,Statement Opinion
+24,Statement Opinion
+25,Acknowledge
+26,Statement Opinion
+27,Statement Non Opinion
+28,Agreement
+29,Backchannel
+30,Statement Non Opinion
+31,Backchannel
+32,Statement Opinion
+33,Question
+34,Backchannel
+1,Greeting
+2,Statement Non Opinion
+3,Apology
+4,Statement Non Opinion
+5,Statement Non Opinion
+6,Question
+7,Question
+8,Answer
+9,Question
+10,Answer
+11,Question
+12,Statement Non Opinion
+13,Statement Opinion
+14,Statement Opinion
+15,Statement Non Opinion
+16,Command
+17,Statement Opinion
+18,Statement Opinion
+19,Command
+20,Statement Opinion
+21,Statement Non Opinion
+22,Backchannel
+23,Statement Non Opinion
+24,Statement Opinion
+25,Statement Non Opinion
+26,Statement Non Opinion
+27,Statement Opinion
+28,Question
+29,Statement Non Opinion
+30,Backchannel
+31,Apology
+32,Statement Non Opinion
+33,Disagreement
+34,Command
+35,Statement Non Opinion
+36,Statement Opinion
+37,Apology
+38,Disagreement
+39,Acknowledge
+40,Statement Opinion
+41,Statement Non Opinion
+42,Statement Non Opinion
+43,Acknowledge
+44,Statement Non Opinion
+45,Question
+46,Answer
+47,Statement Opinion
+48,Acknowledge
+49,Statement Non Opinion
+1,Greeting
+2,Statement Non Opinion
+3,Apology
+4,Statement Non Opinion
+5,Question
+6,Statement Non Opinion
+7,Apology
+8,Disagreement
+9,Disagreement
+10,Statement Non Opinion
+11,Acknowledge
+12,Question
+13,Statement Non Opinion
+14,Question
+15,Statement Non Opinion
+16,Statement Non Opinion
+17,Statement Non Opinion
+18,Statement Non Opinion
+19,Command
+20,Acknowledge
+21,Command
+22,Statement Non Opinion
+23,Question
+24,Command
+25,Statement Non Opinion
+26,Statement Non Opinion
+27,Acknowledge
+28,Statement Non Opinion
+29,Statement Non Opinion
+30,Disagreement
+31,Statement Non Opinion
+32,Statement Non Opinion
+33,Acknowledge
+34,Acknowledge
+35,Greeting
+36,Acknowledge
+1,Question
+2,Statement Non Opinion
+3,Question
+4,Statement Non Opinion
+5,Question
+6,Statement Non Opinion
+7,Question
+8,Statement Non Opinion
+9,Question
+10,Statement Opinion
+11,Agreement
+12,Statement Opinion
+13,Statement Opinion
+14,Question
+15,Statement Opinion
+16,Question
+17,Statement Opinion
+18,Statement Opinion
+19,Statement Opinion
+20,Statement Opinion
+21,Statement Opinion
+22,Command
+23,Statement Opinion
+24,Command
+25,Question
+26,Question
+27,Statement Non Opinion
+28,Statement Non Opinion
+29,Statement Opinion
+30,Question
+31,Statement Non Opinion
+32,Statement Non Opinion
+33,Statement Opinion
+34,Statement Non Opinion
+35,Statement Opinion
+36,Statement Non Opinion
+37,Statement Opinion
+38,Statement Opinion
+39,Statement Opinion
+40,Statement Opinion
+41,Statement Non Opinion
+42,Statement Opinion
+43,Question
+44,Statement Non Opinion
+45,Statement Opinion
+46,Command
+47,Statement Non Opinion
+48,Statement Opinion
+49,Statement Opinion
+50,Statement Opinion
+51,Statement Opinion
+52,Statement Opinion
+53,Acknowledge
+54,Command
+55,Statement Opinion
+56,Statement Non Opinion
+57,Question
+58,Statement Non Opinion
+59,Question
+60,Statement Opinion
+61,Statement Opinion
+62,Statement Opinion
+63,Statement Opinion
+64,Statement Opinion
+65,Statement Non Opinion
+66,Command
+67,Statement Opinion
+68,Statement Opinion
+69,Command
+70,Statement Opinion
+71,Question
+72,Statement Opinion
+73,Acknowledge
+1,Question
+2,Question
+3,Statement Opinion
+4,Statement Opinion
+5,Statement Opinion
+6,Question
+7,Statement Non Opinion
+8,Statement Opinion
+9,Question
+10,Statement Opinion
+11,Question
+12,Question
+13,Command
+14,Statement Opinion
+15,Statement Non Opinion
+16,Statement Opinion
+17,Statement Opinion
+18,Question
+19,Statement Opinion
+20,Question
+21,Statement Opinion
+22,Backchannel
+23,Statement Opinion
+24,Statement Opinion
+25,Command
+26,Statement Opinion
+27,Question
+28,Command
+29,Question
+30,Statement Non Opinion
+31,Statement Non Opinion
+32,Question
+"(Note: ""xxx"" indicates unclear emotion, but the dialogical act was inferred from context",)
+1,Statement Opinion
+2,Statement Opinion
+3,Statement Opinion
+4,Statement Non Opinion
+5,Statement Non Opinion
+6,Question
+7,Statement Opinion
+8,Backchannel
+9,Command
+10,Statement Opinion
+11,Question
+12,Statement Opinion
+13,Statement Opinion
+14,Acknowledge
+15,Question
+16,Question
+17,Question
+18,Statement Opinion
+19,Statement Opinion
+20,Statement Opinion
+21,Statement Opinion
+22,Statement Opinion
+23,Statement Opinion
+24,Statement Opinion
+25,Question
+26,Statement Opinion
+27,Statement Opinion
+28,Statement Opinion
+29,Question
+30,Statement Opinion
+31,Statement Opinion
+32,Command
+33,Statement Opinion
+34,Statement Opinion
+35,Statement Opinion
+36,Question
+37,Statement Opinion
+38,Statement Opinion
+39,Statement Opinion
+40,Command
+41,Command
+42,Question
+43,Question
+44,Statement Non Opinion
+45,Command
+46,Statement Opinion
+47,Question
+48,Statement Opinion
+49,Acknowledge
+50,Statement Opinion
+51,Question
+52,Statement Non Opinion
+53,Backchannel
+54,Statement Opinion
+55,Statement Opinion
+56,Question
+57,Statement Opinion
+58,Statement Opinion
+59,Statement Opinion
+60,Statement Opinion
+61,Statement Opinion
+62,Statement Opinion
+63,Statement Opinion
+64,Statement Opinion
+65,Question
+66,Statement Opinion
+67,Command
+68,Statement Opinion
+69,Others
+70,Statement Opinion
+71,Question
+72,Question
+1,Question
+2,Statement Opinion
+3,Question
+4,Question
+5,Statement Non Opinion
+6,Question
+7,Question
+8,Statement Non Opinion
+9,Question
+10,Statement Non Opinion
+11,Statement Opinion
+12,Statement Non Opinion
+13,Question
+14,Answer
+15,Question
+16,Statement Non Opinion
+17,Statement Opinion
+18,Statement Non Opinion
+19,Question
+20,Statement Non Opinion
+21,Question
+22,Command
+23,Question
+24,Statement Opinion
+25,Acknowledge
+26,Statement Opinion
+27,Disagreement
+28,Command
+29,Question
+30,Statement Non Opinion
+31,Statement Opinion
+32,Statement Opinion
+33,Statement Opinion
+34,Statement Opinion
+35,Question
+36,Answer
+37,Acknowledge
+38,Statement Opinion
+39,Statement Opinion
+40,Statement Non Opinion
+41,Question
+42,Answer
+43,Statement Non Opinion
+44,Statement Non Opinion
+45,Statement Opinion
+46,Statement Non Opinion
+47,Statement Non Opinion
+48,Statement Opinion
+49,Question
+50,Statement Opinion
+51,Statement Opinion
+52,Statement Opinion
+53,Statement Opinion
+54,Statement Opinion
+55,Statement Opinion
+56,Statement Non Opinion
+57,Statement Non Opinion
+58,Question
+59,Question
+60,Question
+1,Question
+2,Question
+3,Question
+4,Statement Opinion
+5,Statement Opinion
+6,Statement Opinion
+7,Statement Non Opinion
+8,Statement Opinion
+9,Question
+10,Apology
+11,Statement Non Opinion
+12,Others
+13,Statement Opinion
+14,Statement Non Opinion
+15,Command
+16,Question
+17,Question
+18,Statement Non Opinion
+19,Statement Opinion
+20,Question
+21,Question
+22,Question
+23,Statement Opinion
+24,Question
+25,Statement Opinion
+26,Statement Opinion
+27,Statement Non Opinion
+28,Statement Opinion
+29,Agreement
+30,Statement Opinion
+31,Statement Non Opinion
+32,Disagreement
+33,Statement Non Opinion
+34,Statement Non Opinion
+35,Question
+36,Statement Non Opinion
+37,Statement Non Opinion
+38,Statement Non Opinion
+39,Statement Opinion
+40,Statement Non Opinion
+41,Question
+42,Statement Non Opinion
+43,Statement Non Opinion
+44,Question
+45,Statement Opinion
+46,Statement Opinion
+47,Question
+48,Answer
+49,Question
+50,Answer
+51,Question
+52,Answer
+53,Question
+54,Answer
+55,Question
+56,Answer
+57,Answer
+58,Statement Opinion
+59,Statement Opinion
+60,Statement Opinion
+61,Statement Opinion
+62,Statement Opinion
+63,Statement Opinion
+64,Agreement
+65,Agreement
+66,Statement Opinion
+67,Agreement
+68,Statement Opinion
+69,Statement Non Opinion
+70,Statement Non Opinion
+71,Statement Opinion
+72,Statement Opinion
+73,Disagreement
+74,Statement Opinion
+75,Statement Opinion
+76,Question
+77,Question
+78,Statement Opinion
+79,Disagreement
+80,Statement Opinion
+81,Statement Opinion
+82,Statement Opinion
+83,Statement Opinion
+84,Statement Non Opinion
+85,Statement Non Opinion
+86,Statement Non Opinion
+87,Statement Non Opinion
+88,Statement Non Opinion
+89,Question
+90,Agreement
+91,Statement Opinion
+92,Apology
+93,Command
+94,Statement Non Opinion
+95,Agreement
+1,Greeting
+2,Question
+3,Statement Non Opinion
+4,Statement Non Opinion
+5,Statement Opinion
+6,Question
+7,Statement Opinion
+8,Statement Opinion
+9,Statement Opinion
+10,Statement Opinion
+11,Question
+12,Statement Opinion
+13,Statement Non Opinion
+14,Question
+15,Command
+16,Question
+17,Statement Opinion
+18,Statement Opinion
+19,Statement Opinion
+20,Statement Opinion
+21,Statement Opinion
+22,Question
+23,Statement Opinion
+24,Question
+25,Statement Opinion
+26,Statement Opinion
+27,Question
+28,Statement Opinion
+29,Statement Opinion
+30,Statement Opinion
+31,Statement Opinion
+32,Question
+33,Statement Non Opinion
+34,Question
+35,Statement Opinion
+36,Question
+37,Statement Opinion
+38,Question
+39,Statement Opinion
+40,Statement Opinion
+41,Statement Opinion
+42,Statement Opinion
+43,Question
+44,Command
+45,Command
+46,Statement Non Opinion
+47,Statement Opinion
+48,Statement Opinion
+49,Statement Opinion
+50,Statement Opinion
+51,Question
+52,Question
+53,Statement Non Opinion
+54,Statement Non Opinion
+55,Statement Opinion
+56,Statement Opinion
+57,Statement Opinion
+58,Question
+59,Statement Non Opinion
+60,Statement Non Opinion
+61,Statement Non Opinion
+62,Statement Non Opinion
+63,Question
+64,Statement Non Opinion
+65,Statement Non Opinion
+66,Statement Non Opinion
+67,Statement Non Opinion
+68,Statement Opinion
+69,Statement Non Opinion
+70,Statement Opinion
+71,Statement Non Opinion
+1,Answer
+2,Disagreement
+3,Disagreement
+4,Statement Non Opinion
+5,Statement Opinion
+6,Statement Opinion
+7,Statement Opinion
+8,Disagreement
+9,Statement Opinion
+10,Statement Non Opinion
+11,Statement Opinion
+12,Question
+13,Statement Non Opinion
+14,Question
+15,Statement Opinion
+16,Statement Opinion
+17,Statement Opinion
+18,Agreement
+19,Question
+20,Answer
+21,Statement Non Opinion
+22,Statement Opinion
+23,Disagreement
+24,Statement Opinion
+25,Statement Non Opinion
+26,Disagreement
+27,Statement Opinion
+28,Statement Opinion
+29,Command
+30,Statement Non Opinion
+31,Question
+32,Answer
+33,Others
+34,Question
+35,Statement Non Opinion
+36,Statement Opinion
+37,Statement Opinion
+38,Agreement
+39,Disagreement
+40,Agreement
+41,Command
+42,Statement Opinion
+43,Statement Non Opinion
+44,Others
+45,Statement Opinion
+46,Statement Opinion
+47,Statement Opinion
+48,Statement Opinion
+49,Disagreement
+50,Disagreement
+51,Disagreement
+52,Disagreement
+53,Statement Opinion
+54,Question
+55,Answer
+56,Question
+57,Command
+58,Statement Opinion
+59,Statement Opinion
+60,Disagreement
+61,Statement Opinion
+62,Disagreement
+63,Disagreement
+64,Statement Opinion
+65,Command
+66,Statement Opinion
+67,Statement Opinion
+68,Agreement
+69,Command
+70,Question
+71,Statement Non Opinion
+72,Statement Non Opinion
+73,Statement Non Opinion
+74,Statement Non Opinion
+75,Statement Opinion
+76,Command
+77,Disagreement
+78,Statement Opinion
+79,Command
+80,Statement Opinion
+81,Command
+82,Statement Opinion
+83,Statement Opinion
+84,Statement Opinion
+85,Statement Opinion
+86,Statement Opinion
+87,Disagreement
+88,Disagreement
+89,Command
+90,Statement Opinion
+91,Statement Opinion
+92,Statement Opinion
+93,Acknowledge
+1,Greeting
+2,Question
+3,Statement Non Opinion
+4,Question
+5,Statement Non Opinion
+6,Command
+7,Acknowledge
+8,Command
+9,Statement Non Opinion
+10,Statement Non Opinion
+11,Command
+12,Question
+13,Statement Non Opinion
+14,Statement Non Opinion
+15,Command
+16,Question
+17,Statement Non Opinion
+18,Command
+19,Statement Non Opinion
+20,Command
+21,Statement Non Opinion
+22,Question
+23,Statement Non Opinion
+24,Statement Non Opinion
+25,Statement Non Opinion
+26,Statement Non Opinion
+27,Statement Non Opinion
+28,Statement Non Opinion
+29,Statement Non Opinion
+30,Statement Non Opinion
+31,Command
+32,Statement Non Opinion
+33,Question
+34,Statement Non Opinion
+35,Statement Non Opinion
+36,Statement Non Opinion
+37,Command
+38,Statement Non Opinion
+39,Statement Opinion
+40,Statement Opinion
+41,Statement Non Opinion
+42,Question
+43,Statement Non Opinion
+44,Question
+45,Statement Non Opinion
+46,Statement Non Opinion
+47,Statement Non Opinion
+48,Command
+49,Statement Non Opinion
+1,Statement Non Opinion
+2,Acknowledge
+3,Statement Opinion
+4,Acknowledge
+5,Statement Non Opinion
+6,Statement Opinion
+7,Statement Opinion
+8,Statement Opinion
+9,Statement Opinion
+10,Disagreement
+11,Statement Opinion
+12,Statement Opinion
+13,Statement Opinion
+14,Disagreement
+15,Question
+16,Statement Opinion
+17,Statement Opinion
+18,Statement Opinion
+19,Statement Opinion
+20,Statement Opinion
+21,Statement Opinion
+22,Statement Opinion
+23,Statement Opinion
+24,Question
+25,Statement Opinion
+26,Question
+27,Statement Opinion
+28,Statement Opinion
+29,Question
+30,Command
+31,Statement Opinion
+32,Command
+33,Statement Opinion
+34,Statement Opinion
+35,Statement Opinion
+36,Disagreement
+37,Statement Opinion
+38,Statement Opinion
+39,Statement Opinion
+40,Statement Opinion
+41,Statement Opinion
+42,Statement Opinion
+43,Statement Opinion
+44,Question
+45,Statement Opinion
+46,Command
+47,Question
+48,Question
+49,Question
+50,Statement Opinion
+51,Statement Opinion
+52,Acknowledge
+1,Statement Opinion
+2,Statement Non Opinion
+3,Command
+4,Question
+5,Statement Opinion
+6,Statement Opinion
+7,Statement Opinion
+8,Acknowledge
+9,Acknowledge
+10,Question
+11,Statement Opinion
+12,Question
+13,Statement Opinion
+14,Question
+15,Statement Opinion
+16,Statement Opinion
+17,Statement Opinion
+18,Statement Opinion
+19,Acknowledge
+20,Statement Non Opinion
+21,Statement Opinion
+22,Statement Opinion
+23,Statement Opinion
+24,Statement Non Opinion
+25,Statement Non Opinion
+26,Statement Opinion
+27,Statement Non Opinion
+28,Command
+29,Agreement
+30,Question
+31,Agreement
+32,Question
+33,Agreement
+34,Statement Non Opinion
+35,Statement Opinion
+36,Acknowledge
+37,Disagreement
+38,Question
+39,Statement Non Opinion
+40,Statement Non Opinion
+41,Statement Opinion
+42,Command
+43,Statement Opinion
+44,Question
+45,Statement Non Opinion
+46,Statement Non Opinion
+47,Statement Opinion
+48,Disagreement
+49,Command
+50,Command
+51,Statement Non Opinion
+52,Statement Non Opinion
+53,Statement Non Opinion
+54,Command
+55,Statement Opinion
+56,Question
+57,Statement Non Opinion
+58,Question
+59,Statement Non Opinion
+60,Statement Opinion
+61,Statement Opinion
+62,Question
+63,Agreement
+64,Question
+65,Statement Opinion
+66,Question
+67,Statement Non Opinion
+68,Statement Non Opinion
+69,Agreement
+70,Statement Non Opinion
+71,Statement Opinion
+72,Statement Opinion
+73,Statement Non Opinion
+74,Statement Opinion
+75,Statement Opinion
+76,Statement Opinion
+77,Backchannel
+78,Backchannel
+79,Statement Opinion
+80,Statement Opinion
+81,Statement Opinion
+82,Statement Opinion
+83,Statement Opinion
+84,Statement Non Opinion
+85,Statement Opinion
+86,Statement Non Opinion
+87,Statement Non Opinion
+88,Question
+89,Statement Non Opinion
+90,Question
+91,Statement Non Opinion
+92,Statement Opinion
+93,Statement Non Opinion
+94,Statement Opinion
+95,Statement Non Opinion
+96,Statement Opinion
+97,Statement Opinion
+98,Statement Non Opinion
+99,Statement Opinion
+100,Question
+101,Backchannel
+102,Statement Non Opinion
+1,Command
+2,Statement Opinion
+3,Statement Opinion
+4,Statement Opinion
+5,Statement Opinion
+6,Statement Opinion
+7,Statement Opinion
+8,Command
+9,Statement Non Opinion
+10,Statement Opinion
+11,Greeting
+12,Statement Opinion
+13,Statement Non Opinion
+14,Question
+15,Statement Non Opinion
+16,Statement Non Opinion
+17,Statement Opinion
+18,Statement Non Opinion
+19,Statement Opinion
+20,Statement Non Opinion
+21,Statement Opinion
+22,Acknowledge
+23,Statement Opinion
+24,Apology
+25,Statement Opinion
+26,Statement Non Opinion
+27,Statement Opinion
+28,Acknowledge
+29,Statement Opinion
+30,Statement Non Opinion
+31,Statement Opinion
+32,Statement Opinion
+33,Statement Opinion
+34,Acknowledge
+35,Statement Non Opinion
+36,Question
+37,Statement Opinion
+38,Question
+39,Statement Opinion
+40,Question
+41,Statement Opinion
+42,Statement Non Opinion
+43,Statement Opinion
+44,Statement Opinion
+45,Statement Non Opinion
+46,Statement Non Opinion
+47,Statement Opinion
+48,Command
+49,Statement Opinion
+50,Command
+51,Statement Opinion
+52,Statement Opinion
+53,Statement Opinion
+54,Statement Opinion
+55,Statement Opinion
+56,Command
+57,Statement Opinion
+58,Statement Non Opinion
+59,Statement Opinion
+60,Statement Opinion
+61,Question
+62,Statement Non Opinion
+63,Statement Opinion
+64,Statement Non Opinion
+65,Statement Opinion
+66,Statement Opinion
+67,Statement Non Opinion
+68,Statement Non Opinion
+69,Statement Opinion
+1,Question
+2,Statement Opinion
+3,Command
+4,Statement Opinion
+5,Acknowledge
+6,Statement Non Opinion
+7,Acknowledge
+8,Statement Opinion
+9,Statement Opinion
+10,Statement Non Opinion
+11,Question
+12,Statement Non Opinion
+13,Disagreement
+14,Statement Opinion
+15,Statement Non Opinion
+16,Statement Opinion
+17,Statement Non Opinion
+18,Statement Opinion
+19,Command
+20,Command
+21,Statement Non Opinion
+22,Statement Non Opinion
+23,Statement Opinion
+24,Statement Non Opinion
+25,Statement Non Opinion
+26,Disagreement
+27,Statement Non Opinion
+28,Statement Opinion
+29,Command
+30,Statement Opinion
+31,Statement Non Opinion
+32,Statement Non Opinion
+33,Acknowledge
+34,Command
+35,Statement Non Opinion
+36,Statement Opinion
+37,Statement Non Opinion
+38,Question
+39,Statement Non Opinion
+40,Statement Opinion
+41,Statement Non Opinion
+1,Apology
+2,Acknowledge
+3,Backchannel
+4,Statement Opinion
+5,Backchannel
+6,Statement Non Opinion
+7,Acknowledge
+8,Statement Opinion
+9,Statement Opinion
+10,Statement Opinion
+11,Statement Opinion
+12,Statement Opinion
+13,Backchannel
+14,Statement Opinion
+15,Statement Opinion
+16,Statement Non Opinion
+17,Acknowledge
+18,Statement Opinion
+19,Agreement
+20,Backchannel
+21,Statement Opinion
+22,Statement Opinion
+23,Acknowledge
+24,Others
+1,Greeting
+2,Question
+3,Question
+4,Statement Non Opinion
+5,Statement Non Opinion
+6,Statement Non Opinion
+7,Question
+8,Statement Non Opinion
+9,Statement Opinion
+10,Statement Opinion
+11,Statement Opinion
+12,Statement Non Opinion
+13,Statement Opinion
+14,Acknowledge
+15,Statement Opinion
+16,Acknowledge
+17,Statement Non Opinion
+18,Command
+19,Statement Opinion
+20,Statement Opinion
+21,Question
+22,Statement Non Opinion
+23,Acknowledge
+24,Statement Non Opinion
+25,Statement Non Opinion
+26,Statement Non Opinion
+27,Statement Opinion
+28,Question
+29,Statement Opinion
+30,Statement Opinion
+31,Question
+32,Statement Non Opinion
+33,Statement Opinion
+34,Question
+35,Statement Opinion
+36,Statement Non Opinion
+37,Question
+38,Statement Opinion
+39,Question
+40,Acknowledge
+41,Statement Opinion
+42,Statement Opinion
+43,Statement Opinion
+44,Statement Non Opinion
+45,Backchannel
+46,Statement Non Opinion
+47,Backchannel
+48,Statement Non Opinion
+49,Acknowledge
+50,Statement Non Opinion
+51,Statement Opinion
+52,Statement Opinion
+53,Statement Opinion
+54,Statement Non Opinion
+55,Acknowledge
+56,Statement Opinion
+57,Statement Opinion
+58,Statement Opinion
+59,Statement Opinion
+60,Statement Non Opinion
+61,Question
+62,Statement Non Opinion
+63,Acknowledge
+64,Statement Non Opinion
+65,Statement Non Opinion
+66,Statement Opinion
+67,Statement Non Opinion
+68,Statement Opinion
+69,Acknowledge
+70,Question
+71,Question
+72,Statement Opinion
+73,Statement Opinion
+74,Question
+75,Statement Non Opinion
+76,Statement Non Opinion
+77,Backchannel
+78,Statement Non Opinion
+79,Statement Opinion
+80,Question
+81,Statement Non Opinion
+82,Statement Opinion
+83,Acknowledge
+84,Statement Non Opinion
+85,Statement Opinion
+86,Question
+87,Statement Opinion
+88,Statement Opinion
+89,Acknowledge
+90,Statement Opinion
+91,Statement Opinion
+92,Statement Non Opinion
+93,Statement Non Opinion
+94,Statement Non Opinion
+95,Statement Opinion
+96,Statement Opinion
+97,Statement Opinion
+98,Statement Opinion
+99,Acknowledge
+100,Question
+101,Statement Opinion
+102,Statement Opinion
+103,Statement Non Opinion
+104,Statement Non Opinion
+105,Acknowledge
+106,Statement Opinion
+107,Statement Non Opinion
+108,Statement Non Opinion
+109,Statement Non Opinion
+110,Statement Non Opinion
+111,Statement Non Opinion
+112,Acknowledge
+113,Backchannel
+114,Statement Non Opinion
+115,Statement Opinion
+116,Statement Non Opinion
+117,Statement Non Opinion
+118,Statement Non Opinion
+119,Statement Non Opinion
+120,Statement Non Opinion
+121,Statement Opinion
+122,Statement Non Opinion
+123,Statement Opinion
+124,Question
+125,Acknowledge
+126,Statement Opinion
+127,Question
+128,Acknowledge
+129,Statement Opinion
+130,Statement Opinion
+131,Statement Opinion
+132,Statement Opinion
+133,Backchannel
+134,Backchannel
+135,Backchannel
+136,Backchannel
+137,Statement Non Opinion
+138,Statement Opinion
+139,Statement Opinion
+140,Statement Non Opinion
+141,Statement Non Opinion
+142,Statement Non Opinion
+143,Acknowledge
+144,Acknowledge
+145,Statement Non Opinion
+146,Question
+147,Statement Non Opinion
+148,Statement Opinion
+149,Statement Opinion
+150,Question
+151,Statement Opinion
+152,Question
+153,Statement Opinion
+154,Statement Opinion
+155,Statement Opinion
+156,Statement Opinion
+157,Statement Opinion
+158,Acknowledge
+159,Statement Opinion
+160,Statement Opinion
+161,Statement Opinion
+162,Statement Opinion
+163,Acknowledge
+164,Statement Opinion
+165,Statement Non Opinion
+166,Statement Non Opinion
+167,Acknowledge
+1,Question
+2,Answer
+3,Question
+4,Statement Non Opinion
+5,Statement Non Opinion
+6,Question
+7,Statement Non Opinion
+8,Statement Non Opinion
+9,Question
+10,Statement Non Opinion
+11,Apology
+12,Statement Non Opinion
+13,Statement Non Opinion
+14,Command
+15,Command
+16,Command
+17,Acknowledge
+18,Disagreement
+19,Acknowledge
+20,Disagreement
+21,Command
+22,Command
+23,Statement Non Opinion
+24,Backchannel
+25,Statement Non Opinion
+26,Question
+27,Answer
+28,Question
+29,Answer
+30,Question
+31,Statement Non Opinion
+32,Command
+33,Command
+34,Statement Non Opinion
+35,Statement Opinion
+36,Disagreement
+37,Statement Non Opinion
+38,Statement Non Opinion
+39,Statement Non Opinion
+40,Statement Non Opinion
+41,Statement Non Opinion
+42,Statement Non Opinion
+43,Backchannel
+44,Disagreement
+45,Statement Non Opinion
+46,Question
+47,Answer
+48,Acknowledge
+1,Question
+2,Statement Non Opinion
+3,Question
+4,Statement Non Opinion
+5,Question
+6,Statement Non Opinion
+7,Statement Opinion
+8,Acknowledge
+9,Statement Opinion
+10,Question
+11,Statement Opinion
+12,Question
+13,Statement Opinion
+14,Question
+15,Statement Opinion
+16,Question
+17,Statement Opinion
+18,Statement Opinion
+19,Question
+20,Statement Opinion
+21,Statement Opinion
+22,Command
+23,Statement Opinion
+24,Question
+25,Question
+26,Statement Non Opinion
+27,Statement Opinion
+28,Statement Non Opinion
+29,Statement Non Opinion
+30,Statement Opinion
+31,Question
+32,Statement Opinion
+33,Statement Opinion
+34,Statement Opinion
+35,Statement Opinion
+36,Statement Opinion
+37,Statement Opinion
+38,Statement Opinion
+39,Statement Opinion
+40,Statement Opinion
+41,Statement Opinion
+42,Statement Opinion
+43,Statement Opinion
+44,Statement Opinion
+45,Question
+46,Statement Non Opinion
+47,Statement Opinion
+48,Statement Opinion
+49,Command
+50,Statement Opinion
+51,Statement Opinion
+52,Statement Opinion
+53,Statement Opinion
+54,Statement Opinion
+55,Statement Non Opinion
+56,Statement Opinion
+57,Statement Opinion
+58,Statement Opinion
+59,Acknowledge
+60,Command
+61,Statement Opinion
+62,Statement Opinion
+63,Question
+64,Statement Non Opinion
+65,Question
+66,Statement Opinion
+67,Question
+68,Statement Opinion
+69,Question
+70,Statement Opinion
+71,Statement Opinion
+72,Question
+73,Statement Non Opinion
+74,Command
+75,Statement Opinion
+76,Command
+77,Statement Opinion
+78,Statement Opinion
+79,Command
+80,Statement Opinion
+81,Question
+82,Statement Non Opinion
+83,Statement Opinion
+1,Question
+2,Question
+3,Statement Non Opinion
+4,Statement Opinion
+5,Command
+6,Statement Opinion
+7,Question
+8,Statement Opinion
+9,Command
+10,Disagreement
+11,Statement Non Opinion
+12,Statement Opinion
+13,Statement Opinion
+14,Question
+15,Statement Opinion
+16,Statement Opinion
+17,Question
+18,Statement Opinion
+19,Question
+20,Command
+21,Acknowledge
+22,Statement Opinion
+23,Question
+24,Statement Opinion
+25,Command
+26,Command
+27,Command
+28,Statement Non Opinion
+29,Acknowledge
+30,Command
+31,Question
+32,Command
+33,Question
+34,Statement Non Opinion
+35,Question
+"(Note: Some classifications may vary based on interpretation, but this follows the general intent of the dialogical acts",)
+1,Statement Opinion
+2,Question
+3,Statement Non Opinion
+4,Statement Opinion
+5,Statement Non Opinion
+6,Disagreement
+7,Backchannel
+8,Statement Non Opinion
+9,Question
+10,Statement Non Opinion
+11,Statement Non Opinion
+12,Statement Opinion
+13,Question
+14,Statement Non Opinion
+15,Statement Non Opinion
+16,Statement Opinion
+17,Statement Non Opinion
+18,Statement Non Opinion
+19,Statement Non Opinion
+20,Statement Opinion
+21,Statement Non Opinion
+22,Question
+23,Statement Non Opinion
+24,Question
+25,Statement Non Opinion
+26,Question
+27,Statement Non Opinion
+28,Question
+29,Statement Opinion
+30,Command
+31,Statement Opinion
+32,Statement Opinion
+33,Statement Opinion
+34,Disagreement
+35,Statement Non Opinion
+36,Command
+37,Question
+38,Command
+39,Disagreement
+40,Statement Non Opinion
+41,Question
+42,Statement Non Opinion
+43,Command
+44,Statement Non Opinion
+45,Statement Non Opinion
+46,Statement Non Opinion
+47,Question
+48,Acknowledge
+49,Statement Non Opinion
+50,Question
+51,Statement Non Opinion
+52,Backchannel
+53,Statement Non Opinion
+54,Statement Non Opinion
+55,Statement Non Opinion
+56,Statement Non Opinion
+57,Statement Non Opinion
+58,Question
+59,Statement Non Opinion
+60,Statement Non Opinion
+61,Statement Non Opinion
+62,Statement Non Opinion
+63,Statement Non Opinion
+64,Statement Non Opinion
+65,Statement Non Opinion
+66,Statement Non Opinion
+67,Statement Non Opinion
+68,Statement Non Opinion
+69,Question
+70,Statement Non Opinion
+71,Statement Opinion
+72,Statement Opinion
+73,Statement Opinion
+74,Statement Opinion
+75,Question
+1,Question
+2,Statement Non Opinion
+3,Answer
+4,Question
+5,Question
+6,Statement Non Opinion
+7,Question
+8,Statement Non Opinion
+9,Statement Non Opinion
+10,Acknowledge
+11,Question
+12,Statement Non Opinion
+13,Question
+14,Answer
+15,Question
+16,Statement Opinion
+17,Statement Non Opinion
+18,Question
+19,Statement Non Opinion
+20,Question
+21,Command
+22,Question
+23,Statement Opinion
+24,Acknowledge
+25,Statement Opinion
+26,Statement Opinion
+27,Command
+28,Question
+29,Statement Opinion
+30,Question
+31,Statement Opinion
+32,Statement Opinion
+33,Statement Opinion
+34,Statement Opinion
+35,Statement Opinion
+36,Statement Opinion
+37,Question
+38,Statement Opinion
+39,Acknowledge
+40,Statement Opinion
+41,Statement Opinion
+42,Statement Opinion
+43,Statement Opinion
+44,Question
+45,Answer
+46,Statement Non Opinion
+47,Statement Non Opinion
+48,Statement Non Opinion
+49,Statement Non Opinion
+50,Statement Opinion
+51,Question
+52,Statement Opinion
+53,Statement Opinion
+54,Statement Opinion
+55,Statement Opinion
+56,Statement Opinion
+57,Statement Opinion
+58,Statement Opinion
+59,Statement Non Opinion
+60,Statement Opinion
+61,Question
+62,Question
+63,Statement Non Opinion
+64,Statement Opinion
+1,Question
+2,Question
+3,Statement Non Opinion
+4,Statement Opinion
+5,Disagreement
+6,Statement Opinion
+7,Statement Non Opinion
+8,Statement Opinion
+9,Question
+10,Statement Opinion
+11,Question
+12,Statement Opinion
+13,Question
+14,Statement Opinion
+15,Statement Non Opinion
+16,Statement Opinion
+17,Question
+18,Acknowledge
+19,Statement Non Opinion
+20,Command
+21,Question
+22,Question
+23,Statement Non Opinion
+24,Statement Opinion
+25,Statement Opinion
+26,Statement Opinion
+27,Statement Opinion
+28,Statement Opinion
+29,Statement Opinion
+30,Statement Opinion
+31,Disagreement
+32,Statement Opinion
+33,Statement Opinion
+34,Statement Opinion
+35,Statement Opinion
+36,Statement Non Opinion
+37,Statement Non Opinion
+38,Statement Non Opinion
+39,Statement Non Opinion
+40,Statement Non Opinion
+41,Statement Non Opinion
+42,Statement Opinion
+43,Statement Non Opinion
+44,Statement Non Opinion
+45,Question
+46,Statement Opinion
+47,Statement Opinion
+48,Question
+49,Answer
+50,Question
+51,Answer
+52,Question
+53,Answer
+54,Question
+55,Answer
+56,Question
+57,Answer
+58,Question
+59,Answer
+60,Question
+61,Answer
+62,Question
+63,Statement Opinion
+64,Statement Opinion
+65,Question
+66,Question
+67,Statement Opinion
+68,Statement Opinion
+69,Statement Opinion
+70,Question
+71,Statement Opinion
+72,Statement Opinion
+73,Acknowledge
+74,Statement Opinion
+75,Agreement
+76,Question
+77,Statement Opinion
+78,Statement Opinion
+79,Statement Opinion
+80,Disagreement
+81,Statement Opinion
+82,Statement Opinion
+83,Question
+84,Statement Opinion
+85,Statement Opinion
+86,Statement Opinion
+87,Statement Opinion
+88,Statement Opinion
+89,Statement Opinion
+90,Statement Opinion
+91,Statement Opinion
+92,Statement Opinion
+93,Statement Non Opinion
+94,Statement Opinion
+95,Question
+96,Apology
+97,Command
+98,Statement Non Opinion
+99,Statement Non Opinion
+1,Statement Opinion
+2,Statement Non Opinion
+3,Statement Opinion
+4,Question
+5,Statement Opinion
+6,Statement Opinion
+7,Statement Opinion
+8,Statement Opinion
+9,Greeting / Statement Non Opinion
+10,Statement Opinion
+11,Question
+12,Command
+13,Statement Opinion
+14,Statement Opinion
+15,Question
+16,Statement Opinion
+17,Command
+18,Statement Opinion
+19,Statement Opinion
+20,Agreement
+21,Question
+22,Command
+23,Statement Opinion
+24,Question
+25,Statement Opinion
+26,Command
+27,Statement Opinion
+28,Statement Opinion
+29,Agreement
+30,Question
+31,Statement Non Opinion
+32,Statement Opinion
+33,Statement Opinion
+34,Question
+35,Statement Opinion
+36,Question
+37,Agreement
+38,Statement Opinion
+39,Statement Opinion
+40,Statement Opinion
+41,Statement Opinion
+42,Command
+43,Command
+44,Statement Opinion
+45,Statement Opinion
+46,Statement Opinion
+47,Statement Opinion
+48,Question
+49,Question
+50,Statement Non Opinion
+51,Statement Opinion
+52,Statement Opinion
+53,Statement Opinion
+54,Question
+55,Statement Non Opinion
+56,Statement Non Opinion
+57,Statement Non Opinion
+58,Statement Opinion
+59,Statement Non Opinion
+60,Statement Opinion
+61,Statement Non Opinion
+62,Statement Opinion
+63,Statement Opinion
+64,Statement Non Opinion
+65,Statement Opinion
+66,Statement Non Opinion
+1,Statement Non Opinion
+2,Statement Non Opinion
+3,Disagreement
+4,Statement Non Opinion
+5,Statement Opinion
+6,Statement Opinion
+7,Statement Opinion
+8,Disagreement
+9,Question
+10,Statement Non Opinion
+11,Statement Opinion
+12,Question
+13,Question
+14,Statement Non Opinion
+15,Question
+16,Statement Opinion
+17,Statement Opinion
+18,Statement Opinion
+19,Statement Opinion
+20,Statement Non Opinion
+21,Statement Non Opinion
+22,Statement Opinion
+23,Statement Non Opinion
+24,Statement Opinion
+25,Disagreement
+26,Statement Opinion
+27,Statement Opinion
+28,Command
+29,Statement Non Opinion
+30,Question
+31,Statement Non Opinion
+32,Question
+33,Statement Non Opinion
+34,Statement Opinion
+35,Command
+36,Agreement
+37,Disagreement
+38,Agreement
+39,Command
+40,Statement Opinion
+41,Statement Opinion
+42,Statement Opinion
+43,Disagreement
+44,Disagreement
+45,Disagreement
+46,Disagreement
+47,Statement Opinion
+48,Question
+49,Statement Non Opinion
+50,Statement Opinion
+51,Command
+52,Statement Opinion
+53,Statement Opinion
+54,Disagreement
+55,Statement Opinion
+56,Disagreement
+57,Disagreement
+58,Statement Opinion
+59,Command
+60,Statement Opinion
+61,Statement Opinion
+62,Agreement
+63,Command
+64,Question
+65,Statement Non Opinion
+66,Statement Non Opinion
+67,Statement Non Opinion
+68,Statement Non Opinion
+69,Statement Opinion
+70,Command
+71,Disagreement
+72,Statement Opinion
+73,Command
+74,Command
+75,Command
+76,Statement Opinion
+77,Command
+78,Statement Opinion
+79,Command
+80,Statement Opinion
+81,Statement Opinion
+82,Statement Opinion
+83,Statement Opinion
+84,Statement Opinion
+85,Statement Opinion
+86,Statement Opinion
+87,Disagreement
+88,Statement Opinion
+89,Command
+90,Statement Opinion
+91,Statement Opinion
+1,Greeting
+2,Question
+3,Statement Non Opinion
+4,Statement Non Opinion
+5,Question
+6,Answer
+7,Apology
+8,Command
+9,Statement Non Opinion
+10,Question
+11,Question
+12,Statement Non Opinion
+13,Statement Non Opinion
+14,Statement Non Opinion
+15,Statement Non Opinion
+16,Command
+17,Disagreement
+18,Apology
+19,Command
+20,Command
+21,Command
+22,Apology
+23,Statement Non Opinion
+24,Question
+25,Question
+26,Command
+27,Command
+28,Statement Non Opinion
+29,Statement Non Opinion
+30,Statement Non Opinion
+31,Command
+32,Statement Non Opinion
+33,Statement Non Opinion
+34,Statement Non Opinion
+35,Statement Opinion
+36,Command
+37,Disagreement
+38,Statement Non Opinion
+39,Statement Opinion
+40,Apology
+41,Command
+42,Command
+43,Question
+44,Question
+45,Answer
+46,Statement Opinion
+47,Statement Opinion
+1,Statement Non Opinion
+2,Question
+3,Statement Non Opinion
+4,Question
+5,Statement Opinion
+6,Statement Opinion
+7,Statement Opinion
+8,Command
+9,Statement Non Opinion
+10,Question
+11,Statement Non Opinion
+12,Statement Non Opinion
+13,Question
+14,Command
+15,Statement Opinion
+16,Statement Opinion
+17,Statement Opinion
+18,Question
+19,Statement Opinion
+20,Statement Opinion
+21,Statement Non Opinion
+22,Command
+23,Statement Opinion
+24,Statement Opinion
+25,Question
+26,Question
+27,Statement Non Opinion
+28,Statement Non Opinion
+29,Question
+30,Statement Non Opinion
+31,Statement Opinion
+32,Statement Opinion
+33,Statement Opinion
+34,Statement Opinion
+35,Statement Opinion
+36,Statement Non Opinion
+37,Statement Opinion
+38,Statement Non Opinion
+39,Statement Opinion
+40,Question
+41,Statement Opinion
+42,Others
+43,Statement Opinion
+44,Others
+45,Statement Opinion
+46,Statement Non Opinion
+47,Question
+48,Statement Non Opinion
+49,Statement Non Opinion
+50,Command
+51,Statement Non Opinion
+52,Statement Opinion
+1,Statement Non Opinion
+2,Acknowledge
+3,Statement Opinion
+4,Question
+5,Statement Opinion
+6,Statement Opinion
+7,Question
+8,Statement Opinion
+9,Question
+10,Statement Opinion
+11,Statement Opinion
+12,Statement Opinion
+13,Agreement
+14,Statement Non Opinion
+15,Statement Non Opinion
+16,Agreement
+17,Statement Non Opinion
+18,Question
+19,Statement Non Opinion
+20,Acknowledge
+21,Statement Opinion
+22,Statement Opinion
+23,Question
+24,Question
+25,Statement Non Opinion
+26,Statement Non Opinion
+27,Acknowledge
+28,Statement Opinion
+29,Question
+30,Statement Non Opinion
+31,Question
+32,Statement Non Opinion
+33,Statement Opinion
+34,Statement Non Opinion
+35,Statement Opinion
+36,Statement Non Opinion
+37,Acknowledge
+38,Acknowledge
+39,Acknowledge
+40,Statement Opinion
+41,Statement Opinion
+42,Statement Opinion
+43,Question
+44,Statement Non Opinion
+45,Statement Opinion
+46,Agreement
+47,Statement Opinion
+48,Statement Non Opinion
+49,Statement Non Opinion
+50,Statement Non Opinion
+51,Statement Opinion
+52,Agreement
+53,Statement Opinion
+54,Question
+1,Statement Non Opinion
+2,Statement Non Opinion
+3,Statement Non Opinion
+4,Question
+5,Statement Non Opinion
+6,Statement Opinion
+7,Statement Opinion
+8,Statement Non Opinion
+9,Statement Non Opinion
+10,Statement Non Opinion
+11,Statement Opinion
+12,Disagreement
+13,Statement Opinion
+14,Statement Non Opinion
+15,Statement Non Opinion
+16,Statement Opinion
+17,Statement Non Opinion
+18,Statement Opinion
+19,Statement Non Opinion
+20,Question
+21,Statement Non Opinion
+22,Question
+23,Agreement
+24,Statement Opinion
+25,Agreement
+26,Statement Opinion
+27,Statement Non Opinion
+28,Statement Non Opinion
+29,Statement Opinion
+30,Question
+31,Statement Opinion
+32,Disagreement
+33,Question
+34,Statement Non Opinion
+35,Others
+36,Question
+37,Apology
+"(Note: Some classifications like ""xxx"" and ""oth"" were unclear, so I used the closest possible label",)
+1,Statement Non Opinion
+2,Backchannel
+3,Backchannel
+4,Statement Non Opinion
+5,Acknowledge
+6,Statement Non Opinion
+7,Statement Non Opinion
+8,Statement Non Opinion
+9,Apology
+10,Statement Non Opinion
+11,Question
+12,Answer
+13,Disagreement
+14,Question
+15,Command
+16,Disagreement
+17,Command
+18,Disagreement
+19,Disagreement
+20,Apology
+21,Statement Non Opinion
+22,Command
+23,Statement Non Opinion
+24,Command
+25,Statement Non Opinion
+26,Statement Non Opinion
+27,Statement Opinion
+28,Apology
+29,Apology
+30,Disagreement
+31,Disagreement
+32,Acknowledge
+33,Statement Non Opinion
+34,Command
+35,Disagreement
+36,Command
+37,Statement Non Opinion
+38,Question
+39,Statement Non Opinion
+40,Statement Non Opinion
+41,Command
+42,Statement Non Opinion
+43,Command
+44,Command
+45,Statement Non Opinion
+46,Statement Non Opinion
+47,Statement Opinion
+48,Disagreement
+49,Statement Opinion
+50,Statement Opinion
+51,Statement Non Opinion
+52,Command
+53,Statement Non Opinion
+54,Statement Non Opinion
+55,Question
+56,Statement Non Opinion
+57,Statement Non Opinion
+58,Disagreement
+59,Statement Non Opinion
+60,Statement Non Opinion
+61,Command
+62,Acknowledge
+63,Command
+64,Acknowledge
+65,Command
+66,Statement Non Opinion
+67,Statement Opinion
+68,Command
+69,Disagreement
+70,Disagreement
+71,Agreement
+72,Statement Opinion
+73,Apology
+74,Disagreement
+75,Question
+76,Statement Opinion
+77,Command
+1,Greeting
+2,Statement Non Opinion
+3,Acknowledge
+4,Statement Opinion
+5,Statement Non Opinion
+6,Acknowledge
+7,Statement Non Opinion
+8,Statement Opinion
+9,Acknowledge
+10,Statement Opinion
+11,Question
+12,Statement Opinion
+13,Statement Opinion
+14,Acknowledge
+15,Statement Opinion
+16,Statement Opinion
+17,Statement Opinion
+18,Question
+19,Statement Opinion
+20,Statement Opinion
+21,Agreement
+22,Statement Opinion
+23,Question
+24,Statement Opinion
+25,Statement Opinion
+26,Statement Opinion
+27,Acknowledge
+28,Statement Opinion
+29,Acknowledge
+30,Statement Opinion
+31,Statement Non Opinion
+32,Statement Opinion
+33,Acknowledge
+1,Statement Non Opinion
+2,Question
+3,Acknowledge
+4,Backchannel
+5,Statement Opinion
+6,Statement Opinion
+7,Question
+8,Statement Non Opinion
+9,Backchannel
+10,Acknowledge
+11,Agreement
+12,Backchannel
+13,Question
+14,Statement Opinion
+15,Backchannel
+16,Agreement
+17,Statement Opinion
+18,Acknowledge
+19,Statement Opinion
+20,Agreement
+21,Statement Opinion
+22,Agreement
+23,Backchannel
+24,Agreement
+25,Acknowledge
+26,Backchannel
+27,Statement Opinion
+28,Acknowledge
+29,Statement Non Opinion
+30,Statement Non Opinion
+31,Agreement
+32,Statement Opinion
+33,Statement Opinion
+34,Statement Opinion
+35,Agreement
+36,Statement Opinion
+37,Statement Non Opinion
+38,Acknowledge
+39,Acknowledge
+40,Statement Opinion
+41,Backchannel
+42,Statement Opinion
+43,Question
+44,Statement Opinion
+45,Statement Opinion
+46,Statement Opinion
+47,Backchannel
+48,Statement Non Opinion
+49,Acknowledge
+50,Question
+51,Question
+52,Statement Non Opinion
+53,Statement Opinion
+54,Statement Opinion
+55,Statement Opinion
+56,Command
+57,Statement Opinion
+58,Statement Non Opinion
+59,Disagreement
+60,Statement Non Opinion
+61,Statement Non Opinion
+62,Statement Opinion
+63,Agreement
+64,Acknowledge
+65,Acknowledge
+66,Statement Opinion
+67,Statement Non Opinion
+68,Question
+69,Statement Non Opinion
+70,Disagreement
+71,Statement Opinion
+72,Command
+73,Statement Opinion
+74,Suggestion
+1,Greeting
+2,Statement Opinion
+3,Question
+4,Statement Non Opinion
+5,Acknowledge
+6,Backchannel
+7,Statement Non Opinion
+8,Backchannel
+9,Statement Non Opinion
+10,Command
+11,Command
+12,Question
+13,Statement Non Opinion
+14,Statement Opinion
+15,Question
+16,Statement Non Opinion
+17,Statement Non Opinion
+18,Statement Non Opinion
+19,Statement Non Opinion
+20,Statement Opinion
+21,Statement Opinion
+22,Acknowledge
+23,Statement Opinion
+24,Statement Non Opinion
+25,Question
+26,Statement Non Opinion
+27,Question
+28,Statement Opinion
+29,Question
+30,Statement Opinion
+31,Statement Non Opinion
+32,Statement Opinion
+33,Question
+34,Agreement
+35,Apology
+36,Acknowledge
+37,Statement Opinion
+38,Question
+39,Question
+40,Statement Opinion
+41,Acknowledge
+42,Statement Opinion
+43,Statement Opinion
+44,Statement Non Opinion
+45,Statement Non Opinion
+46,Acknowledge
+47,Acknowledge
+48,Acknowledge
+1,Question
+2,Statement Non Opinion
+3,Question
+4,Statement Non Opinion
+5,Question
+6,Statement Non Opinion
+7,Question
+8,Statement Non Opinion
+9,Question
+10,Statement Opinion
+11,Question
+12,Statement Opinion
+13,Question
+14,Statement Opinion
+15,Question
+16,Statement Opinion
+17,Statement Opinion
+18,Statement Opinion
+19,Question
+20,Statement Opinion
+21,Statement Opinion
+22,Command
+23,Statement Opinion
+24,Statement Opinion
+25,Question
+26,Statement Non Opinion
+27,Statement Opinion
+28,Statement Opinion
+29,Question
+30,Question
+31,Statement Non Opinion
+32,Statement Opinion
+33,Statement Non Opinion
+34,Statement Opinion
+35,Statement Opinion
+36,Statement Opinion
+37,Question
+38,Statement Opinion
+39,Statement Opinion
+40,Statement Opinion
+41,Question
+42,Statement Non Opinion
+43,Question
+44,Statement Opinion
+45,Statement Opinion
+46,Statement Opinion
+47,Statement Opinion
+48,Statement Opinion
+49,Statement Opinion
+50,Statement Non Opinion
+51,Question
+52,Statement Non Opinion
+53,Command
+54,Statement Opinion
+55,Statement Opinion
+56,Question
+57,Statement Opinion
+58,Question
+59,Statement Opinion
+60,Question
+61,Statement Opinion
+62,Question
+63,Statement Opinion
+64,Statement Opinion
+65,Question
+66,Statement Non Opinion
+67,Command
+68,Statement Non Opinion
+69,Statement Opinion
+70,Statement Opinion
+71,Command
+72,Statement Opinion
+73,Question
+74,Statement Opinion
+75,Statement Opinion
+1,Question
+2,Question
+3,Statement Non Opinion
+4,Statement Opinion
+5,Statement Non Opinion
+6,Statement Opinion
+7,Question
+8,Statement Opinion
+9,Question
+10,Command
+11,Command
+12,Statement Opinion
+13,Statement Non Opinion
+14,Statement Opinion
+15,Question
+16,Statement Opinion
+17,Question
+18,Command
+19,Acknowledge
+20,Statement Opinion
+21,Statement Opinion
+22,Statement Opinion
+23,Command
+24,Statement Opinion
+25,Command
+26,Statement Opinion
+27,Question
+28,Command
+29,Question
+30,Statement Non Opinion
+31,Question
+1,Statement Opinion
+2,Question
+3,Statement Non Opinion
+4,Question
+5,Question
+6,Statement Non Opinion
+7,Question
+8,Statement Non Opinion
+9,Statement Non Opinion
+10,Statement Opinion
+11,Statement Opinion
+12,Statement Non Opinion
+13,Question
+14,Statement Non Opinion
+15,Question
+16,Statement Non Opinion
+17,Question
+18,Statement Opinion
+19,Command
+20,Statement Opinion
+21,Statement Opinion
+22,Statement Non Opinion
+23,Question
+24,Command
+25,Question
+26,Statement Non Opinion
+27,Question
+28,Statement Opinion
+29,Command
+30,Statement Non Opinion
+31,Statement Non Opinion
+32,Statement Non Opinion
+33,Question
+34,Statement Non Opinion
+35,Statement Non Opinion
+36,Statement Opinion
+37,Statement Non Opinion
+38,Statement Non Opinion
+39,Statement Opinion
+40,Statement Opinion
+41,Statement Opinion
+42,Statement Opinion
+43,Question
+44,Statement Opinion
+45,Statement Opinion
+46,Question
+1,Question
+2,Question
+3,Statement Non Opinion
+4,Question
+5,Question
+6,Statement Non Opinion
+7,Acknowledge
+8,Statement Opinion
+9,Statement Opinion
+10,Question
+11,Statement Non Opinion
+12,Statement Non Opinion
+13,Command
+14,Disagreement
+15,Statement Non Opinion
+16,Agreement
+17,Command
+18,Disagreement
+19,Statement Opinion
+20,Question
+21,Statement Opinion
+22,Statement Opinion
+23,Statement Opinion
+24,Question
+25,Statement Opinion
+26,Statement Opinion
+27,Statement Opinion
+28,Statement Opinion
+29,Statement Opinion
+30,Statement Non Opinion
+31,Statement Non Opinion
+32,Statement Non Opinion
+33,Statement Opinion
+34,Statement Opinion
+35,Statement Opinion
+36,Statement Opinion
+37,Statement Opinion
+38,Statement Non Opinion
+39,Question
+40,Question
+1,Statement Non Opinion
+2,Statement Non Opinion
+3,Statement Opinion
+4,Disagreement
+5,Statement Opinion
+6,Question
+7,Statement Opinion
+8,Statement Non Opinion
+9,Statement Opinion
+10,Question
+11,Question
+12,Statement Non Opinion
+13,Disagreement
+14,Statement Opinion
+15,Statement Opinion
+16,Statement Opinion
+17,Agreement
+18,Statement Opinion
+19,Statement Opinion
+20,Statement Opinion
+21,Statement Non Opinion
+22,Backchannel
+23,Statement Non Opinion
+24,Statement Opinion
+25,Statement Non Opinion
+26,Statement Non Opinion
+27,Statement Non Opinion
+28,Statement Opinion
+29,Question
+30,Answer
+31,Question
+32,Answer
+33,Question
+34,Answer
+35,Question
+36,Answer
+37,Question
+38,Statement Opinion
+39,Statement Opinion
+40,Statement Opinion
+41,Statement Opinion
+42,Question
+43,Answer
+44,Statement Opinion
+45,Agreement
+46,Question
+47,Statement Opinion
+48,Statement Opinion
+49,Question
+50,Disagreement
+51,Statement Opinion
+52,Statement Opinion
+53,Backchannel
+54,Statement Opinion
+55,Disagreement
+56,Agreement
+57,Disagreement
+1,Statement Non Opinion
+2,Statement Non Opinion
+3,Statement Non Opinion
+4,Question
+5,Statement Opinion
+6,Statement Opinion
+7,Statement Non Opinion
+8,Statement Opinion
+9,Question
+10,Statement Opinion
+11,Question
+12,Statement Opinion
+13,Command
+14,Statement Opinion
+15,Question
+16,Agreement
+17,Statement Opinion
+18,Statement Opinion
+19,Statement Opinion
+20,Question
+21,Statement Non Opinion
+22,Question
+23,Statement Opinion
+24,Question
+25,Statement Opinion
+26,Statement Opinion
+27,Statement Opinion
+28,Statement Opinion
+29,Statement Opinion
+30,Command
+31,Statement Non Opinion
+32,Statement Opinion
+33,Statement Opinion
+34,Question
+35,Statement Opinion
+36,Question
+37,Statement Non Opinion
+38,Statement Non Opinion
+39,Statement Non Opinion
+40,Question
+41,Statement Opinion
+42,Statement Non Opinion
+43,Statement Non Opinion
+44,Statement Non Opinion
+45,Statement Non Opinion
+46,Statement Opinion
+47,Statement Non Opinion
+1,Question
+2,Statement Non Opinion
+3,Statement Non Opinion
+4,Statement Opinion
+5,Statement Opinion
+6,Statement Opinion
+7,Statement Opinion
+8,Question
+9,Statement Opinion
+10,Statement Opinion
+11,Question
+12,Question
+13,Question
+14,Statement Opinion
+15,Statement Opinion
+16,Statement Opinion
+17,Agreement
+18,Question
+19,Answer
+20,Statement Non Opinion
+21,Statement Opinion
+22,Statement Opinion
+23,Statement Opinion
+24,Statement Opinion
+25,Command
+26,Statement Non Opinion
+27,Question
+28,Answer
+29,Statement Opinion
+30,Command
+31,Agreement
+32,Command
+33,Question
+34,Statement Opinion
+35,Statement Opinion
+36,Statement Opinion
+37,Question
+38,Statement Opinion
+39,Statement Opinion
+40,Statement Opinion
+41,Statement Opinion
+42,Statement Opinion
+43,Statement Opinion
+44,Question
+45,Command
+46,Statement Opinion
+47,Statement Opinion
+48,Statement Opinion
+49,Statement Opinion
+50,Statement Opinion
+51,Question
+52,Command
+53,Statement Opinion
+54,Command
+55,Statement Non Opinion
+56,Command
+57,Statement Non Opinion
+58,Statement Non Opinion
+59,Statement Non Opinion
+60,Statement Non Opinion
+61,Command
+62,Statement Non Opinion
+63,Statement Opinion
+64,Command
+65,Command
+66,Command
+67,Command
+68,Statement Non Opinion
+69,Statement Opinion
+70,Command
+71,Statement Opinion
+72,Statement Non Opinion
+73,Statement Non Opinion
+74,Statement Non Opinion
+75,Statement Opinion
+76,Command
+77,Statement Opinion
+78,Statement Opinion
+79,Statement Opinion
+80,Statement Opinion
+81,Statement Opinion
+82,Statement Opinion
+1,Greeting
+2,Apology
+3,Disagreement
+4,Apology
+5,Statement Non Opinion
+6,Disagreement
+7,Acknowledge
+8,Question
+9,Statement Non Opinion
+10,Question
+11,Command
+12,Question
+13,Statement Non Opinion
+14,Acknowledge
+15,Statement Non Opinion
+16,Acknowledge
+17,Statement Non Opinion
+18,Question
+19,Statement Non Opinion
+20,Question
+21,Statement Non Opinion
+22,Statement Non Opinion
+23,Statement Non Opinion
+24,Statement Non Opinion
+25,Statement Non Opinion
+26,Question
+27,Disagreement
+28,Command
+29,Apology
+30,Disagreement
+31,Disagreement
+32,Question
+33,Disagreement
+34,Statement Non Opinion
+35,Apology
+36,Disagreement
+37,Question
+38,Statement Non Opinion
+39,Question
+40,Statement Non Opinion
+41,Question
+42,Statement Non Opinion
+43,Disagreement
+44,Apology
+45,Question
+46,Statement Non Opinion
+47,Question
+48,Statement Non Opinion
+49,Acknowledge
+50,Others
+1,Command
+2,Question
+3,Backchannel
+4,Command
+5,Apology
+6,Question
+7,Statement Non Opinion
+8,Statement Non Opinion
+9,Backchannel
+10,Acknowledge
+11,Statement Non Opinion
+12,Statement Opinion
+13,Statement Non Opinion
+14,Statement Opinion
+15,Apology
+16,Question
+17,Statement Non Opinion
+18,Statement Opinion
+19,Statement Non Opinion
+20,Acknowledge
+21,Statement Opinion
+22,Statement Opinion
+23,Question
+24,Statement Non Opinion
+25,Question
+26,Statement Non Opinion
+27,Backchannel
+28,Question
+29,Statement Non Opinion
+30,Question
+31,Agreement
+32,Statement Opinion
+33,Statement Opinion
+34,Statement Opinion
+35,Question
+36,Statement Non Opinion
+37,Statement Opinion
+38,Statement Opinion
+39,Question
+40,Statement Opinion
+41,Statement Opinion
+42,Statement Opinion
+43,Backchannel
+44,Statement Opinion
+45,Backchannel
+46,Question
+47,Statement Opinion
+48,Statement Non Opinion
+49,Statement Opinion
+50,Statement Opinion
+51,Statement Opinion
+52,Agreement
+53,Question
+54,Statement Non Opinion
+55,Question
+56,Statement Opinion
+57,Statement Opinion
+58,Apology
+59,Statement Opinion
+60,Acknowledge
+61,Statement Opinion
+62,Acknowledge
+63,Backchannel
+64,Statement Opinion
+65,Statement Non Opinion
+66,Statement Opinion
+67,Statement Opinion
+68,Apology
+69,Statement Opinion
+70,Acknowledge
+71,Command
+72,Statement Opinion
+73,Statement Non Opinion
+74,Command
+75,Agreement
+76,Question
+77,Statement Non Opinion
+78,Question
+79,Acknowledge
+80,Statement Opinion
+81,Acknowledge
+82,Statement Opinion
+83,Statement Opinion
+1,Statement Non Opinion
+2,Question
+3,Command
+4,Statement Non Opinion
+5,Statement Non Opinion
+6,Acknowledge
+7,Statement Non Opinion
+8,Acknowledge
+9,Question
+10,Acknowledge
+11,Question
+12,Statement Non Opinion
+13,Statement Non Opinion
+14,Others
+15,Statement Opinion
+16,Statement Opinion
+17,Statement Non Opinion
+18,Statement Opinion
+19,Agreement
+20,Statement Opinion
+21,Acknowledge
+22,Question
+23,Statement Opinion
+24,Apology
+25,Command
+26,Statement Non Opinion
+27,Statement Opinion
+28,Others
+29,Statement Opinion
+30,Statement Opinion
+31,Statement Non Opinion
+32,Statement Opinion
+33,Statement Non Opinion
+34,Acknowledge
+35,Statement Non Opinion
+36,Question
+37,Acknowledge
+38,Question
+39,Acknowledge
+40,Statement Non Opinion
+41,Question
+42,Statement Non Opinion
+43,Question
+44,Acknowledge
+45,Statement Opinion
+46,Statement Non Opinion
+47,Acknowledge
+48,Statement Opinion
+49,Question
+50,Statement Non Opinion
+51,Acknowledge
+52,Statement Non Opinion
+53,Question
+54,Statement Non Opinion
+55,Acknowledge
+56,Acknowledge
+57,Statement Opinion
+58,Statement Opinion
+59,Acknowledge
+60,Statement Opinion
+61,Acknowledge
+62,Question
+63,Statement Opinion
+64,Others
+65,Statement Opinion
+66,Statement Non Opinion
+67,Acknowledge
+68,Question
+69,Acknowledge
+70,Question
+71,Statement Opinion
+72,Statement Opinion
+73,Statement Opinion
+74,Others
+75,Statement Opinion
+76,Acknowledge
+77,Statement Opinion
+78,Others
+79,Others
+80,Statement Opinion
+81,Statement Opinion
+82,Acknowledge
+83,Acknowledge
+84,Statement Opinion
+85,Agreement
+86,Agreement
+87,Apology
+88,Statement Opinion
+89,Statement Opinion
+90,Command
+91,Others
+92,Statement Opinion
+93,Statement Opinion
+94,Statement Opinion
+95,Statement Opinion
+96,Statement Opinion
+97,Question
+98,Statement Non Opinion
+99,Question
+100,Statement Non Opinion
+101,Statement Opinion
+102,Acknowledge
+103,Statement Opinion
+104,Agreement
+105,Statement Opinion
+106,Question
+107,Statement Opinion
+108,Question
+109,Statement Opinion
+110,Acknowledge
+111,Acknowledge
+112,Others
+113,Statement Opinion
+114,Question
+115,Question
+116,Statement Non Opinion
+117,Acknowledge
+118,Acknowledge
+119,Statement Non Opinion
+120,Acknowledge
+121,Statement Opinion
+122,Statement Opinion
+123,Others
+124,Statement Opinion
+125,Statement Opinion
+126,Statement Opinion
+127,Statement Opinion
+128,Statement Opinion
+129,Statement Opinion
+130,Statement Opinion
+131,Agreement
+132,Question
+133,Statement Opinion
+134,Question
+135,Others
+136,Statement Opinion
+1,Statement Non Opinion
+2,Statement Non Opinion
+3,Statement Non Opinion
+4,Question
+5,Statement Non Opinion
+6,Statement Non Opinion
+7,Question
+8,Statement Non Opinion
+9,Statement Non Opinion
+10,Statement Non Opinion
+11,Statement Non Opinion
+12,Statement Non Opinion
+13,Statement Non Opinion
+14,Statement Non Opinion
+15,Statement Non Opinion
+16,Statement Non Opinion
+17,Statement Non Opinion
+18,Statement Non Opinion
+19,Statement Non Opinion
+20,Statement Non Opinion
+21,Question
+22,Statement Non Opinion
+23,Statement Non Opinion
+24,Statement Non Opinion
+25,Statement Non Opinion
+26,Statement Non Opinion
+27,Question
+28,Statement Non Opinion
+29,Question
+30,Statement Non Opinion
+31,Statement Non Opinion
+32,Statement Non Opinion
+33,Question
+34,Statement Non Opinion
+35,Statement Non Opinion
+36,Statement Non Opinion
+37,Statement Non Opinion
+38,Statement Non Opinion
+39,Statement Non Opinion
+40,Statement Non Opinion
+41,Statement Non Opinion
+42,Statement Non Opinion
+43,Question
+44,Statement Non Opinion
+45,Statement Non Opinion
+46,Statement Non Opinion
+47,Statement Non Opinion
+48,Statement Non Opinion
+49,Statement Non Opinion
+50,Statement Non Opinion
+51,Statement Non Opinion
+52,Statement Non Opinion
+53,Statement Non Opinion
+54,Statement Non Opinion
+55,Statement Non Opinion
+56,Command
+57,Statement Non Opinion
+58,Question
+59,Statement Non Opinion
+60,Question
+61,Statement Non Opinion
+62,Question
+63,Statement Non Opinion
+64,Question
+65,Statement Non Opinion
+66,Question
+67,Statement Non Opinion
+68,Question
+69,Statement Non Opinion
+70,Question
+71,Statement Non Opinion
+72,Statement Non Opinion
+73,Question
+74,Statement Non Opinion
+75,Question
+76,Statement Non Opinion
+77,Statement Non Opinion
+78,Statement Non Opinion
+79,Statement Non Opinion
+80,Acknowledge
+81,Question
+82,Statement Non Opinion
+83,Statement Non Opinion
+84,Question
+85,Question
+86,Acknowledge
+87,Statement Non Opinion
+88,Acknowledge
+89,Command
+90,Acknowledge
+91,Acknowledge
+92,Statement Non Opinion
+1,Greeting
+2,Question
+3,Answer
+4,Question
+5,Answer
+6,Question
+7,Statement Non Opinion
+8,Statement Non Opinion
+9,Acknowledge
+10,Acknowledge
+11,Backchannel
+12,Statement Non Opinion
+13,Acknowledge
+14,Statement Non Opinion
+15,Statement Non Opinion
+16,Question
+17,Statement Non Opinion
+18,Question
+19,Statement Non Opinion
+20,Statement Non Opinion
+21,Question
+22,Answer
+23,Question
+24,Statement Non Opinion
+25,Question
+26,Statement Non Opinion
+27,Statement Non Opinion
+28,Acknowledge
+29,Question
+30,Statement Non Opinion
+31,Backchannel
+32,Statement Non Opinion
+33,Statement Non Opinion
+34,Disagreement
+35,Statement Non Opinion
+36,Question
+37,Statement Non Opinion
+38,Disagreement
+39,Backchannel
+40,Apology
+41,Apology
+42,Statement Non Opinion
+43,Question
+44,Question
+45,Statement Non Opinion
+46,Statement Non Opinion
+47,Question
+48,Statement Non Opinion
+49,Statement Non Opinion
+50,Statement Non Opinion
+51,Statement Non Opinion
+52,Acknowledge
+53,Statement Non Opinion
+54,Statement Non Opinion
+55,Disagreement
+56,Question
+57,Answer
+58,Statement Non Opinion
+59,Question
+60,Statement Non Opinion
+61,Disagreement
+62,Question
+63,Statement Non Opinion
+64,Backchannel
+65,Statement Non Opinion
+66,Statement Non Opinion
+67,Question
+68,Apology
+69,Disagreement
+70,Statement Non Opinion
+71,Statement Non Opinion
+72,Disagreement
+73,Statement Non Opinion
+74,Question
+75,Backchannel
+76,Statement Non Opinion
+77,Statement Non Opinion
+78,Statement Non Opinion
+79,Statement Non Opinion
+80,Disagreement
+81,Statement Non Opinion
+82,Statement Non Opinion
+83,Statement Non Opinion
+84,Statement Non Opinion
+85,Question
+86,Statement Non Opinion
+87,Question
+88,Disagreement
+89,Disagreement
+90,Statement Non Opinion
+91,Backchannel
+92,Statement Non Opinion
+93,Statement Non Opinion
+94,Statement Non Opinion
+95,Acknowledge
+96,Question
+97,Acknowledge
+98,Statement Non Opinion
+99,Acknowledge
+100,Statement Non Opinion
+1,Question
+2,Statement Non Opinion
+3,Apology
+4,Statement Non Opinion
+5,Statement Non Opinion
+6,Apology
+7,Statement Non Opinion
+8,Others
+9,Apology
+10,Statement Opinion
+11,Statement Non Opinion
+12,Statement Opinion
+13,Agreement
+14,Statement Opinion
+15,Statement Non Opinion
+16,Statement Opinion
+17,Acknowledge
+18,Statement Opinion
+19,Question
+20,Statement Non Opinion
+21,Backchannel
+22,Question
+23,Statement Non Opinion
+24,Statement Opinion
+25,Agreement
+26,Statement Opinion
+27,Question
+28,Statement Non Opinion
+29,Backchannel
+30,Others
+31,Statement Opinion
+32,Statement Opinion
+33,Statement Opinion
+34,Statement Non Opinion
+35,Acknowledge
+36,Acknowledge
+37,Question
+38,Statement Non Opinion
+39,Statement Non Opinion
+40,Acknowledge
+41,Acknowledge
+42,Statement Opinion
+43,Statement Non Opinion
+44,Statement Opinion
+45,Statement Opinion
+46,Backchannel
+47,Others
+48,Statement Opinion
+49,Backchannel
+50,Statement Opinion
+51,Statement Opinion
+52,Agreement
+53,Others
+54,Statement Opinion
+55,Others
+56,Backchannel
+1,Statement Non Opinion
+2,Question
+3,Statement Non Opinion
+4,Command
+5,Statement Non Opinion
+6,Statement Opinion
+7,Acknowledge
+8,Question
+9,Answer
+10,Acknowledge
+11,Statement Non Opinion
+12,Question
+13,Answer
+14,Command
+15,Statement Opinion
+16,Agreement
+17,Statement Opinion
+18,Statement Opinion
+19,Statement Opinion
+20,Statement Opinion
+21,Acknowledge
+22,Statement Opinion
+23,Acknowledge
+24,Statement Opinion
+25,Agreement
+26,Statement Opinion
+27,Acknowledge
+28,Statement Opinion
+29,Statement Opinion
+30,Statement Opinion
+31,Question
+32,Answer
+33,Acknowledge
+34,Question
+35,Agreement
+36,Command
+37,Acknowledge
+38,Answer
+39,Acknowledge
+40,Statement Opinion
+41,Statement Non Opinion
+42,Acknowledge
+43,Statement Opinion
+44,Statement Opinion
+45,Statement Opinion
+46,Statement Non Opinion
+47,Statement Non Opinion
+48,Statement Opinion
+49,Statement Opinion
+50,Acknowledge
+51,Statement Opinion
+52,Statement Opinion
+53,Acknowledge
+54,Acknowledge
+55,Statement Opinion
+56,Statement Opinion
+57,Agreement
+58,Statement Opinion
+59,Statement Opinion
+60,Statement Opinion
+61,Acknowledge
+62,Statement Opinion
+63,Statement Opinion
+64,Agreement
+65,Acknowledge
+66,Statement Opinion
+67,Acknowledge
+68,Statement Opinion
+69,Command
+70,Agreement
+71,Command
+72,Acknowledge
+73,Acknowledge
+74,Statement Opinion
+75,Acknowledge
+76,Statement Opinion
+77,Statement Opinion
+1,Greeting
+2,Statement Non Opinion
+3,Statement Non Opinion
+4,Backchannel
+5,Statement Non Opinion
+6,Acknowledge
+7,Apology
+8,Statement Opinion
+9,Agreement
+10,Acknowledge
+11,Question
+12,Others
+13,Others
+14,Statement Non Opinion
+15,Statement Non Opinion
+16,Statement Non Opinion
+17,Question
+18,Statement Non Opinion
+19,Question
+20,Backchannel
+21,Question
+22,Statement Non Opinion
+23,Backchannel
+24,Statement Non Opinion
+25,Backchannel
+26,Others
+27,Statement Non Opinion
+28,Backchannel
+29,Statement Non Opinion
+30,Command
+31,Statement Non Opinion
+32,Statement Non Opinion
+33,Statement Non Opinion
+34,Statement Opinion
+35,Statement Non Opinion
+36,Statement Non Opinion
+37,Others
+38,Statement Non Opinion
+39,Question
+40,Question
+41,Agreement
+42,Statement Non Opinion
+43,Question
+44,Statement Non Opinion
+45,Statement Non Opinion
+46,Statement Non Opinion
+47,Backchannel
+48,Statement Non Opinion
+49,Statement Non Opinion
+50,Question
+51,Backchannel
+52,Statement Opinion
+53,Acknowledge
+54,Question
+55,Statement Non Opinion
+56,Backchannel
+57,Statement Non Opinion
+58,Statement Opinion
+59,Others
+60,Acknowledge
+61,Others
+62,Apology
+63,Statement Opinion
+64,Others
+65,Greeting
+66,Greeting
+67,Greeting
+68,Greeting
+1,Question
+2,Statement Non Opinion
+3,Question
+4,Statement Non Opinion
+5,Question
+6,Statement Non Opinion
+7,Question
+8,Statement Non Opinion
+9,Question
+10,Statement Non Opinion
+11,Statement Non Opinion
+12,Statement Non Opinion
+13,Statement Opinion
+14,Statement Opinion
+15,Agreement
+16,Question
+17,Statement Opinion
+18,Question
+19,Statement Opinion
+20,Question
+21,Statement Opinion
+22,Question
+23,Statement Opinion
+24,Question
+25,Statement Opinion
+26,Statement Opinion
+27,Question
+28,Statement Opinion
+29,Statement Opinion
+30,Command
+31,Statement Opinion
+32,Command
+33,Question
+34,Question
+35,Statement Non Opinion
+36,Statement Opinion
+37,Statement Non Opinion
+38,Statement Opinion
+39,Statement Opinion
+40,Question
+41,Question
+42,Statement Opinion
+43,Statement Opinion
+44,Question
+45,Statement Opinion
+46,Statement Opinion
+47,Statement Opinion
+48,Statement Opinion
+49,Statement Opinion
+50,Statement Opinion
+51,Statement Opinion
+52,Question
+53,Statement Non Opinion
+54,Question
+55,Statement Opinion
+56,Statement Opinion
+57,Statement Opinion
+58,Statement Opinion
+59,Statement Opinion
+60,Statement Opinion
+61,Statement Opinion
+62,Statement Opinion
+63,Statement Opinion
+64,Acknowledge
+65,Command
+66,Statement Opinion
+67,Question
+68,Statement Opinion
+69,Question
+70,Statement Opinion
+71,Question
+72,Statement Opinion
+73,Question
+74,Statement Opinion
+75,Command
+76,Statement Opinion
+77,Statement Opinion
+78,Statement Opinion
+79,Command
+80,Statement Opinion
+81,Question
+82,Statement Opinion
+83,Statement Opinion
+1,Question
+2,Question
+3,Statement Non Opinion
+4,Statement Opinion
+5,Statement Opinion
+6,Statement Non Opinion
+7,Statement Opinion
+8,Question
+9,Statement Opinion
+10,Statement Non Opinion
+11,Question
+12,Command
+13,Statement Opinion
+14,Statement Non Opinion
+15,Statement Opinion
+16,Question
+17,Statement Opinion
+18,Question
+19,Statement Opinion
+20,Question
+21,Command
+22,Acknowledge
+23,Statement Opinion
+24,Backchannel
+25,Statement Opinion
+26,Command
+27,Statement Opinion
+28,Command
+29,Statement Non Opinion
+30,Command
+31,Statement Opinion
+32,Question
+33,Statement Opinion
+34,Statement Opinion
+35,Statement Non Opinion
+36,Question
+1,Statement Opinion
+2,Statement Opinion
+3,Agreement
+4,Statement Opinion
+5,Question
+6,Statement Non Opinion
+7,Question
+8,Statement Non Opinion
+9,Backchannel
+10,Statement Non Opinion
+11,Question
+12,Statement Non Opinion
+13,Statement Non Opinion
+14,Statement Non Opinion
+15,Question
+16,Statement Non Opinion
+17,Question
+18,Statement Opinion
+19,Statement Opinion
+20,Statement Non Opinion
+21,Statement Opinion
+22,Statement Non Opinion
+23,Question
+24,Statement Non Opinion
+25,Question
+26,Statement Non Opinion
+27,Question
+28,Statement Non Opinion
+29,Question
+30,Statement Non Opinion
+31,Command
+32,Statement Opinion
+33,Statement Opinion
+34,Statement Opinion
+35,Disagreement
+36,Statement Non Opinion
+37,Question
+38,Command
+39,Question
+40,Statement Non Opinion
+41,Question
+42,Statement Non Opinion
+43,Statement Non Opinion
+44,Statement Non Opinion
+45,Statement Non Opinion
+46,Statement Non Opinion
+47,Acknowledge
+48,Statement Non Opinion
+49,Question
+50,Statement Non Opinion
+51,Backchannel
+52,Statement Non Opinion
+53,Statement Non Opinion
+54,Statement Non Opinion
+55,Statement Non Opinion
+56,Statement Non Opinion
+57,Question
+58,Statement Non Opinion
+59,Statement Non Opinion
+60,Statement Non Opinion
+61,Statement Non Opinion
+62,Statement Non Opinion
+63,Statement Non Opinion
+64,Question
+65,Statement Opinion
+66,Statement Opinion
+67,Statement Opinion
+68,Question
+1,Question
+2,Statement Opinion
+3,Answer
+4,Question
+5,Statement Non Opinion
+6,Question
+7,Statement Non Opinion
+8,Statement Non Opinion
+9,Question
+10,Statement Non Opinion
+11,Agreement
+12,Statement Opinion
+13,Agreement
+14,Question
+15,Answer
+16,Question
+17,Statement Non Opinion
+18,Statement Opinion
+19,Statement Non Opinion
+20,Question
+21,Command
+22,Disagreement
+23,Statement Opinion
+24,Acknowledge
+25,Statement Opinion
+26,Statement Opinion
+27,Command
+28,Disagreement
+29,Statement Non Opinion
+30,Question
+31,Statement Non Opinion
+32,Statement Opinion
+33,Statement Opinion
+34,Statement Opinion
+35,Statement Opinion
+36,Statement Opinion
+37,Question
+38,Disagreement
+39,Others
+40,Statement Opinion
+41,Statement Opinion
+42,Statement Non Opinion
+43,Question
+44,Answer
+45,Statement Opinion
+46,Statement Opinion
+47,Statement Opinion
+48,Statement Opinion
+49,Statement Opinion
+50,Question
+51,Statement Opinion
+52,Statement Opinion
+53,Statement Opinion
+54,Statement Opinion
+55,Statement Non Opinion
+56,Question
+1,Question
+2,Question
+3,Statement Non Opinion
+4,Statement Opinion
+5,Statement Opinion
+6,Statement Opinion
+7,Statement Non Opinion
+8,Statement Opinion
+9,Question
+10,Apology
+11,Question
+12,Statement Opinion
+13,Question
+14,Statement Non Opinion
+15,Statement Non Opinion
+16,Command
+17,Question
+18,Statement Non Opinion
+19,Statement Non Opinion
+20,Statement Non Opinion
+21,Statement Non Opinion
+22,Statement Opinion
+23,Statement Non Opinion
+24,Statement Non Opinion
+25,Statement Opinion
+26,Statement Opinion
+27,Statement Non Opinion
+28,Statement Non Opinion
+29,Statement Non Opinion
+30,Statement Non Opinion
+31,Statement Non Opinion
+32,Statement Opinion
+33,Acknowledge
+34,Statement Non Opinion
+35,Statement Non Opinion
+36,Statement Opinion
+37,Question
+38,Statement Non Opinion
+39,Question
+40,Statement Non Opinion
+41,Question
+42,Statement Non Opinion
+43,Question
+44,Statement Non Opinion
+45,Question
+46,Statement Non Opinion
+47,Question
+48,Statement Non Opinion
+49,Question
+50,Statement Non Opinion
+51,Statement Opinion
+52,Statement Opinion
+53,Statement Opinion
+54,Statement Opinion
+55,Statement Non Opinion
+56,Statement Opinion
+57,Statement Non Opinion
+58,Statement Opinion
+59,Acknowledge
+60,Statement Opinion
+61,Acknowledge
+62,Statement Opinion
+63,Question
+64,Statement Non Opinion
+65,Statement Non Opinion
+66,Statement Opinion
+67,Backchannel
+68,Question
+69,Statement Opinion
+70,Statement Non Opinion
+71,Statement Opinion
+72,Statement Opinion
+73,Statement Opinion
+74,Statement Non Opinion
+75,Statement Non Opinion
+76,Statement Non Opinion
+77,Statement Non Opinion
+78,Question
+79,Statement Opinion
+80,Command
+81,Statement Non Opinion
+82,Statement Non Opinion
+1,Greeting
+2,Question
+3,Statement Non Opinion
+4,Statement Non Opinion
+5,Statement Opinion
+6,Question
+7,Question
+8,Statement Opinion
+9,Statement Opinion
+10,Statement Opinion
+11,Greeting
+12,Statement Opinion
+13,Question
+14,Command
+15,Statement Opinion
+16,Statement Opinion
+17,Question
+18,Statement Opinion
+19,Command
+20,Statement Opinion
+21,Statement Opinion
+22,Question
+23,Statement Opinion
+24,Question
+25,Command
+26,Statement Opinion
+27,Question
+28,Statement Opinion
+29,Statement Opinion
+30,Statement Opinion
+31,Question
+32,Question
+33,Statement Non Opinion
+34,Question
+35,Statement Opinion
+36,Question
+37,Statement Opinion
+38,Question
+39,Statement Opinion
+40,Question
+41,Statement Opinion
+42,Statement Opinion
+43,Statement Opinion
+44,Statement Opinion
+45,Command
+46,Statement Opinion
+47,Statement Opinion
+48,Statement Opinion
+49,Question
+50,Question
+51,Statement Opinion
+52,Statement Opinion
+53,Statement Opinion
+54,Statement Opinion
+55,Question
+56,Statement Non Opinion
+57,Statement Opinion
+58,Statement Non Opinion
+59,Question
+60,Statement Non Opinion
+61,Statement Opinion
+62,Statement Non Opinion
+63,Statement Opinion
+64,Statement Opinion
+65,Statement Opinion
+66,Statement Opinion
+67,Statement Opinion
+68,Statement Opinion
+1,Statement Opinion
+2,Disagreement
+3,Disagreement
+4,Statement Non Opinion
+5,Statement Opinion
+6,Disagreement
+7,Statement Opinion
+8,Disagreement
+9,Question
+10,Statement Non Opinion
+11,Statement Opinion
+12,Question
+13,Question
+14,Statement Non Opinion
+15,Question
+16,Statement Opinion
+17,Statement Opinion
+18,Statement Opinion
+19,Question
+20,Answer
+21,Statement Non Opinion
+22,Statement Opinion
+23,Statement Non Opinion
+24,Statement Opinion
+25,Disagreement
+26,Statement Opinion
+27,Statement Opinion
+28,Command
+29,Statement Opinion
+30,Question
+31,Statement Non Opinion
+32,Statement Opinion
+33,Command
+34,Agreement
+35,Disagreement
+36,Disagreement
+37,Command
+38,Statement Opinion
+39,Statement Opinion
+40,Statement Opinion
+41,Disagreement
+42,Disagreement
+43,Disagreement
+44,Disagreement
+45,Disagreement
+46,Others
+47,Question
+48,Answer
+49,Statement Opinion
+50,Command
+51,Statement Opinion
+52,Statement Opinion
+53,Disagreement
+54,Statement Opinion
+55,Disagreement
+56,Question
+57,Command
+58,Statement Opinion
+59,Statement Opinion
+60,Statement Non Opinion
+61,Others
+62,Command
+63,Question
+64,Statement Non Opinion
+65,Disagreement
+66,Statement Non Opinion
+67,Disagreement
+68,Statement Non Opinion
+69,Command
+70,Disagreement
+71,Statement Opinion
+72,Command
+73,Statement Opinion
+74,Command
+75,Statement Opinion
+76,Command
+77,Statement Opinion
+78,Others
+79,Statement Opinion
+80,Statement Opinion
+81,Statement Opinion
+82,Statement Opinion
+83,Statement Opinion
+84,Statement Opinion
+85,Statement Opinion
+86,Statement Opinion
+1,Question
+2,Answer
+3,Statement Non Opinion
+4,Question
+5,Statement Non Opinion
+6,Question
+7,Statement Non Opinion
+8,Question
+9,Statement Non Opinion
+10,Question
+11,Command
+12,Disagreement
+13,Statement Non Opinion
+14,Acknowledge
+15,Acknowledge
+16,Question
+17,Statement Non Opinion
+18,Question
+19,Statement Non Opinion
+20,Statement Opinion
+21,Acknowledge
+22,Backchannel
+23,Question
+24,Statement Non Opinion
+25,Statement Non Opinion
+26,Disagreement
+27,Statement Non Opinion
+28,Question
+29,Command
+30,Command
+31,Question
+32,Statement Non Opinion
+33,Question
+34,Disagreement
+35,Disagreement
+36,Statement Opinion
+37,Statement Non Opinion
+38,Disagreement
+39,Command
+40,Statement Opinion
+41,Command
+42,Disagreement
+43,Statement Opinion
+44,Statement Non Opinion
+45,Statement Opinion
+46,Command
+47,Statement Opinion
+1,Question
+2,Statement Non Opinion
+3,Question
+4,Statement Non Opinion
+5,Disagreement
+6,Statement Non Opinion
+7,Question
+8,Statement Non Opinion
+9,Question
+10,Answer
+11,Apology
+12,Disagreement
+13,Agreement
+14,Statement Non Opinion
+15,Disagreement
+16,Statement Non Opinion
+17,Question
+18,Answer
+19,Question
+20,Agreement
+21,Statement Non Opinion
+22,Statement Non Opinion
+23,Disagreement
+24,Statement Non Opinion
+25,Statement Non Opinion
+26,Question
+27,Question
+28,Question
+29,Answer
+30,Statement Non Opinion
+31,Question
+32,Statement Non Opinion
+33,Statement Non Opinion
+34,Statement Non Opinion
+35,Question
+36,Answer
+37,Question
+38,Statement Non Opinion
+39,Statement Non Opinion
+40,Statement Non Opinion
+41,Statement Non Opinion
+42,Statement Non Opinion
+43,Statement Non Opinion
+44,Statement Non Opinion
+45,Disagreement
+46,Statement Non Opinion
+47,Statement Non Opinion
+48,Statement Non Opinion
+49,Statement Non Opinion
+50,Statement Non Opinion
+51,Command
+52,Statement Non Opinion
+53,Question
+54,Agreement
+55,Command
+56,Statement Non Opinion
+57,Acknowledge
+58,Statement Non Opinion
+59,Others
+1,Question
+2,Question
+3,Statement Opinion
+4,Question
+5,Statement Opinion
+6,Question
+7,Statement Opinion
+8,Question
+9,Statement Opinion
+10,Acknowledge
+11,Statement Opinion
+12,Backchannel
+13,Statement Opinion
+14,Statement Opinion
+15,Backchannel
+16,Statement Opinion
+17,Statement Opinion
+18,Backchannel
+19,Statement Opinion
+20,Statement Opinion
+21,Statement Opinion
+22,Question
+23,Statement Opinion
+24,Statement Opinion
+25,Backchannel
+26,Statement Opinion
+27,Question
+28,Statement Opinion
+29,Acknowledge
+30,Statement Opinion
+31,Question
+32,Statement Opinion
+33,Agreement
+34,Statement Opinion
+35,Acknowledge
+36,Statement Opinion
+37,Backchannel
+38,Question
+39,Statement Non Opinion
+40,Statement Opinion
+41,Statement Opinion
+42,Agreement
+43,Statement Opinion
+44,Statement Opinion
+45,Statement Opinion
+46,Backchannel
+47,Statement Opinion
+48,Question
+49,Statement Opinion
+50,Question
+51,Statement Opinion
+52,Statement Opinion
+53,Backchannel
+54,Question
+55,Statement Opinion
+56,Backchannel
+57,Question
+58,Statement Opinion
+59,Question
+60,Statement Opinion
+61,Question
+62,Statement Opinion
+63,Statement Opinion
+64,Backchannel
+65,Statement Opinion
+66,Backchannel
+67,Statement Opinion
+68,Statement Opinion
+69,Acknowledge
+1,Statement Non Opinion
+2,Question
+3,Statement Non Opinion
+4,Question
+5,Statement Non Opinion
+6,Backchannel
+7,Statement Non Opinion
+8,Question
+9,Statement Non Opinion
+10,Statement Opinion
+11,Backchannel
+12,Statement Non Opinion
+13,Question
+14,Statement Non Opinion
+15,Question
+16,Statement Non Opinion
+17,Backchannel
+18,Backchannel
+19,Statement Non Opinion
+20,Backchannel
+21,Statement Non Opinion
+22,Statement Non Opinion
+23,Statement Non Opinion
+24,Statement Non Opinion
+25,Statement Non Opinion
+26,Statement Opinion
+27,Question
+28,Question
+29,Statement Non Opinion
+30,Question
+31,Question
+32,Statement Non Opinion
+33,Statement Non Opinion
+34,Statement Opinion
+35,Question
+36,Statement Non Opinion
+37,Statement Opinion
+38,Question
+39,Statement Non Opinion
+40,Statement Opinion
+41,Statement Non Opinion
+42,Backchannel
+43,Statement Non Opinion
+44,Acknowledge
+45,Acknowledge
+46,Question
+47,Backchannel
+48,Question
+49,Statement Non Opinion
+50,Backchannel
+51,Backchannel
+52,Statement Non Opinion
+53,Others
+54,Statement Non Opinion
+55,Statement Non Opinion
+56,Statement Non Opinion
+57,Question
+58,Statement Non Opinion
+59,Statement Opinion
+60,Statement Non Opinion
+61,Question
+62,Statement Non Opinion
+63,Statement Opinion
+64,Statement Opinion
+65,Backchannel
+66,Statement Non Opinion
+67,Statement Non Opinion
+68,Backchannel
+69,Statement Non Opinion
+70,Statement Non Opinion
+71,Acknowledge
+72,Statement Non Opinion
+73,Question
+74,Statement Non Opinion
+75,Statement Opinion
+76,Statement Opinion
+77,Statement Opinion
+78,Backchannel
+79,Statement Non Opinion
+80,Acknowledge
+81,Statement Non Opinion
+1,Greeting
+2,Backchannel
+3,Question
+4,Question
+5,Answer
+6,Backchannel
+7,Statement Non-Opinion
+8,Command
+9,Answer
+10,Question
+11,Statement Opinion
+12,Statement Opinion
+13,Statement Opinion
+14,Statement Non-Opinion
+15,Statement Non-Opinion
+16,Question (surprise)
+17,Acknowledge
+18,Statement Opinion
+19,Acknowledge
+20,Statement Non-Opinion
+21,Question
+22,Question
+23,Statement Non-Opinion
+24,Statement Opinion (frustrated)
+25,Statement Opinion
+26,Statement Non-Opinion
+27,Question (frustrated)
+28,Statement Non-Opinion
+29,Question
+30,Statement Opinion (frustrated)
+31,Statement Non-Opinion
+32,Statement Opinion (frustrated)
+33,Acknowledge
+34,Statement Opinion
+35,Statement Opinion (frustrated)
+36,Statement Non-Opinion
+37,Statement Opinion (frustrated)
+38,Statement Non-Opinion
+39,Question (frustrated)
+40,Statement Non-Opinion
+41,Question (frustrated)
+42,Command
+43,Acknowledge (frustrated)
+44,Acknowledge
+45,Acknowledge
+"(Note: Some classifications may vary slightly based on interpretation, but this follows the general intent of the dialogical acts",)
+1,Question
+2,Statement Non Opinion
+3,Question
+4,Statement Non Opinion
+5,Apology
+6,Statement Non Opinion
+7,Acknowledge
+8,Statement Opinion
+9,Backchannel
+10,Statement Opinion
+11,Statement Opinion
+12,Backchannel
+13,Question
+14,Statement Non Opinion
+15,Statement Opinion
+16,Statement Opinion
+17,Apology
+18,Statement Opinion
+19,Statement Opinion
+20,Statement Non Opinion
+21,Statement Opinion
+22,Backchannel
+23,Statement Opinion
+24,Statement Opinion
+25,Apology
+26,Statement Opinion
+27,Statement Opinion
+28,Statement Opinion
+29,Statement Opinion
+30,Agreement
+31,Statement Opinion
+32,Acknowledge
+33,Statement Opinion
+34,Statement Non Opinion
+35,Acknowledge
+1,Joey - Guess what? (excited) - **Question**
+2,Fey - What? (excited) - **Question**
+3,(excited) - **Statement Non Opinion**
+4,"Fey - Oh, for real? (excited) - **Question**"
+5,(excited) - **Statement Non Opinion**
+6,Fey - That's awesome! (xxx) - **Statement Opinion**
+7,(excited) - **Statement Opinion**
+8,(excited) - **Statement Opinion**
+9,Fey - What are you gonna study? (happy) - **Question**
+10,(excited) - **Statement Non Opinion**
+11,program? (happy) - **Question**
+12,(excited) - **Answer**
+13,(xxx) - **Acknowledge**
+14,Joey - oh- (excited) - **Backchannel**
+15,(happy) - **Statement Non Opinion**
+16,(excited) - **Statement Opinion**
+17,(xxx) - **Statement Opinion**
+18,(happy) - **Statement Opinion**
+19,But- (happy) - **Statement Opinion**
+20,(excited) - **Agreement**
+21,(neutral) - **Disagreement**
+22,"You know how long -- I have been talking about this forever, right? right? (xxx) - **Statement Opinion**"
+23,(excited) - **Agreement**
+24,(excited) - **Statement Opinion**
+25,(excited) - **Agreement**
+26,"Joey - We're gonna hang out, right? (xxx) - **Question**"
+27,"Joey - What are you, wait, what are you doing? (excited) - **Question**"
+28,(happy) - **Statement Non Opinion**
+29,"Are you staying, are you going to live on campus? (excited) - **Question**"
+30,(xxx) - **Statement Non Opinion**
+31,(xxx) - **Statement Opinion**
+32,Totally- Well where are you going to live? (excited) - **Question**
+33,(excited) - **Statement Opinion**
+34,(excited) - **Statement Non Opinion**
+35,(neutral) - **Acknowledge**
+36,Fey - Good tradeoff (neutral) - **Statement Opinion**
+37,But uh- (excited) - **Statement Opinion**
+38,(neutral) - **Statement Opinion**
+39,(excited) - **Statement Opinion**
+40,(neutral) - **Acknowledge**
+41,"They don't know, right? (excited) - **Question**"
+42,"I think it's really also if you- if you consider yourself like, us and them, kind of thing- If you think you're part of your community then --you going to like it more (neutral) - **Statement Opinion**"
+43,(excited) - **Acknowledge**
+44,(excited) - **Statement Opinion**
+45,(excited) - **Agreement**
+46,(excited) - **Statement Opinion**
+47,(excited) - **Acknowledge**
+48,"Fey - So when do you know, like, where you're gonna live? and- (happy) - **Question**"
+49,(excited) - **Statement Non Opinion**
+50,(neutral) - **Acknowledge**
+51,Do you have any suggestions? (excited) - **Question**
+52,Fey - Um- (neutral) - **Backchannel**
+53,(excited) - **Statement Non Opinion**
+54,(neutral) - **Statement Non Opinion**
+55,"Joey - yeah, yeah? (xxx) - **Backchannel**"
+56,Fey - Um- How many people do you want to live with? (neutral) - **Question**
+57,"So, like four of us total, right? (excited) - **Statement Non Opinion**"
+58,Fey - All dudes? (neutral) - **Question**
+59,(excited) - **Statement Opinion**
+60,(neutral) - **Statement Non Opinion**
+61,Joey - yeah? (excited) - **Backchannel**
+62,(neutral) - **Acknowledge**
+63,(excited) - **Statement Opinion**
+64,(happy) - **Statement Non Opinion**
+65,Joey - Really? (excited) - **Question**
+66,Joey - Really? (excited) - **Question**
+67,(neutral) - **Acknowledge**
+68,(excited) - **Statement Opinion**
+69,(-) - **Acknowledge**
+70,(neutral) - **Acknowledge**
+71,"Joey - But, uh-- (excited) - **Backchannel**"
+72,Fey - How are you going to pay for school? Did- did you--? (xxx) - **Question**
+73,(excited) - **Answer**
+74,(happy) - **Statement Opinion**
+75,(happy) - **Statement Opinion**
+76,(excited) - **Statement Opinion**
+77,(excited) - **Acknowledge**
+78,And uh- (xxx) - **Question**
+79,(neutral) - **Agreement**
+80,(happy) - **Statement Opinion**
+81,(happy) - **Statement Non Opinion**
+82,(neutral) - **Statement Opinion**
+83,(excited) - **Statement Opinion**
+84,"Fey - Wow, are you so excited? (excited) - **Question**"
+85,(-) - **Acknowledge**
+86,How could you not be excited about a dream come true? (excited) - **Statement Opinion**
+87,(excited) - **Statement Opinion**
+88,(excited) - **Agreement**
+89,"You know what I mean? It's the kind of busy you've got to love, right? (excited) - **Statement Opinion**"
+90,(-) - **Acknowledge**
+91,(xxx) - **Agreement**
+92,(excited) - **Statement Opinion**
+93,(excited) - **Statement Opinion**
+94,(excited) - **Statement Opinion**
+95,(happy) - **Statement Opinion**
+96,(happy) - **Agreement**
+97,(excited) - **Acknowledge**
+98,Fey - cool (xxx) - **Acknowledge**
+1,Greeting
+2,Statement Non Opinion
+3,Question
+4,Statement Non Opinion
+5,Statement Non Opinion
+6,Acknowledge
+7,Backchannel
+8,Statement Non Opinion
+9,Backchannel
+10,Statement Non Opinion
+11,Question
+12,Answer
+13,Backchannel
+14,Statement Non Opinion
+15,Backchannel
+16,Question
+17,Backchannel
+18,Question
+19,Acknowledge
+20,Statement Non Opinion
+21,Question
+22,Question
+23,Statement Non Opinion
+24,Question
+25,Command
+26,Backchannel
+27,Command
+28,Acknowledge
+29,Question
+30,Answer
+31,Command
+32,Acknowledge
+33,Command
+34,Acknowledge
+35,Question
+36,Answer
+37,Command
+38,Acknowledge
+39,Question
+40,Answer
+41,Statement Non Opinion
+42,Acknowledge
+43,Question
+44,Statement Non Opinion
+45,Statement Opinion
+46,Statement Non Opinion
+47,Statement Opinion
+48,Agreement
+49,Statement Opinion
+50,Agreement
+51,Acknowledge
+52,Statement Non Opinion
+53,Statement Opinion
+54,Statement Non Opinion
+55,Statement Opinion
+56,Statement Opinion
+57,Statement Opinion
+58,Statement Non Opinion
+59,Acknowledge
+60,Greeting
+1,Question
+2,Statement Non Opinion
+3,Question
+4,Statement Non Opinion
+5,Question
+6,Statement Non Opinion
+7,Question
+8,Statement Non Opinion
+9,Question
+10,Statement Opinion
+11,Question
+12,Statement Non Opinion
+13,Statement Opinion
+14,Acknowledge
+15,Question
+16,Statement Opinion
+17,Question
+18,Statement Opinion
+19,Question
+20,Statement Opinion
+21,Question
+22,Statement Opinion
+23,Statement Opinion
+24,Statement Opinion
+25,Statement Opinion
+26,Question
+27,Statement Opinion
+28,Statement Opinion
+29,Command
+30,Statement Opinion
+31,Question
+32,Question
+33,Statement Non Opinion
+34,Statement Opinion
+35,Statement Non Opinion
+36,Statement Opinion
+37,Statement Opinion
+38,Statement Opinion
+39,Question
+40,Statement Opinion
+41,Question
+42,Statement Non Opinion
+43,Statement Opinion
+44,Statement Opinion
+45,Statement Opinion
+46,Statement Opinion
+47,Statement Opinion
+48,Statement Opinion
+49,Statement Opinion
+50,Statement Opinion
+51,Question
+52,Statement Non Opinion
+53,Question
+54,Statement Opinion
+55,Statement Opinion
+56,Statement Opinion
+57,Statement Opinion
+58,Statement Opinion
+59,Statement Opinion
+60,Statement Opinion
+61,Statement Opinion
+62,Acknowledge
+63,Command
+64,Statement Opinion
+65,Statement Opinion
+66,Question
+67,Statement Opinion
+68,Question
+69,Statement Opinion
+70,Question
+71,Statement Opinion
+72,Command
+73,Statement Opinion
+74,Statement Opinion
+75,Statement Opinion
+76,Command
+77,Statement Opinion
+78,Question
+79,Statement Opinion
+80,Statement Opinion
+1,Question
+2,Statement Non Opinion
+3,Question
+4,Statement Non Opinion
+5,Question
+6,Statement Non Opinion
+7,Question
+8,Statement Non Opinion
+9,Question
+10,Statement Non Opinion
+11,Question
+12,Statement Opinion
+13,Question
+14,Statement Opinion
+15,Question
+16,Statement Opinion
+17,Question
+18,Statement Opinion
+19,Statement Opinion
+20,Question
+21,Statement Opinion
+22,Statement Opinion
+23,Statement Opinion
+24,Command
+25,Statement Opinion
+26,Command
+27,Question
+28,Question
+29,Statement Non Opinion
+30,Statement Opinion
+31,Statement Non Opinion
+32,Statement Opinion
+33,Statement Opinion
+34,Question
+35,Question
+36,Statement Opinion
+37,Statement Opinion
+38,Statement Opinion
+39,Statement Opinion
+40,Statement Opinion
+41,Statement Opinion
+42,Statement Opinion
+43,Statement Opinion
+44,Statement Opinion
+45,Statement Opinion
+46,Question
+47,Statement Non Opinion
+48,Statement Opinion
+49,Statement Opinion
+50,Command
+51,Statement Opinion
+52,Statement Opinion
+53,Statement Opinion
+54,Statement Opinion
+55,Statement Opinion
+56,Statement Opinion
+57,Statement Opinion
+58,Statement Opinion
+59,Question
+60,Statement Non Opinion
+61,Command
+62,Statement Opinion
+63,Statement Opinion
+64,Question
+65,Statement Opinion
+66,Question
+67,Statement Opinion
+68,Question
+69,Statement Opinion
+70,Question
+71,Statement Opinion
+72,Statement Opinion
+73,Command
+74,Statement Opinion
+75,Statement Opinion
+76,Statement Opinion
+77,Command
+78,Statement Opinion
+79,Question
+80,Statement Opinion
+81,Statement Non Opinion
+"(Note: Some classifications may vary based on interpretation, but this follows the general intent of the dialogical acts",)
+1,Question
+2,Question
+3,Question
+4,Statement Opinion
+5,Statement Non Opinion
+6,Disagreement
+7,Statement Opinion
+8,Question
+9,Statement Non Opinion
+10,Statement Opinion
+11,Question
+12,Command
+13,Disagreement
+14,Disagreement
+15,Statement Opinion
+16,Question
+17,Statement Opinion
+18,Question
+19,Statement Opinion
+20,Question
+21,Command
+22,Question
+23,Statement Opinion
+24,Question
+25,Command
+26,Statement Opinion
+27,Command
+28,Statement Opinion
+29,Acknowledge
+30,Command
+31,Question
+32,Command
+33,Question
+34,Statement Non Opinion
+35,Question
+1,Statement Non Opinion
+2,Statement Opinion
+3,Statement Opinion
+4,Question
+5,Statement Non Opinion
+6,Question
+7,Statement Non Opinion
+8,Backchannel
+9,Statement Non Opinion
+10,Question
+11,Statement Non Opinion
+12,Statement Non Opinion
+13,Statement Non Opinion
+14,Question
+15,Statement Non Opinion
+16,Question
+17,Statement Non Opinion
+18,Statement Opinion
+19,Statement Opinion
+20,Question
+21,Statement Opinion
+22,Question
+23,Statement Non Opinion
+24,Question
+25,Statement Non Opinion
+26,Question
+27,Statement Opinion
+28,Question
+29,Statement Opinion
+30,Command
+31,Statement Opinion
+32,Statement Opinion
+33,Statement Opinion
+34,Statement Opinion
+35,Statement Non Opinion
+36,Question
+37,Command
+38,Question
+39,Statement Non Opinion
+40,Command
+41,Statement Non Opinion
+42,Statement Non Opinion
+43,Command
+44,Statement Non Opinion
+45,Statement Non Opinion
+46,Statement Non Opinion
+47,Question
+48,Acknowledge
+49,Statement Non Opinion
+50,Question
+51,Statement Non Opinion
+52,Statement Non Opinion
+53,Statement Non Opinion
+54,Statement Non Opinion
+55,Statement Non Opinion
+56,Question
+57,Statement Non Opinion
+58,Statement Non Opinion
+59,Statement Non Opinion
+60,Statement Non Opinion
+61,Statement Non Opinion
+62,Statement Non Opinion
+63,Statement Non Opinion
+64,Statement Non Opinion
+65,Question
+66,Statement Opinion
+67,Statement Opinion
+68,Statement Opinion
+69,Statement Opinion
+70,Question
+71,Statement Opinion
+1,"Question, Statement Opinion"
+2,Answer
+3,"Question, Statement Non Opinion"
+4,"Statement Opinion, Question, Statement Non Opinion"
+5,Question
+6,Statement Non Opinion
+7,Question
+8,Backchannel
+9,"Statement Opinion, Question"
+10,Statement Opinion
+11,"Question, Statement Non Opinion"
+12,Answer
+13,"Question, Statement Opinion"
+14,Statement Opinion
+15,Statement Non Opinion
+16,Statement Non Opinion
+17,Question
+18,Command
+19,"Question, Statement Opinion"
+20,Statement Opinion
+21,Acknowledge
+22,Statement Opinion
+23,Agreement
+24,Command
+25,"Statement Opinion, Question"
+26,Statement Opinion
+27,Question
+28,Statement Non Opinion
+29,Backchannel
+30,Statement Opinion
+31,Statement Opinion
+32,Statement Opinion
+33,Statement Opinion
+34,Statement Opinion
+35,Statement Opinion
+36,Statement Opinion
+37,"Question, Statement Opinion"
+38,Disagreement
+39,Backchannel
+40,Statement Opinion
+41,Statement Opinion
+42,Question
+43,Answer
+44,"Statement Opinion, Question"
+45,Statement Opinion
+46,Statement Non Opinion
+47,Statement Non Opinion
+48,Statement Opinion
+49,Statement Non Opinion
+50,Statement Opinion
+51,Statement Opinion
+52,Statement Opinion
+53,Statement Opinion
+54,Statement Non Opinion
+55,Question
+"Note: Some sentences contain multiple dialogical acts, so they are listed with multiple classifications",
+1,Question
+2,Question
+3,Statement Non Opinion
+4,Statement Opinion
+5,Disagreement
+6,Statement Opinion
+7,Statement Non Opinion
+8,Statement Opinion
+9,Question
+10,Apology
+11,Question
+12,Statement Opinion
+13,Question
+14,Statement Opinion
+15,Statement Non Opinion
+16,Command
+17,Question
+18,Question
+19,Statement Non Opinion
+20,Statement Opinion
+21,Statement Non Opinion
+22,Statement Opinion
+23,Statement Opinion
+24,Statement Opinion
+25,Disagreement
+26,Statement Opinion
+27,Statement Non Opinion
+28,Statement Non Opinion
+29,Statement Opinion
+30,Statement Opinion
+31,Statement Non Opinion
+32,Statement Opinion
+33,Question
+34,Statement Opinion
+35,Question
+36,Answer
+37,Question
+38,Answer
+39,Question
+40,Answer
+41,Question
+42,Answer
+43,Question
+44,Answer
+45,Answer
+46,Question
+47,Answer
+48,Question
+49,Statement Opinion
+50,Statement Opinion
+51,Statement Opinion
+52,Statement Opinion
+53,Question
+54,Answer
+55,Statement Opinion
+56,Acknowledge
+57,Statement Opinion
+58,Acknowledge
+59,Statement Opinion
+60,Statement Opinion
+61,Statement Opinion
+62,Statement Opinion
+63,Question
+64,Disagreement
+65,Statement Opinion
+66,Statement Opinion
+67,Question
+68,Statement Opinion
+69,Statement Opinion
+70,Statement Opinion
+71,Statement Opinion
+72,Statement Opinion
+73,Statement Non Opinion
+74,Statement Non Opinion
+75,Statement Non Opinion
+76,Statement Non Opinion
+77,Question
+78,Apology
+79,Command
+80,Statement Non Opinion
+81,Statement Non Opinion
+1,Statement Non Opinion
+2,Question
+3,Statement Non Opinion
+4,Statement Non Opinion
+5,Question
+6,Question
+7,Question
+8,Statement Opinion
+9,Statement Opinion
+10,Statement Opinion
+11,Greeting
+12,Statement Opinion
+13,Question
+14,Command
+15,Question
+16,Statement Opinion
+17,Statement Opinion
+18,Question
+19,Statement Opinion
+20,Command
+21,Statement Opinion
+22,Statement Opinion
+23,Statement Opinion
+24,Question
+25,Command
+26,Command
+27,Question
+28,Statement Opinion
+29,Statement Opinion
+30,Statement Opinion
+31,Statement Opinion
+32,Question
+33,Answer
+34,Question
+35,Statement Opinion
+36,Question
+37,Statement Opinion
+38,Question
+39,Statement Opinion
+40,Question
+41,Statement Opinion
+42,Statement Opinion
+43,Statement Opinion
+44,Command
+45,Statement Non Opinion
+46,Statement Opinion
+47,Statement Opinion
+48,Question
+49,Question
+50,Statement Non Opinion
+51,Statement Non Opinion
+52,Statement Opinion
+53,Statement Opinion
+54,Question
+55,Statement Non Opinion
+56,Statement Non Opinion
+57,Statement Non Opinion
+58,Question
+59,Statement Non Opinion
+60,Statement Opinion
+61,Statement Non Opinion
+62,Statement Opinion
+63,Statement Opinion
+64,Statement Non Opinion
+65,Statement Opinion
+66,Statement Non Opinion
+67,Statement Opinion
+1,Statement Opinion
+2,Disagreement
+3,Disagreement
+4,Statement Non Opinion
+5,Statement Opinion
+6,Statement Non Opinion
+7,Statement Opinion
+8,Disagreement
+9,Question
+10,Statement Non Opinion
+11,Statement Non Opinion
+12,Statement Non Opinion
+13,Question
+14,Statement Non Opinion
+15,Question
+16,Statement Opinion
+17,Statement Opinion
+18,Statement Opinion
+19,Statement Opinion
+20,Question
+21,Answer
+22,Statement Non Opinion
+23,Statement Opinion
+24,Statement Non Opinion
+25,Statement Opinion
+26,Disagreement
+27,Statement Opinion
+28,Statement Opinion
+29,Command
+30,Statement Opinion
+31,Question
+32,Question
+33,Statement Non Opinion
+34,Statement Opinion
+35,Statement Opinion
+36,Agreement
+37,Disagreement
+38,Agreement
+39,Disagreement
+40,Statement Opinion
+41,Statement Opinion
+42,Statement Opinion
+43,Disagreement
+44,Disagreement
+45,Disagreement
+46,Disagreement
+47,Statement Opinion
+48,Question
+49,Answer
+50,Question
+51,Command
+52,Statement Opinion
+53,Statement Opinion
+54,Disagreement
+55,Statement Non Opinion
+56,Disagreement
+57,Disagreement
+58,Question
+59,Command
+60,Statement Opinion
+61,Statement Opinion
+62,Agreement
+63,Command
+64,Question
+65,Statement Non Opinion
+66,Statement Non Opinion
+67,Statement Non Opinion
+68,Statement Non Opinion
+69,Statement Opinion
+70,Command
+71,Disagreement
+72,Statement Opinion
+73,Command
+74,Command
+75,Command
+76,Command
+77,Statement Opinion
+78,Statement Opinion
+79,Statement Opinion
+80,Command
+81,Statement Opinion
+82,Statement Opinion
+83,Disagreement
+84,Statement Opinion
+85,Disagreement
+86,Statement Opinion
+87,Disagreement
+88,Statement Opinion
+89,Statement Opinion
+90,Statement Opinion
+91,Statement Opinion
