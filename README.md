@@ -55,9 +55,9 @@ Then the next conversation of 7 sentences (|1. - Joey - But then who? The waitre
 
 We did the same for all the files, and then we put the processed data in files with different names as follows:
     A25-DAs-v3-baseline.csv
-The first characters, up to the first hyphen, refer to the number of the table in the paper where this data was represented.
-The next characters, up to the second hyphen, represent the type of classification made by the LLM.
-The next two characters represent if the model used for the classification were DS-r1 or DS-v3.
+* The first characters, up to the first hyphen, refer to the number of the table in the paper where this data was represented.
+* The next characters, up to the second hyphen, represent the type of classification made by the LLM.
+* The next two characters represent if the model used for the classification were DS-r1 or DS-v3.
 Finally, from the last hyphen to the end, the condition of the experiment. 
 
 
