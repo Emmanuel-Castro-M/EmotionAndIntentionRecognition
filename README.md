@@ -25,6 +25,8 @@ The files in this repository are organizared in 3 main carpets:
 * The second the raw data.
 * Thne third the processed data.
 
+
+
 To process the data we received from DeepSeek we mach every answer with the sentence whose belong is necesary to  have both files. For example,the firstt conversation on MELD dataset have 14 sentences (|1. - Chandler - also I was the point person on my company's transition from the KL-5 to GR-6 system. (neutral) /.../ 14.- The Interviewer - . Absolutely. You can relax (neutral)|)
 and these need to be maches with the first 14 answer of the file:
 
@@ -55,10 +57,10 @@ Then the next conversation of 7 sentences (|1. - Joey - But then who? The waitre
 
 We did the same for all the files, and then we put the processed data in files with different names as follows:
     A25-DAs-v3-baseline.csv
-* The first characters, up to the first hyphen, refer to the number of the table in the paper where this data was represented.
-* The next characters, up to the second hyphen, represent the type of classification made by the LLM.
-* The next two characters represent if the model used for the classification were DS-r1 or DS-v3.
-Finally, from the last hyphen to the end, the condition of the experiment. 
+* The first 3 characters, up to the first hyphen, refer to the number of the table in the paper where this data was represented.
+* The next characters, up to the second hyphen, represent the type of classification made by the LLM, DAs for classification of Dialogue Acts, or Emotions for classification of emotions.
+* The next two characters represent the model used for the classification, could be r1 for DeepSeek-r1 or v3 forDeepSeek-v3.
+Finally, from the last hyphen to the end, the condition of the experiment (baselline, context, or context plus cues). 
 
 
 
