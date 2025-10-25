@@ -1,0 +1,2834 @@
+DS_v3
+/home/cic2017/miniconda3/envs/DAP3.10/bin/python3.10 /home/cic2017/PycharmProjects/Emmanuel/pythonProject2/Code/MELD_context_get_DA.py
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. fear', '12. joy', '13. surprised', '14. neutral']
+______________________________________________
+conversation: 1
+['["anger", "neutral", "surprised", "fear", "neutral", "neutral", "neutral"]']
+______________________________________________
+conversation: 2
+['1. neutral', '2. sadness', '3. neutral', '4. sadness', '5. surprised', '6. neutral', '7. sadness', '8. neutral', '9. neutral', '10. neutral', '11. joy', '12. neutral', '13. disgust']
+______________________________________________
+conversation: 3
+['1. surprised', '2. surprised', '3. surprised', '4. neutral', '5. neutral', '6. neutral', '7. sadness', '8. sadness', '9. neutral']
+______________________________________________
+conversation: 4
+['[["neutral",1],["neutral",2],["surprised",3],["neutral",4],["neutral",5],["neutral",6],["neutral",7],["neutral",8],["joy",9],["joy",10],["joy",11],["sadness",12],["neutral",13],["neutral",14],["neutral",15]]']
+______________________________________________
+conversation: 5
+['[["neutral",1],["neutral",2],["neutral",3],["joy",4]]']
+______________________________________________
+conversation: 6
+['1. joy', '2. surprised', '3. joy', '4. neutral', '5. joy', '6. neutral', '7. joy', '8. neutral', '9. surprised', '10. anger', '11. anger', '12. sadness', '13. neutral', '14. neutral', '15. fear', '16. sadness', '17. sadness', '18. neutral', '19. neutral', '20. neutral', '21. neutral', '22. neutral']
+______________________________________________
+conversation: 7
+['["neutral", "surprised"]']
+______________________________________________
+conversation: 8
+['1. sadness', '2. fear', '3. anger', '4. neutral', '5. joy', '6. neutral', '7. joy']
+______________________________________________
+conversation: 9
+['1. neutral', '2. joy', '3. joy', '4. joy', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. joy', '10. joy', '11. neutral', '12. neutral', '13. surprised', '14. neutral']
+______________________________________________
+conversation: 10
+['1. anger', '2. anger', '3. disgust', '4. surprised', '5. anger', '6. neutral']
+______________________________________________
+conversation: 11
+['1. anger', '2. fear', '3. neutral', '4. joy', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. joy', '10. joy']
+______________________________________________
+conversation: 12
+['1. joy', '2. joy', '3. neutral', '4. surprised', '5. neutral', '6. neutral', '7. fear', '8. neutral', '9. fear', '10. disgust', '11. neutral', '12. anger']
+______________________________________________
+conversation: 13
+['1. joy', '2. neutral', '3. surprised', '4. neutral']
+______________________________________________
+conversation: 14
+['1. neutral', '2. neutral', '3. neutral', '4. surprised', '5. neutral', '6. fear']
+______________________________________________
+conversation: 15
+['1. anger', '2. neutral', '3. neutral', '4. sadness', '5. surprised', '6. sadness', '7. anger', '8. neutral', '9. neutral', '10. sadness', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. neutral', '17. neutral', '18. neutral', '19. neutral', '20. neutral', '21. neutral', '22. neutral', '23. joy']
+______________________________________________
+conversation: 16
+['[["joy", "anger", "surprised", "neutral", "neutral", "joy"]]']
+______________________________________________
+conversation: 17
+['["anger", "neutral", "neutral", "neutral", "fear", "neutral", "fear", "neutral", "joy", "neutral", "joy"]']
+______________________________________________
+conversation: 18
+['[neutral, neutral, neutral, joy, neutral, neutral, fear, neutral, fear, joy, neutral]']
+______________________________________________
+conversation: 19
+['[["neutral", "joy"], [1, 2]]']
+______________________________________________
+conversation: 20
+['1. neutral', '2. joy', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. joy', '8. joy', '9. neutral', '10. neutral', '11. surprised', '12. joy', '13. neutral', '14. joy', '15. joy', '16. surprised', '17. neutral']
+______________________________________________
+conversation: 21
+['1. surprised', '2. fear', '3. joy', '4. surprised', '5. neutral', '6. neutral', '7. sadness', '8. neutral', '9. neutral', '10. neutral', '11. neutral', '12. disgust', '13. joy', '14. joy']
+______________________________________________
+conversation: 22
+['1. disgust', '2. neutral', '3. fear', '4. neutral']
+______________________________________________
+conversation: 23
+['1. fear', '2. anger', '3. surprised', '4. disgust', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. joy']
+______________________________________________
+conversation: 24
+['1. neutral', '2. neutral', '3. sadness', '4. joy', '5. surprised', '6. neutral', '7. neutral', '8. neutral', '9. fear']
+______________________________________________
+conversation: 25
+['1. joy', '2. joy', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. neutral', '12. surprised', '13. neutral', '14. neutral']
+______________________________________________
+conversation: 26
+['1. fear', '2. sadness', '3. neutral', '4. neutral', '5. neutral', '6. joy', '7. joy', '8. joy', '9. neutral', '10. neutral', '11. neutral', '12. sadness', '13. sadness', '14. sadness']
+______________________________________________
+conversation: 27
+['["neutral", "surprised"]']
+______________________________________________
+conversation: 28
+['1. anger', '2. surprised', '3. joy', '4. joy', '5. neutral', '6. neutral', '7. sadness', '8. sadness']
+______________________________________________
+conversation: 29
+['1. joy', '2. joy', '3. neutral', '4. neutral', '5. surprised', '6. anger', '7. anger', '8. anger', '9. neutral', '10. anger', '11. sadness', '12. neutral', '13. neutral']
+______________________________________________
+conversation: 30
+['1. neutral', '2. fear', '3. disgust', '4. fear', '5. anger', '6. surprised', '7. anger', '8. sadness', '9. anger', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. surprised', '15. neutral', '16. anger']
+______________________________________________
+conversation: 31
+['["neutral", "neutral", "neutral", "neutral"]']
+______________________________________________
+conversation: 32
+['1. surprised', '2. disgust', '3. neutral', '4. disgust', '5. neutral', '6. neutral', '7. surprised', '8. neutral', '9. neutral', '10. neutral', '11. anger', '12. anger', '13. anger', '14. neutral', '15. neutral', '16. neutral', '17. neutral', '18. sadness', '19. neutral']
+______________________________________________
+conversation: 33
+['1. neutral', '2. joy', '3. neutral', '4. neutral', '5. surprised', '6. fear', '7. neutral', '8. neutral', '9. joy', '10. neutral', '11. neutral']
+______________________________________________
+conversation: 34
+['1. neutral', '2. neutral', '3. neutral', '4. joy', '5. sadness', '6. neutral', '7. neutral', '8. surprised', '9. neutral', '10. surprised', '11. anger', '12. neutral', '13. neutral', '14. anger']
+______________________________________________
+conversation: 35
+['1. surprised', '2. joy', '3. joy', '4. joy', '5. joy', '6. neutral']
+______________________________________________
+conversation: 36
+['1. neutral', '2. joy', '3. neutral', '4. neutral', '5. disgust', '6. anger']
+______________________________________________
+conversation: 37
+['["neutral", "surprised", "joy", "neutral"]']
+______________________________________________
+conversation: 38
+['1. anger', '2. anger', '3. neutral', '4. neutral', '5. surprised', '6. neutral', '7. anger', '8. surprised', '9. joy', '10. joy', '11. surprised', '12. surprised']
+______________________________________________
+conversation: 39
+['["anger", "anger", "neutral", "anger", "sadness", "sadness", "sadness", "joy", "neutral", "neutral", "neutral", "neutral", "neutral", "neutral", "neutral", "neutral", "anger", "neutral", "anger"]']
+______________________________________________
+conversation: 40
+['1. sadness', '2. anger', '3. neutral', '4. neutral', '5. joy', '6. neutral', '7. joy', '8. neutral', '9. disgust', '10. neutral', '11. neutral', '12. surprised', '13. joy', '14. neutral', '15. anger']
+______________________________________________
+conversation: 41
+['1. neutral', '2. surprised', '3. neutral', '4. neutral', '5. neutral', '6. surprised', '7. neutral', '8. sadness', '9. neutral', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. sadness', '15. fear', '16. anger']
+______________________________________________
+conversation: 42
+['["neutral", "surprised"]']
+______________________________________________
+conversation: 43
+['[neutral, neutral, neutral, sadness, neutral, neutral, neutral]']
+______________________________________________
+conversation: 44
+['["neutral", "neutral", "neutral"]']
+______________________________________________
+conversation: 45
+['["neutral", "sadness", "neutral", "anger", "neutral"]']
+______________________________________________
+conversation: 46
+['1. joy', '2. surprised', '3. anger', '4. surprised', '5. neutral', '6. neutral', '7. joy', '8. joy', '9. joy', '10. anger', '11. disgust', '12. sadness', '13. joy', '14. neutral', '15. neutral']
+______________________________________________
+conversation: 47
+['1. neutral', '2. joy', '3. neutral', '4. neutral', '5. neutral', '6. joy', '7. neutral', '8. joy', '9. neutral', '10. neutral', '11. surprised', '12. neutral', '13. neutral', '14. neutral', '15. joy', '16. joy', '17. joy']
+______________________________________________
+conversation: 48
+['1. neutral', '2. neutral', '3. disgust', '4. fear', '5. sadness', '6. neutral', '7. neutral', '8. neutral', '9. joy', '10. joy', '11. neutral', '12. joy', '13. sadness', '14. surprised', '15. neutral', '16. surprised', '17. neutral', '18. neutral', '19. neutral', '20. neutral', '21. anger', '22. neutral']
+______________________________________________
+conversation: 49
+['1. joy', '2. anger', '3. neutral', '4. neutral', '5. neutral', '6. fear', '7. surprised', '8. fear', '9. joy', '10. surprised', '11. neutral', '12. neutral', '13. neutral', '14. anger', '15. surprised', '16. anger', '17. neutral']
+______________________________________________
+conversation: 50
+['1. neutral', '2. neutral', '3. neutral', '4. anger', '5. anger', '6. anger', '7. anger', '8. anger', '9. sadness', '10. sadness', '11. anger', '12. anger']
+______________________________________________
+conversation: 51
+['1. neutral', '2. joy', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. neutral', '12. surprised']
+______________________________________________
+conversation: 52
+['1. neutral', '2. surprised', '3. neutral', '4. disgust', '5. anger', '6. neutral', '7. joy', '8. neutral', '9. neutral']
+______________________________________________
+conversation: 53
+['1. fear', '2. anger', '3. neutral', '4. fear', '5. joy', '6. neutral', '7. joy', '8. sadness', '9. sadness', '10. neutral', '11. joy', '12. neutral', '13. fear', '14. fear', '15. sadness', '16. neutral', '17. sadness', '18. joy', '19. joy', '20. joy', '21. neutral', '22. neutral', '23. neutral', '24. anger']
+______________________________________________
+conversation: 54
+['1. joy', '2. joy', '3. neutral', '4. surprised', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. anger', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. anger', '17. neutral']
+______________________________________________
+conversation: 55
+['1. surprised', '2. neutral', '3. fear', '4. neutral', '5. joy', '6. neutral', '7. joy', '8. fear', '9. fear', '10. fear']
+______________________________________________
+conversation: 56
+['1. surprised', '2. neutral', '3. joy', '4. neutral', '5. anger', '6. surprised', '7. neutral', '8. neutral', '9. neutral', '10. neutral']
+______________________________________________
+conversation: 57
+['1. joy', '2. joy', '3. neutral', '4. surprised', '5. joy', '6. neutral', '7. joy', '8. surprised', '9. joy', '10. neutral']
+______________________________________________
+conversation: 58
+['1. neutral', '2. anger', '3. anger', '4. neutral', '5. disgust', '6. fear', '7. disgust', '8. joy', '9. anger']
+______________________________________________
+conversation: 59
+['1. neutral', '2. joy', '3. neutral', '4. joy', '5. neutral', '6. surprised', '7. neutral', '8. neutral', '9. disgust', '10. surprised', '11. neutral']
+______________________________________________
+conversation: 60
+['1. joy', '2. disgust', '3. joy', '4. surprised', '5. joy', '6. anger', '7. neutral', '8. sadness']
+______________________________________________
+conversation: 61
+['1. disgust', '2. neutral', '3. joy', '4. neutral', '5. sadness', '6. joy', '7. neutral', '8. surprised', '9. joy', '10. anger', '11. neutral', '12. anger', '13. disgust']
+______________________________________________
+conversation: 62
+['["neutral", "surprised", "neutral", "joy"]']
+______________________________________________
+conversation: 63
+['1. neutral', '2. fear', '3. neutral', '4. neutral', '5. surprised', '6. sadness', '7. neutral', '8. sadness', '9. joy', '10. neutral', '11. sadness', '12. disgust']
+______________________________________________
+conversation: 64
+['1. surprised', '2. neutral', '3. joy', '4. neutral', '5. joy', '6. sadness', '7. joy', '8. joy', '9. neutral', '10. joy', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. neutral']
+______________________________________________
+conversation: 65
+['["anger", "joy", "neutral", "surprised"]']
+______________________________________________
+conversation: 66
+['1. joy', '2. neutral', '3. neutral', '4. surprised', '5. sadness', '6. disgust', '7. anger']
+______________________________________________
+conversation: 67
+['[joy, surprised, neutral, neutral, neutral, anger, anger, anger, joy]']
+______________________________________________
+conversation: 68
+['["neutral", "neutral"]']
+______________________________________________
+conversation: 69
+['1. neutral', '2. surprised', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral']
+______________________________________________
+conversation: 70
+['[neutral, neutral, joy, neutral, neutral, neutral, surprised, neutral, neutral, neutral, surprised, neutral]']
+______________________________________________
+conversation: 71
+['1. neutral', '2. sadness', '3. neutral', '4. neutral', '5. disgust', '6. anger', '7. fear']
+______________________________________________
+conversation: 72
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. joy', '8. joy', '9. surprised']
+______________________________________________
+conversation: 73
+['["neutral", "neutral", "neutral", "surprised", "joy"]']
+______________________________________________
+conversation: 74
+['1. joy', '2. fear', '3. neutral', '4. surprised', '5. anger', '6. disgust']
+______________________________________________
+conversation: 75
+['1. neutral', '2. disgust', '3. joy', '4. surprised', '5. neutral', '6. sadness', '7. neutral', '8. neutral']
+______________________________________________
+conversation: 76
+['1. neutral', '2. joy', '3. surprised', '4. neutral', '5. joy', '6. joy']
+______________________________________________
+conversation: 77
+['1. neutral', '2. neutral', '3. neutral', '4. joy', '5. neutral', '6. neutral', '7. joy', '8. surprised', '9. neutral', '10. neutral', '11. neutral', '12. sadness', '13. neutral', '14. neutral', '15. sadness', '16. sadness', '17. neutral']
+______________________________________________
+conversation: 78
+['1. neutral', '2. neutral', '3. anger', '4. sadness', '5. anger', '6. neutral', '7. neutral', '8. joy', '9. disgust', '10. anger', '11. joy']
+______________________________________________
+conversation: 79
+['["neutral", "joy", "anger", "surprised"]']
+______________________________________________
+conversation: 80
+['["fear", "neutral", "sadness", "neutral", "joy", "neutral", "sadness"]']
+______________________________________________
+conversation: 81
+['["neutral", "neutral", "joy", "neutral", "sadness"]']
+______________________________________________
+conversation: 82
+['[["neutral", 1], ["neutral", 2], ["neutral", 3], ["surprised", 4], ["neutral", 5], ["surprised", 6], ["neutral", 7], ["neutral", 8], ["joy", 9], ["neutral", 10], ["neutral", 11]]']
+______________________________________________
+conversation: 83
+['1. concern', '2. neutral', '3. concern', '4. neutral', '5. joy', '6. neutral', '7. neutral', '8. joy', '9. joy', '10. neutral']
+______________________________________________
+conversation: 84
+['["neutral", "joy", "neutral", "fear"]']
+______________________________________________
+conversation: 85
+['1. anger', '2. neutral', '3. joy', '4. neutral', '5. surprised', '6. anger', '7. anger', '8. neutral', '9. joy', '10. surprised', '11. neutral', '12. anger', '13. neutral', '14. joy']
+______________________________________________
+conversation: 86
+['1. anger', '2. anger', '3. anger', '4. neutral']
+______________________________________________
+conversation: 87
+['[["surprised", "disgust", "neutral", "joy", "neutral", "sadness", "sadness", "fear"]]']
+______________________________________________
+conversation: 88
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. anger', '6. fear', '7. neutral', '8. sadness', '9. neutral', '10. neutral', '11. joy', '12. joy', '13. neutral', '14. neutral', '15. neutral', '16. neutral']
+______________________________________________
+conversation: 89
+['1. joy', '2. surprised', '3. neutral', '4. disgust', '5. joy', '6. sadness', '7. surprised', '8. anger', '9. anger', '10. neutral', '11. neutral', '12. sadness', '13. surprised', '14. neutral', '15. joy', '16. joy', '17. neutral', '18. neutral']
+______________________________________________
+conversation: 90
+['["neutral", "surprised", "sadness", "neutral", "joy"]']
+______________________________________________
+conversation: 91
+['1. neutral', '2. surprised', '3. neutral', '4. fear', '5. disgust']
+______________________________________________
+conversation: 92
+['1. joy', '2. joy', '3. neutral', '4. joy', '5. neutral', '6. neutral', '7. joy', '8. anger', '9. joy', '10. neutral', '11. disgust', '12. anger', '13. neutral', '14. joy', '15. neutral', '16. neutral', '17. neutral', '18. anger', '19. neutral']
+______________________________________________
+conversation: 93
+['[["neutral",1],["neutral",2],["neutral",3],["joy",4],["neutral",5],["neutral",6],["neutral",7],["surprised",8],["neutral",9],["fear",10],["neutral",11],["anger",12],["neutral",13]]']
+______________________________________________
+conversation: 94
+['1. neutral', '2. neutral', '3. surprised', '4. neutral', '5. joy', '6. neutral', '7. joy', '8. joy']
+______________________________________________
+conversation: 95
+['["neutral", "sadness", "neutral", "surprised", "neutral", "surprised", "neutral", "neutral", "neutral", "neutral"]']
+______________________________________________
+conversation: 96
+['[["neutral", 1], ["sadness", 2], ["neutral", 3], ["neutral", 4], ["anger", 5], ["neutral", 6], ["neutral", 7], ["neutral", 8], ["joy", 9], ["neutral", 10]]']
+______________________________________________
+conversation: 97
+['[["joy", "surprised"], ["neutral", "neutral"], ["joy", "joy"], ["neutral", "neutral"], ["joy", "joy"], ["neutral", "neutral"], ["joy", "neutral"]]']
+______________________________________________
+conversation: 98
+['1. disgust', '2. disgust', '3. joy', '4. joy', '5. joy', '6. sadness', '7. sadness', '8. anger', '9. neutral', '10. neutral', '11. neutral', '12. neutral', '13. sadness', '14. neutral', '15. anger', '16. anger', '17. anger', '18. anger', '19. neutral', '20. anger', '21. neutral']
+______________________________________________
+conversation: 99
+['["neutral", "surprised", "joy", "disgust", "neutral", "joy"]']
+______________________________________________
+conversation: 100
+['1. joy', '2. neutral', '3. joy', '4. neutral', '5. neutral', '6. sadness', '7. sadness', '8. neutral', '9. surprised', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. fear', '15. neutral', '16. anger', '17. anger', '18. anger']
+______________________________________________
+conversation: 101
+['1. anger', '2. neutral', '3. anger', '4. sadness', '5. disgust']
+______________________________________________
+conversation: 102
+['1. fear', '2. anger', '3. neutral', '4. neutral', '5. sadness', '6. sadness', '7. disgust', '8. neutral', '9. joy', '10. neutral', '11. neutral']
+______________________________________________
+conversation: 103
+['["neutral", "joy", "joy", "joy", "surprised"]']
+______________________________________________
+conversation: 104
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. anger', '6. neutral', '7. anger', '8. surprised']
+______________________________________________
+conversation: 105
+['1. neutral', '2. neutral', '3. sadness', '4. surprised', '5. neutral', '6. neutral', '7. neutral', '8. neutral']
+______________________________________________
+conversation: 106
+['1. fear', '2. neutral', '3. sadness', '4. anger']
+______________________________________________
+conversation: 107
+['1. neutral', '2. anger', '3. neutral', '4. anger', '5. anger', '6. neutral']
+______________________________________________
+conversation: 108
+['1. neutral', '2. neutral', '3. joy', '4. neutral', '5. sadness', '6. neutral', '7. anger', '8. neutral', '9. anger', '10. neutral', '11. neutral', '12. neutral', '13. sadness']
+______________________________________________
+conversation: 109
+['1. fear', '2. joy', '3. disgust', '4. joy', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. neutral']
+______________________________________________
+conversation: 110
+['1. neutral', '2. joy', '3. neutral', '4. neutral', '5. anger', '6. neutral', '7. sadness']
+______________________________________________
+conversation: 111
+['1. neutral', '2. sadness', '3. joy', '4. neutral', '5. joy', '6. neutral', '7. neutral', '8. anger', '9. neutral', '10. sadness', '11. neutral', '12. neutral', '13. disgust', '14. disgust', '15. neutral', '16. joy']
+______________________________________________
+conversation: 112
+['1. neutral', '2. anger', '3. neutral', '4. neutral', '5. anger', '6. neutral', '7. anger', '8. neutral', '9. anger', '10. neutral', '11. anger']
+______________________________________________
+conversation: 113
+['1. joy', '2. disgust', '3. neutral', '4. disgust', '5. sadness', '6. neutral', '7. sadness', '8. neutral', '9. sadness', '10. neutral', '11. neutral', '12. surprised']
+______________________________________________
+conversation: 114
+['1. fear', '2. joy', '3. neutral', '4. fear', '5. joy', '6. surprised', '7. disgust', '8. fear', '9. surprised']
+______________________________________________
+conversation: 115
+['1. joy', '2. anger', '3. joy', '4. anger', '5. joy', '6. anger', '7. neutral', '8. anger', '9. anger', '10. sadness', '11. neutral', '12. neutral', '13. anger']
+______________________________________________
+conversation: 116
+['["neutral", "anger", "anger", "anger", "joy"]']
+______________________________________________
+conversation: 117
+['1. neutral', '2. neutral', '3. neutral', '4. joy', '5. neutral', '6. joy', '7. neutral', '8. joy', '9. neutral', '10. joy']
+______________________________________________
+conversation: 118
+['1. neutral', '2. anger', '3. sadness', '4. disgust', '5. sadness', '6. neutral', '7. surprised', '8. neutral', '9. neutral', '10. neutral', '11. joy', '12. neutral', '13. surprised', '14. neutral', '15. neutral']
+______________________________________________
+conversation: 119
+['1. surprised', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. disgust', '11. neutral', '12. joy', '13. neutral', '14. neutral', '15. neutral', '16. neutral', '17. neutral', '18. joy']
+______________________________________________
+conversation: 120
+['["neutral", "sadness", "neutral"]']
+______________________________________________
+conversation: 121
+['1. surprised', '2. neutral', '3. sadness', '4. fear', '5. neutral', '6. neutral', '7. fear', '8. joy', '9. sadness', '10. neutral', '11. sadness']
+______________________________________________
+conversation: 122
+['1. fear', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. sadness', '8. neutral', '9. surprised', '10. neutral']
+______________________________________________
+conversation: 123
+['1. neutral', '2. sadness', '3. surprised', '4. neutral', '5. neutral']
+______________________________________________
+conversation: 124
+['[["neutral", 1], ["neutral", 2], ["neutral", 3], ["sadness", 4], ["surprised", 5], ["sadness", 6], ["joy", 7], ["joy", 8]]']
+______________________________________________
+conversation: 125
+['1. neutral', '2. neutral', '3. joy', '4. neutral', '5. surprised', '6. neutral', '7. surprised', '8. neutral', '9. neutral', '10. neutral', '11. anger', '12. fear', '13. neutral', '14. surprised', '15. neutral', '16. neutral', '17. surprised']
+______________________________________________
+conversation: 126
+['1. neutral', '2. disgust', '3. anger', '4. joy', '5. surprised', '6. joy']
+______________________________________________
+conversation: 127
+['["neutral", "joy", "sadness"]']
+______________________________________________
+conversation: 128
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. joy', '7. joy', '8. neutral']
+______________________________________________
+conversation: 129
+['["neutral", "neutral"]']
+______________________________________________
+conversation: 130
+['[["neutral", 1], ["neutral", 2], ["sadness", 3], ["joy", 4], ["neutral", 5]]']
+______________________________________________
+conversation: 131
+['["neutral", "fear", "neutral", "anger", "surprised", "joy"]']
+______________________________________________
+conversation: 132
+['1. surprised', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. surprised', '9. disgust', '10. neutral', '11. anger', '12. neutral', '13. disgust', '14. fear', '15. neutral', '16. anger', '17. surprised', '18. neutral', '19. neutral']
+______________________________________________
+conversation: 133
+['1. neutral', '2. sadness', '3. neutral', '4. anger', '5. neutral', '6. sadness', '7. neutral', '8. neutral', '9. neutral', '10. sadness', '11. sadness', '12. sadness', '13. sadness']
+______________________________________________
+conversation: 134
+['[', '  "neutral",', '  "surprised",', '  "neutral",', '  "surprised",', '  "neutral",', '  "neutral",', '  "neutral",', '  "neutral",', '  "neutral",', '  "neutral",', '  "neutral",', '  "neutral"', ']']
+______________________________________________
+conversation: 135
+['1. anger', '2. neutral', '3. anger', '4. neutral', '5. anger', '6. surprised', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. neutral', '17. sadness', '18. neutral', '19. sadness', '20. neutral', '21. neutral']
+______________________________________________
+conversation: 136
+['1. surprised', '2. sadness', '3. fear', '4. joy']
+______________________________________________
+conversation: 137
+['["surprised", "neutral", "anger", "fear"]']
+______________________________________________
+conversation: 138
+['1. joy', '2. joy', '3. joy', '4. surprised', '5. fear', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. sadness', '11. sadness', '12. neutral', '13. neutral', '14. anger', '15. neutral']
+______________________________________________
+conversation: 139
+['1. surprised', '2. sadness', '3. sadness', '4. neutral', '5. surprised', '6. neutral', '7. surprised', '8. sadness', '9. sadness', '10. neutral']
+______________________________________________
+conversation: 140
+['1. sadness', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. joy', '7. surprised', '8. neutral', '9. neutral', '10. neutral', '11. anger', '12. surprised', '13. anger']
+______________________________________________
+conversation: 141
+['1. joy', '2. disgust', '3. anger', '4. surprised', '5. anger', '6. surprised', '7. anger', '8. anger', '9. neutral']
+______________________________________________
+conversation: 142
+['1. neutral', '2. neutral', '3. joy', '4. neutral', '5. neutral', '6. surprised', '7. neutral', '8. neutral', '9. surprised', '10. joy', '11. neutral', '12. neutral', '13. neutral']
+______________________________________________
+conversation: 143
+['1. sadness', '2. neutral', '3. surprised', '4. neutral', '5. neutral', '6. fear', '7. neutral', '8. joy', '9. neutral', '10. anger', '11. neutral', '12. neutral']
+______________________________________________
+conversation: 144
+['1. joy', '2. neutral', '3. joy']
+______________________________________________
+conversation: 145
+['1. neutral', '2. surprised', '3. anger', '4. joy', '5. sadness', '6. fear', '7. neutral']
+______________________________________________
+conversation: 146
+['[joy, surprised, neutral, joy, neutral, joy, neutral, joy, joy, anger]']
+______________________________________________
+conversation: 147
+['1. neutral', '2. joy', '3. neutral', '4. neutral', '5. neutral', '6. sadness', '7. surprised', '8. neutral', '9. anger', '10. disgust', '11. neutral', '12. anger', '13. neutral', '14. neutral', '15. sadness', '16. sadness', '17. neutral', '18. joy']
+______________________________________________
+conversation: 148
+['1. joy', '2. neutral', '3. neutral', '4. neutral', '5. fear', '6. surprised']
+______________________________________________
+conversation: 149
+['["neutral", "surprised"]']
+______________________________________________
+conversation: 150
+['1. anger', '2. neutral', '3. surprised', '4. joy', '5. surprised', '6. neutral', '7. neutral', '8. anger', '9. sadness', '10. anger', '11. neutral']
+______________________________________________
+conversation: 151
+['1. neutral', '2. neutral', '3. surprised', '4. neutral', '5. sadness', '6. fear', '7. fear', '8. fear', '9. neutral', '10. joy']
+______________________________________________
+conversation: 152
+['1. neutral', '2. joy', '3. neutral', '4. surprised', '5. neutral', '6. joy', '7. neutral', '8. joy', '9. neutral', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. neutral', '17. joy', '18. neutral', '19. neutral', '20. joy']
+______________________________________________
+conversation: 153
+['1. neutral', '2. fear', '3. disgust']
+______________________________________________
+conversation: 154
+['1. sadness', '2. surprised', '3. joy', '4. neutral', '5. disgust', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. anger', '11. neutral', '12. sadness', '13. disgust']
+______________________________________________
+conversation: 155
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. joy', '6. neutral', '7. surprised', '8. neutral', '9. neutral', '10. anger', '11. neutral', '12. anger', '13. neutral', '14. neutral', '15. neutral']
+______________________________________________
+conversation: 156
+['1. anger', '2. disgust', '3. neutral']
+______________________________________________
+conversation: 157
+['["surprised", "neutral", "neutral", "surprised", "disgust", "neutral", "anger", "neutral", "neutral", "sadness", "sadness", "neutral"]']
+______________________________________________
+conversation: 158
+['1. joy', '2. neutral', '3. neutral', '4. neutral', '5. surprised', '6. neutral', '7. joy', '8. surprised']
+______________________________________________
+conversation: 159
+['1. neutral', '2. sadness', '3. joy', '4. joy', '5. anger', '6. neutral', '7. neutral', '8. joy', '9. neutral']
+______________________________________________
+conversation: 160
+['1. neutral', '2. surprised', '3. neutral', '4. sadness', '5. anger', '6. neutral', '7. joy', '8. neutral', '9. anger', '10. neutral']
+______________________________________________
+conversation: 161
+['1. joy', '2. joy', '3. joy', '4. neutral', '5. neutral', '6. fear', '7. disgust', '8. surprised']
+______________________________________________
+conversation: 162
+['1. surprised', '2. neutral', '3. joy', '4. neutral', '5. surprised', '6. disgust', '7. neutral', '8. sadness', '9. neutral', '10. sadness', '11. surprised', '12. sadness']
+______________________________________________
+conversation: 163
+['1. surprised', '2. neutral', '3. joy', '4. neutral', '5. neutral', '6. joy', '7. surprised', '8. neutral', '9. joy', '10. joy']
+______________________________________________
+conversation: 164
+['1. neutral', '2. neutral', '3. neutral', '4. disgust', '5. neutral', '6. neutral', '7. joy', '8. neutral', '9. sadness', '10. neutral', '11. neutral']
+______________________________________________
+conversation: 165
+['1. joy', '2. neutral', '3. surprised']
+______________________________________________
+conversation: 166
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. joy', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. neutral', '17. neutral', '18. neutral', '19. neutral', '20. anger']
+______________________________________________
+conversation: 167
+['1. neutral', '2. anger', '3. disgust', '4. surprised', '5. joy', '6. neutral', '7. fear', '8. neutral', '9. disgust', '10. neutral', '11. surprised', '12. neutral', '13. fear']
+______________________________________________
+conversation: 168
+['1. joy', '2. neutral', '3. anger', '4. surprised', '5. neutral']
+______________________________________________
+conversation: 169
+['1. neutral', '2. sadness', '3. sadness', '4. anger', '5. anger', '6. anger', '7. disgust', '8. neutral', '9. neutral', '10. neutral', '11. joy', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. neutral']
+______________________________________________
+conversation: 170
+['1. neutral', '2. surprised', '3. joy', '4. neutral', '5. neutral', '6. joy', '7. joy', '8. neutral', '9. joy', '10. joy', '11. joy', '12. joy', '13. neutral', '14. joy', '15. sadness', '16. neutral', '17. neutral', '18. neutral', '19. neutral', '20. joy']
+______________________________________________
+conversation: 171
+['1. joy', '2. neutral', '3. neutral', '4. joy', '5. joy', '6. neutral', '7. sadness', '8. neutral', '9. disgust', '10. joy', '11. anger', '12. surprised', '13. neutral', '14. anger', '15. neutral', '16. surprised', '17. anger', '18. anger', '19. neutral', '20. anger', '21. neutral', '22. anger']
+______________________________________________
+conversation: 172
+['1. neutral', '2. neutral', '3. surprised', '4. neutral', '5. neutral', '6. neutral', '7. surprised', '8. joy', '9. joy', '10. surprised', '11. neutral', '12. surprised', '13. fear', '14. surprised']
+______________________________________________
+conversation: 173
+['1. joy', '2. joy', '3. joy', '4. joy', '5. neutral', '6. fear']
+______________________________________________
+conversation: 174
+['1. sadness', '2. neutral', '3. neutral', '4. surprised', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. joy', '10. joy']
+______________________________________________
+conversation: 175
+['1. neutral', '2. neutral', '3. anger', '4. anger', '5. neutral', '6. neutral']
+______________________________________________
+conversation: 176
+['1. fear', '2. neutral', '3. neutral', '4. neutral', '5. surprised', '6. joy', '7. anger', '8. neutral', '9. disgust', '10. neutral', '11. neutral', '12. joy', '13. anger', '14. joy', '15. neutral']
+______________________________________________
+conversation: 177
+['1. neutral', '2. neutral', '3. joy', '4. neutral', '5. surprised', '6. neutral', '7. neutral', '8. neutral']
+______________________________________________
+conversation: 178
+['1. anger', '2. neutral', '3. joy', '4. surprised', '5. neutral', '6. neutral', '7. joy']
+______________________________________________
+conversation: 179
+['1. sadness', '2. neutral', '3. sadness', '4. joy', '5. joy', '6. disgust', '7. joy', '8. surprised']
+______________________________________________
+conversation: 180
+['1. sadness', '2. joy', '3. joy', '4. neutral', '5. disgust', '6. surprised', '7. anger', '8. neutral']
+______________________________________________
+conversation: 181
+['["sadness", "neutral"]']
+______________________________________________
+conversation: 182
+['1. neutral', '2. neutral', '3. neutral', '4. disgust', '5. joy', '6. neutral', '7. neutral', '8. surprised', '9. sadness', '10. anger', '11. neutral', '12. anger', '13. anger', '14. neutral', '15. anger', '16. neutral', '17. neutral', '18. neutral', '19. neutral', '20. joy']
+______________________________________________
+conversation: 183
+['["neutral", "joy", "surprised"]']
+______________________________________________
+conversation: 184
+['[joy, surprised, neutral, neutral, neutral, neutral, neutral, neutral]']
+______________________________________________
+conversation: 185
+['["joy", "neutral", "neutral", "neutral", "surprised", "neutral", "joy"]']
+______________________________________________
+conversation: 186
+['1. neutral', '2. joy', '3. joy', '4. joy', '5. neutral', '6. neutral', '7. surprised', '8. surprised', '9. surprised', '10. surprised', '11. neutral', '12. joy']
+______________________________________________
+conversation: 187
+['[["neutral", "anger", "surprised", "neutral", "anger", "anger", "anger", "joy", "joy", "joy"]]']
+______________________________________________
+conversation: 188
+['1. neutral', '2. neutral', '3. joy', '4. fear', '5. sadness', '6. sadness', '7. neutral', '8. anger', '9. joy', '10. surprised']
+______________________________________________
+conversation: 189
+['1. surprised', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. surprised', '7. neutral', '8. fear', '9. joy', '10. anger', '11. neutral', '12. neutral', '13. joy', '14. neutral', '15. anger']
+______________________________________________
+conversation: 190
+['["joy", "surprised", "neutral", "surprised", "joy", "neutral"]']
+______________________________________________
+conversation: 191
+['1. joy', '2. surprised', '3. neutral', '4. neutral', '5. neutral', '6. surprised', '7. neutral', '8. anger', '9. disgust', '10. anger', '11. neutral', '12. sadness', '13. sadness', '14. sadness']
+______________________________________________
+conversation: 192
+['1. neutral', '2. joy', '3. joy', '4. surprised', '5. joy', '6. neutral', '7. joy']
+______________________________________________
+conversation: 193
+['1. neutral', '2. anger', '3. neutral', '4. surprised', '5. fear', '6. neutral', '7. neutral', '8. anger', '9. anger', '10. anger', '11. neutral', '12. anger', '13. anger', '14. anger', '15. anger', '16. anger', '17. anger', '18. neutral', '19. anger']
+______________________________________________
+conversation: 194
+['1. surprised', '2. neutral', '3. joy', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. joy', '15. neutral', '16. neutral', '17. neutral', '18. neutral', '19. anger', '20. neutral']
+______________________________________________
+conversation: 195
+['1. anger', '2. neutral', '3. surprised', '4. neutral', '5. neutral', '6. joy', '7. anger', '8. neutral', '9. neutral', '10. neutral', '11. joy', '12. surprised', '13. surprised', '14. sadness', '15. surprised', '16. surprised']
+______________________________________________
+conversation: 196
+['1. neutral', '2. joy', '3. surprised', '4. anger', '5. anger', '6. anger', '7. neutral', '8. joy', '9. joy', '10. joy', '11. neutral', '12. neutral']
+______________________________________________
+conversation: 197
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. anger', '7. neutral', '8. neutral', '9. surprised', '10. joy', '11. surprised', '12. sadness', '13. fear', '14. neutral']
+______________________________________________
+conversation: 198
+['1. neutral', '2. joy', '3. neutral', '4. fear', '5. surprised', '6. anger', '7. neutral', '8. disgust', '9. neutral', '10. fear']
+______________________________________________
+conversation: 199
+['[["neutral", 1], ["joy", 2], ["joy", 3], ["neutral", 4], ["anger", 5]]']
+______________________________________________
+conversation: 200
+['1. surprised', '2. neutral', '3. sadness', '4. surprised', '5. neutral', '6. neutral', '7. surprised', '8. neutral', '9. joy', '10. neutral', '11. neutral']
+______________________________________________
+conversation: 201
+['1. joy', '2. sadness', '3. neutral', '4. neutral']
+______________________________________________
+conversation: 202
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. sadness', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. neutral', '12. neutral', '13. neutral']
+______________________________________________
+conversation: 203
+['1. neutral', '2. anger', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. sadness', '8. surprised', '9. sadness', '10. neutral', '11. neutral', '12. neutral', '13. anger']
+______________________________________________
+conversation: 204
+['[["neutral", 1], ["joy", 2], ["neutral", 3], ["sadness", 4], ["neutral", 5], ["neutral", 6], ["neutral", 7]]']
+______________________________________________
+conversation: 205
+['["surprised", "neutral", "neutral", "neutral", "joy", "fear"]']
+______________________________________________
+conversation: 206
+['1. joy', '2. neutral', '3. neutral', '4. joy', '5. sadness', '6. joy', '7. neutral', '8. neutral', '9. joy', '10. joy', '11. joy', '12. joy', '13. neutral', '14. neutral', '15. disgust', '16. anger', '17. neutral', '18. anger', '19. disgust']
+______________________________________________
+conversation: 207
+['1. joy', '2. anger', '3. neutral', '4. neutral', '5. neutral', '6. disgust', '7. neutral', '8. neutral', '9. joy', '10. neutral', '11. joy', '12. neutral', '13. neutral', '14. neutral', '15. neutral']
+______________________________________________
+conversation: 208
+['["neutral", "neutral", "neutral", "joy", "joy", "joy"]']
+______________________________________________
+conversation: 209
+['1. disgust', '2. neutral', '3. fear', '4. joy', '5. neutral', '6. neutral', '7. joy', '8. neutral', '9. neutral', '10. sadness', '11. neutral', '12. neutral']
+______________________________________________
+conversation: 210
+['1. neutral', '2. joy', '3. neutral', '4. neutral', '5. neutral', '6. surprised', '7. joy', '8. neutral', '9. surprised', '10. neutral', '11. neutral', '12. anger', '13. surprised', '14. anger', '15. fear', '16. anger', '17. joy', '18. sadness', '19. joy']
+______________________________________________
+conversation: 211
+['1. neutral', '2. anger', '3. sadness', '4. neutral', '5. neutral', '6. joy', '7. joy', '8. neutral', '9. disgust']
+______________________________________________
+conversation: 212
+['1. neutral', '2. joy', '3. joy', '4. neutral', '5. neutral']
+______________________________________________
+conversation: 213
+['["neutral", "joy"]']
+______________________________________________
+conversation: 214
+['1. joy', '2. neutral', '3. anger', '4. sadness', '5. joy', '6. anger', '7. neutral', '8. anger', '9. neutral', '10. anger', '11. sadness', '12. anger', '13. sadness', '14. anger', '15. neutral']
+______________________________________________
+conversation: 215
+['[["surprised"], ["neutral"], ["neutral"], ["anger"], ["fear"], ["anger"], ["fear"], ["anger"], ["fear"], ["anger"], ["fear"], ["neutral"], ["joy"], ["neutral"], ["joy"], ["neutral"], ["fear"], ["neutral"], ["neutral"], ["neutral"]]']
+______________________________________________
+conversation: 216
+['["joy", "surprised"]']
+______________________________________________
+conversation: 217
+['1. joy', '2. neutral', '3. neutral', '4. sadness', '5. neutral', '6. anger', '7. neutral', '8. neutral', '9. neutral', '10. anger']
+______________________________________________
+conversation: 218
+['1. surprised', '2. surprised', '3. joy', '4. neutral', '5. anger', '6. neutral', '7. anger', '8. neutral', '9. sadness', '10. neutral']
+______________________________________________
+conversation: 219
+['1. neutral', '2. neutral', '3. joy', '4. neutral', '5. joy', '6. anger', '7. anger', '8. neutral', '9. neutral', '10. neutral', '11. anger', '12. anger', '13. neutral', '14. neutral', '15. anger']
+______________________________________________
+conversation: 220
+['["anger", "surprised", "anger", "anger", "surprised", "sadness", "neutral", "surprised", "sadness", "sadness", "neutral", "joy"]']
+______________________________________________
+conversation: 221
+['["anger", "neutral", "neutral", "neutral", "neutral", "neutral", "joy"]']
+______________________________________________
+conversation: 222
+['1. neutral', '2. neutral', '3. joy', '4. anger', '5. neutral', '6. disgust', '7. neutral']
+______________________________________________
+conversation: 223
+['1. fear', '2. neutral', '3. joy', '4. disgust', '5. neutral', '6. neutral', '7. neutral']
+______________________________________________
+conversation: 224
+['1. surprised', '2. neutral', '3. neutral', '4. joy', '5. fear', '6. neutral', '7. neutral', '8. joy', '9. fear', '10. neutral', '11. joy', '12. disgust', '13. anger', '14. neutral']
+______________________________________________
+conversation: 225
+['[["joy", "neutral", "neutral", "neutral", "sadness", "surprised", "fear"]]']
+______________________________________________
+conversation: 226
+['1. anger', '2. disgust', '3. neutral', '4. neutral', '5. neutral', '6. fear', '7. neutral', '8. joy']
+______________________________________________
+conversation: 227
+['1. joy', '2. joy', '3. joy', '4. joy', '5. neutral', '6. joy', '7. neutral', '8. joy', '9. joy', '10. sadness', '11. neutral', '12. neutral', '13. surprised', '14. fear', '15. sadness', '16. sadness', '17. neutral']
+______________________________________________
+conversation: 228
+['1. neutral', '2. fear', '3. neutral', '4. joy', '5. surprised', '6. anger', '7. sadness']
+______________________________________________
+conversation: 229
+['["anger", "surprised", "joy"]']
+______________________________________________
+conversation: 230
+['1. neutral', '2. anger', '3. surprised', '4. joy', '5. anger', '6. joy', '7. anger']
+______________________________________________
+conversation: 231
+['1. disgust', '2. neutral', '3. neutral', '4. joy', '5. surprised', '6. joy', '7. anger', '8. joy', '9. surprised', '10. joy', '11. joy', '12. joy', '13. joy']
+______________________________________________
+conversation: 232
+['[surprised, surprised, surprised, joy, disgust, neutral, neutral]']
+______________________________________________
+conversation: 233
+['[["anger", 1], ["neutral", 2], ["neutral", 3], ["neutral", 4], ["neutral", 5], ["neutral", 6], ["neutral", 7]]']
+______________________________________________
+conversation: 234
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. fear', '8. fear', '9. neutral', '10. neutral', '11. disgust', '12. disgust', '13. joy', '14. neutral', '15. neutral', '16. joy', '17. anger', '18. disgust']
+______________________________________________
+conversation: 235
+['1. neutral', '2. joy', '3. surprised', '4. surprised', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. joy', '10. neutral', '11. fear', '12. neutral']
+______________________________________________
+conversation: 236
+['1. neutral', '2. anger', '3. neutral', '4. anger', '5. neutral', '6. anger', '7. neutral', '8. anger', '9. joy', '10. anger']
+______________________________________________
+conversation: 237
+['1. disgust', '2. joy', '3. anger', '4. neutral', '5. anger', '6. neutral', '7. anger', '8. neutral', '9. surprised', '10. sadness', '11. anger', '12. neutral', '13. fear', '14. disgust', '15. neutral', '16. neutral']
+______________________________________________
+conversation: 238
+['1. anger', '2. neutral', '3. disgust', '4. sadness', '5. neutral', '6. neutral', '7. neutral', '8. anger', '9. neutral', '10. neutral', '11. neutral', '12. anger', '13. anger', '14. anger', '15. anger', '16. neutral']
+______________________________________________
+conversation: 239
+['1. neutral', '2. fear', '3. fear', '4. surprised', '5. disgust', '6. fear', '7. fear']
+______________________________________________
+conversation: 240
+['1. surprised', '2. neutral', '3. neutral', '4. joy', '5. neutral', '6. sadness', '7. anger']
+______________________________________________
+conversation: 241
+['["sadness", "anger", "surprised", "anger"]']
+______________________________________________
+conversation: 242
+['1. neutral', '2. sadness', '3. surprised', '4. sadness', '5. anger', '6. anger', '7. sadness', '8. anger', '9. neutral', '10. neutral', '11. fear', '12. anger']
+______________________________________________
+conversation: 243
+['1. surprised', '2. joy', '3. neutral', '4. joy', '5. anger', '6. sadness', '7. neutral', '8. joy', '9. disgust']
+______________________________________________
+conversation: 244
+['1. neutral', '2. neutral', '3. neutral', '4. fear', '5. anger']
+______________________________________________
+conversation: 245
+['1. surprised', '2. joy', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. anger', '9. joy']
+______________________________________________
+conversation: 246
+['1. neutral', '2. neutral', '3. surprised', '4. joy', '5. neutral', '6. neutral', '7. sadness', '8. neutral', '9. fear', '10. neutral', '11. joy', '12. joy', '13. joy', '14. joy', '15. neutral', '16. neutral', '17. fear', '18. neutral', '19. disgust']
+______________________________________________
+conversation: 247
+['1. anger', '2. neutral', '3. disgust', '4. surprised', '5. sadness']
+______________________________________________
+conversation: 248
+['["neutral", "neutral", "neutral", "neutral"]']
+______________________________________________
+conversation: 249
+['["neutral", "surprised"]']
+______________________________________________
+conversation: 250
+['["anger", "joy", "surprised", "neutral"]']
+______________________________________________
+conversation: 251
+['1. surprised', '2. joy', '3. sarcasm', '4. joy', '5. sarcasm', '6. anger', '7. neutral', '8. anger', '9. neutral', '10. anger', '11. neutral']
+______________________________________________
+conversation: 252
+['1. fear', '2. anger', '3. anger', '4. neutral', '5. joy', '6. neutral', '7. neutral', '8. joy', '9. anger']
+______________________________________________
+conversation: 253
+['1. neutral', '2. frustration', '3. frustration', '4. anxiety', '5. pain', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. neutral', '17. anxiety', '18. annoyance', '19. neutral']
+______________________________________________
+conversation: 254
+['1. surprised', '2. surprised', '3. fear', '4. disgust', '5. joy', '6. anger', '7. anger', '8. anger', '9. fear', '10. neutral', '11. sadness', '12. surprised', '13. neutral']
+______________________________________________
+conversation: 255
+['1. anger', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. sadness', '7. neutral', '8. neutral', '9. neutral', '10. surprised', '11. fear', '12. joy', '13. anger', '14. surprised', '15. anger', '16. neutral', '17. anger']
+______________________________________________
+conversation: 256
+['1. joy', '2. anger', '3. neutral']
+______________________________________________
+conversation: 257
+['1. neutral', '2. neutral', '3. surprised', '4. sadness', '5. neutral', '6. neutral', '7. neutral']
+______________________________________________
+conversation: 258
+['["joy", "neutral", "joy", "fear", "joy", "joy", "joy", "joy", "neutral"]']
+______________________________________________
+conversation: 259
+['1. surprised', '2. sadness', '3. anger', '4. neutral', '5. anger', '6. anger', '7. surprised', '8. neutral', '9. neutral', '10. fear', '11. neutral', '12. joy', '13. neutral', '14. anger', '15. neutral', '16. fear']
+______________________________________________
+conversation: 260
+['["neutral", "joy", "neutral"]']
+______________________________________________
+conversation: 261
+['1. neutral', '2. joy', '3. neutral', '4. joy', '5. surprised', '6. neutral', '7. disgust', '8. neutral', '9. disgust', '10. neutral', '11. joy', '12. joy', '13. neutral', '14. joy', '15. disgust', '16. anger', '17. disgust', '18. neutral', '19. neutral', '20. anger', '21. neutral']
+______________________________________________
+conversation: 262
+['["neutral", "surprised", "neutral"]']
+______________________________________________
+conversation: 263
+['1. neutral', '2. joy', '3. neutral', '4. neutral', '5. neutral', '6. sadness', '7. neutral', '8. surprised', '9. neutral', '10. surprised', '11. neutral', '12. neutral', '13. neutral', '14. fear', '15. fear', '16. neutral']
+______________________________________________
+conversation: 264
+['[["neutral", "neutral", "surprised", "joy"]]']
+______________________________________________
+conversation: 265
+['1. neutral', '2. fear', '3. anger', '4. neutral', '5. disgust', '6. neutral', '7. neutral', '8. joy', '9. neutral', '10. neutral', '11. neutral', '12. joy', '13. joy']
+______________________________________________
+conversation: 266
+['["joy", "neutral", "surprised", "neutral", "neutral", "neutral", "sadness", "joy", "joy", "neutral", "joy", "surprised", "surprised", "neutral", "surprised", "joy", "sadness", "joy", "neutral", "joy", "joy", "fear", "neutral", "joy", "sadness", "surprised"]']
+______________________________________________
+conversation: 267
+['1. surprised', '2. sadness', '3. neutral', '4. neutral', '5. sadness', '6. neutral', '7. neutral', '8. neutral', '9. sadness']
+______________________________________________
+conversation: 268
+['1. anger', '2. fear', '3. sadness', '4. neutral', '5. neutral', '6. joy', '7. neutral', '8. neutral', '9. joy', '10. sadness', '11. joy', '12. neutral', '13. neutral']
+______________________________________________
+conversation: 269
+['1. fear', '2. surprised']
+______________________________________________
+conversation: 270
+['1. surprised', '2. neutral', '3. surprised', '4. anger', '5. sadness', '6. anger', '7. anger', '8. anger', '9. anger', '10. anger', '11. anger', '12. anger', '13. surprised', '14. neutral', '15. disgust', '16. neutral', '17. anger', '18. anger', '19. anger', '20. anger', '21. anger', '22. anger']
+______________________________________________
+conversation: 271
+['1. neutral', '2. neutral', '3. neutral', '4. anger', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. surprised', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. surprised', '17. neutral', '18. fear', '19. joy', '20. surprised', '21. neutral']
+______________________________________________
+conversation: 272
+['1. joy', '2. joy', '3. anger', '4. surprised', '5. joy', '6. neutral', '7. anger', '8. neutral', '9. joy', '10. neutral']
+______________________________________________
+conversation: 273
+['["anger", "anger", "sadness", "sadness", "surprised", "anger", "anger"]']
+______________________________________________
+conversation: 274
+['[["anger", "neutral", "joy", "neutral"]]']
+______________________________________________
+conversation: 275
+['1. anger', '2. neutral', '3. joy', '4. disgust', '5. surprised', '6. disgust', '7. anger', '8. neutral', '9. anger', '10. anger', '11. fear', '12. sadness', '13. sadness', '14. neutral', '15. neutral']
+______________________________________________
+conversation: 276
+['1. sadness', '2. neutral', '3. fear', '4. neutral', '5. sadness', '6. neutral', '7. joy', '8. anger', '9. joy', '10. joy', '11. neutral', '12. anger', '13. neutral', '14. disgust', '15. sadness', '16. anger']
+______________________________________________
+conversation: 277
+['1. neutral', '2. surprised', '3. fear', '4. disgust', '5. neutral', '6. joy', '7. neutral', '8. joy', '9. disgust', '10. surprised', '11. neutral']
+______________________________________________
+conversation: 278
+['["anger", "neutral"]']
+______________________________________________
+conversation: 279
+['1. anger', '2. neutral', '3. neutral', '4. sadness', '5. neutral', '6. neutral', '7. neutral', '8. anger', '9. neutral', '10. anger', '11. joy']
+______________________________________________
+conversation: 280
+['1. anger', '2. neutral', '3. fear', '4. neutral', '5. disgust', '6. sadness', '7. joy', '8. neutral', '9. neutral', '10. surprised', '11. joy', '12. neutral', '13. joy', '14. joy', '15. joy']
+______________________________________________
+conversation: 281
+['1. neutral', '2. neutral', '3. sadness', '4. sadness', '5. neutral', '6. joy', '7. joy', '8. neutral']
+______________________________________________
+conversation: 282
+['1. anger', '2. joy', '3. surprised', '4. neutral', '5. disgust', '6. neutral', '7. neutral', '8. sadness', '9. joy', '10. neutral', '11. neutral', '12. joy', '13. neutral']
+______________________________________________
+conversation: 283
+['1. neutral', '2. joy', '3. neutral', '4. fear', '5. neutral', '6. fear']
+______________________________________________
+conversation: 284
+['["surprised", "surprised", "joy", "joy", "neutral"]']
+______________________________________________
+conversation: 285
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. joy', '6. surprised', '7. sadness']
+______________________________________________
+conversation: 286
+['1. joy', '2. neutral', '3. neutral', '4. joy', '5. neutral', '6. joy', '7. surprised', '8. neutral', '9. surprised', '10. neutral', '11. surprised', '12. neutral', '13. neutral']
+______________________________________________
+conversation: 287
+['1. anger', '2. sadness', '3. anger', '4. sadness', '5. surprised', '6. neutral', '7. joy', '8. surprised', '9. fear', '10. anger', '11. neutral', '12. sadness', '13. sadness', '14. surprised', '15. sadness', '16. surprised', '17. sadness', '18. anger', '19. joy', '20. neutral', '21. neutral', '22. joy']
+______________________________________________
+conversation: 288
+['[["neutral", 1], ["neutral", 2], ["neutral", 3], ["neutral", 4]]']
+______________________________________________
+conversation: 289
+['1. joy', '2. joy', '3. joy', '4. neutral', '5. joy', '6. joy', '7. disgust', '8. sadness', '9. neutral', '10. neutral', '11. neutral', '12. surprised']
+______________________________________________
+conversation: 290
+['1. neutral', '2. neutral', '3. joy', '4. joy', '5. anger', '6. neutral', '7. joy', '8. joy', '9. neutral', '10. joy']
+______________________________________________
+conversation: 291
+['1. neutral', '2. neutral', '3. sadness', '4. neutral', '5. sadness', '6. anger', '7. surprised', '8. joy', '9. sadness']
+______________________________________________
+conversation: 292
+['1. anger', '2. neutral', '3. anger', '4. surprised', '5. neutral', '6. neutral', '7. neutral', '8. joy', '9. anger', '10. anger', '11. neutral', '12. neutral', '13. anger', '14. anger', '15. sadness', '16. sadness']
+______________________________________________
+conversation: 293
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. joy']
+______________________________________________
+conversation: 294
+['1. neutral', '2. joy', '3. neutral', '4. surprised', '5. neutral', '6. neutral', '7. joy', '8. surprised', '9. neutral', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. surprised', '15. joy', '16. disgust', '17. neutral', '18. disgust', '19. neutral', '20. neutral', '21. disgust', '22. neutral', '23. sadness']
+______________________________________________
+conversation: 295
+['1. neutral', '2. neutral', '3. neutral', '4. surprised', '5. neutral', '6. anger', '7. neutral', '8. surprised', '9. sadness', '10. neutral', '11. neutral', '12. neutral', '13. surprised', '14. sadness', '15. neutral', '16. neutral', '17. neutral', '18. neutral']
+______________________________________________
+conversation: 296
+['1. surprised', '2. joy', '3. neutral', '4. sadness', '5. neutral', '6. neutral', '7. surprised', '8. neutral', '9. neutral', '10. neutral', '11. disgust', '12. fear']
+______________________________________________
+conversation: 297
+['["surprised", "neutral", "sadness"]']
+______________________________________________
+conversation: 298
+['1. neutral', '2. surprised', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral']
+______________________________________________
+conversation: 299
+['1. neutral', '2. surprised', '3. fear', '4. neutral', '5. disgust', '6. fear', '7. joy', '8. neutral', '9. neutral']
+______________________________________________
+conversation: 300
+['1. anger', '2. surprised', '3. joy', '4. neutral', '5. anger', '6. neutral', '7. neutral', '8. neutral']
+______________________________________________
+conversation: 301
+['1. anger', '2. anger', '3. anger', '4. neutral', '5. anger', '6. neutral', '7. neutral', '8. neutral', '9. sadness']
+______________________________________________
+conversation: 302
+['1. surprised', '2. anger', '3. neutral', '4. joy', '5. anger', '6. anger', '7. neutral', '8. anger', '9. neutral', '10. anger', '11. neutral']
+______________________________________________
+conversation: 303
+['["neutral", "neutral", "joy", "neutral"]']
+______________________________________________
+conversation: 304
+['1. surprised', '2. neutral', '3. sadness', '4. sadness', '5. sadness', '6. sadness', '7. neutral', '8. joy', '9. joy', '10. surprised']
+______________________________________________
+conversation: 305
+['1. surprised', '2. neutral', '3. neutral', '4. neutral', '5. joy', '6. joy', '7. neutral', '8. joy', '9. neutral', '10. neutral', '11. neutral', '12. surprised', '13. anger', '14. anger', '15. anger', '16. neutral']
+______________________________________________
+conversation: 306
+['1. neutral', '2. neutral', '3. surprised', '4. neutral', '5. neutral']
+______________________________________________
+conversation: 307
+['1. neutral', '2. neutral', '3. sadness', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. joy', '11. neutral', '12. surprised', '13. neutral']
+______________________________________________
+conversation: 308
+['["joy", "neutral", "joy", "surprised"]']
+______________________________________________
+conversation: 309
+['1. neutral', '2. joy', '3. neutral', '4. neutral', '5. surprised', '6. sadness', '7. sadness', '8. fear', '9. fear', '10. neutral', '11. disgust', '12. neutral', '13. joy', '14. surprised', '15. joy', '16. joy', '17. joy', '18. joy', '19. neutral', '20. neutral', '21. joy']
+______________________________________________
+conversation: 310
+['1. neutral', '2. surprised', '3. neutral', '4. disgust', '5. neutral', '6. joy', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. anger', '16. sadness', '17. fear', '18. neutral', '19. neutral', '20. neutral', '21. neutral']
+______________________________________________
+conversation: 311
+['1. neutral', '2. joy', '3. neutral', '4. surprised', '5. fear', '6. neutral', '7. neutral', '8. neutral', '9. joy', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. neutral', '17. neutral']
+______________________________________________
+conversation: 312
+['["anger", "neutral", "anger", "neutral"]']
+______________________________________________
+conversation: 313
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. anger', '6. neutral', '7. neutral', '8. neutral', '9. anger', '10. neutral', '11. sadness', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. anger', '17. neutral', '18. joy', '19. surprised', '20. joy', '21. anger', '22. neutral']
+______________________________________________
+conversation: 314
+['1. anger', '2. joy', '3. neutral', '4. fear', '5. surprised', '6. joy', '7. joy', '8. neutral', '9. joy', '10. joy', '11. joy', '12. fear', '13. neutral', '14. joy', '15. disgust']
+______________________________________________
+conversation: 315
+['1. neutral', '2. neutral', '3. joy', '4. joy', '5. surprised']
+______________________________________________
+conversation: 316
+['[["joy", "surprised", "surprised", "neutral", "neutral", "anger", "neutral"]]']
+______________________________________________
+conversation: 317
+['1. anger', '2. neutral', '3. surprised', '4. neutral', '5. sadness', '6. neutral', '7. neutral', '8. anger', '9. neutral', '10. sadness', '11. neutral', '12. neutral']
+______________________________________________
+conversation: 318
+['["joy", "joy", "neutral", "neutral"]']
+______________________________________________
+conversation: 319
+['1. neutral', '2. joy', '3. neutral', '4. neutral', '5. neutral', '6. joy', '7. joy', '8. neutral', '9. neutral', '10. neutral', '11. neutral', '12. joy', '13. surprised']
+______________________________________________
+conversation: 320
+['1. neutral', '2. joy', '3. neutral', '4. joy', '5. neutral', '6. neutral', '7. neutral', '8. neutral']
+______________________________________________
+conversation: 321
+['["anger", "surprised", "surprised", "anger", "fear", "anger", "fear", "surprised", "fear", "anger", "anger", "surprised", "fear", "anger", "surprised", "neutral"]']
+______________________________________________
+conversation: 322
+['1. neutral', '2. anger', '3. surprised', '4. anger', '5. neutral', '6. joy', '7. surprised']
+______________________________________________
+conversation: 323
+['["anger", "neutral"]']
+______________________________________________
+conversation: 324
+['1. anger', '2. neutral', '3. neutral', '4. neutral', '5. anger', '6. neutral', '7. sadness', '8. surprised', '9. neutral', '10. anger', '11. joy', '12. sadness', '13. sadness', '14. neutral', '15. sadness', '16. fear', '17. neutral', '18. neutral']
+______________________________________________
+conversation: 325
+['["sadness", "neutral", "neutral", "joy", "neutral"]']
+______________________________________________
+conversation: 326
+['1. neutral', '2. surprised', '3. neutral', '4. surprised', '5. neutral', '6. neutral', '7. sadness', '8. sadness', '9. neutral', '10. anger', '11. neutral', '12. neutral', '13. neutral', '14. joy', '15. neutral', '16. neutral', '17. sadness', '18. neutral', '19. neutral', '20. neutral', '21. fear', '22. fear', '23. neutral', '24. fear', '25. neutral', '26. anger']
+______________________________________________
+conversation: 327
+['1. joy', '2. neutral', '3. fear', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. sadness', '11. joy', '12. surprised', '13. sadness', '14. surprised', '15. sadness', '16. neutral', '17. neutral', '18. neutral', '19. sadness']
+______________________________________________
+conversation: 328
+['1. neutral', '2. neutral', '3. sadness', '4. joy', '5. sadness', '6. surprised']
+______________________________________________
+conversation: 329
+['["sadness", "neutral", "neutral", "neutral", "neutral", "sadness"]']
+______________________________________________
+conversation: 330
+['1. neutral', '2. neutral', '3. neutral', '4. surprised', '5. neutral', '6. neutral', '7. neutral', '8. joy', '9. neutral', '10. disgust', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. disgust']
+______________________________________________
+conversation: 331
+['1. sadness', '2. neutral', '3. joy', '4. disgust', '5. joy', '6. fear', '7. neutral', '8. surprised', '9. joy', '10. joy']
+______________________________________________
+conversation: 332
+['["neutral", "joy", "neutral"]']
+______________________________________________
+conversation: 333
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. sadness', '6. sadness', '7. anger', '8. sadness', '9. neutral', '10. sadness', '11. neutral', '12. surprised', '13. neutral', '14. anger', '15. anger']
+______________________________________________
+conversation: 334
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. surprised', '6. fear', '7. sadness', '8. fear', '9. surprised', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. fear', '15. neutral', '16. surprised', '17. joy', '18. joy', '19. joy']
+______________________________________________
+conversation: 335
+['1. neutral', '2. neutral', '3. neutral', '4. joy', '5. neutral', '6. surprised', '7. surprised', '8. neutral', '9. joy', '10. surprised', '11. neutral', '12. surprised', '13. neutral', '14. neutral', '15. neutral', '16. surprised']
+______________________________________________
+conversation: 336
+['["neutral", "joy", "surprised"]']
+______________________________________________
+conversation: 337
+['["neutral", "joy", "neutral", "surprised"]']
+______________________________________________
+conversation: 338
+['[neutral, neutral, neutral, neutral, surprised, neutral, neutral, joy, neutral, neutral, neutral, disgust]']
+______________________________________________
+conversation: 339
+['1. neutral', '2. sadness', '3. neutral', '4. sadness', '5. sadness', '6. sadness', '7. sadness', '8. neutral', '9. sadness', '10. sadness', '11. sadness', '12. neutral', '13. sadness']
+______________________________________________
+conversation: 340
+['["neutral", "disgust", "joy"]']
+______________________________________________
+conversation: 341
+['1. anger', '2. disgust', '3. neutral', '4. neutral', '5. anger', '6. neutral', '7. anger', '8. anger', '9. anger', '10. anger', '11. neutral', '12. neutral', '13. joy', '14. neutral', '15. joy', '16. neutral']
+______________________________________________
+conversation: 342
+['1. joy', '2. neutral', '3. sadness', '4. sadness', '5. fear']
+______________________________________________
+conversation: 343
+['1. neutral', '2. neutral', '3. joy', '4. surprised']
+______________________________________________
+conversation: 344
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. surprised', '6. neutral', '7. anger']
+______________________________________________
+conversation: 345
+['[["neutral", 1], ["neutral", 2], ["fear", 3]]']
+______________________________________________
+conversation: 346
+['["anger", "sadness", "disgust", "sadness", "sadness", "sadness", "anger", "neutral", "neutral", "neutral", "surprised"]']
+______________________________________________
+conversation: 347
+['1. anger', '2. anger', '3. sadness', '4. neutral', '5. sadness', '6. neutral']
+______________________________________________
+conversation: 348
+['1. joy', '2. sadness', '3. joy']
+______________________________________________
+conversation: 349
+['1. neutral', '2. fear', '3. anger', '4. disgust', '5. fear', '6. neutral', '7. surprised', '8. neutral', '9. joy', '10. neutral', '11. neutral', '12. fear']
+______________________________________________
+conversation: 350
+['1. neutral', '2. surprised', '3. joy', '4. neutral', '5. surprised']
+______________________________________________
+conversation: 351
+['["sadness", "anger", "surprised", "neutral", "neutral", "neutral", "surprised"]']
+______________________________________________
+conversation: 352
+['["neutral", "fear", "sadness", "surprised", "neutral"]']
+______________________________________________
+conversation: 353
+['1. surprised', '2. neutral', '3. neutral', '4. anger', '5. neutral', '6. disgust', '7. neutral', '8. fear', '9. neutral', '10. disgust', '11. sadness', '12. neutral', '13. neutral', '14. neutral', '15. anger', '16. neutral', '17. anger']
+______________________________________________
+conversation: 354
+['1. neutral', '2. joy', '3. joy', '4. neutral', '5. neutral', '6. neutral', '7. joy', '8. neutral', '9. surprised', '10. neutral', '11. sadness', '12. joy', '13. neutral']
+______________________________________________
+conversation: 355
+['1. surprised', '2. joy', '3. disgust']
+______________________________________________
+conversation: 356
+['1. neutral', '2. joy', '3. joy', '4. joy', '5. surprised', '6. surprised', '7. neutral', '8. sadness', '9. neutral', '10. neutral', '11. joy', '12. neutral', '13. neutral', '14. sadness']
+______________________________________________
+conversation: 357
+['1. neutral', '2. neutral', '3. neutral', '4. surprised', '5. joy', '6. joy', '7. anger', '8. fear']
+______________________________________________
+conversation: 358
+['1. anger', '2. disgust']
+______________________________________________
+conversation: 359
+['1. joy', '2. neutral', '3. surprised', '4. neutral', '5. joy', '6. anger', '7. joy', '8. neutral', '9. neutral', '10. disgust', '11. neutral', '12. neutral', '13. neutral']
+______________________________________________
+conversation: 360
+['1. neutral', '2. sadness', '3. neutral', '4. sadness', '5. embarrassed', '6. sadness', '7. sadness', '8. neutral', '9. anger', '10. anger', '11. anger', '12. neutral', '13. disgust', '14. neutral', '15. disgust', '16. neutral', '17. sadness', '18. neutral', '19. neutral', '20. neutral', '21. sadness', '22. neutral', '23. neutral', '24. sadness']
+______________________________________________
+conversation: 361
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. joy', '9. surprised', '10. neutral', '11. neutral', '12. neutral', '13. surprised']
+______________________________________________
+conversation: 362
+['1. neutral', '2. joy', '3. sadness', '4. joy', '5. surprised', '6. neutral', '7. anger', '8. fear', '9. sadness', '10. anger', '11. sadness', '12. sadness', '13. joy', '14. surprised', '15. joy', '16. neutral', '17. neutral', '18. joy', '19. joy', '20. joy', '21. anger', '22. sadness']
+______________________________________________
+conversation: 363
+['["neutral", "neutral", "neutral", "neutral", "surprised", "neutral", "neutral"]']
+______________________________________________
+conversation: 364
+['[joy, joy, joy, joy]']
+______________________________________________
+conversation: 365
+['1. anger', '2. sadness', '3. neutral', '4. anger', '5. neutral', '6. neutral', '7. anger', '8. anger', '9. neutral', '10. neutral', '11. neutral']
+______________________________________________
+conversation: 366
+['["neutral", "neutral", "neutral", "neutral", "disgust"]']
+______________________________________________
+conversation: 367
+['1. neutral', '2. sadness', '3. surprised', '4. joy', '5. joy', '6. neutral', '7. neutral', '8. anger', '9. neutral', '10. neutral', '11. joy']
+______________________________________________
+conversation: 368
+['1. neutral', '2. anger', '3. anger', '4. anger', '5. anger', '6. neutral', '7. anger', '8. neutral', '9. disgust', '10. sadness', '11. sadness', '12. anger', '13. anger', '14. neutral', '15. sadness', '16. sadness', '17. sadness', '18. sadness', '19. sadness']
+______________________________________________
+conversation: 369
+['1. neutral', '2. fear', '3. neutral', '4. joy', '5. neutral']
+______________________________________________
+conversation: 370
+['["anger", "neutral", "neutral", "neutral", "neutral", "neutral", "neutral", "surprised", "joy", "neutral", "neutral", "anger", "anger", "neutral", "anger", "neutral", "neutral"]']
+______________________________________________
+conversation: 371
+['["joy", "joy", "neutral", "neutral", "surprised"]']
+______________________________________________
+conversation: 372
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. joy', '8. joy', '9. neutral', '10. neutral', '11. neutral']
+______________________________________________
+conversation: 373
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. disgust', '11. neutral']
+______________________________________________
+conversation: 374
+['1. anger', '2. surprised', '3. neutral', '4. disgust', '5. sadness']
+______________________________________________
+conversation: 375
+['1. neutral', '2. surprised', '3. neutral', '4. neutral', '5. disgust', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. anger', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. neutral', '17. anger', '18. neutral', '19. sadness', '20. sadness', '21. sadness', '22. neutral', '23. neutral']
+______________________________________________
+conversation: 376
+['1. joy', '2. joy', '3. joy', '4. neutral', '5. anger', '6. neutral', '7. neutral', '8. neutral']
+______________________________________________
+conversation: 377
+['[neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral]']
+______________________________________________
+conversation: 378
+['[neutral, neutral, neutral, anger, surprised, joy, neutral, joy]']
+______________________________________________
+conversation: 379
+['1. neutral', '2. joy', '3. neutral', '4. sadness', '5. neutral', '6. surprised', '7. anger', '8. neutral', '9. neutral', '10. neutral', '11. joy']
+______________________________________________
+conversation: 380
+['1. surprised', '2. surprised', '3. neutral', '4. neutral', '5. neutral', '6. joy', '7. neutral', '8. neutral', '9. disgust', '10. neutral', '11. neutral', '12. neutral', '13. disgust', '14. neutral', '15. joy', '16. anger']
+______________________________________________
+conversation: 381
+['1. neutral', '2. sadness', '3. sadness', '4. surprised', '5. neutral', '6. surprised']
+______________________________________________
+conversation: 382
+['1. neutral', '2. sadness', '3. sadness', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. sadness']
+______________________________________________
+conversation: 383
+['["anger", "surprised"]']
+______________________________________________
+conversation: 384
+['1. neutral', '2. joy', '3. neutral', '4. neutral', '5. anger', '6. neutral', '7. fear', '8. anger', '9. sadness']
+______________________________________________
+conversation: 385
+['1. neutral', '2. disgust', '3. neutral', '4. neutral', '5. joy', '6. neutral', '7. neutral', '8. disgust', '9. neutral', '10. surprised', '11. surprised', '12. neutral']
+______________________________________________
+conversation: 386
+['1. neutral', '2. joy', '3. surprised', '4. neutral', '5. anger', '6. neutral', '7. anger', '8. fear', '9. neutral']
+______________________________________________
+conversation: 387
+['1. joy', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. joy', '7. joy', '8. joy', '9. joy', '10. anger', '11. anger', '12. anger', '13. anger', '14. anger', '15. joy', '16. surprised', '17. disgust', '18. neutral', '19. disgust', '20. disgust']
+______________________________________________
+conversation: 388
+['[["neutral",1],["neutral",2],["joy",3]]']
+______________________________________________
+conversation: 389
+['[sadness, sadness, sadness, neutral, joy, neutral, joy, neutral, neutral, neutral, sadness, neutral, joy, neutral, neutral]']
+______________________________________________
+conversation: 390
+['1. neutral', '2. joy', '3. joy', '4. neutral', '5. disgust', '6. neutral', '7. joy', '8. joy', '9. neutral', '10. surprised']
+______________________________________________
+conversation: 391
+['["anger", "anger", "anger", "anger", "neutral", "anger"]']
+______________________________________________
+conversation: 392
+['1. neutral', '2. surprised', '3. anger']
+______________________________________________
+conversation: 393
+['1. pain', '2. neutral', '3. neutral', '4. surprise', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. joy', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. neutral']
+______________________________________________
+conversation: 394
+['1. neutral', '2. disgust', '3. neutral', '4. joy', '5. surprised', '6. neutral', '7. joy']
+______________________________________________
+conversation: 395
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. surprised', '11. neutral', '12. disgust', '13. neutral', '14. surprised']
+______________________________________________
+conversation: 396
+['[neutral, sadness, neutral, sadness, neutral, joy, neutral, disgust, neutral, disgust]']
+______________________________________________
+conversation: 397
+['1. joy', '2. neutral', '3. neutral', '4. sadness', '5. sadness', '6. surprised']
+______________________________________________
+conversation: 398
+['1. joy', '2. neutral', '3. joy', '4. surprised', '5. joy', '6. disgust', '7. neutral', '8. sadness']
+______________________________________________
+conversation: 399
+['[["neutral",1],["neutral",2],["neutral",3],["sadness",4],["neutral",5],["disgust",6],["neutral",7]]']
+______________________________________________
+conversation: 400
+['1. neutral', '2. fear', '3. neutral', '4. fear', '5. neutral', '6. neutral', '7. neutral', '8. surprised', '9. neutral', '10. sadness', '11. sadness', '12. anger', '13. fear', '14. anger', '15. anger', '16. anger', '17. anger', '18. anger', '19. anger', '20. anger', '21. sadness']
+______________________________________________
+conversation: 401
+['1. surprised', '2. surprised', '3. joy', '4. neutral', '5. joy', '6. joy', '7. neutral', '8. anger', '9. neutral', '10. neutral', '11. surprised', '12. neutral', '13. joy', '14. joy', '15. joy', '16. sadness', '17. sadness', '18. sadness', '19. sadness', '20. neutral']
+______________________________________________
+conversation: 402
+['[["neutral", "neutral", "anger"]]']
+______________________________________________
+conversation: 403
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. anger', '7. neutral', '8. anger', '9. surprised', '10. sadness', '11. neutral', '12. neutral']
+______________________________________________
+conversation: 404
+['1. neutral', '2. neutral', '3. sadness', '4. sadness', '5. sadness', '6. neutral', '7. surprised', '8. neutral', '9. sadness', '10. sadness', '11. sadness', '12. sadness', '13. sadness', '14. neutral']
+______________________________________________
+conversation: 405
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. surprised', '7. joy', '8. joy', '9. neutral', '10. neutral', '11. neutral', '12. joy', '13. surprised', '14. neutral', '15. neutral', '16. surprised', '17. neutral', '18. joy', '19. joy', '20. surprised', '21. neutral', '22. neutral', '23. neutral', '24. neutral']
+______________________________________________
+conversation: 406
+['1. neutral', '2. anger', '3. neutral', '4. neutral', '5. anger', '6. anger', '7. anger', '8. anger']
+______________________________________________
+conversation: 407
+['["neutral", "sadness", "neutral", "surprised", "disgust"]']
+______________________________________________
+conversation: 408
+['1. surprised', '2. neutral']
+______________________________________________
+conversation: 409
+['["neutral", "anger", "anger"]']
+______________________________________________
+conversation: 410
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. fear', '7. surprised', '8. surprised', '9. fear', '10. neutral', '11. sadness', '12. sadness', '13. joy', '14. joy', '15. joy', '16. neutral', '17. neutral', '18. anger']
+______________________________________________
+conversation: 411
+['1. joy', '2. neutral', '3. surprise', '4. surprise', '5. sadness', '6. surprise', '7. neutral', '8. anger', '9. sadness', '10. sadness', '11. neutral', '12. anger']
+______________________________________________
+conversation: 412
+['1. neutral', '2. neutral', '3. fear', '4. neutral', '5. joy', '6. sadness', '7. joy', '8. sadness', '9. sadness', '10. neutral', '11. neutral', '12. neutral', '13. surprised', '14. anger']
+______________________________________________
+conversation: 413
+['1. surprised', '2. neutral', '3. fear', '4. joy', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. neutral', '12. fear', '13. neutral']
+______________________________________________
+conversation: 414
+['1. fear', '2. joy', '3. fear', '4. joy']
+______________________________________________
+conversation: 415
+['["neutral", "neutral", "neutral", "surprised"]']
+______________________________________________
+conversation: 416
+['1. joy', '2. neutral', '3. neutral', '4. neutral', '5. surprised', '6. neutral', '7. surprised', '8. neutral', '9. neutral']
+______________________________________________
+conversation: 417
+['1. neutral', '2. surprised', '3. neutral', '4. sadness', '5. disgust', '6. sadness', '7. neutral', '8. neutral', '9. joy', '10. surprised', '11. anger', '12. neutral', '13. neutral', '14. joy']
+______________________________________________
+conversation: 418
+['1. neutral', '2. surprised', '3. neutral', '4. surprised', '5. anger', '6. joy', '7. joy', '8. neutral', '9. neutral', '10. neutral', '11. neutral', '12. joy', '13. neutral', '14. neutral', '15. joy', '16. fear', '17. joy', '18. neutral', '19. sadness', '20. joy', '21. anger']
+______________________________________________
+conversation: 419
+['1. neutral', '2. joy', '3. anger', '4. neutral', '5. disgust', '6. surprised']
+______________________________________________
+conversation: 420
+['1. disgust', '2. neutral', '3. surprised', '4. disgust', '5. neutral', '6. disgust', '7. joy', '8. anger', '9. neutral', '10. anger', '11. neutral', '12. anger', '13. anger', '14. anger', '15. anger', '16. neutral']
+______________________________________________
+conversation: 421
+['[["joy", 1], ["neutral", 2], ["joy", 3]]']
+______________________________________________
+conversation: 422
+['1. joy', '2. disgust', '3. surprised', '4. neutral', '5. joy', '6. sadness', '7. anger', '8. neutral', '9. joy', '10. neutral']
+______________________________________________
+conversation: 423
+['1. neutral', '2. joy', '3. neutral', '4. disgust', '5. disgust', '6. neutral', '7. neutral', '8. anger', '9. surprised', '10. neutral', '11. sadness', '12. sadness']
+______________________________________________
+conversation: 424
+['[["neutral", "neutral", "anger", "neutral", "neutral"]]']
+______________________________________________
+conversation: 425
+['[["surprised"], ["sadness"], ["neutral"], ["sadness"], ["sadness"], ["surprised"], ["sadness"], ["sadness"], ["sadness"], ["sadness"], ["joy"], ["joy"], ["joy"], ["neutral"], ["joy"], ["joy"], ["surprised"], ["surprised"], ["joy"]]']
+______________________________________________
+conversation: 426
+['1. anger', '2. neutral', '3. neutral', '4. joy', '5. neutral', '6. joy', '7. joy', '8. neutral', '9. neutral', '10. neutral', '11. anger', '12. neutral', '13. surprised', '14. neutral', '15. surprised', '16. neutral', '17. surprised']
+______________________________________________
+conversation: 427
+['1. neutral', '2. neutral', '3. neutral', '4. joy', '5. sadness', '6. surprised', '7. neutral', '8. fear', '9. neutral', '10. disgust', '11. fear', '12. sadness']
+______________________________________________
+conversation: 428
+['1. neutral', '2. surprised', '3. neutral', '4. fear', '5. neutral', '6. joy', '7. sadness', '8. neutral', '9. neutral', '10. neutral', '11. anger', '12. neutral', '13. neutral', '14. joy', '15. neutral', '16. neutral', '17. neutral', '18. joy', '19. surprised']
+______________________________________________
+conversation: 429
+['1. fear', '2. neutral', '3. joy', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. anger', '12. disgust', '13. sadness', '14. surprised']
+______________________________________________
+conversation: 430
+['1. joy', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. surprised', '7. anger', '8. disgust', '9. anger', '10. neutral', '11. joy', '12. neutral']
+______________________________________________
+conversation: 431
+['1. joy', '2. joy', '3. neutral', '4. neutral', '5. surprised', '6. sadness', '7. neutral', '8. anger', '9. neutral', '10. disgust']
+______________________________________________
+conversation: 432
+['1. surprised', '2. joy', '3. joy', '4. neutral', '5. anger', '6. neutral', '7. disgust', '8. neutral', '9. surprised', '10. neutral', '11. anger', '12. fear', '13. sadness', '14. sadness', '15. disgust']
+______________________________________________
+conversation: 433
+['1. surprised', '2. fear', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. anger', '9. neutral', '10. sadness', '11. neutral', '12. surprised', '13. surprised', '14. sadness', '15. neutral', '16. joy', '17. joy', '18. joy']
+______________________________________________
+conversation: 434
+['1. neutral', '2. anger', '3. neutral', '4. neutral', '5. surprised', '6. neutral', '7. fear', '8. neutral', '9. joy', '10. anger', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. surprised']
+______________________________________________
+conversation: 435
+['["neutral", "neutral", "neutral"]']
+______________________________________________
+conversation: 436
+['1. neutral', '2. joy', '3. neutral', '4. joy', '5. neutral', '6. surprised', '7. neutral', '8. anger', '9. neutral', '10. anger', '11. disgust', '12. sadness', '13. sadness', '14. sadness', '15. neutral', '16. sadness', '17. neutral', '18. neutral']
+______________________________________________
+conversation: 437
+['[["joy"], ["joy"], ["surprised"], ["anger"], ["neutral"], ["neutral"], ["neutral"]]']
+______________________________________________
+conversation: 438
+['1. neutral', '2. joy', '3. neutral', '4. neutral', '5. neutral', '6. neutral']
+______________________________________________
+conversation: 439
+['["neutral", "surprised", "sadness", "sadness"]']
+______________________________________________
+conversation: 440
+['["neutral", "surprised", "neutral", "neutral"]']
+______________________________________________
+conversation: 441
+['[["surprised", "neutral", "neutral", "neutral", "neutral", "neutral", "neutral", "neutral", "neutral", "joy", "neutral", "neutral", "neutral"]]']
+______________________________________________
+conversation: 442
+['["neutral", "neutral", "neutral", "anger"]']
+______________________________________________
+conversation: 443
+['1. neutral', '2. surprised', '3. sadness', '4. neutral', '5. joy', '6. sadness', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. anger', '12. neutral', '13. anger', '14. joy', '15. neutral']
+______________________________________________
+conversation: 444
+['["neutral", "anger", "sadness"]']
+______________________________________________
+conversation: 445
+['1. neutral', '2. neutral', '3. joy', '4. surprised', '5. anger', '6. disgust', '7. anger', '8. anger', '9. neutral']
+______________________________________________
+conversation: 446
+['1. joy', '2. joy', '3. joy', '4. joy', '5. sadness', '6. neutral', '7. neutral', '8. neutral', '9. joy', '10. neutral', '11. surprised', '12. neutral', '13. surprised', '14. joy', '15. surprised', '16. joy', '17. surprised', '18. joy', '19. surprised', '20. sadness']
+______________________________________________
+conversation: 447
+['["neutral", "joy"]']
+______________________________________________
+conversation: 448
+['1. neutral', '2. joy', '3. joy', '4. joy', '5. joy', '6. surprised', '7. neutral', '8. neutral', '9. joy', '10. joy', '11. neutral', '12. neutral', '13. neutral']
+______________________________________________
+conversation: 449
+['["joy", "neutral", "surprised"]']
+______________________________________________
+conversation: 450
+['[["surprised",1],["neutral",2],["surprised",3],["joy",4],["joy",5],["joy",6],["neutral",7],["joy",8],["joy",9],["surprised",10],["neutral",11],["surprised",12],["joy",13],["neutral",14],["neutral",15],["neutral",16]]']
+______________________________________________
+conversation: 451
+['1. joy', '2. neutral', '3. neutral', '4. neutral', '5. fear', '6. neutral', '7. surprised', '8. neutral', '9. neutral', '10. neutral', '11. neutral', '12. surprised', '13. anger', '14. anger']
+______________________________________________
+conversation: 452
+['1. surprised', '2. neutral', '3. surprised', '4. neutral', '5. neutral', '6. neutral', '7. fear', '8. neutral', '9. neutral', '10. neutral', '11. fear', '12. neutral', '13. anger', '14. joy', '15. anger', '16. neutral']
+______________________________________________
+conversation: 453
+['1. sadness', '2. sadness', '3. sadness', '4. sadness', '5. anger', '6. disgust', '7. sadness', '8. disgust', '9. sadness', '10. sadness', '11. sadness', '12. anger']
+______________________________________________
+conversation: 454
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. fear', '6. neutral', '7. neutral', '8. neutral', '9. surprised', '10. neutral', '11. surprised', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. neutral', '17. neutral']
+______________________________________________
+conversation: 455
+['1. joy', '2. neutral', '3. joy', '4. neutral', '5. fear', '6. neutral', '7. sadness', '8. neutral', '9. neutral', '10. neutral', '11. neutral', '12. surprised', '13. neutral', '14. surprised', '15. neutral', '16. neutral', '17. neutral', '18. neutral', '19. fear', '20. anger', '21. neutral', '22. fear']
+______________________________________________
+conversation: 456
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. anger', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. anger', '12. anger', '13. surprised', '14. fear', '15. fear', '16. neutral', '17. neutral']
+______________________________________________
+conversation: 457
+['1. neutral', '2. surprised', '3. neutral', '4. neutral', '5. neutral', '6. neutral']
+______________________________________________
+conversation: 458
+['1. sadness', '2. neutral', '3. fear', '4. surprised', '5. neutral', '6. neutral', '7. sadness']
+______________________________________________
+conversation: 459
+['1. joy', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. anger', '10. neutral', '11. anger', '12. neutral', '13. anger', '14. surprised', '15. anger']
+______________________________________________
+conversation: 460
+['1. neutral', '2. neutral', '3. surprised', '4. anger', '5. neutral']
+______________________________________________
+conversation: 461
+['1. joy', '2. neutral', '3. sadness', '4. neutral', '5. anger', '6. neutral', '7. anger', '8. disgust']
+______________________________________________
+conversation: 462
+['1. neutral', '2. surprised', '3. joy', '4. sadness', '5. neutral', '6. anger', '7. neutral']
+______________________________________________
+conversation: 463
+['[["neutral", 1], ["surprised", 2], ["neutral", 3], ["joy", 4], ["neutral", 5], ["sadness", 6]]']
+______________________________________________
+conversation: 464
+['["joy", "surprised", "joy", "joy", "joy", "neutral", "disgust"]']
+______________________________________________
+conversation: 465
+['1. anger', '2. anger', '3. neutral', '4. anger', '5. sadness', '6. sadness', '7. sadness', '8. joy', '9. neutral']
+______________________________________________
+conversation: 466
+['["surprised", "neutral", "neutral", "neutral", "joy"]']
+______________________________________________
+conversation: 467
+['1. neutral', '2. neutral', '3. surprised', '4. fear', '5. surprised', '6. disgust', '7. joy']
+______________________________________________
+conversation: 468
+['1. neutral', '2. neutral', '3. sadness', '4. disgust', '5. anger', '6. sadness', '7. neutral']
+______________________________________________
+conversation: 469
+['1. neutral', '2. neutral', '3. surprised', '4. neutral', '5. joy', '6. neutral', '7. sadness']
+______________________________________________
+conversation: 470
+['["surprised", "neutral", "neutral", "surprised", "neutral", "neutral", "anger", "joy", "neutral", "neutral", "neutral", "neutral", "neutral", "neutral", "sadness", "neutral", "neutral", "neutral", "neutral", "neutral", "neutral", "disgust", "surprised", "neutral"]']
+______________________________________________
+conversation: 471
+['1. neutral', '2. surprised', '3. sadness', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. disgust', '11. neutral', '12. anger', '13. neutral', '14. fear', '15. neutral', '16. fear', '17. neutral']
+______________________________________________
+conversation: 472
+['["neutral", "neutral", "neutral", "disgust", "surprised", "neutral", "neutral", "neutral", "joy"]']
+______________________________________________
+conversation: 473
+['1. joy', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. fear', '7. fear', '8. neutral', '9. disgust', '10. neutral', '11. neutral', '12. fear', '13. anger', '14. fear', '15. anger', '16. fear', '17. anger', '18. fear', '19. neutral', '20. disgust', '21. sadness']
+______________________________________________
+conversation: 474
+['1. anger', '2. neutral', '3. surprised', '4. joy', '5. joy', '6. disgust', '7. neutral', '8. neutral']
+______________________________________________
+conversation: 475
+['1. neutral', '2. neutral', '3. neutral', '4. surprised', '5. neutral', '6. sadness']
+______________________________________________
+conversation: 476
+['1. anger', '2. disgust', '3. neutral', '4. anger', '5. anger', '6. neutral', '7. surprised', '8. neutral', '9. neutral', '10. neutral']
+______________________________________________
+conversation: 477
+['1. sadness', '2. surprised', '3. fear', '4. surprised', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. anger', '12. anger', '13. anger', '14. neutral', '15. surprised', '16. neutral', '17. sadness', '18. sadness', '19. neutral', '20. neutral', '21. neutral', '22. neutral', '23. surprised', '24. sadness']
+______________________________________________
+conversation: 478
+['1. surprised', '2. neutral', '3. disgust', '4. sadness', '5. neutral', '6. fear', '7. sadness', '8. neutral', '9. neutral', '10. neutral', '11. sadness', '12. sadness', '13. sadness', '14. neutral', '15. anger', '16. joy']
+______________________________________________
+conversation: 479
+['1. neutral', '2. neutral', '3. neutral', '4. sadness', '5. surprised', '6. joy', '7. neutral', '8. anger', '9. anger', '10. anger', '11. anger', '12. anger', '13. neutral', '14. joy', '15. surprised', '16. neutral']
+______________________________________________
+conversation: 480
+['1. neutral', '2. neutral', '3. sadness', '4. neutral', '5. joy', '6. joy', '7. neutral', '8. fear', '9. neutral', '10. fear']
+______________________________________________
+conversation: 481
+['["neutral", "joy", "surprised", "surprised"]']
+______________________________________________
+conversation: 482
+['["neutral", "neutral", "anger", "neutral"]']
+______________________________________________
+conversation: 483
+['["surprised", "neutral", "confused", "neutral", "sadness", "surprised", "neutral", "surprised", "joy", "sadness", "sadness", "sadness", "neutral", "surprised", "disgust", "joy"]']
+______________________________________________
+conversation: 484
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral']
+______________________________________________
+conversation: 485
+['1. anger', '2. sadness', '3. neutral', '4. neutral', '5. joy', '6. surprised', '7. neutral', '8. neutral', '9. neutral', '10. disgust']
+______________________________________________
+conversation: 486
+['1. neutral', '2. neutral', '3. disgust', '4. neutral', '5. joy', '6. neutral', '7. sadness']
+______________________________________________
+conversation: 487
+['["sadness", "surprised", "disgust", "neutral", "sadness"]']
+______________________________________________
+conversation: 488
+['1. joy', '2. neutral', '3. neutral', '4. neutral', '5. sadness', '6. joy', '7. neutral', '8. neutral', '9. joy', '10. joy', '11. joy', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. neutral', '17. disgust', '18. neutral', '19. neutral', '20. joy']
+______________________________________________
+conversation: 489
+['1. neutral', '2. anger', '3. surprised', '4. surprised', '5. joy', '6. neutral', '7. fear', '8. fear', '9. fear']
+______________________________________________
+conversation: 490
+['["anger", "neutral", "surprised"]']
+______________________________________________
+conversation: 491
+['1. sadness', '2. surprised', '3. neutral', '4. neutral', '5. neutral', '6. joy', '7. joy', '8. neutral', '9. neutral']
+______________________________________________
+conversation: 492
+['1. anger', '2. sadness', '3. neutral', '4. sadness', '5. neutral', '6. sadness', '7. surprised', '8. neutral', '9. neutral', '10. sadness', '11. neutral', '12. neutral', '13. neutral', '14. neutral']
+______________________________________________
+conversation: 493
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. anger', '7. neutral', '8. neutral', '9. neutral', '10. anger', '11. neutral', '12. neutral', '13. sadness', '14. joy', '15. sadness', '16. neutral', '17. neutral', '18. joy', '19. sadness']
+______________________________________________
+conversation: 494
+['["sadness", "neutral", "joy"]']
+______________________________________________
+conversation: 495
+['1. neutral', '2. neutral', '3. surprised', '4. joy', '5. joy', '6. sadness', '7. neutral', '8. neutral', '9. anger']
+______________________________________________
+conversation: 496
+['[["neutral",1],["neutral",2],["sadness",3],["neutral",4],["neutral",5],["neutral",6],["surprised",7],["neutral",8],["joy",9],["disgust",10]]']
+______________________________________________
+conversation: 497
+['1. joy', '2. neutral', '3. joy', '4. neutral', '5. joy', '6. neutral', '7. surprised', '8. neutral', '9. joy', '10. neutral', '11. fear']
+______________________________________________
+conversation: 498
+['["disgust", "joy", "neutral", "neutral", "sadness"]']
+______________________________________________
+conversation: 499
+['1. neutral', '2. neutral', '3. disgust', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. anger', '9. joy', '10. joy', '11. surprised', '12. neutral', '13. neutral', '14. neutral', '15. joy', '16. neutral', '17. neutral', '18. fear', '19. neutral', '20. fear', '21. disgust']
+______________________________________________
+conversation: 500
+['["anger", "neutral", "neutral", "neutral", "neutral", "neutral", "neutral", "neutral", "disgust", "surprised", "surprised", "neutral", "sadness"]']
+______________________________________________
+conversation: 501
+['1. surprised', '2. joy', '3. anger', '4. surprised', '5. anger']
+______________________________________________
+conversation: 502
+['1. neutral', '2. neutral', '3. sadness', '4. neutral', '5. fear', '6. neutral', '7. surprised']
+______________________________________________
+conversation: 503
+['1. neutral', '2. neutral', '3. neutral', '4. surprised', '5. neutral', '6. joy', '7. neutral', '8. anger']
+______________________________________________
+conversation: 504
+['1. joy', '2. neutral', '3. joy', '4. surprised', '5. fear', '6. neutral', '7. anger', '8. sadness']
+______________________________________________
+conversation: 505
+['1. fear', '2. neutral', '3. neutral', '4. surprised', '5. neutral', '6. neutral', '7. neutral', '8. surprised']
+______________________________________________
+conversation: 506
+['1. joy', '2. joy', '3. joy', '4. joy', '5. joy', '6. joy', '7. neutral', '8. joy']
+______________________________________________
+conversation: 507
+['1. sadness', '2. disgust', '3. neutral', '4. surprised', '5. neutral', '6. disgust', '7. neutral', '8. disgust', '9. neutral', '10. disgust', '11. neutral', '12. anger', '13. joy', '14. anger', '15. fear', '16. anger', '17. neutral', '18. surprised', '19. neutral']
+______________________________________________
+conversation: 508
+['1. joy', '2. joy', '3. neutral', '4. joy', '5. surprised', '6. neutral', '7. neutral', '8. joy', '9. fear', '10. joy', '11. joy', '12. surprised']
+______________________________________________
+conversation: 509
+['[neutral, neutral, neutral, joy, surprised, fear, neutral, joy, joy]']
+______________________________________________
+conversation: 510
+['1. surprised', '2. surprised', '3. neutral', '4. joy', '5. neutral', '6. neutral', '7. fear', '8. neutral', '9. neutral', '10. neutral', '11. surprised']
+______________________________________________
+conversation: 511
+['1. fear', '2. joy', '3. sadness', '4. neutral', '5. joy']
+______________________________________________
+conversation: 512
+['1. surprised', '2. joy', '3. sadness']
+______________________________________________
+conversation: 513
+['1. anger', '2. neutral', '3. neutral', '4. neutral', '5. sadness', '6. anger', '7. neutral', '8. neutral', '9. surprised', '10. surprised', '11. fear', '12. neutral']
+______________________________________________
+conversation: 514
+['1. fear', '2. neutral', '3. neutral', '4. surprised']
+______________________________________________
+conversation: 515
+['["anger", "neutral", "anger", "joy"]']
+______________________________________________
+conversation: 516
+['["neutral", "fear", "disgust", "neutral", "neutral", "neutral", "neutral", "neutral", "neutral", "neutral", "joy", "neutral", "neutral", "sadness", "surprised", "neutral"]']
+______________________________________________
+conversation: 517
+['1. neutral', '2. disgust', '3. fear', '4. surprised', '5. anger', '6. fear', '7. anger', '8. fear', '9. anger', '10. fear', '11. anger', '12. fear', '13. anger', '14. neutral', '15. neutral', '16. neutral', '17. fear', '18. anger', '19. anger']
+______________________________________________
+conversation: 518
+['[["surprised"], ["joy"], ["surprised"], ["joy"], ["surprised"], ["joy"], ["anger"], ["joy"], ["anger"], ["anger"], ["anger"]]']
+______________________________________________
+conversation: 519
+['1. neutral', '2. neutral', '3. surprised', '4. neutral', '5. surprised', '6. surprised', '7. neutral', '8. surprised', '9. neutral', '10. surprised', '11. neutral', '12. surprised', '13. neutral', '14. joy', '15. fear', '16. sadness', '17. joy', '18. joy', '19. disgust', '20. fear']
+______________________________________________
+conversation: 520
+['["neutral", "surprised", "neutral", "neutral"]']
+______________________________________________
+conversation: 521
+['1. fear', '2. neutral', '3. surprised', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. joy', '9. neutral', '10. neutral', '11. disgust']
+______________________________________________
+conversation: 522
+['["neutral", "neutral", "neutral", "neutral", "neutral", "joy", "neutral", "neutral"]']
+______________________________________________
+conversation: 523
+['[["anger", 1], ["disgust", 2], ["joy", 3], ["neutral", 4], ["fear", 5], ["neutral", 6], ["sadness", 7], ["neutral", 8], ["surprised", 9], ["joy", 10]]']
+______________________________________________
+conversation: 524
+['1. surprised', '2. neutral', '3. neutral', '4. joy', '5. neutral', '6. joy', '7. neutral', '8. neutral', '9. joy', '10. neutral', '11. neutral', '12. joy', '13. fear', '14. neutral', '15. neutral', '16. neutral']
+______________________________________________
+conversation: 525
+['1. joy', '2. neutral', '3. joy', '4. neutral', '5. neutral', '6. neutral', '7. surprised', '8. neutral', '9. anger', '10. anger']
+______________________________________________
+conversation: 526
+['1. sadness', '2. anger', '3. neutral', '4. joy', '5. neutral', '6. joy', '7. neutral', '8. surprised', '9. neutral', '10. surprised', '11. fear', '12. surprised', '13. fear']
+______________________________________________
+conversation: 527
+['1. neutral', '2. joy', '3. joy', '4. surprised', '5. neutral', '6. surprised', '7. joy']
+______________________________________________
+conversation: 528
+['1. anger', '2. neutral', '3. neutral', '4. neutral', '5. fear', '6. disgust', '7. neutral']
+______________________________________________
+conversation: 529
+['[["neutral"], ["surprised"], ["neutral"], ["neutral"], ["neutral"], ["joy"], ["surprised"], ["anger"], ["joy"], ["joy"], ["sadness"]]']
+______________________________________________
+conversation: 530
+['1. joy', '2. joy', '3. surprised', '4. neutral', '5. joy', '6. sadness', '7. neutral', '8. neutral', '9. sadness', '10. fear', '11. neutral', '12. fear', '13. neutral', '14. neutral', '15. neutral', '16. anger', '17. neutral', '18. neutral']
+______________________________________________
+conversation: 531
+['["neutral", "neutral", "joy", "neutral"]']
+______________________________________________
+conversation: 532
+['1. fear', '2. joy', '3. neutral', '4. surprised', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. neutral', '12. neutral', '13. anger', '14. anger']
+______________________________________________
+conversation: 533
+['1. neutral', '2. neutral', '3. joy', '4. surprised', '5. disgust', '6. sadness', '7. fear', '8. sadness', '9. fear', '10. fear', '11. anger']
+______________________________________________
+conversation: 534
+['1. surprised', '2. fear', '3. fear', '4. sadness', '5. neutral', '6. sadness', '7. sadness', '8. sadness', '9. joy', '10. neutral', '11. joy']
+______________________________________________
+conversation: 535
+['["anger", "neutral", "anger", "anger", "sadness", "neutral", "fear"]']
+______________________________________________
+conversation: 536
+['1. joy', '2. neutral', '3. surprised', '4. joy', '5. neutral', '6. anger', '7. fear', '8. fear', '9. fear', '10. neutral', '11. fear', '12. fear', '13. neutral', '14. neutral', '15. neutral', '16. fear', '17. anger', '18. sadness', '19. joy', '20. anger', '21. anger', '22. anger']
+______________________________________________
+conversation: 537
+['1. joy', '2. neutral', '3. surprised', '4. neutral', '5. neutral', '6. sadness', '7. joy', '8. sadness', '9. anger', '10. fear', '11. joy', '12. neutral']
+______________________________________________
+conversation: 538
+['1. anger', '2. anger', '3. anger', '4. neutral', '5. neutral']
+______________________________________________
+conversation: 539
+['1. surprised', '2. neutral', '3. anger', '4. neutral', '5. anger', '6. neutral', '7. joy', '8. joy', '9. neutral', '10. anger', '11. anger', '12. neutral', '13. neutral', '14. neutral', '15. surprised', '16. neutral', '17. neutral', '18. neutral']
+______________________________________________
+conversation: 540
+['["neutral", "surprised"]']
+______________________________________________
+conversation: 541
+['[["surprised", "neutral", "sadness", "joy", "joy", "surprised"]]']
+______________________________________________
+conversation: 542
+['1. joy', '2. joy', '3. joy', '4. joy', '5. surprised', '6. neutral']
+______________________________________________
+conversation: 543
+['1. neutral', '2. neutral', '3. neutral', '4. joy', '5. neutral', '6. neutral', '7. neutral', '8. surprised', '9. neutral', '10. disgust', '11. neutral', '12. neutral', '13. neutral', '14. neutral']
+______________________________________________
+conversation: 544
+['1. neutral', '2. joy', '3. surprised', '4. surprised', '5. neutral', '6. anger', '7. neutral', '8. neutral', '9. neutral', '10. joy', '11. neutral', '12. neutral', '13. neutral', '14. neutral']
+______________________________________________
+conversation: 545
+['1. neutral', '2. anger', '3. neutral', '4. joy', '5. joy', '6. surprised', '7. fear', '8. sadness', '9. neutral']
+______________________________________________
+conversation: 546
+['1. neutral', '2. surprised', '3. joy', '4. disgust', '5. neutral', '6. surprised', '7. neutral', '8. neutral', '9. neutral', '10. joy', '11. neutral', '12. anger']
+______________________________________________
+conversation: 547
+['1. disgust', '2. fear', '3. anger', '4. joy', '5. neutral', '6. surprised', '7. surprised', '8. joy', '9. neutral', '10. neutral', '11. neutral', '12. sadness', '13. joy', '14. joy', '15. sadness', '16. neutral']
+______________________________________________
+conversation: 548
+['1. surprised', '2. neutral', '3. neutral', '4. joy', '5. joy', '6. fear', '7. joy', '8. joy', '9. fear', '10. neutral']
+______________________________________________
+conversation: 549
+['1. joy', '2. joy', '3. surprised', '4. neutral', '5. joy', '6. surprised', '7. disgust', '8. sadness']
+______________________________________________
+conversation: 550
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. surprised', '6. neutral', '7. neutral', '8. sadness', '9. neutral', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. sadness', '15. neutral']
+______________________________________________
+conversation: 551
+['1. joy', '2. fear', '3. neutral', '4. neutral', '5. surprised', '6. anger', '7. anger', '8. anger', '9. anger', '10. anger']
+______________________________________________
+conversation: 552
+['["anger", "surprised", "neutral", "neutral", "neutral", "neutral", "surprised", "disgust", "joy", "anger", "joy"]']
+______________________________________________
+conversation: 553
+['1. neutral', '2. joy', '3. joy', '4. surprised', '5. sadness', '6. neutral', '7. sadness', '8. sadness', '9. joy', '10. neutral', '11. sadness', '12. neutral', '13. neutral', '14. joy', '15. joy', '16. joy', '17. joy', '18. joy', '19. joy', '20. sadness', '21. neutral']
+______________________________________________
+conversation: 554
+['1. neutral', '2. neutral', '3. disgust', '4. anger', '5. disgust', '6. anger', '7. neutral', '8. neutral', '9. anger', '10. anger', '11. anger', '12. anger', '13. anger', '14. sadness', '15. neutral', '16. neutral', '17. neutral', '18. neutral', '19. anger', '20. neutral', '21. neutral', '22. anger', '23. surprised']
+______________________________________________
+conversation: 555
+['["sadness", "neutral", "sadness", "neutral", "neutral"]']
+______________________________________________
+conversation: 556
+['1. fear', '2. neutral', '3. disgust', '4. disgust', '5. neutral', '6. neutral', '7. fear', '8. anger', '9. anger', '10. neutral', '11. joy']
+______________________________________________
+conversation: 557
+['[["joy", "surprised"], ["surprised", "joy"]]']
+______________________________________________
+conversation: 558
+['1. joy', '2. neutral', '3. joy', '4. neutral', '5. fear', '6. anger', '7. sadness', '8. anger', '9. disgust']
+______________________________________________
+conversation: 559
+['["neutral", "neutral"]']
+______________________________________________
+conversation: 560
+['1. neutral', '2. neutral', '3. disgust', '4. joy', '5. anger', '6. sadness', '7. joy', '8. neutral']
+______________________________________________
+conversation: 561
+['1. neutral', '2. neutral', '3. surprised', '4. disgust', '5. sadness', '6. sadness', '7. joy', '8. neutral', '9. neutral', '10. neutral', '11. surprised', '12. joy', '13. joy', '14. joy', '15. neutral']
+______________________________________________
+conversation: 562
+['1. disgust', '2. fear', '3. anger', '4. anger', '5. joy', '6. neutral', '7. neutral', '8. joy', '9. joy', '10. neutral', '11. joy', '12. neutral', '13. neutral', '14. joy', '15. neutral', '16. neutral', '17. neutral', '18. joy', '19. neutral']
+______________________________________________
+conversation: 563
+['1. surprised', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. anger', '11. neutral', '12. neutral', '13. surprised', '14. neutral', '15. sadness', '16. neutral', '17. neutral', '18. neutral', '19. neutral', '20. neutral', '21. neutral']
+______________________________________________
+conversation: 564
+['1. neutral', '2. joy', '3. joy', '4. joy', '5. anger', '6. neutral', '7. neutral', '8. fear', '9. neutral', '10. neutral', '11. neutral', '12. neutral', '13. joy', '14. surprised']
+______________________________________________
+conversation: 565
+['[["surprised"], ["neutral"], ["surprised"], ["neutral"], ["anger"], ["neutral"], ["neutral"], ["surprised"], ["surprised"], ["neutral"], ["neutral"], ["neutral"], ["neutral"], ["joy"]]']
+______________________________________________
+conversation: 566
+['1. neutral', '2. anger', '3. joy', '4. joy', '5. joy', '6. neutral', '7. joy', '8. joy', '9. joy', '10. neutral', '11. surprised', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. neutral', '17. surprised', '18. neutral']
+______________________________________________
+conversation: 567
+['1. joy', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. joy', '8. neutral', '9. neutral', '10. surprised', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. neutral']
+______________________________________________
+conversation: 568
+['1. joy', '2. surprised', '3. neutral', '4. surprised', '5. anger', '6. anger', '7. disgust', '8. disgust', '9. disgust', '10. anger', '11. neutral', '12. anger', '13. sadness', '14. neutral', '15. neutral', '16. disgust', '17. neutral', '18. neutral', '19. sadness']
+______________________________________________
+conversation: 569
+['1. neutral', '2. neutral', '3. surprised', '4. joy', '5. joy', '6. joy', '7. neutral', '8. neutral', '9. neutral', '10. sadness']
+______________________________________________
+conversation: 570
+['1. anger', '2. neutral', '3. joy', '4. sadness', '5. neutral', '6. anger', '7. anger', '8. surprised', '9. fear']
+______________________________________________
+conversation: 571
+['[surprised, neutral, joy, neutral, joy, fear, neutral, neutral, neutral, neutral]']
+______________________________________________
+conversation: 572
+['1. joy', '2. neutral', '3. sadness', '4. joy', '5. joy', '6. disgust', '7. neutral']
+______________________________________________
+conversation: 573
+['1. anger', '2. neutral', '3. anger', '4. neutral', '5. neutral', '6. disgust', '7. anger', '8. neutral', '9. anger', '10. neutral', '11. neutral', '12. neutral']
+______________________________________________
+conversation: 574
+['1. neutral', '2. joy', '3. joy', '4. sadness', '5. sadness', '6. neutral', '7. fear', '8. sadness', '9. joy', '10. neutral', '11. neutral', '12. joy', '13. anger']
+______________________________________________
+conversation: 575
+['1. neutral', '2. joy', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. joy', '11. surprised']
+______________________________________________
+conversation: 576
+['1. neutral', '2. joy', '3. surprised', '4. surprised', '5. disgust', '6. neutral', '7. neutral', '8. neutral', '9. joy', '10. disgust', '11. fear', '12. disgust', '13. neutral', '14. neutral', '15. disgust', '16. joy', '17. anger']
+______________________________________________
+conversation: 577
+['["neutral", "fear"]']
+______________________________________________
+conversation: 578
+['["joy", "surprised", "neutral", "neutral", "neutral"]']
+______________________________________________
+conversation: 579
+['1. neutral', '2. neutral', '3. disgust', '4. surprised', '5. anger', '6. neutral', '7. neutral']
+______________________________________________
+conversation: 580
+['1. surprised', '2. neutral', '3. anger', '4. neutral', '5. neutral', '6. neutral', '7. surprised', '8. neutral', '9. joy', '10. joy', '11. neutral']
+______________________________________________
+conversation: 581
+['1. fear', '2. joy', '3. neutral', '4. sadness', '5. surprised', '6. fear', '7. disgust', '8. joy', '9. fear', '10. neutral', '11. neutral', '12. joy', '13. neutral', '14. joy', '15. surprised', '16. joy', '17. neutral']
+______________________________________________
+conversation: 582
+['1. neutral', '2. surprised', '3. neutral', '4. joy', '5. neutral', '6. anger', '7. neutral', '8. neutral', '9. joy', '10. disgust', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. neutral', '17. fear', '18. joy', '19. anger', '20. neutral', '21. anger', '22. disgust']
+______________________________________________
+conversation: 583
+['["anger", "anger", "anger", "anger", "joy", "surprised", "neutral"]']
+______________________________________________
+conversation: 584
+['1. surprised', '2. neutral', '3. joy', '4. joy', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. joy', '10. joy', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. neutral', '17. neutral', '18. neutral', '19. neutral', '20. neutral', '21. neutral', '22. neutral', '23. neutral', '24. anger']
+______________________________________________
+conversation: 585
+['1. anger', '2. neutral', '3. joy', '4. neutral', '5. surprised', '6. anger', '7. joy', '8. neutral', '9. joy']
+______________________________________________
+conversation: 586
+['1. anger', '2. neutral', '3. anger', '4. neutral', '5. joy', '6. joy', '7. fear', '8. neutral', '9. neutral', '10. neutral', '11. surprised', '12. surprised', '13. neutral']
+______________________________________________
+conversation: 587
+['1. disgust', '2. disgust', '3. neutral', '4. neutral', '5. neutral', '6. joy', '7. surprised', '8. joy', '9. neutral', '10. fear', '11. joy', '12. neutral', '13. neutral', '14. joy', '15. joy', '16. neutral']
+______________________________________________
+conversation: 588
+['["joy", "neutral", "joy", "neutral", "sadness"]']
+______________________________________________
+conversation: 589
+['1. sadness', '2. neutral', '3. fear', '4. anger', '5. sadness', '6. neutral', '7. joy', '8. neutral', '9. neutral']
+______________________________________________
+conversation: 590
+['1. surprised', '2. neutral', '3. sadness', '4. sadness', '5. joy', '6. sadness', '7. surprised', '8. neutral', '9. joy', '10. neutral', '11. neutral', '12. anger', '13. anger', '14. anger', '15. anger', '16. joy']
+______________________________________________
+conversation: 591
+['1. joy', '2. joy', '3. neutral', '4. neutral', '5. joy', '6. joy', '7. neutral', '8. neutral', '9. surprised', '10. neutral', '11. neutral', '12. neutral', '13. surprised', '14. neutral', '15. neutral', '16. neutral', '17. surprised', '18. neutral', '19. neutral', '20. neutral', '21. neutral']
+______________________________________________
+conversation: 592
+['1. joy', '2. joy', '3. joy', '4. neutral', '5. fear', '6. anger', '7. anger', '8. fear', '9. fear', '10. neutral', '11. sadness', '12. anger', '13. neutral', '14. surprised', '15. neutral', '16. neutral', '17. fear', '18. surprised', '19. fear', '20. neutral', '21. fear']
+______________________________________________
+conversation: 593
+['1. neutral', '2. neutral', '3. fear', '4. sadness', '5. joy', '6. neutral', '7. sadness', '8. neutral', '9. joy', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. neutral', '17. neutral', '18. neutral', '19. neutral', '20. neutral']
+______________________________________________
+conversation: 594
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. sadness', '7. sadness', '8. joy', '9. neutral', '10. joy', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. sadness', '16. surprised']
+______________________________________________
+conversation: 595
+['1. anger', '2. disgust', '3. joy', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. disgust', '9. anger', '10. sadness']
+______________________________________________
+conversation: 596
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. anger']
+______________________________________________
+conversation: 597
+['1. joy', '2. neutral', '3. joy', '4. joy', '5. joy', '6. joy', '7. joy', '8. neutral', '9. neutral', '10. surprised']
+______________________________________________
+conversation: 598
+['1. neutral', '2. sadness', '3. anger', '4. fear', '5. anger', '6. neutral', '7. neutral', '8. surprised', '9. neutral']
+______________________________________________
+conversation: 599
+['1. neutral', '2. joy', '3. neutral', '4. neutral', '5. surprised', '6. neutral', '7. disgust', '8. neutral', '9. anger', '10. neutral', '11. neutral', '12. neutral', '13. sadness', '14. neutral', '15. sadness', '16. fear', '17. neutral', '18. anger', '19. neutral']
+______________________________________________
+conversation: 600
+['1. neutral', '2. neutral', '3. anger', '4. neutral', '5. fear', '6. neutral', '7. disgust', '8. neutral', '9. fear', '10. neutral', '11. surprised', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. joy', '17. neutral']
+______________________________________________
+conversation: 601
+['1. joy', '2. joy', '3. fear', '4. neutral', '5. joy', '6. sadness', '7. joy', '8. neutral', '9. surprise', '10. neutral']
+______________________________________________
+conversation: 602
+['["neutral", "neutral", "surprised", "anger"]']
+______________________________________________
+conversation: 603
+['1. neutral', '2. neutral', '3. joy', '4. surprised', '5. neutral']
+______________________________________________
+conversation: 604
+['1. surprised', '2. fear', '3. anger', '4. fear', '5. joy', '6. neutral', '7. neutral', '8. anger', '9. anger', '10. anger', '11. joy', '12. joy', '13. neutral', '14. surprised', '15. neutral', '16. surprised']
+______________________________________________
+conversation: 605
+['1. neutral', '2. disgust', '3. joy', '4. neutral', '5. sadness', '6. neutral', '7. surprised', '8. anger', '9. joy', '10. joy', '11. surprised', '12. neutral', '13. joy', '14. neutral', '15. joy', '16. anger', '17. anger', '18. anger']
+______________________________________________
+conversation: 606
+['1. surprised', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. sadness', '10. neutral', '11. neutral', '12. anger', '13. anger', '14. fear', '15. neutral', '16. neutral']
+______________________________________________
+conversation: 607
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. surprised', '6. neutral', '7. neutral', '8. surprised', '9. fear', '10. neutral', '11. sadness', '12. neutral', '13. neutral', '14. neutral', '15. joy', '16. neutral', '17. neutral', '18. neutral', '19. surprised', '20. fear', '21. fear']
+______________________________________________
+conversation: 608
+['1. neutral', '2. joy', '3. neutral', '4. surprised', '5. neutral', '6. neutral', '7. sadness', '8. neutral', '9. neutral']
+______________________________________________
+conversation: 609
+['1. neutral', '2. joy', '3. neutral', '4. disgust', '5. neutral', '6. neutral']
+______________________________________________
+conversation: 610
+['1. sadness', '2. surprised', '3. anger', '4. neutral', '5. fear', '6. surprised', '7. sadness', '8. neutral', '9. anger', '10. sadness', '11. anger', '12. fear', '13. anger', '14. neutral', '15. anger']
+______________________________________________
+conversation: 611
+['1. surprised', '2. neutral', '3. anger', '4. neutral']
+______________________________________________
+conversation: 612
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. joy', '6. neutral', '7. neutral', '8. surprised', '9. neutral', '10. joy', '11. surprised', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. joy', '17. neutral', '18. neutral', '19. neutral']
+______________________________________________
+conversation: 613
+['1. neutral', '2. neutral', '3. neutral', '4. joy', '5. neutral', '6. neutral', '7. neutral', '8. joy', '9. surprised', '10. neutral', '11. fear', '12. joy', '13. fear', '14. neutral', '15. neutral', '16. anger', '17. neutral']
+______________________________________________
+conversation: 614
+['1. neutral', '2. surprised', '3. neutral', '4. neutral', '5. neutral', '6. sadness', '7. neutral', '8. sadness', '9. joy', '10. neutral', '11. joy', '12. neutral', '13. joy', '14. sadness', '15. sadness']
+______________________________________________
+conversation: 615
+['1. neutral', '2. disgust', '3. sadness', '4. anger', '5. fear', '6. neutral']
+______________________________________________
+conversation: 616
+['1. sadness', '2. joy', '3. sadness', '4. joy', '5. surprised', '6. joy', '7. joy', '8. neutral', '9. joy', '10. neutral', '11. neutral', '12. neutral', '13. joy', '14. neutral', '15. joy']
+______________________________________________
+conversation: 617
+['["joy", "neutral", "surprised", "anger"]']
+______________________________________________
+conversation: 618
+['["neutral", "sadness"]']
+______________________________________________
+conversation: 619
+['1. neutral', '2. neutral', '3. neutral', '4. anger', '5. sadness', '6. anger', '7. sadness', '8. joy', '9. joy', '10. joy', '11. sadness', '12. surprised']
+______________________________________________
+conversation: 620
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. surprised', '6. surprised', '7. surprised', '8. neutral']
+______________________________________________
+conversation: 621
+['1. neutral', '2. neutral', '3. neutral', '4. disgust', '5. neutral', '6. neutral', '7. surprised', '8. joy', '9. joy', '10. joy', '11. sadness', '12. neutral', '13. anger', '14. surprised', '15. neutral']
+______________________________________________
+conversation: 622
+['1. neutral', '2. joy', '3. neutral', '4. joy', '5. surprised', '6. surprised', '7. anger', '8. fear', '9. surprised', '10. surprised']
+______________________________________________
+conversation: 623
+['["joy", "neutral"]']
+______________________________________________
+conversation: 624
+['["neutral", "joy"]']
+______________________________________________
+conversation: 625
+['["neutral", "neutral", "anger", "anger", "anger", "anger"]']
+______________________________________________
+conversation: 626
+['["joy", "neutral", "neutral", "joy"]']
+______________________________________________
+conversation: 627
+['1. anger', '2. disgust', '3. anger', '4. fear', '5. anger', '6. surprised', '7. surprised']
+______________________________________________
+conversation: 628
+['[["neutral", "neutral", "neutral", "surprised", "sadness", "anger", "anger", "anger"]]']
+______________________________________________
+conversation: 629
+['1. neutral', '2. surprised', '3. joy', '4. neutral', '5. joy', '6. surprised', '7. surprised', '8. joy']
+______________________________________________
+conversation: 630
+['1. anger', '2. sadness', '3. neutral', '4. sadness', '5. fear', '6. fear', '7. surprised', '8. sadness']
+______________________________________________
+conversation: 631
+['1. joy', '2. anger', '3. disgust', '4. neutral', '5. neutral', '6. neutral', '7. surprised', '8. neutral', '9. anger', '10. neutral', '11. neutral', '12. neutral', '13. fear', '14. neutral', '15. neutral']
+______________________________________________
+conversation: 632
+['1. surprised', '2. neutral', '3. neutral', '4. anger', '5. anger', '6. anger', '7. sadness', '8. sadness', '9. fear', '10. anger', '11. anger', '12. sadness', '13. neutral']
+______________________________________________
+conversation: 633
+['["joy", "neutral"]']
+______________________________________________
+conversation: 634
+['["joy", "sadness", "neutral"]']
+______________________________________________
+conversation: 635
+['1. joy', '2. neutral', '3. neutral', '4. surprised', '5. surprised', '6. neutral', '7. fear']
+______________________________________________
+conversation: 636
+['1. fear', '2. fear', '3. anger', '4. fear', '5. joy']
+______________________________________________
+conversation: 637
+['1. joy', '2. neutral', '3. joy', '4. joy', '5. neutral', '6. joy', '7. sadness', '8. joy', '9. neutral']
+______________________________________________
+conversation: 638
+['[["anger", 1], ["joy", 2], ["surprised", 3], ["neutral", 4], ["joy", 5], ["joy", 6], ["fear", 7], ["joy", 8], ["joy", 9], ["joy", 10], ["joy", 11]]']
+______________________________________________
+conversation: 639
+['1. surprised', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. disgust', '7. surprised', '8. surprised', '9. anger', '10. surprised', '11. anger', '12. anger', '13. anger', '14. joy', '15. anger', '16. neutral']
+______________________________________________
+conversation: 640
+['[["joy", "neutral", "joy", "joy"]]']
+______________________________________________
+conversation: 641
+['1. joy', '2. joy', '3. sadness', '4. neutral', '5. joy', '6. joy', '7. neutral', '8. joy', '9. surprised', '10. joy', '11. joy', '12. disgust']
+______________________________________________
+conversation: 642
+['["neutral", "surprised", "joy"]']
+______________________________________________
+conversation: 643
+['1. neutral', '2. joy', '3. anger', '4. neutral', '5. neutral', '6. sadness', '7. neutral', '8. neutral', '9. sadness', '10. neutral', '11. anger', '12. anger', '13. anger']
+______________________________________________
+conversation: 644
+['[["neutral", 1], ["surprised", 2], ["surprised", 3], ["neutral", 4], ["surprised", 5], ["sadness", 6], ["anger", 7], ["anger", 8], ["anger", 9], ["anger", 10], ["anger", 11], ["neutral", 12], ["anger", 13]]']
+______________________________________________
+conversation: 645
+['1. surprised', '2. neutral', '3. neutral', '4. surprised', '5. joy', '6. neutral', '7. neutral']
+______________________________________________
+conversation: 646
+['[joy]', '[neutral]', '[joy]', '[joy]', '[joy]', '[joy]', '[joy]', '[surprised]']
+______________________________________________
+conversation: 647
+['1. anger', '2. neutral', '3. neutral', '4. joy', '5. joy', '6. neutral', '7. joy', '8. neutral', '9. joy', '10. neutral', '11. neutral', '12. anger', '13. neutral', '14. neutral', '15. neutral', '16. anger', '17. joy', '18. neutral', '19. neutral']
+______________________________________________
+conversation: 648
+['1. anger', '2. neutral', '3. neutral', '4. neutral', '5. anger', '6. joy', '7. neutral', '8. neutral', '9. surprised', '10. neutral', '11. neutral', '12. fear', '13. joy', '14. joy', '15. neutral', '16. surprised', '17. neutral', '18. anger']
+______________________________________________
+conversation: 649
+['1. joy', '2. joy', '3. neutral', '4. joy', '5. joy', '6. joy', '7. surprise', '8. fear']
+______________________________________________
+conversation: 650
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. surprised', '6. neutral', '7. anger']
+______________________________________________
+conversation: 651
+['1. joy', '2. joy', '3. joy', '4. surprised', '5. neutral', '6. neutral', '7. joy']
+______________________________________________
+conversation: 652
+['1. sadness', '2. neutral', '3. joy', '4. surprised', '5. joy', '6. joy', '7. neutral', '8. disgust']
+______________________________________________
+conversation: 653
+['1. joy', '2. neutral', '3. surprised', '4. neutral', '5. neutral', '6. neutral', '7. anger', '8. neutral', '9. joy', '10. neutral']
+______________________________________________
+conversation: 654
+['1. surprised', '2. neutral', '3. sadness', '4. fear', '5. neutral', '6. joy', '7. fear', '8. sadness', '9. disgust', '10. disgust', '11. surprised', '12. surprised']
+______________________________________________
+conversation: 655
+['["neutral", "neutral"]']
+______________________________________________
+conversation: 656
+['1. surprised', '2. joy', '3. joy', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. anger', '11. neutral', '12. anger', '13. neutral', '14. neutral', '15. neutral', '16. neutral', '17. anger']
+______________________________________________
+conversation: 657
+['1. joy', '2. neutral', '3. neutral', '4. joy', '5. joy', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. neutral', '12. surprised', '13. fear']
+______________________________________________
+conversation: 658
+['1. neutral', '2. disgust', '3. neutral']
+______________________________________________
+conversation: 659
+['1. neutral', '2. neutral', '3. neutral', '4. surprised', '5. neutral', '6. neutral', '7. sadness', '8. neutral', '9. neutral', '10. joy', '11. anger', '12. neutral', '13. anger', '14. neutral', '15. anger', '16. neutral', '17. neutral', '18. neutral', '19. neutral', '20. neutral']
+______________________________________________
+conversation: 660
+['1. surprised', '2. surprised', '3. neutral', '4. joy', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. neutral', '12. neutral', '13. surprised', '14. neutral']
+______________________________________________
+conversation: 661
+['1. surprised', '2. neutral', '3. neutral', '4. neutral', '5. sadness', '6. joy', '7. neutral', '8. neutral', '9. anger']
+______________________________________________
+conversation: 662
+['[["neutral", "neutral", "neutral", "neutral", "surprised", "fear", "sadness", "anger", "sadness"]]']
+______________________________________________
+conversation: 663
+['[["anger", 1], ["neutral", 2], ["neutral", 3], ["joy", 4], ["joy", 5], ["neutral", 6], ["surprised", 7], ["surprised", 8], ["joy", 9], ["joy", 10], ["neutral", 11], ["joy", 12], ["neutral", 13], ["neutral", 14], ["sadness", 15]]']
+______________________________________________
+conversation: 664
+['1. neutral', '2. sadness', '3. fear', '4. anger', '5. surprised', '6. anger', '7. joy', '8. disgust', '9. surprised', '10. neutral', '11. anger', '12. neutral', '13. neutral', '14. neutral']
+______________________________________________
+conversation: 665
+['1. neutral', '2. surprised', '3. joy', '4. surprised', '5. anger']
+______________________________________________
+conversation: 666
+['["neutral", "sadness", "neutral", "surprised", "sadness", "anger"]']
+______________________________________________
+conversation: 667
+['["neutral", "joy", "neutral", "neutral", "joy", "joy", "surprised", "neutral", "sadness", "sadness", "sadness", "sadness"]']
+______________________________________________
+conversation: 668
+['1. neutral', '2. joy', '3. neutral', '4. surprised', '5. neutral', '6. neutral', '7. anger', '8. anger', '9. sadness', '10. anger', '11. neutral', '12. fear']
+______________________________________________
+conversation: 669
+['1. neutral', '2. surprised', '3. neutral', '4. surprised', '5. neutral', '6. joy', '7. neutral', '8. surprised', '9. joy', '10. sadness', '11. sadness', '12. fear', '13. fear', '14. neutral', '15. joy', '16. sadness', '17. sadness', '18. sadness', '19. neutral']
+______________________________________________
+conversation: 670
+['1. joy', '2. neutral', '3. fear']
+______________________________________________
+conversation: 671
+['1. joy', '2. surprised', '3. joy', '4. neutral', '5. anger', '6. neutral', '7. joy', '8. joy']
+______________________________________________
+conversation: 672
+['[["neutral", 1], ["neutral", 2], ["neutral", 3], ["neutral", 4], ["neutral", 5]]']
+______________________________________________
+conversation: 673
+['1. sadness', '2. neutral', '3. fear', '4. joy', '5. neutral', '6. joy', '7. joy', '8. joy', '9. joy', '10. neutral', '11. joy', '12. joy', '13. anger']
+______________________________________________
+conversation: 674
+['["joy", "neutral", "joy"]']
+______________________________________________
+conversation: 675
+['1. sadness', '2. anger', '3. neutral', '4. neutral', '5. surprised']
+______________________________________________
+conversation: 676
+['1. neutral', '2. anger', '3. neutral', '4. disgust', '5. neutral', '6. anger', '7. neutral', '8. joy', '9. neutral', '10. sadness']
+______________________________________________
+conversation: 677
+['1. neutral', '2. surprised', '3. joy', '4. joy', '5. joy', '6. sadness', '7. anger', '8. sadness', '9. neutral', '10. sadness']
+______________________________________________
+conversation: 678
+['1. neutral', '2. neutral', '3. joy', '4. fear', '5. neutral', '6. neutral', '7. surprised', '8. neutral', '9. fear', '10. neutral', '11. neutral']
+______________________________________________
+conversation: 679
+['1. pain', '2. concern', '3. anger', '4. disgust', '5. anger', '6. anger']
+______________________________________________
+conversation: 680
+['1. surprised', '2. neutral', '3. disgust', '4. fear', '5. disgust', '6. anger', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. anger', '12. neutral', '13. anger', '14. sadness', '15. anger', '16. neutral']
+______________________________________________
+conversation: 681
+['1. joy', '2. disgust', '3. fear', '4. sadness', '5. fear']
+______________________________________________
+conversation: 682
+['1. surprised', '2. anger', '3. neutral', '4. joy', '5. anger', '6. fear', '7. neutral', '8. anger', '9. anger', '10. joy']
+______________________________________________
+conversation: 683
+['1. anger', '2. surprised', '3. joy', '4. neutral', '5. fear']
+______________________________________________
+conversation: 684
+['1. neutral', '2. neutral', '3. sadness', '4. sadness', '5. sadness', '6. sadness', '7. surprised', '8. joy', '9. neutral', '10. joy', '11. joy', '12. joy', '13. neutral', '14. joy']
+______________________________________________
+conversation: 685
+['[["neutral",1],["neutral",2],["anger",3],["anger",4],["surprised",5],["anger",6],["neutral",7]]']
+______________________________________________
+conversation: 686
+['1. joy', '2. neutral', '3. sadness', '4. neutral', '5. surprised', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. neutral', '12. neutral']
+______________________________________________
+conversation: 687
+['1. neutral', '2. neutral', '3. disgust', '4. joy', '5. surprised', '6. neutral', '7. neutral', '8. joy', '9. sadness']
+______________________________________________
+conversation: 688
+['["sadness", "anger", "surprised"]']
+______________________________________________
+conversation: 689
+['1. neutral', '2. anger', '3. anger', '4. neutral', '5. neutral', '6. joy', '7. neutral', '8. anger', '9. sadness', '10. anger', '11. anger', '12. anger', '13. anger', '14. neutral', '15. sadness', '16. anger', '17. surprised', '18. fear']
+______________________________________________
+conversation: 690
+['1. sadness', '2. neutral', '3. neutral', '4. joy', '5. neutral', '6. anger', '7. neutral', '8. anger', '9. fear', '10. neutral', '11. joy', '12. neutral', '13. fear', '14. sadness', '15. fear', '16. surprised', '17. neutral', '18. disgust']
+______________________________________________
+conversation: 691
+['1. neutral', '2. anger', '3. surprised', '4. anger', '5. joy', '6. neutral', '7. neutral', '8. joy', '9. joy', '10. neutral', '11. neutral', '12. neutral', '13. joy', '14. joy', '15. neutral', '16. joy']
+______________________________________________
+conversation: 692
+['["neutral", "disgust", "neutral"]']
+______________________________________________
+conversation: 693
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. surprised', '11. surprised']
+______________________________________________
+conversation: 694
+['1. neutral', '2. neutral', '3. surprised', '4. neutral', '5. neutral', '6. surprised', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. surprised', '12. neutral', '13. neutral', '14. neutral']
+______________________________________________
+conversation: 695
+['1. joy', '2. joy', '3. surprised', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral']
+______________________________________________
+conversation: 696
+['1. neutral', '2. joy', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. surprised', '8. neutral', '9. anger', '10. neutral', '11. joy', '12. neutral', '13. neutral', '14. joy']
+______________________________________________
+conversation: 697
+['1. surprised', '2. neutral', '3. neutral', '4. surprised', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. anger', '11. fear']
+______________________________________________
+conversation: 698
+['[["neutral",1],["neutral",2],["neutral",3],["neutral",4],["anger",5],["anger",6],["sadness",7],["surprised",8],["sadness",9],["neutral",10]]']
+______________________________________________
+conversation: 699
+['["neutral", "neutral"]']
+______________________________________________
+conversation: 700
+['1. neutral', '2. neutral', '3. joy', '4. joy', '5. neutral', '6. neutral', '7. neutral', '8. sadness', '9. neutral', '10. neutral', '11. surprised', '12. neutral']
+______________________________________________
+conversation: 701
+['[["joy", "joy", "joy", "joy", "joy", "joy", "joy", "neutral", "joy"]]']
+______________________________________________
+conversation: 702
+['[["neutral", "neutral"], ["neutral", "disgust"]]']
+______________________________________________
+conversation: 703
+['["neutral", "anger"]']
+______________________________________________
+conversation: 704
+['["neutral", "surprised", "sadness", "anger"]']
+______________________________________________
+conversation: 705
+['1. neutral', '2. neutral', '3. neutral', '4. joy', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. sadness', '11. neutral']
+______________________________________________
+conversation: 706
+['["sadness", "joy", "neutral", "neutral", "neutral"]']
+______________________________________________
+conversation: 707
+['1. joy', '2. neutral', '3. joy', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. anger']
+______________________________________________
+conversation: 708
+['1. surprised', '2. joy', '3. sadness', '4. neutral', '5. neutral', '6. neutral', '7. joy', '8. joy', '9. joy', '10. neutral', '11. sadness', '12. joy', '13. sadness', '14. fear', '15. neutral', '16. neutral', '17. joy', '18. surprised', '19. joy', '20. joy', '21. joy', '22. joy', '23. neutral']
+______________________________________________
+conversation: 709
+['1. neutral', '2. neutral', '3. neutral', '4. joy', '5. surprised', '6. neutral', '7. sadness', '8. neutral', '9. anger', '10. neutral', '11. neutral', '12. sadness', '13. sadness', '14. sadness', '15. anger', '16. sadness', '17. sadness', '18. sadness', '19. sadness', '20. joy', '21. surprised']
+______________________________________________
+conversation: 710
+['1. joy', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. joy', '8. joy', '9. joy', '10. joy', '11. joy']
+______________________________________________
+conversation: 711
+['1. anger', '2. anger', '3. anger', '4. fear', '5. fear', '6. anger', '7. sadness', '8. sadness', '9. neutral', '10. neutral', '11. anger']
+______________________________________________
+conversation: 712
+['1. surprised', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. anger', '8. fear', '9. anger']
+______________________________________________
+conversation: 713
+['1. sadness', '2. surprised', '3. neutral', '4. neutral', '5. surprised', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. joy', '12. joy', '13. fear', '14. neutral', '15. fear', '16. neutral', '17. neutral', '18. joy', '19. neutral', '20. neutral', '21. neutral']
+______________________________________________
+conversation: 714
+['1. neutral', '2. neutral', '3. neutral', '4. surprised', '5. neutral', '6. surprised', '7. neutral', '8. neutral', '9. joy', '10. neutral', '11. sadness', '12. sadness', '13. sadness', '14. sadness']
+______________________________________________
+conversation: 715
+['1. sadness', '2. neutral', '3. neutral', '4. surprised', '5. sadness', '6. sadness', '7. surprised']
+______________________________________________
+conversation: 716
+['[1. fear, 2. disgust, 3. neutral, 4. neutral, 5. neutral, 6. neutral, 7. surprised, 8. sadness, 9. neutral, 10. neutral, 11. neutral, 12. neutral, 13. neutral, 14. joy, 15. joy, 16. neutral, 17. anger, 18. anger]']
+[1°anger]
+______________________________________________
+conversation: 717
+['["joy", "joy", "neutral", "surprised", "neutral"]']
+______________________________________________
+conversation: 718
+['1. anger', '2. fear', '3. neutral', '4. joy', '5. joy', '6. joy', '7. disgust']
+______________________________________________
+conversation: 719
+['1. surprised', '2. neutral', '3. neutral', '4. anger', '5. sadness', '6. disgust', '7. disgust', '8. anger', '9. anger', '10. sadness']
+______________________________________________
+conversation: 720
+['1. joy', '2. surprised', '3. neutral', '4. joy', '5. surprised', '6. fear', '7. sadness', '8. neutral']
+______________________________________________
+conversation: 721
+['1. surprised', '2. surprised', '3. sadness', '4. joy', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. surprised', '10. joy', '11. surprised', '12. neutral', '13. sadness', '14. neutral', '15. surprised', '16. fear', '17. neutral', '18. neutral']
+______________________________________________
+conversation: 722
+['["neutral", "anger"]']
+______________________________________________
+conversation: 723
+['1. anger', '2. neutral', '3. neutral', '4. surprised', '5. neutral', '6. neutral', '7. joy', '8. joy']
+______________________________________________
+conversation: 724
+['1. joy', '2. joy', '3. joy', '4. joy', '5. joy', '6. joy', '7. joy', '8. neutral', '9. neutral', '10. surprised', '11. joy', '12. joy', '13. neutral', '14. neutral', '15. joy', '16. neutral']
+______________________________________________
+conversation: 725
+['1. surprised', '2. joy', '3. joy', '4. fear', '5. fear', '6. fear', '7. neutral', '8. neutral', '9. joy', '10. disgust', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. neutral', '17. joy', '18. neutral']
+______________________________________________
+conversation: 726
+['1. fear', '2. neutral', '3. neutral', '4. joy', '5. neutral', '6. joy', '7. neutral', '8. neutral', '9. neutral', '10. fear', '11. surprised']
+______________________________________________
+conversation: 727
+['1. neutral', '2. joy', '3. neutral', '4. neutral', '5. neutral', '6. joy', '7. joy', '8. joy', '9. neutral', '10. neutral', '11. joy', '12. joy', '13. neutral', '14. neutral']
+______________________________________________
+conversation: 728
+['1. neutral', '2. surprised', '3. neutral', '4. anger', '5. neutral', '6. anger', '7. neutral', '8. neutral', '9. surprised', '10. neutral', '11. neutral']
+______________________________________________
+conversation: 729
+['1. neutral', '2. fear', '3. anger', '4. neutral', '5. anger']
+______________________________________________
+conversation: 730
+['1. neutral', '2. fear', '3. joy', '4. sadness']
+______________________________________________
+conversation: 731
+['["sadness", "surprised", "sadness", "sadness", "neutral"]']
+______________________________________________
+conversation: 732
+['1. joy', '2. surprised', '3. disgust', '4. surprised', '5. neutral', '6. sadness', '7. neutral', '8. anger', '9. neutral', '10. neutral', '11. joy', '12. surprised', '13. sadness', '14. neutral', '15. joy']
+______________________________________________
+conversation: 733
+['1. anger', '2. anger', '3. anger', '4. neutral', '5. neutral', '6. neutral', '7. sadness', '8. neutral']
+______________________________________________
+conversation: 734
+['1. anger', '2. neutral', '3. joy', '4. neutral', '5. neutral', '6. anger', '7. neutral', '8. neutral', '9. neutral', '10. fear', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. surprised', '16. neutral', '17. neutral', '18. anger', '19. joy']
+______________________________________________
+conversation: 735
+['1. joy', '2. neutral', '3. neutral', '4. joy', '5. surprised', '6. joy', '7. neutral', '8. joy', '9. joy', '10. joy', '11. surprised', '12. neutral', '13. neutral', '14. joy', '15. joy', '16. joy', '17. joy', '18. neutral', '19. fear', '20. surprised', '21. fear', '22. joy']
+______________________________________________
+conversation: 736
+['["anger", "surprised", "neutral", "neutral", "neutral", "neutral", "neutral", "anger", "neutral", "joy", "joy", "joy", "joy", "neutral", "neutral"]']
+______________________________________________
+conversation: 737
+['1. neutral', '2. neutral', '3. neutral', '4. surprised', '5. neutral', '6. neutral', '7. neutral', '8. sadness', '9. neutral']
+______________________________________________
+conversation: 738
+['1. neutral', '2. neutral', '3. joy', '4. disgust', '5. neutral', '6. anger', '7. joy', '8. neutral', '9. fear', '10. neutral', '11. sadness', '12. neutral', '13. joy', '14. neutral', '15. neutral']
+______________________________________________
+conversation: 739
+['["joy", "surprised"]']
+______________________________________________
+conversation: 740
+['["neutral", "neutral", "joy"]']
+______________________________________________
+conversation: 741
+['1. joy', '2. joy', '3. neutral', '4. joy', '5. sadness']
+______________________________________________
+conversation: 742
+['1. surprised', '2. neutral', '3. neutral', '4. joy', '5. neutral', '6. fear', '7. neutral', '8. neutral', '9. joy', '10. joy', '11. joy', '12. fear', '13. joy', '14. joy']
+______________________________________________
+conversation: 743
+['1. anger', '2. neutral', '3. disgust', '4. sadness', '5. disgust', '6. surprised', '7. anger', '8. neutral', '9. sadness', '10. neutral', '11. sadness', '12. neutral', '13. sadness', '14. anger', '15. anger', '16. anger']
+______________________________________________
+conversation: 744
+['["anger", "joy", "neutral"]']
+______________________________________________
+conversation: 745
+['[["anger", 1], ["neutral", 2], ["anger", 3], ["neutral", 4], ["joy", 5], ["neutral", 6], ["sadness", 7], ["sadness", 8]]']
+______________________________________________
+conversation: 746
+['1. joy', '2. joy', '3. neutral', '4. anger', '5. neutral', '6. anger', '7. sadness', '8. anger']
+______________________________________________
+conversation: 747
+['1. surprised', '2. neutral', '3. neutral', '4. joy', '5. neutral', '6. joy', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. joy', '12. neutral', '13. neutral', '14. sadness', '15. joy', '16. joy']
+______________________________________________
+conversation: 748
+['1. anger', '2. neutral', '3. anger', '4. fear', '5. disgust', '6. disgust', '7. neutral']
+______________________________________________
+conversation: 749
+['1. surprised', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. joy', '7. neutral', '8. joy', '9. joy', '10. joy', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. surprised', '16. neutral']
+______________________________________________
+conversation: 750
+['1. sadness', '2. neutral', '3. disgust', '4. anger', '5. neutral', '6. neutral', '7. neutral', '8. anger', '9. fear', '10. anger', '11. joy', '12. sadness']
+______________________________________________
+conversation: 751
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. joy', '8. surprised', '9. neutral', '10. joy', '11. joy', '12. neutral', '13. neutral']
+______________________________________________
+conversation: 752
+['1. neutral', '2. joy', '3. neutral', '4. surprised', '5. neutral', '6. anger', '7. neutral', '8. neutral', '9. anger', '10. neutral', '11. surprised', '12. neutral', '13. anger', '14. anger', '15. disgust', '16. disgust', '17. disgust', '18. disgust']
+______________________________________________
+conversation: 753
+['1. surprised', '2. joy', '3. neutral', '4. neutral', '5. fear', '6. neutral', '7. fear', '8. neutral', '9. neutral', '10. neutral', '11. surprised', '12. neutral', '13. joy', '14. neutral', '15. neutral', '16. neutral']
+______________________________________________
+conversation: 754
+['1. sadness', '2. neutral', '3. neutral', '4. neutral', '5. joy', '6. neutral', '7. anger', '8. sadness', '9. surprised', '10. anger', '11. sadness', '12. neutral', '13. surprised', '14. neutral', '15. sadness', '16. neutral', '17. sadness', '18. neutral', '19. joy', '20. neutral', '21. joy', '22. joy', '23. joy']
+______________________________________________
+conversation: 755
+['1. neutral', '2. joy', '3. neutral', '4. neutral', '5. sadness', '6. anger', '7. neutral', '8. neutral', '9. joy', '10. neutral', '11. surprised']
+______________________________________________
+conversation: 756
+['1. surprise', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. sadness', '7. surprise', '8. sadness', '9. joy', '10. anger', '11. neutral', '12. joy', '13. neutral', '14. neutral', '15. neutral']
+______________________________________________
+conversation: 757
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. sadness', '7. sadness', '8. joy', '9. joy', '10. sadness', '11. neutral', '12. fear', '13. joy', '14. joy', '15. neutral', '16. neutral', '17. surprised', '18. surprised', '19. neutral', '20. neutral', '21. fear']
+______________________________________________
+conversation: 758
+['1. neutral', '2. joy', '3. neutral', '4. joy', '5. neutral', '6. surprised', '7. neutral', '8. fear', '9. neutral', '10. joy', '11. joy', '12. joy']
+______________________________________________
+conversation: 759
+['["neutral", "neutral", "neutral", "neutral", "neutral"]']
+______________________________________________
+conversation: 760
+['["joy", "neutral", "neutral", "neutral", "neutral", "neutral"]']
+______________________________________________
+conversation: 761
+['1. neutral', '2. joy', '3. neutral', '4. surprised', '5. fear', '6. anger', '7. sadness', '8. anger', '9. sadness', '10. disgust', '11. sadness', '12. surprised']
+______________________________________________
+conversation: 762
+['1. joy', '2. surprised', '3. joy', '4. neutral', '5. joy', '6. neutral', '7. joy', '8. neutral', '9. joy', '10. neutral', '11. anger', '12. neutral']
+______________________________________________
+conversation: 763
+['[["joy", "joy", "neutral", "neutral", "surprised", "neutral", "joy"]]']
+______________________________________________
+conversation: 764
+['1. neutral', '2. surprised', '3. neutral', '4. neutral', '5. neutral', '6. joy', '7. neutral', '8. neutral', '9. neutral', '10. joy', '11. joy', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. neutral', '17. neutral', '18. neutral', '19. joy', '20. neutral', '21. neutral']
+______________________________________________
+conversation: 765
+['1. neutral', '2. neutral', '3. sadness', '4. sadness', '5. joy', '6. sadness', '7. anger', '8. anger', '9. sadness']
+______________________________________________
+conversation: 766
+['1. neutral', '2. disgust', '3. sadness', '4. anger', '5. sadness', '6. neutral', '7. neutral', '8. surprised', '9. neutral', '10. anger', '11. surprised', '12. neutral', '13. disgust', '14. joy', '15. fear']
+______________________________________________
+conversation: 767
+['1. anger', '2. fear', '3. anger', '4. anger', '5. neutral', '6. fear']
+______________________________________________
+conversation: 768
+['[["surprised"], ["neutral"], ["neutral"], ["surprised"], ["joy"], ["neutral"], ["neutral"], ["neutral"]]']
+______________________________________________
+conversation: 769
+['1. neutral', '2. neutral', '3. sadness', '4. surprised', '5. sadness']
+______________________________________________
+conversation: 770
+['1. anger', '2. sadness', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. neutral', '12. disgust']
+______________________________________________
+conversation: 771
+['1. neutral', '2. anger', '3. neutral', '4. neutral', '5. joy', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. surprised', '12. neutral', '13. neutral', '14. sadness']
+______________________________________________
+conversation: 772
+['1. surprised', '2. neutral', '3. neutral', '4. neutral']
+______________________________________________
+conversation: 773
+['1. disgust', '2. neutral', '3. disgust', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. surprised', '11. sadness', '12. surprised', '13. neutral', '14. surprised', '15. neutral', '16. neutral']
+______________________________________________
+conversation: 774
+['1. neutral', '2. sadness', '3. neutral', '4. neutral', '5. surprised', '6. neutral', '7. neutral', '8. neutral', '9. anger', '10. neutral', '11. neutral', '12. disgust', '13. neutral', '14. surprised', '15. disgust', '16. joy', '17. joy', '18. joy', '19. neutral']
+______________________________________________
+conversation: 775
+['1. neutral', '2. anger', '3. disgust', '4. neutral']
+______________________________________________
+conversation: 776
+['1. neutral', '2. neutral', '3. neutral', '4. joy', '5. joy', '6. neutral', '7. neutral', '8. surprised']
+______________________________________________
+conversation: 777
+['["neutral", "neutral", "neutral", "joy", "anger"]']
+______________________________________________
+conversation: 778
+['1. neutral', '2. anger', '3. neutral', '4. anger', '5. disgust', '6. neutral', '7. neutral']
+______________________________________________
+conversation: 779
+['1. anger', '2. neutral', '3. anger', '4. fear', '5. joy', '6. fear', '7. sadness', '8. joy', '9. fear', '10. neutral', '11. sadness']
+______________________________________________
+conversation: 780
+['1. neutral', '2. anger', '3. fear', '4. joy', '5. neutral', '6. joy', '7. neutral', '8. anger']
+______________________________________________
+conversation: 781
+['["anger", "neutral", "anger", "neutral"]']
+______________________________________________
+conversation: 782
+['1. joy', '2. disgust', '3. neutral', '4. neutral', '5. neutral', '6. fear', '7. neutral', '8. neutral', '9. sadness', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. joy', '15. neutral', '16. sadness', '17. anger', '18. neutral']
+______________________________________________
+conversation: 783
+['["neutral", "neutral", "neutral", "neutral", "neutral", "joy", "neutral", "neutral"]']
+______________________________________________
+conversation: 784
+['1. neutral', '2. anger', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. sadness']
+______________________________________________
+conversation: 785
+['1. disgust', '2. anger', '3. neutral', '4. anger', '5. neutral', '6. anger', '7. neutral', '8. joy', '9. neutral', '10. neutral']
+______________________________________________
+conversation: 786
+['1. neutral', '2. neutral', '3. joy', '4. neutral', '5. surprised', '6. sadness']
+______________________________________________
+conversation: 787
+['1. neutral', '2. neutral', '3. surprised', '4. sadness', '5. neutral', '6. anger', '7. anger', '8. fear', '9. anger', '10. sadness', '11. sadness', '12. anger', '13. neutral', '14. neutral', '15. neutral', '16. neutral']
+______________________________________________
+conversation: 788
+['1. neutral', '2. joy', '3. neutral', '4. joy', '5. neutral', '6. surprised', '7. neutral', '8. neutral', '9. anger', '10. neutral', '11. anger']
+______________________________________________
+conversation: 789
+['["anger", "neutral", "surprised"]']
+______________________________________________
+conversation: 790
+['1. surprised', '2. fear', '3. joy', '4. joy', '5. joy']
+______________________________________________
+conversation: 791
+['1. neutral', '2. neutral', '3. neutral', '4. joy']
+______________________________________________
+conversation: 792
+['1. neutral', '2. neutral', '3. neutral', '4. surprised', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. neutral']
+______________________________________________
+conversation: 793
+['1. neutral', '2. joy', '3. joy', '4. surprised', '5. neutral', '6. sadness', '7. neutral', '8. surprised', '9. joy', '10. surprised', '11. neutral', '12. anger', '13. neutral', '14. neutral', '15. neutral', '16. surprised', '17. neutral', '18. surprised']
+______________________________________________
+conversation: 794
+['["anger", "neutral", "neutral", "joy", "surprised"]']
+______________________________________________
+conversation: 795
+['1. neutral', '2. neutral', '3. neutral', '4. joy', '5. neutral', '6. neutral', '7. neutral', '8. joy', '9. neutral', '10. neutral', '11. neutral', '12. joy', '13. neutral', '14. surprised', '15. neutral', '16. joy', '17. neutral', '18. neutral', '19. neutral', '20. neutral', '21. neutral']
+______________________________________________
+conversation: 796
+['1. neutral', '2. neutral', '3. neutral', '4. surprised', '5. neutral', '6. neutral', '7. surprised', '8. fear', '9. fear', '10. neutral', '11. sadness', '12. neutral', '13. neutral', '14. sadness']
+______________________________________________
+conversation: 797
+['1. anger', '2. fear', '3. anger', '4. neutral', '5. disgust', '6. neutral', '7. joy', '8. neutral', '9. surprised', '10. neutral', '11. joy', '12. neutral', '13. neutral', '14. neutral', '15. joy', '16. neutral', '17. surprised', '18. anger', '19. joy', '20. neutral']
+______________________________________________
+conversation: 798
+['1. surprised', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. surprised']
+______________________________________________
+conversation: 799
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. surprised']
+______________________________________________
+conversation: 800
+['1. surprised', '2. joy', '3. surprised', '4. surprised', '5. joy', '6. sadness', '7. joy']
+______________________________________________
+conversation: 801
+['1. neutral', '2. neutral', '3. surprised', '4. neutral', '5. joy', '6. neutral', '7. surprised', '8. neutral', '9. neutral', '10. neutral', '11. joy', '12. surprised', '13. neutral', '14. neutral', '15. joy', '16. joy', '17. neutral']
+______________________________________________
+conversation: 802
+['1. neutral', '2. neutral', '3. sadness', '4. joy', '5. neutral', '6. fear', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. joy', '12. neutral', '13. neutral', '14. joy', '15. neutral', '16. joy', '17. joy', '18. joy']
+______________________________________________
+conversation: 803
+['1. sadness', '2. joy', '3. surprised', '4. fear', '5. neutral', '6. neutral', '7. anger', '8. fear', '9. anger', '10. anger', '11. neutral']
+______________________________________________
+conversation: 804
+['["neutral", "sadness", "fear", "neutral", "surprised", "neutral"]']
+______________________________________________
+conversation: 805
+['1. joy', '2. sadness', '3. disgust', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. sadness', '9. neutral', '10. surprised', '11. sadness']
+______________________________________________
+conversation: 806
+['1. surprised', '2. joy', '3. neutral', '4. neutral', '5. disgust']
+______________________________________________
+conversation: 807
+['["neutral", "neutral", "surprised"]']
+______________________________________________
+conversation: 808
+['1. neutral', '2. neutral', '3. sadness', '4. neutral', '5. joy', '6. neutral', '7. neutral', '8. joy', '9. surprised', '10. neutral', '11. fear', '12. fear', '13. anger', '14. sadness', '15. sadness', '16. neutral']
+______________________________________________
+conversation: 809
+['1. neutral', '2. neutral', '3. neutral', '4. surprised', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. anger', '11. fear', '12. anger', '13. fear', '14. anger', '15. sadness', '16. surprised', '17. sadness', '18. anger']
+______________________________________________
+conversation: 810
+['1. neutral', '2. joy', '3. anger', '4. neutral', '5. neutral', '6. sadness', '7. neutral', '8. neutral', '9. neutral', '10. joy', '11. anger', '12. joy', '13. joy', '14. joy', '15. joy', '16. joy', '17. joy']
+______________________________________________
+conversation: 811
+['["neutral", "joy", "surprised"]']
+______________________________________________
+conversation: 812
+['[["neutral", 1], ["neutral", 2], ["neutral", 3], ["fear", 4], ["sadness", 5], ["joy", 6], ["sadness", 7], ["surprised", 8]]']
+______________________________________________
+conversation: 813
+['1. neutral', '2. sadness', '3. sadness', '4. surprised', '5. joy', '6. neutral', '7. neutral', '8. neutral', '9. anger', '10. neutral', '11. neutral', '12. joy', '13. joy', '14. joy', '15. joy', '16. anger', '17. joy']
+______________________________________________
+conversation: 814
+['1. joy', '2. neutral', '3. joy', '4. neutral', '5. surprised', '6. sadness']
+______________________________________________
+conversation: 815
+['1. surprised', '2. anger', '3. neutral', '4. anger', '5. disgust', '6. anger', '7. surprised', '8. joy', '9. fear', '10. anger', '11. neutral', '12. anger', '13. fear', '14. joy']
+______________________________________________
+conversation: 816
+['1. fear', '2. surprised', '3. neutral', '4. neutral', '5. joy', '6. neutral', '7. neutral', '8. anger', '9. neutral', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. anger', '15. anger', '16. anger', '17. fear']
+______________________________________________
+conversation: 817
+['1. surprised', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. anger', '8. neutral', '9. neutral']
+______________________________________________
+conversation: 818
+['1. neutral', '2. neutral', '3. joy', '4. surprised', '5. neutral', '6. joy', '7. joy', '8. joy', '9. joy', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. joy', '15. joy']
+______________________________________________
+conversation: 819
+['1. joy', '2. disgust', '3. anger', '4. neutral', '5. neutral', '6. sadness']
+______________________________________________
+conversation: 820
+['1. surprised', '2. anger', '3. disgust', '4. fear', '5. anger', '6. neutral', '7. sadness', '8. neutral']
+______________________________________________
+conversation: 821
+['1. anger', '2. neutral', '3. anger', '4. disgust', '5. neutral', '6. fear', '7. sadness', '8. neutral', '9. joy', '10. surprised', '11. joy', '12. fear', '13. joy', '14. neutral', '15. neutral']
+______________________________________________
+conversation: 822
+['1. joy', '2. neutral', '3. neutral']
+______________________________________________
+conversation: 823
+['1. neutral', '2. neutral', '3. neutral', '4. fear', '5. disgust', '6. neutral', '7. neutral', '8. sadness', '9. neutral', '10. sadness']
+______________________________________________
+conversation: 824
+['1. neutral', '2. neutral', '3. neutral', '4. joy', '5. neutral', '6. sadness', '7. neutral', '8. neutral', '9. surprised', '10. neutral', '11. joy', '12. fear', '13. fear', '14. neutral']
+______________________________________________
+conversation: 825
+['1. neutral', '2. joy', '3. joy', '4. neutral', '5. surprised', '6. joy']
+______________________________________________
+conversation: 826
+['1. neutral', '2. fear', '3. neutral', '4. neutral', '5. surprised', '6. sadness', '7. sadness', '8. anger', '9. anger', '10. anger', '11. joy', '12. sadness', '13. joy']
+______________________________________________
+conversation: 827
+['["anger", "sadness"]']
+______________________________________________
+conversation: 828
+['["sadness", "surprised", "neutral", "surprised", "neutral"]']
+______________________________________________
+conversation: 829
+['1. surprised', '2. fear', '3. anger', '4. neutral', '5. disgust', '6. fear', '7. sadness', '8. neutral', '9. sadness', '10. neutral', '11. disgust']
+______________________________________________
+conversation: 830
+['1. surprised', '2. neutral', '3. neutral', '4. sadness', '5. neutral', '6. surprised', '7. neutral', '8. neutral', '9. neutral']
+______________________________________________
+conversation: 831
+['1. neutral', '2. sadness', '3. joy', '4. sadness', '5. joy', '6. neutral', '7. surprised', '8. neutral', '9. joy', '10. anger', '11. neutral', '12. neutral', '13. joy', '14. neutral']
+______________________________________________
+conversation: 832
+['1. surprised', '2. joy', '3. fear', '4. neutral', '5. neutral', '6. sadness', '7. neutral']
+______________________________________________
+conversation: 833
+['1. neutral', '2. joy', '3. neutral', '4. fear', '5. fear', '6. fear', '7. fear', '8. fear', '9. fear']
+______________________________________________
+conversation: 834
+['1. joy', '2. neutral', '3. neutral', '4. neutral', '5. sadness', '6. fear', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. anger', '12. joy', '13. neutral', '14. neutral', '15. neutral', '16. neutral', '17. neutral', '18. surprised']
+______________________________________________
+conversation: 835
+['1. neutral', '2. disgust', '3. surprised', '4. joy', '5. fear']
+______________________________________________
+conversation: 836
+['["disgust", "neutral", "neutral", "joy", "joy", "neutral"]']
+______________________________________________
+conversation: 837
+['1. joy', '2. anger', '3. neutral', '4. neutral', '5. anger', '6. sadness']
+______________________________________________
+conversation: 838
+['1. surprised', '2. neutral', '3. joy', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. joy', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. fear', '16. anger']
+______________________________________________
+conversation: 839
+['["anger", "anger", "anger"]']
+______________________________________________
+conversation: 840
+['1. joy', '2. anger', '3. neutral', '4. neutral', '5. joy', '6. anger', '7. neutral', '8. sadness', '9. surprised', '10. anger', '11. anger', '12. neutral', '13. joy', '14. sadness', '15. neutral', '16. neutral', '17. neutral']
+______________________________________________
+conversation: 841
+['[["neutral", 1], ["joy", 2], ["neutral", 3], ["neutral", 4], ["neutral", 5], ["neutral", 6], ["neutral", 7], ["neutral", 8], ["neutral", 9], ["neutral", 10], ["surprised", 11], ["neutral", 12], ["neutral", 13], ["neutral", 14], ["anger", 15], ["neutral", 16], ["surprised", 17], ["neutral", 18], ["neutral", 19], ["neutral", 20]]']
+______________________________________________
+conversation: 842
+['["neutral", "neutral", "neutral", "joy", "surprised"]']
+______________________________________________
+conversation: 843
+['1. joy', '2. neutral', '3. sadness', '4. neutral', '5. anger', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. joy', '11. joy', '12. neutral', '13. neutral', '14. neutral']
+______________________________________________
+conversation: 844
+['1. neutral', '2. neutral', '3. neutral', '4. surprised', '5. neutral', '6. joy', '7. fear', '8. sadness', '9. neutral', '10. neutral', '11. anger', '12. anger', '13. disgust', '14. joy', '15. anger', '16. anger', '17. fear', '18. anger', '19. anger', '20. sadness', '21. anger', '22. anger']
+______________________________________________
+conversation: 845
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral']
+______________________________________________
+conversation: 846
+['1. sadness', '2. sadness', '3. neutral', '4. joy', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. neutral']
+______________________________________________
+conversation: 847
+['1. surprised', '2. neutral', '3. neutral', '4. surprised', '5. surprised', '6. neutral', '7. surprised', '8. joy', '9. joy', '10. sadness', '11. neutral', '12. sadness', '13. neutral', '14. surprised', '15. joy', '16. neutral', '17. neutral', '18. neutral', '19. neutral', '20. neutral', '21. neutral']
+______________________________________________
+conversation: 848
+['["sadness", "surprised", "sadness", "neutral", "surprised", "neutral", "joy", "neutral", "neutral"]']
+______________________________________________
+conversation: 849
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. sadness', '9. joy', '10. neutral', '11. neutral', '12. neutral', '13. surprised', '14. neutral', '15. joy']
+______________________________________________
+conversation: 850
+['[neutral, surprised, joy, surprised, neutral, surprised, neutral, joy, neutral]']
+______________________________________________
+conversation: 851
+['[["neutral", "joy", "neutral", "neutral", "surprised", "neutral"]]']
+______________________________________________
+conversation: 852
+['["neutral", "anger"]']
+______________________________________________
+conversation: 853
+['1. anger', '2. sadness', '3. sadness', '4. neutral', '5. sadness', '6. sadness', '7. anger', '8. fear', '9. anger', '10. sadness', '11. disgust', '12. disgust', '13. neutral', '14. anger', '15. neutral', '16. disgust']
+______________________________________________
+conversation: 854
+['1. neutral', '2. neutral', '3. neutral', '4. surprised', '5. neutral', '6. fear', '7. joy', '8. fear', '9. neutral', '10. anger', '11. neutral', '12. anger', '13. anger', '14. anger', '15. anger', '16. neutral', '17. surprised']
+______________________________________________
+conversation: 855
+['1. neutral', '2. disgust', '3. sadness', '4. disgust', '5. anger', '6. neutral', '7. fear', '8. joy', '9. neutral', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. joy', '16. joy']
+______________________________________________
+conversation: 856
+['1. joy', '2. surprised', '3. neutral', '4. joy', '5. anger', '6. neutral', '7. neutral', '8. joy', '9. joy', '10. sadness', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. sadness']
+______________________________________________
+conversation: 857
+['["sadness", "neutral", "disgust", "joy", "neutral", "joy", "neutral", "neutral", "neutral", "neutral", "sadness", "joy", "neutral"]']
+______________________________________________
+conversation: 858
+['1. surprised', '2. sadness', '3. sadness', '4. sadness', '5. neutral', '6. anger', '7. joy', '8. neutral', '9. joy', '10. joy', '11. joy', '12. joy', '13. joy', '14. joy', '15. joy', '16. joy', '17. neutral', '18. neutral']
+______________________________________________
+conversation: 859
+['["anger", "neutral"]']
+______________________________________________
+conversation: 860
+['1. joy', '2. neutral', '3. disgust', '4. neutral', '5. joy', '6. disgust', '7. joy']
+______________________________________________
+conversation: 861
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. surprised', '6. neutral', '7. fear', '8. sadness', '9. neutral', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. surprised', '16. joy', '17. joy', '18. neutral', '19. neutral', '20. neutral', '21. sadness', '22. neutral', '23. neutral']
+______________________________________________
+conversation: 862
+['1. joy', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral']
+______________________________________________
+conversation: 863
+['["joy", "anger", "anger", "anger", "neutral", "neutral", "sadness"]']
+______________________________________________
+conversation: 864
+['1. neutral', '2. disgust', '3. surprised', '4. sadness', '5. anger', '6. neutral', '7. neutral', '8. neutral', '9. sadness', '10. joy', '11. neutral', '12. joy', '13. anger', '14. sadness', '15. joy', '16. surprised', '17. sadness']
+______________________________________________
+conversation: 865
+['1. sadness', '2. neutral', '3. neutral', '4. disgust', '5. neutral', '6. neutral', '7. neutral', '8. joy', '9. neutral', '10. neutral', '11. surprised', '12. neutral', '13. neutral']
+______________________________________________
+conversation: 866
+['1. disgust', '2. neutral', '3. neutral', '4. anger', '5. disgust', '6. disgust', '7. anger', '8. surprise', '9. neutral', '10. anger', '11. neutral']
+______________________________________________
+conversation: 867
+['1. neutral', '2. anger', '3. neutral', '4. anger', '5. fear', '6. surprised', '7. joy', '8. joy', '9. sadness', '10. surprised', '11. sadness', '12. neutral', '13. sadness', '14. neutral', '15. sadness']
+______________________________________________
+conversation: 868
+['["joy", "joy", "surprised", "joy", "joy", "joy"]']
+______________________________________________
+conversation: 869
+['1. anger', '2. joy', '3. joy', '4. anger', '5. anger', '6. neutral', '7. anger', '8. neutral', '9. anger', '10. disgust']
+______________________________________________
+conversation: 870
+['1. neutral', '2. joy', '3. neutral', '4. neutral', '5. surprised', '6. surprised', '7. surprised', '8. fear', '9. sadness', '10. sadness', '11. sadness', '12. disgust', '13. sadness', '14. neutral', '15. neutral', '16. sadness', '17. sadness', '18. anger']
+______________________________________________
+conversation: 871
+['1. anger', '2. neutral', '3. neutral', '4. joy', '5. neutral', '6. neutral', '7. surprised']
+______________________________________________
+conversation: 872
+['[["joy", 1], ["disgust", 2], ["neutral", 3], ["surprised", 4], ["neutral", 5], ["surprised", 6], ["neutral", 7], ["neutral", 8]]']
+______________________________________________
+conversation: 873
+['1. surprised', '2. surprised', '3. surprised', '4. joy', '5. neutral', '6. neutral', '7. joy', '8. joy', '9. surprised', '10. neutral']
+______________________________________________
+conversation: 874
+['1. neutral', '2. surprised', '3. joy', '4. neutral', '5. surprised', '6. neutral', '7. anger', '8. joy']
+______________________________________________
+conversation: 875
+['["joy", "neutral", "neutral", "surprised", "neutral", "joy", "neutral"]']
+______________________________________________
+conversation: 876
+['["neutral", "neutral", "surprised", "neutral"]']
+______________________________________________
+conversation: 877
+['1. neutral', '2. neutral', '3. joy', '4. neutral', '5. neutral', '6. neutral', '7. joy', '8. neutral', '9. neutral', '10. joy', '11. disgust', '12. sadness']
+______________________________________________
+conversation: 878
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. joy', '6. disgust', '7. sadness', '8. neutral', '9. neutral', '10. neutral', '11. neutral', '12. sadness', '13. neutral', '14. sadness', '15. anger', '16. neutral', '17. neutral', '18. neutral', '19. sadness']
+______________________________________________
+conversation: 879
+['["joy", "neutral"]']
+______________________________________________
+conversation: 880
+['["neutral", "neutral", "neutral", "anger", "surprised", "neutral", "neutral"]']
+______________________________________________
+conversation: 881
+['1. joy', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. surprised', '10. disgust', '11. anger', '12. neutral', '13. sadness']
+______________________________________________
+conversation: 882
+['1. fear', '2. surprised', '3. neutral', '4. sadness', '5. disgust', '6. joy', '7. anger', '8. neutral', '9. neutral', '10. joy', '11. disgust', '12. neutral', '13. neutral', '14. joy', '15. neutral']
+______________________________________________
+conversation: 883
+['1. surprised', '2. neutral', '3. sadness', '4. joy', '5. surprised', '6. neutral', '7. surprised', '8. neutral', '9. surprised', '10. neutral', '11. joy']
+______________________________________________
+conversation: 884
+['1. surprised', '2. disgust', '3. neutral', '4. anger', '5. anger', '6. neutral', '7. neutral']
+______________________________________________
+conversation: 885
+['1. neutral', '2. neutral', '3. neutral', '4. sadness', '5. anger', '6. anger', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. neutral', '12. neutral']
+______________________________________________
+conversation: 886
+['1. neutral', '2. sadness', '3. surprised', '4. neutral', '5. anger']
+______________________________________________
+conversation: 887
+['1. neutral', '2. neutral', '3. neutral', '4. joy', '5. surprised', '6. joy', '7. neutral', '8. surprised', '9. neutral', '10. joy', '11. joy']
+______________________________________________
+conversation: 888
+['1. surprised', '2. neutral', '3. anger', '4. fear', '5. sadness', '6. joy', '7. disgust', '8. anger']
+______________________________________________
+conversation: 889
+['1. joy', '2. neutral', '3. neutral', '4. neutral', '5. surprised', '6. joy']
+______________________________________________
+conversation: 890
+['["sadness", "neutral", "surprised", "neutral", "anger"]']
+______________________________________________
+conversation: 891
+['1. surprised', '2. sadness', '3. neutral', '4. surprised', '5. joy', '6. neutral', '7. neutral', '8. neutral', '9. joy', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. joy', '17. joy']
+______________________________________________
+conversation: 892
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. sadness', '9. neutral']
+______________________________________________
+conversation: 893
+['[surprised, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, fear, fear]']
+______________________________________________
+conversation: 894
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. surprised', '6. neutral', '7. sadness', '8. sadness', '9. neutral', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. joy', '15. joy', '16. joy', '17. neutral', '18. neutral', '19. joy', '20. disgust']
+______________________________________________
+conversation: 895
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. surprised', '9. sadness', '10. sadness', '11. sadness', '12. joy', '13. fear', '14. neutral', '15. neutral']
+______________________________________________
+conversation: 896
+['1. neutral', '2. neutral', '3. neutral', '4. joy', '5. neutral', '6. sadness', '7. neutral', '8. neutral', '9. anger', '10. anger', '11. sadness', '12. neutral', '13. neutral', '14. neutral', '15. anger', '16. sadness']
+______________________________________________
+conversation: 897
+['1. surprised', '2. neutral', '3. neutral', '4. disgust']
+______________________________________________
+conversation: 898
+['1. neutral', '2. neutral', '3. neutral', '4. disgust', '5. neutral', '6. neutral', '7. neutral']
+______________________________________________
+conversation: 899
+['1. joy', '2. disgust']
+______________________________________________
+conversation: 900
+['1. surprised', '2. neutral', '3. surprised', '4. anger', '5. anger', '6. anger', '7. sadness', '8. anger', '9. anger', '10. anger', '11. anger', '12. anger', '13. anger', '14. anger', '15. anger', '16. anger', '17. anger', '18. neutral', '19. anger', '20. anger', '21. fear']
+______________________________________________
+conversation: 901
+['1. joy', '2. neutral', '3. surprised', '4. anger', '5. neutral', '6. sadness', '7. neutral', '8. fear', '9. joy', '10. sadness']
+______________________________________________
+conversation: 902
+['["surprised", "neutral", "joy"]']
+______________________________________________
+conversation: 903
+['1. joy', '2. neutral', '3. neutral', '4. surprised', '5. neutral']
+______________________________________________
+conversation: 904
+['["anger", "disgust", "disgust", "surprised"]']
+______________________________________________
+conversation: 905
+['["neutral", "neutral", "neutral", "joy", "neutral", "joy", "joy", "joy", "joy", "joy", "joy", "surprised"]']
+______________________________________________
+conversation: 906
+['[["neutral", "joy", "joy", "surprised", "joy", "joy"]]']
+______________________________________________
+conversation: 907
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. joy', '8. neutral']
+______________________________________________
+conversation: 908
+['1. neutral', '2. joy', '3. neutral']
+______________________________________________
+conversation: 909
+['1. neutral', '2. joy', '3. neutral', '4. joy', '5. neutral', '6. neutral', '7. fear', '8. neutral', '9. neutral', '10. neutral', '11. joy', '12. anger', '13. neutral', '14. anger', '15. anger', '16. anger', '17. sadness', '18. neutral', '19. neutral', '20. neutral', '21. neutral', '22. neutral']
+______________________________________________
+conversation: 910
+['["fear", "joy", "sadness", "joy", "neutral", "disgust"]']
+______________________________________________
+conversation: 911
+['1. neutral', '2. sadness', '3. neutral', '4. neutral', '5. neutral', '6. sadness', '7. joy', '8. sadness', '9. sadness', '10. neutral', '11. sadness', '12. sadness', '13. sadness', '14. disgust', '15. neutral', '16. neutral']
+______________________________________________
+conversation: 912
+['1. neutral', '2. surprised', '3. joy', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. surprised', '10. neutral']
+______________________________________________
+conversation: 913
+['1. sadness', '2. sadness', '3. joy', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. neutral', '9. surprised', '10. neutral', '11. neutral', '12. neutral', '13. surprised', '14. anger', '15. neutral', '16. neutral', '17. joy', '18. joy', '19. neutral']
+______________________________________________
+conversation: 914
+['1. neutral', '2. surprised', '3. neutral', '4. disgust', '5. anger', '6. neutral', '7. joy', '8. joy', '9. joy', '10. fear', '11. sadness', '12. anger']
+______________________________________________
+conversation: 915
+['1. joy', '2. neutral', '3. anger', '4. neutral', '5. neutral', '6. neutral', '7. surprised', '8. neutral', '9. neutral', '10. neutral', '11. disgust', '12. anger', '13. neutral']
+______________________________________________
+conversation: 916
+['1. neutral', '2. joy', '3. neutral', '4. disgust', '5. neutral', '6. anger', '7. anger', '8. sadness', '9. neutral', '10. anger', '11. anger', '12. surprised']
+______________________________________________
+conversation: 917
+['[["neutral", "anger", "neutral", "anger"]]']
+______________________________________________
+conversation: 918
+['["neutral", "surprised", "neutral", "surprised", "neutral"]']
+______________________________________________
+conversation: 919
+['1. neutral', '2. neutral', '3. joy', '4. neutral', '5. neutral', '6. neutral', '7. neutral', '8. surprised', '9. neutral', '10. neutral']
+______________________________________________
+conversation: 920
+['1. neutral', '2. neutral', '3. sadness', '4. joy', '5. joy', '6. surprised', '7. neutral', '8. fear', '9. surprised', '10. disgust', '11. joy', '12. fear', '13. anger', '14. neutral', '15. anger', '16. neutral', '17. anger', '18. neutral', '19. neutral', '20. sadness', '21. neutral', '22. neutral']
+______________________________________________
+conversation: 921
+['1. sadness', '2. sadness', '3. guilt', '4. anger', '5. anger', '6. neutral', '7. disgust', '8. surprised', '9. neutral', '10. neutral', '11. joy', '12. joy', '13. neutral', '14. joy']
+______________________________________________
+conversation: 922
+['1. joy', '2. fear', '3. neutral', '4. sadness', '5. anger', '6. neutral', '7. anger', '8. sadness', '9. neutral', '10. neutral', '11. neutral', '12. surprised', '13. disgust', '14. anger', '15. anger', '16. anger', '17. disgust']
+______________________________________________
+conversation: 923
+['1. neutral', '2. sadness', '3. neutral', '4. neutral', '5. neutral', '6. surprised', '7. neutral', '8. neutral', '9. neutral', '10. anger', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. neutral', '17. neutral']
+______________________________________________
+conversation: 924
+['1. neutral', '2. joy', '3. surprised', '4. neutral', '5. neutral', '6. surprised', '7. neutral']
+______________________________________________
+conversation: 925
+['[["neutral", "neutral", "sadness", "sadness", "neutral", "anger", "neutral"]]']
+______________________________________________
+conversation: 926
+['1. neutral', '2. surprised', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. surprised', '8. neutral', '9. surprised', '10. neutral', '11. anger', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. joy']
+______________________________________________
+conversation: 927
+['1. joy', '2. neutral', '3. neutral', '4. surprised', '5. sadness', '6. joy', '7. anger', '8. surprised']
+______________________________________________
+conversation: 928
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. joy', '6. neutral', '7. neutral', '8. neutral', '9. neutral', '10. neutral', '11. neutral', '12. joy', '13. neutral', '14. neutral', '15. neutral', '16. sadness']
+______________________________________________
+conversation: 929
+['1. disgust', '2. anger', '3. neutral', '4. anger', '5. anger', '6. neutral', '7. neutral', '8. anger', '9. anger', '10. neutral', '11. fear', '12. fear', '13. anger', '14. joy', '15. anger', '16. neutral', '17. neutral', '18. neutral']
+______________________________________________
+conversation: 930
+['1. joy', '2. neutral', '3. joy', '4. neutral', '5. surprised', '6. neutral', '7. surprised', '8. neutral', '9. surprised', '10. fear', '11. sadness', '12. sadness', '13. sadness', '14. anger', '15. disgust', '16. anger']
+______________________________________________
+conversation: 931
+['["neutral", "sadness", "sadness", "anger", "surprised", "anger", "anger"]']
+______________________________________________
+conversation: 932
+['["neutral", "neutral", "neutral", "sadness", "neutral", "joy"]']
+______________________________________________
+conversation: 933
+['1. surprised', '2. neutral', '3. joy', '4. neutral', '5. joy', '6. neutral', '7. joy', '8. joy', '9. neutral', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. neutral']
+______________________________________________
+conversation: 934
+['["neutral", "neutral", "surprised", "neutral", "neutral", "neutral"]']
+______________________________________________
+conversation: 935
+['["neutral", "sarcastic", "joy", "neutral"]']
+______________________________________________
+conversation: 936
+['1. neutral', '2. neutral', '3. neutral', '4. neutral', '5. neutral', '6. neutral', '7. surprised', '8. neutral', '9. neutral', '10. neutral', '11. surprised', '12. neutral']
+______________________________________________
+conversation: 937
+['["neutral", "surprised", "joy", "neutral"]']
+______________________________________________
+conversation: 938
+['["joy", "neutral", "neutral"]']
+______________________________________________
+conversation: 939
+['1. anger', '2. disgust', '3. sadness', '4. neutral', '5. fear', '6. joy', '7. joy']
+______________________________________________
+conversation: 940
+['1. joy', '2. neutral', '3. surprised', '4. neutral', '5. disgust', '6. neutral', '7. surprised', '8. neutral', '9. anger', '10. neutral', '11. neutral', '12. neutral', '13. neutral', '14. neutral', '15. neutral', '16. anger', '17. neutral', '18. neutral', '19. neutral', '20. neutral', '21. sadness']
+______________________________________________
+conversation: 941
+['[["neutral", "neutral", "neutral"]]']
+______________________________________________
+conversation: 942
+['1. neutral', '2. joy', '3. neutral', '4. sadness', '5. surprised', '6. disgust', '7. neutral', '8. disgust', '9. anger', '10. neutral', '11. neutral', '12. neutral', '13. disgust', '14. neutral', '15. neutral', '16. fear', '17. joy', '18. joy']
+______________________________________________
+conversation: 943
+
+Process finished with exit code 0
